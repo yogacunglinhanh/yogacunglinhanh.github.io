@@ -29,6 +29,11 @@ jobs:
           ruby-version: '3.2'
           bundler-cache: true  # This will use cache for faster installs
 
+      - name: Update Bundle
+        run: |
+          bundle config --local frozen false
+          bundle install
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
