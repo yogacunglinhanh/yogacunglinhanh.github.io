@@ -1,0 +1,51 @@
+---
+---
+
+@import "minima";
+
+/* Custom styles for yoga website */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', serif;
+}
+
+.site-header {
+  border-top: 5px solid #558b2f;
+  border-bottom: 1px solid #e8f5e9;
+}
+
+.site-title, .site-title:visited {
+  color: #558b2f;
+}
+
+.course-card, .instructor-card {
+  background: #f9f9f9;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.btn {
+  display: inline-block;
+  background: #558b2f;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.btn:hover {
+  background: #33691e;
+  text-decoration: none;
+}
+
+.footer-col-wrapper {
+  color: #777;
+}
