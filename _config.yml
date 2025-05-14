@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Yoga cùng Linh Anh
 email: yogacunglinhanh@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Yoga cùng Linh Anh được sáng lập vào năm 2020 với mục tiêu giúp mọi người khoẻ
   "Tâm-Thân-Trí". Các bài tập/khoá học đều chú trọng rất nhiều về 3 mảng chính, động tác,
   hơi thở và reflection qua viết lách và thiền, để giúp mọi người tập Yoga 1 cách An Toàn
