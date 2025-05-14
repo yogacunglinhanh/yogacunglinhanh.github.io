@@ -1,0 +1,20 @@
+linh_dang:
+  name: "Linh Đặng"
+  avatar: "/assets/images/authors/linh_dang.jpg"
+  bio: >-
+    Ngọc Linh, sinh năm 1990, hiện giờ đang sinh sống và làm việc tại Úc. Ngoài làm con,
+    làm vợ, làm mẹ thì mình còn làm marketing full time, giáo viên yoga part-time.
+  location: "Sydney, Australia"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/ngoclinhdnl"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/groups/yoga.cung.linh.anh"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@yogacunglinhanh-noibanketn8829"
+    - label: "TikTok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://www.tiktok.com/@yogacunglinhanh"

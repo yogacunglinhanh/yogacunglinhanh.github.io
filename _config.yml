@@ -13,16 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Yoga cùng Linh Anh
+email: yogacunglinhanh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Yoga cùng Linh Anh được sáng lập vào năm 2020 với mục tiêu giúp mọi người khoẻ
+  "Tâm-Thân-Trí". Các bài tập/khoá học đều chú trọng rất nhiều về 3 mảng chính, động tác,
+  hơi thở và reflection qua viết lách và thiền, để giúp mọi người tập Yoga 1 cách An Toàn
+  - Hiệu Quả - Tràn Đầy Yêu Thương với cơ thể.
+# url: "https://yogacunglinhanh.com"
+# search: true
+instagram_username: ngoclinhdnl
+facebook_username: groups/yoga.cung.linh.anh
+youtube_username: yogacunglinhanh-noibanketn8829
+tiktok_username: yogacunglinhanh
 minimal_mistakes_skin: default
-search: true
 
 # Build settings
 markdown: kramdown
@@ -36,18 +40,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -57,35 +49,20 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/ngoclinhdnl"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/groups/yoga.cung.linh.anh"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@yogacunglinhanh-noibanketn8829"
+    - label: "TikTok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://www.tiktok.com/@yogacunglinhanh"
 
 defaults:
   # _posts
@@ -106,10 +83,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/

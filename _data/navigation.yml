@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Giới Thiệu"
     url: /about/
+  - title: "Khoá Học"
+    url: /courses/
+  - title: "Khoá Yoga Bầu - Vượt Cạn 101"
+    url: /courses/yoga-bau-vuot-can-101/
+  - title: "Khoá Yoga Bầu - Hồi Phục Sau Sinh"
+    url: /courses/yoga-bau-hoi-phuc-sau-sinh/
+  - title: "Liên Hệ"
+    url: /contact/
