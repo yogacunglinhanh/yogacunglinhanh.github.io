@@ -1,11 +1,11 @@
 main:
   - title: "Giới Thiệu"
-    url: /about/
+    url: /
   - title: "Khoá Học"
-    url: /courses/
-  - title: "Khoá Yoga Bầu - Vượt Cạn 101"
-    url: /courses/yoga-bau-vuot-can-101/
-  - title: "Khoá Yoga Bầu - Hồi Phục Sau Sinh"
-    url: /courses/yoga-bau-hoi-phuc-sau-sinh/
+    url: /khoa-hoc/
+  - title: "Khoá Yoga Nền Tảng"
+    url: /khoa-hoc/yoga-nen-tang/
+  - title: "Khoá Yoga Bầu Vượt Cạn"
+    url: /khoa-hoc/yoga-bau-vuot-can/
   - title: "Liên Hệ"
-    url: /contact/
+    url: /lien-he/

@@ -1,0 +1,48 @@
+---
+---
+
+@import "minimal-mistakes";
+
+.btn--yoga {
+  background-color: darken(#301D10, 10%);
+  color: white;
+  border-radius: 0;
+  font-size: 0.8em;
+  padding: 0.5em 1em;
+}
+
+.btn--yoga:hover {
+  background-color: darken(#301D10, 10%);
+  color: white;
+}
+
+.btn--explore {
+  background-color: darken(#181aa8, 10%);
+  color: white;
+  border-radius: 0;
+  font-size: 0.8em;
+  padding: 0.5em 1em;
+}
+
+.btn--explore:hover {
+  background-color: darken(#181aa8, 10%);
+  color: white;
+}
+
+.btn--buy {
+  background-color: darken(white, 10%);
+  color: #5fad8e;
+  border-radius: 0;
+  font-size: 0.8em;
+  padding: 0.5em 1em;
+}
+
+.btn--buy:hover {
+  background-color: darken(#5fad8e, 10%);
+  color: white;
+}
+
+// always left-align items
+.archive__item-body {
+  text-align: left !important;
+}

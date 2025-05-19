@@ -1,7 +1,7 @@
 ---
-layout: splash
-title: "Giới Thiệu"
-permalink: /about/
+author: linh_dang
+title: "Yoga cùng Linh Anh"
+permalink: /
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -12,7 +12,7 @@ Yoga cùng Linh Anh được sáng lập vào năm 2020 với mục tiêu giúp 
 
 Các lớp của mình tập trung tạo dựng cho học viên kiến thức nền tảng khi tập Yoga, để bạn có thể tự tập, và có thể tập lâu dài mà không sợ chấn thương. Các khoá học dành riêng cho người mới tập, hoặc tập lâu năm nhưng không biết mình tập đúng hay sai, và các bà mẹ đang mang bầu và đã sinh.
 
-[Xem Thêm Các Khoá Học](/courses/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+[Xem Thêm Các Khoá Học](/khoa-hoc/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
 Để hiểu thêm cách dạy của mình, mọi người có thể tham khảo các bài tập trên YouTube Yoga cùng Linh Anh ở [đây](https://www.youtube.com/@yogacunglinhanh-noibanketn8829).
 
@@ -141,7 +141,7 @@ Ngọc Linh, sinh năm 1990, hiện giờ đang sinh sống và làm việc tạ
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(48, 29, 16, 0.8);
     color: white;
     border: none;
     padding: 1em 1.2em;

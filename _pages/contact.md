@@ -2,7 +2,7 @@
 layout: single
 author: linh_dang
 title: Liên Hệ
-permalink: /contact/
+permalink: /lien-he/
 ---
 
 {% include contact-form.html %}
