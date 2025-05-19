@@ -34,18 +34,18 @@ plugins:
 
 footer:
   links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/ngoclinhdnl"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://www.instagram.com/ngoclinhdnl"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/groups/yoga.cung.linh.anh"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@yogacunglinhanh-noibanketn8829"
-    - label: "TikTok"
-      icon: "fab fa-fw fa-tiktok"
-      url: "https://www.tiktok.com/@yogacunglinhanh"
+    # - label: "TikTok"
+    #   icon: "fab fa-fw fa-tiktok"
+    #   url: "https://www.tiktok.com/@yogacunglinhanh"
 
 defaults:
   # _posts

@@ -114,6 +114,17 @@ yoga-bau-vuot-can-cac-goi-hoc:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-package-goi-co-dong.png
   - image_path: /assets/images/courses/yoga-bau-vuot-can-package-goi-toan-dien.png
   - image_path: /assets/images/courses/yoga-bau-vuot-can-package-goi-vip-kem-rieng.png
+testimonial_images:
+  - src: "/assets/images/testimonials/yoga-bau-vuot-can-feedback1.jpg"
+    alt: "Yoga Bau Vuot Can Feedback 1"
+  - src: "/assets/images/testimonials/yoga-bau-vuot-can-feedback2.jpg"
+    alt: "Yoga Bau Vuot Can Feedback 2"
+  - src: "/assets/images/testimonials/yoga-bau-vuot-can-feedback3.jpg"
+    alt: "Yoga Bau Vuot Can Feedback 3"
+  - src: "/assets/images/testimonials/yoga-bau-vuot-can-feedback4.jpg"
+    alt: "Yoga Bau Vuot Can Feedback 4"
+  - src: "/assets/images/testimonials/yoga-bau-vuot-can-feedback5.png"
+    alt: "Yoga Bau Vuot Can Feedback 5"
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -179,301 +190,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 
 ## Chia Sẻ Từ Các Học Viên Cũ
 
-<style>
-  .testimonial-slider-container {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-    max-width: 1200px;
-    margin: 2em auto;
-  }
-
-  .testimonial-frame {
-    overflow: hidden;
-    width: 100%;
-    margin: 0 auto;
-  }
-
-  .testimonial-strip {
-    display: flex;
-    transition: transform 0.5s ease;
-    gap: 20px;
-  }
-
-  .testimonial-item {
-    flex: 0 0 calc(33.333% - 14px);
-    max-width: calc(33.333% - 14px);
-    height: auto;
-    box-sizing: border-box;
-  }
-
-  .testimonial-image {
-    width: 100%;
-    height: auto;
-    display: block;
-  }
-
-  .testimonial-nav {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    background: rgba(48, 29, 16, 0.8);
-    color: white;
-    border: none;
-    padding: 0.8em 1em;
-    cursor: pointer;
-    font-size: 1.2em;
-    border-radius: 50%;
-    z-index: 10;
-  }
-
-  .testimonial-nav.left {
-    left: 10px;
-  }
-
-  .testimonial-nav.right {
-    right: 10px;
-  }
-
-  .testimonial-nav.hidden {
-    display: none;
-  }
-
-  /* Modal for full-size image viewing */
-  .testimonial-modal {
-    display: none;
-    position: fixed;
-    z-index: 1000;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0,0,0,0.9);
-  }
-
-  .testimonial-modal-content {
-    margin: auto;
-    display: block;
-    max-width: 90%;
-    max-height: 90%;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-
-  .testimonial-modal-close {
-    position: absolute;
-    top: 15px;
-    right: 35px;
-    color: #f1f1f1;
-    font-size: 40px;
-    font-weight: bold;
-    cursor: pointer;
-    z-index: 1001;
-  }
-
-  /* Modal navigation buttons */
-  .modal-nav {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    background: rgba(48, 29, 16, 0.8);
-    color: white;
-    border: none;
-    padding: 1em 1.2em;
-    cursor: pointer;
-    font-size: 1.5em;
-    border-radius: 50%;
-    z-index: 1001;
-    transition: background 0.3s ease;
-  }
-
-  .modal-nav:hover {
-    background: rgba(255, 255, 255, 0.5);
-  }
-
-  .modal-nav.left {
-    left: 20px;
-  }
-
-  .modal-nav.right {
-    right: 20px;
-  }
-
-  .modal-nav.hidden {
-    display: none;
-  }
-
-  @media (max-width: 992px) {
-    .testimonial-item {
-      flex: 0 0 calc(50% - 10px);
-      max-width: calc(50% - 10px);
-    }
-  }
-
-  @media (max-width: 576px) {
-    .testimonial-item {
-      flex: 0 0 100%;
-      max-width: 100%;
-    }
-  }
-</style>
-
-<div class="testimonial-slider-container">
-  <button id="nav-left" class="testimonial-nav left hidden" onclick="slideTestimonials(-1)">&#10094;</button>
-  <div class="testimonial-frame" id="testimonial-frame">
-    <div class="testimonial-strip" id="testimonial-strip">
-      <div class="testimonial-item">
-        <img class="testimonial-image" src="/assets/images/testimonials/yoga-bau-vuot-can-feedback1.jpg" alt="Yoga Bau Vuot Can Feedback 1" onclick="openModal(0)">
-      </div>
-      <div class="testimonial-item">
-        <img class="testimonial-image" src="/assets/images/testimonials/yoga-bau-vuot-can-feedback2.jpg" alt="Yoga Bau Vuot Can Feedback 2" onclick="openModal(1)">
-      </div>
-      <div class="testimonial-item">
-        <img class="testimonial-image" src="/assets/images/testimonials/yoga-bau-vuot-can-feedback3.jpg" alt="Yoga Bau Vuot Can Feedback 3" onclick="openModal(2)">
-      </div>
-      <div class="testimonial-item">
-        <img class="testimonial-image" src="/assets/images/testimonials/yoga-bau-vuot-can-feedback4.jpg" alt="Yoga Bau Vuot Can Feedback 4" onclick="openModal(3)">
-      </div>
-      <div class="testimonial-item">
-        <img class="testimonial-image" src="/assets/images/testimonials/yoga-bau-vuot-can-feedback5.png" alt="Yoga Bau Vuot Can Feedback 5" onclick="openModal(4)">
-      </div>
-    </div>
-  </div>
-  <button id="nav-right" class="testimonial-nav right" onclick="slideTestimonials(1)">&#10095;</button>
-</div>
-
-<!-- Modal for full-size image viewing -->
-<div id="testimonialModal" class="testimonial-modal">
-  <span class="testimonial-modal-close" onclick="closeModal()">&times;</span>
-  <button id="modal-nav-left" class="modal-nav left" onclick="navigateModal(-1)">&#10094;</button>
-  <img class="testimonial-modal-content" id="modalImage" alt="testimonial modal content">
-  <button id="modal-nav-right" class="modal-nav right" onclick="navigateModal(1)">&#10095;</button>
-</div>
-
-<script>
-  const strip = document.getElementById('testimonial-strip');
-  const frame = document.getElementById('testimonial-frame');
-  const testimonialImages = document.querySelectorAll('.testimonial-item img');
-  const totalItems = testimonialImages.length;
-  const visibleItems = 3; // Show exactly 3 items at a time
-
-  const navLeft = document.getElementById('nav-left');
-  const navRight = document.getElementById('nav-right');
-
-  // Modal navigation
-  const modalNavLeft = document.getElementById('modal-nav-left');
-  const modalNavRight = document.getElementById('modal-nav-right');
-  const modalImage = document.getElementById('modalImage');
-
-  let currentIndex = 0;
-  let currentModalIndex = 0;
-
-  // Store all image sources for modal navigation
-  const imageSources = Array.from(testimonialImages).map(img => img.src);
-
-  function slideTestimonials(direction) {
-    // Update current index
-    currentIndex += direction;
-
-    // Ensure index stays within bounds
-    if (currentIndex < 0) currentIndex = 0;
-
-    // Calculate max index based on screen width
-    let itemsPerView = visibleItems;
-    if (window.innerWidth <= 576) {
-      itemsPerView = 1; // Show 1 item on mobile
-    } else if (window.innerWidth <= 992) {
-      itemsPerView = 2; // Show 2 items on tablets
-    }
-
-    const maxIndex = totalItems - itemsPerView;
-    if (currentIndex > maxIndex) currentIndex = maxIndex;
-
-    // Calculate percentage to move
-    const percentToMove = (currentIndex * 100) / visibleItems;
-
-    // Apply translation
-    strip.style.transform = `translateX(-${percentToMove}%)`;
-
-    // Update navigation buttons
-    navLeft.classList.toggle('hidden', currentIndex === 0);
-    navRight.classList.toggle('hidden', currentIndex >= maxIndex);
-  }
-
-  // Open modal when an image is clicked
-  function openModal(index) {
-    const modal = document.getElementById('testimonialModal');
-    currentModalIndex = index;
-    modal.style.display = "block";
-    modalImage.src = imageSources[currentModalIndex];
-
-    // Update modal navigation visibility
-    updateModalNavigation();
-  }
-
-  // Navigate between images in modal view
-  function navigateModal(direction) {
-    currentModalIndex += direction;
-
-    // Keep index within bounds
-    if (currentModalIndex < 0) currentModalIndex = 0;
-    if (currentModalIndex >= totalItems) currentModalIndex = totalItems - 1;
-
-    // Update image
-    modalImage.src = imageSources[currentModalIndex];
-
-    // Update navigation visibility
-    updateModalNavigation();
-  }
-
-  // Update visibility of modal navigation buttons
-  function updateModalNavigation() {
-    modalNavLeft.classList.toggle('hidden', currentModalIndex === 0);
-    modalNavRight.classList.toggle('hidden', currentModalIndex === totalItems - 1);
-  }
-
-  // Close modal
-  function closeModal() {
-    document.getElementById('testimonialModal').style.display = "none";
-  }
-
-  // Close modal when clicking outside the image
-  window.onclick = function(event) {
-    const modal = document.getElementById('testimonialModal');
-    if (event.target == modal) {
-      modal.style.display = "none";
-    }
-  }
-
-  // Add keyboard navigation for modal
-  document.addEventListener('keydown', function(event) {
-    const modal = document.getElementById('testimonialModal');
-
-    // Only respond to keyboard events when modal is open
-    if (modal.style.display === "block") {
-      if (event.key === "ArrowLeft" || event.key === "Left") {
-        navigateModal(-1);
-      } else if (event.key === "ArrowRight" || event.key === "Right") {
-        navigateModal(1);
-      } else if (event.key === "Escape" || event.key === "Esc") {
-        closeModal();
-      }
-    }
-  });
-
-  // Initialize on load
-  window.addEventListener('load', () => {
-    slideTestimonials(0);
-  });
-
-  // Handle resize events
-  window.addEventListener('resize', () => {
-    // Recalculate positions on resize
-    slideTestimonials(0);
-  });
-</script>
+{% include testimonial_slider.html images=page.testimonial_images %}
 
 ## Về Linh
 
@@ -488,7 +205,7 @@ Song song đó, Linh có kinh nghiệm giảng dạy về trị liệu đau (c�
 [Chat Với Linh Qua Facebook](https://www.facebook.com/ngoclinhdnl/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 [Xem Tips Sinh Nở Trên YouTube](https://www.youtube.com/playlist?list=PL-U5o45t3xZgy_-zVaA288VzX6DaCRHpg){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
-## FAQ
+## Câu Hỏi Thường Hỏi (FAQ)
 
 <details>
   <summary><strong>Thời Điểm Phù Hợp Để Tập Yoga Bầu là khi nào?</strong></summary>
@@ -539,43 +256,23 @@ Song song đó, Linh có kinh nghiệm giảng dạy về trị liệu đau (c�
   <p>Cho mình được cùng bạn bước đi trên hành trình ấy.</p>
 </details>
 
-## Xem Thêm Để Hiểu Về Linh
+## Các Tips Hay
 
-<div style="text-align: center;">
-  <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/u_7R_D45bMI"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen></iframe>
-</div>
+### 6 Động Tác Thai Kỳ Khoẻ Mạnh Sinh Nở Dễ Dàng
 
-<div style="text-align: center;">
-  <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/PdqnI9-HSHk"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen></iframe>
-</div>
+{% include youtube_embed.html id="u_7R_D45bMI" %}
 
-<div style="text-align: center;">
-  <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/N6hogXUaD88"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen></iframe>
-</div>
+### Vị Trí Tối Ưu Của Em Bé Là Gì?
 
-<div style="text-align: center;">
-  <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/z3uONHon5dg"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen></iframe>
-</div>
+{% include youtube_embed.html id="PdqnI9-HSHk" %}
+
+### Đi Đẻ Nên Mang Gì Cho Bản Thân?
+
+{% include youtube_embed.html id="N6hogXUaD88" %}
+
+### Lợi & Hại Của Việc Tự Tập Yoga Theo YouTube Tại Nhà?
+
+{% include youtube_embed.html id="z3uONHon5dg" %}
 
 ## Bạn Muốn Được Hỗ Trợ Thêm?
 
