@@ -42,7 +42,7 @@ yoga-hoi-phuc-sau-sinh-cham-ma-chac:
     url: https://docs.google.com/forms/d/e/1FAIpQLSfriFoYFY1R7ZoGgrttHebYs5xGAxIupaIAY-EG4lEckeBUwQ/viewform
     btn_label: "Làm Khảo Sát Ngay Mẹ Yêu Nhé"
     btn_class: "btn--yoga"
-21-ngay-ket-noi-voi-co-the:
+yoga-21-ngay-ket-noi-voi-co-the:
   - image_path: /assets/images/courses/yoga-21-ngay-ket-noi-voi-co-the-cover.png
     alt: "21 Ngày Kết Nối Với Cơ Thể"
     title: "21 Ngày Kết Nối Với Cơ Thể"
@@ -61,6 +61,6 @@ yoga-hoi-phuc-sau-sinh-cham-ma-chac:
 
 {% include feature_row id="yoga-hoi-phuc-sau-sinh-cham-ma-chac" type="left" %}
 
-{% include feature_row id="21-ngay-ket-noi-voi-co-the" type="left" %}
+{% include feature_row id="yoga-21-ngay-ket-noi-voi-co-the" type="left" %}
 
 {% include feature_row id="yoga-nen-tang" type="left" %}

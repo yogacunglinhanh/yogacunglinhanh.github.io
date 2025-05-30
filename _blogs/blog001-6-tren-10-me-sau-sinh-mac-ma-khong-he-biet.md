@@ -119,9 +119,9 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
 - Cần tránh các động tác plank, crunch mà tập các động tác chuyên cơ lõi.
 - Hãy bắt đầu bằng Tập trung vào bài tập thở 3 phần/ Thở Bụng. Bạn có thể xem video tại [đây](https://www.youtube.com/watch?v=pHqxfKe8lpA)
 
-{% include youtube_embed.html id="pHqxfKe8lpA" %}
-
 Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạn cần bắt đầu lại từ nền tảng: thở đúng – kết nối lại vùng core – và chuyển động đúng cách trong sinh hoạt hằng ngày.
+
+{% include youtube_embed.html id="pHqxfKe8lpA" %}
 
 **Nếu bạn chỉ có những dấu hiệu khác 3-6:**
 
