@@ -47,18 +47,22 @@ footer:
     #   icon: "fab fa-fw fa-tiktok"
     #   url: "https://www.tiktok.com/@yogacunglinhanh"
 
+collections:
+  blogs:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
-  # _posts
+  # _blogs
   - scope:
       path: ""
-      type: posts
+      type: blogs
     values:
       layout: single
       author_profile: true
       read_time: true
       comments: true
       share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"

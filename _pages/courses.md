@@ -32,6 +32,16 @@ yoga-bau-vuot-can:
     url: /khoa-hoc/yoga-bau-vuot-can/
     btn_label: "Xem Thêm"
     btn_class: "btn--yoga"
+yoga-hoi-phuc-sau-sinh-cham-ma-chac:
+  - image_path: /assets/images/courses/yoga-course-coming-up-cover.png
+    alt: "Hồi Phục Sau Sinh - Chậm Mà Chắc"
+    title: "Hồi Phục Sau Sinh - Chậm Mà Chắc"
+    excerpt: >-
+      Dự Kiến Ra Mắt Tháng **7/2025**<br><br>
+      Nếu bạn quan tâm khoá học này, và muốn nhận ưu đãi 10% khi lớp ra mắt, giúp mình làm khảo sát nhanh nhé.
+    url: https://docs.google.com/forms/d/e/1FAIpQLSfriFoYFY1R7ZoGgrttHebYs5xGAxIupaIAY-EG4lEckeBUwQ/viewform
+    btn_label: "Làm Khảo Sát Ngay Mẹ Yêu Nhé"
+    btn_class: "btn--explore"
 21-ngay-ket-noi-voi-co-the:
   - image_path: /assets/images/courses/yoga-21-ngay-ket-noi-voi-co-the-cover.png
     alt: "21 Ngày Kết Nối Với Cơ Thể"
@@ -42,13 +52,15 @@ yoga-bau-vuot-can:
       Mục tiêu là để bạn yêu thương lại cơ thể “mới” này, cả về thể chất lẫn tinh thần.<br><br>
       Đây cũng là hành trình mình từng trải qua – và mình mong những chia sẻ trong khoá học sẽ giúp bạn cảm thấy bớt đơn độc hơn. Khi phụ nữ đồng hành cùng nhau, chúng ta luôn mạnh mẽ hơn.<br><br>
       Cùng mình bắt đầu nhé.<br><br>
-    url: https://www.youtube.com/watch?v=-c3_rursYkc&list=PL-U5o45t3xZi4hSCSPw7fu_s7L9EjCNgL
+    url: /khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/
     btn_label: "Xem Thêm"
     btn_class: "btn--yoga"
 ---
 
-{% include feature_row id="yoga-nen-tang" type="left" %}
-
 {% include feature_row id="yoga-bau-vuot-can" type="left" %}
 
+{% include feature_row id="yoga-hoi-phuc-sau-sinh-cham-ma-chac" type="left" %}
+
 {% include feature_row id="21-ngay-ket-noi-voi-co-the" type="left" %}
+
+{% include feature_row id="yoga-nen-tang" type="left" %}

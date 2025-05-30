@@ -140,7 +140,7 @@ Sau khoá học, bạn sẽ:
 ​Vậy là bạn đã sẵn sàng để kết nối với cơ thể & hơi thở rồi! Chúc mừng!
 
 - Khoá Tự Học: **2.500.000 VND**
-- Khoá Học Được chỉnh sửa: **3.800.00 VND** được chỉnh sửa video kỹ lương. hàng tuần như được học 1:1.
+- Khoá Học Được chỉnh sửa: **3.800.000 VND** được chỉnh sửa video kỹ lương. hàng tuần như được học 1:1.
 
 ​​​Nếu bạn có thắc mắc gì thì đừng ngần ngại gửi [facebook message cho Linh](https://www.facebook.com/ngoclinhdnl/)!
 
