@@ -113,7 +113,7 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
 
 ### 📊 Đánh giá kết quả
 
-**Nếu bạn có dấu hiệu 1-2:**
+#### Nếu bạn có dấu hiệu 1-2
 
 - Chắc chắn bạn bị vẫn bị phân tách cơ thẳng bụng.
 - Cần tránh các động tác plank, crunch mà tập các động tác chuyên cơ lõi.
@@ -123,7 +123,7 @@ Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạ
 
 {% include youtube_embed.html id="pHqxfKe8lpA" %}
 
-**Nếu bạn chỉ có những dấu hiệu khác 3-6:**
+#### Nếu bạn chỉ có những dấu hiệu khác 3-6
 
 - Khả năng cao bạn không bị phân tách cơ thẳng bụng
 - Tuy nhiên cơ lõi vẫn yếu, cần ưu tiên tập các bài tập cho cơ lõi.
