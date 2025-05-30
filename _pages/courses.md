@@ -41,7 +41,7 @@ yoga-hoi-phuc-sau-sinh-cham-ma-chac:
       Nếu bạn quan tâm khoá học này, và muốn nhận ưu đãi 10% khi lớp ra mắt, giúp mình làm khảo sát nhanh nhé.
     url: https://docs.google.com/forms/d/e/1FAIpQLSfriFoYFY1R7ZoGgrttHebYs5xGAxIupaIAY-EG4lEckeBUwQ/viewform
     btn_label: "Làm Khảo Sát Ngay Mẹ Yêu Nhé"
-    btn_class: "btn--explore"
+    btn_class: "btn--yoga"
 21-ngay-ket-noi-voi-co-the:
   - image_path: /assets/images/courses/yoga-21-ngay-ket-noi-voi-co-the-cover.png
     alt: "21 Ngày Kết Nối Với Cơ Thể"
