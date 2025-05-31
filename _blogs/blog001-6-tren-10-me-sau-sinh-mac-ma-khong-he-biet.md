@@ -43,13 +43,13 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
 
 ### Bụng bạn có khe hở khi gồng nhẹ – gọi là tách cơ bụng (Diastasis Recti)
 
-📋 **Cách kiểm tra:** Nằm ngửa, gập đầu gối. Đặt 2–3 ngón tay ngang lên bụng, đúng vùng rốn. Rồi nâng đầu lên nhẹ như thể sắp ngồi dậy. Nếu bạn cảm thấy có một khoảng lõm, rộng hơn 2 ngón tay giữa bụng – đặc biệt vùng rốn hoặc dưới rốn – thì khả năng cao là bạn vẫn đang bị tách cơ bụng.
+📋 **Cách kiểm tra:** Nằm ngửa, gập đầu gối. Đặt 2–3 ngón tay ngang lên bụng, đúng vùng rốn. Rồi nâng đầu lên nhẹ như thể sắp ngồi dậy. Nếu bạn cảm thấy có một khoảng lõm, rộng hơn 2 ngón tay, sâu hơn 1 đốt giữa bụng – đặc biệt vùng rốn hoặc dưới rốn – thì khả năng cao là bạn vẫn đang bị tách cơ bụng.
 
 🎯 Kết quả kiểm tra:
 
 - [ ] Bụng chắc, không lõm
 - [ ] Có khe lõm nông, khoảng 1–2 ngón tay
-- [ ] Có khe lõm mềm sâu hơn 2 ngón, như một “rãnh” giữa bụng
+- [ ] Có khe lõm mềm rộng hơn 2 ngón tay, sâu hơn 1 đốt, như một “rãnh” giữa bụng
 
 <figure>
   <img src="/assets/images/blogs/blog001-tip1.jpg" width=600 alt="">
