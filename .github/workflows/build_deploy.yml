@@ -45,6 +45,12 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
+      # - name: Generate config file
+      #   run: |
+      #     envsubst < config.template.js > assets/js/config.js
+      #   env:
+      #     GOOGLE_SCRIPT_URL: https://script.google.com/macros/s/${{ secrets.GOOGLE_SCRIPT_ID }}/exec
+
       - name: Build with Jekyll
         run: bundle exec jekyll build
         env:

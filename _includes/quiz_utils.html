@@ -76,21 +76,6 @@
     pointer-events: none;
   }
 
-  .quiz-question.correct label.correct-answer {
-    background-color: #d4edda;
-    color: #155724;
-  }
-
-  .quiz-question.incorrect label.correct-answer {
-    background-color: #d4edda;
-    color: #155724;
-  }
-
-  .quiz-question.incorrect label.user-wrong {
-    background-color: #f8d7da;
-    color: #721c24;
-  }
-
   /* Button Styles */
   button {
     background-color: #007bff;
@@ -131,6 +116,8 @@
     border-radius: 10px;
     padding: 30px;
     text-align: center;
+    max-width: 100%;
+    word-wrap: break-word;
   }
 
   .quiz-results h3 {
@@ -139,12 +126,16 @@
   }
 
   #finalScore {
-    font-size: 18px;
+    font-size: 16px;
     margin: 20px 0;
-    padding: 15px;
+    padding: 20px;
     background-color: white;
-    border-radius: 5px;
+    border-radius: 8px;
     border: 1px solid #ddd;
+    text-align: left;
+    line-height: 1.5;
+    max-height: 400px;
+    overflow-y: auto;
   }
 </style>
 
@@ -152,26 +143,147 @@
 // ============================================
 // GOOGLE SPREADSHEET INFORMATION
 // ============================================
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzbZidbny8IiRKPF7qO4FOUcvvXA4c_xtd0l0YwmlMD2CQg4uJqOgV-4CXpp_mpPpUk/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxCoNSkAelfaCrIFnAkCJNnAKPoIDtKYQnXZjAGZ5pFZibYv5wNQRF7COuxaPewiGQv/exec';
 
 // ============================================
 // QUIZ CONFIGURATION - ADD/REMOVE QUESTIONS HERE
 // ============================================
 const quizQuestions = [
   {
-    question: "What is the capital of France?",
-    options: ["Berlin", "Paris", "Madrid", "Rome"],
-    correctAnswer: 1 // Index of correct answer (0-based, so 1 = "Paris")
+    question: "Bạn có để ý cách mình ngồi trong ngày không?",
+    options: [
+      { text: "Không để ý mấy, hoặc chưa biết nó ảnh hưởng đến việc sinh", score: 1 },
+      { text: "Cũng có lúc để ý, lúc thì quên", score: 2 },
+      { text: "Có, mình cố gắng giữ tư thế tốt mỗi ngày", score: 3 }
+    ]
   },
   {
-    question: "What is the largest planet in our solar system?",
-    options: ["Earth", "Saturn", "Jupiter", "Mars"],
-    correctAnswer: 2 // Index of correct answer (0-based, so 2 = "Jupiter")
+    question: "Khi ngủ, bạn thường nằm nghiêng bên nào?",
+    options: [
+      { text: "Nằm ngửa hoặc tư thế nào thấy dễ ngủ là được", score: 1 },
+      { text: "Thỉnh thoảng nghiêng trái", score: 2 },
+      { text: "Mình hay nằm nghiêng trái để giúp tuần hoàn tốt hơn", score: 3 }
+    ]
   },
   {
-    question: "Which programming language is known as the 'language of the web'?",
-    options: ["Python", "JavaScript", "Java", "C++"],
-    correctAnswer: 1 // Index of correct answer (0-based, so 1 = "JavaScript")
+    question: "Bạn đã từng thử tập squat hoặc tư thế “cái bàn” chưa?",
+    options: [
+      { text: "Chưa biết đó là gì hoặc có ích gì", score: 1 },
+      { text: "Có nghe qua nhưng chưa tập thường xuyên", score: 2 },
+      { text: "Có, mình tập 1–2 lần mỗi tuần hoặc hơn", score: 3 }
+    ]
+  },
+  {
+    question: "Mỗi ngày bạn có di chuyển nhẹ nhàng không?",
+    options: [
+      { text: "Chủ yếu ngồi nhiều, ít vận động", score: 1 },
+      { text: "Thỉnh thoảng đi bộ hoặc vận động nhẹ", score: 2 },
+      { text: "Mỗi ngày mình đều có lúc đi bộ hoặc tập yoga nhẹ", score: 3 }
+    ]
+  },
+  {
+    question: "Khi thấy căng thẳng hay đau nhẹ, bạn có biết cách để cơ thể thả lỏng lại không?",
+    options: [
+      { text: "Không, mình thường cứng đơ cả người", score: 1 },
+      { text: "Có thể thả lỏng một phần như vai hay cổ", score: 2 },
+      { text: "Có, mình tập trung thả lỏng cả cơ thể, đặc biệt là bụng và mặt", score: 3 }
+    ]
+  },
+  {
+    question: "Khi lo lắng, bạn có biết cách dùng hơi thở để bình tĩnh lại không?",
+    options: [
+      { text: "Không biết hoặc chưa từng thử", score: 1 },
+      { text: "Có biết nhưng chưa quen dùng", score: 2 },
+      { text: "Có, mình hay dùng thở để xoa dịu bản thân", score: 3 }
+    ]
+  },
+  {
+    question: "Bạn có từng học kỹ thuật thở cho từng giai đoạn chuyển dạ chưa?",
+    options: [
+      { text: "Chưa nghe bao giờ", score: 1 },
+      { text: "Có đọc hoặc xem qua nhưng chưa tập", score: 2 },
+      { text: "Có học và thực hành đều", score: 3 }
+    ]
+  },
+  {
+    question: "Bạn hiểu tới đâu về các giai đoạn của quá trình sinh?",
+    options: [
+      { text: "Chưa tìm hiểu kỹ", score: 1 },
+      { text: "Biết sơ sơ nhưng chưa biết phải làm gì từng giai đoạn", score: 2 },
+      { text: "Mình hiểu rõ và biết mình sẽ làm gì trong từng giai đoạn", score: 3 }
+    ]
+  },
+  {
+    question: "Bạn có từng tập cách cảm nhận hoặc điều khiển cơ sàn chậu không?",
+    options: [
+      { text: "Chưa bao giờ nghe tới hoặc biết làm sao tập", score: 1 },
+      { text: "Có nghe nói nhưng không chắc mình làm đúng", score: 2 },
+      { text: "Có, mình cảm nhận được rõ ràng khi siết/thả", score: 3 }
+    ]
+  },
+  {
+    question: "Bạn có hay bị són tiểu khi ho, hắt hơi hoặc cười to không?",
+    options: [
+      { text: "Có, xảy ra khá thường xuyên", score: 1 },
+      { text: "Thỉnh thoảng bị", score: 2 },
+      { text: "Không bị", score: 3 }
+    ]
+  },
+  {
+    question: "Bạn đã từng tìm hiểu hoặc bắt đầu tập phục hồi sàn chậu chưa?",
+    options: [
+      { text: "Chưa từng nghe đến", score: 1 },
+      { text: "Có biết nhưng chưa bắt đầu", score: 2 },
+      { text: "Có rồi, mình đang tập hoặc đã lên kế hoạch", score: 3 }
+    ]
+  },
+  {
+    question: "Bạn có biết tư thế nào giúp em bé đi xuống dễ hơn không?",
+    options: [
+      { text: "Chưa tìm hiểu", score: 1 },
+      { text: "Có nghe nói vài tư thế nhưng chưa quen tập", score: 2 },
+      { text: "Biết rõ và đang áp dụng như đứng tựa, nghiêng người, all fours...", score: 3 }
+    ]
+  },
+  {
+    question: "Bạn có từng tập thả lỏng vùng âm đạo và tầng sinh môn không?",
+    options: [
+      { text: "Chưa biết có thể tập điều này", score: 1 },
+      { text: "Có nghe qua nhưng chưa thực hành được", score: 2 },
+      { text: "Có, mình đang luyện tập và cảm nhận rõ", score: 3 }
+    ]
+  },
+  {
+    question: "Nếu ca sinh diễn ra không như kế hoạch, bạn sẽ...",
+    options: [
+      { text: "Rất lo lắng, dễ hoảng", score: 1 },
+      { text: "Lo nhưng sẽ cố giữ bình tĩnh", score: 2 },
+      { text: "Mình đã chuẩn bị tinh thần để linh hoạt và ứng biến", score: 3 }
+    ]
+  },
+  {
+    question: "Khi nghĩ đến sinh con, bạn cảm thấy...",
+    options: [
+      { text: "Sợ và không tin mình làm được", score: 1 },
+      { text: "Lo nhưng vẫn cố nghĩ tích cực", score: 2 },
+      { text: "Có niềm tin là mình sẽ làm được", score: 3 }
+    ]
+  },
+  {
+    question: "Bạn đã chuẩn bị kế hoạch sinh (birth plan) và nói chuyện với bác sĩ chưa?",
+    options: [
+      { text: "Chưa từng nghĩ tới hoặc chưa tìm hiểu", score: 1 },
+      { text: "Có ý tưởng nhưng chưa nói chuyện với ai", score: 2 },
+      { text: "Mình đã viết kế hoạch và thảo luận với bác sĩ/nữ hộ sinh", score: 3 }
+    ]
+  },
+  {
+    question: "Bạn đang ở tuần thai thứ mấy rồi?",
+    options: [
+      { text: "Dưới 28 tuần", score: 1 },
+      { text: "28–36 tuần", score: 2 },
+      { text: "Trên 36 tuần", score: 3 }
+    ]
   }
 ];
 
@@ -180,12 +292,12 @@ const quizQuestions = [
 // ============================================
 let currentQuestion = 0;
 let totalQuestions = quizQuestions.length;
-let score = 0;
+let totalScore = 0;
 let answers = {};
 
 function initializeQuiz() {
   currentQuestion = 0;
-  score = 0;
+  totalScore = 0;
   answers = {};
   totalQuestions = quizQuestions.length;
 
@@ -214,22 +326,22 @@ function generateQuestions() {
     q.options.forEach((option, optionIndex) => {
       optionsHTML += `
         <label>
-          <input type="radio" name="q${index}" value="${optionIndex}"> ${option}
+          <input type="radio" name="q${index}" value="${optionIndex}" data-score="${option.score}"> ${option.text}
         </label>
       `;
     });
 
     const isLastQuestion = index === quizQuestions.length - 1;
-    const nextButtonText = isLastQuestion ? 'View Results' : 'Next Question';
+    const nextButtonText = isLastQuestion ? 'Xem Kết Quả' : 'Câu Tiếp Theo';
     const nextButtonAction = isLastQuestion ? 'showResults()' : 'nextQuestion()';
 
     questionDiv.innerHTML = `
-      <h3>Question ${index + 1}</h3>
+      <h3>Câu ${index + 1}</h3>
       <p><strong>${q.question}</strong></p>
       <form>
         ${optionsHTML}
         <br>
-        <button type="button" onclick="submitAnswer(this, ${index})">Submit</button>
+        <button type="button" onclick="submitAnswer(this, ${index})">Gửi Câu Trả Lời</button>
         <button type="button" onclick="${nextButtonAction}" style="display: none;" class="next-btn">${nextButtonText}</button>
       </form>
       <p class="quiz-feedback" style="font-weight:bold;"></p>
@@ -246,79 +358,63 @@ function showQuestion(questionIndex) {
   });
 
   // Show current question
-  document.getElementById(`question${questionIndex}`).style.display = 'block';
+  const currentQuestionDiv = document.getElementById(`question${questionIndex}`);
+  if (currentQuestionDiv) {
+    currentQuestionDiv.style.display = 'block';
+  }
 }
 
 function updateProgress() {
   const progressFill = document.getElementById('progressFill');
   const progressText = document.getElementById('progressText');
-  const percentage = Math.round(((currentQuestion + 1) / totalQuestions) * 100);
 
-  progressFill.style.width = percentage + '%';
-  progressText.textContent = `Question ${currentQuestion + 1} of ${totalQuestions} (${percentage}%)`;
+  const progressPercentage = Math.round(((currentQuestion + 1) / totalQuestions) * 100);
+
+  progressFill.style.width = progressPercentage + '%';
+  progressText.textContent = `Câu ${currentQuestion + 1} / ${totalQuestions} (${progressPercentage}%)`;
+}
+
+function nextQuestion() {
+  currentQuestion++;
+  if (currentQuestion < totalQuestions) {
+    showQuestion(currentQuestion);
+    updateProgress();
+  }
 }
 
 function submitAnswer(button, questionIndex) {
   const questionDiv = button.closest('.quiz-question');
-  const correctAnswer = quizQuestions[questionIndex].correctAnswer;
   const selectedInput = questionDiv.querySelector(`input[name="q${questionIndex}"]:checked`);
   const feedback = questionDiv.querySelector('.quiz-feedback');
   const submitBtn = button;
   const nextBtn = questionDiv.querySelector('.next-btn');
 
   if (!selectedInput) {
-    feedback.textContent = 'Please select an answer.';
+    feedback.textContent = 'Vui lòng chọn một câu trả lời trước khi gửi.';
     feedback.style.color = '#721c24';
     return;
   }
 
-  const userAnswer = parseInt(selectedInput.value);
-  const labels = questionDiv.querySelectorAll('label');
+  const userAnswerIndex = parseInt(selectedInput.value);
+  const userScore = parseInt(selectedInput.dataset.score);
 
-  // Store the answer
+  // Store the answer with score
   answers[`q${questionIndex}`] = {
-    selected: userAnswer,
-    correct: correctAnswer,
-    isCorrect: userAnswer === correctAnswer,
-    question: quizQuestions[questionIndex].question
+    selected: userAnswerIndex,
+    score: userScore,
+    question: quizQuestions[questionIndex].question,
+    selectedText: quizQuestions[questionIndex].options[userAnswerIndex].text
   };
 
-  // Remove previous styling
-  questionDiv.classList.remove('correct', 'incorrect');
-  labels.forEach(label => {
-    label.classList.remove('correct-answer', 'user-wrong');
-  });
+  // Add to total score
+  totalScore += userScore;
 
   // Disable radio buttons after submit
   questionDiv.classList.add('disabled');
 
-  if (userAnswer === correctAnswer) {
-    questionDiv.classList.add('correct');
-    selectedInput.closest('label').classList.add('correct-answer');
-    feedback.textContent = 'Correct!';
-    feedback.style.color = '#155724';
-    score++;
-  } else {
-    questionDiv.classList.add('incorrect');
-    selectedInput.closest('label').classList.add('user-wrong');
-
-    // Highlight correct answer
-    const correctInput = questionDiv.querySelector(`input[value="${correctAnswer}"]`);
-    correctInput.closest('label').classList.add('correct-answer');
-
-    feedback.textContent = 'Incorrect. The correct answer is highlighted in green.';
-    feedback.style.color = '#721c24';
-  }
-
   // Hide submit button and show next button
   submitBtn.style.display = 'none';
   nextBtn.style.display = 'inline-block';
-}
-
-function nextQuestion() {
-  currentQuestion++;
-  showQuestion(currentQuestion);
-  updateProgress();
 }
 
 function showResults() {
@@ -331,116 +427,178 @@ function showResults() {
   const progressFill = document.getElementById('progressFill');
   const progressText = document.getElementById('progressText');
   progressFill.style.width = '100%';
-  progressText.textContent = 'Quiz Complete! (100%)';
+  progressText.textContent = 'Hoàn Thành! (100%)';
 
-  // Show results
+  // Show results with scoring message
   const resultsDiv = document.getElementById('results');
   const finalScore = document.getElementById('finalScore');
 
-  const percentage = Math.round((score / totalQuestions) * 100);
-
-  let detailedResults = '';
-  for (let i = 0; i < totalQuestions; i++) {
-    const answer = answers[`q${i}`];
-    const status = answer.isCorrect ? '✅ Correct' : '❌ Incorrect';
-    detailedResults += `<strong>Question ${i + 1}:</strong> ${status}<br>`;
+  // Determine message based on total score
+  let scoreMessage = '';
+  if (totalScore >= 44) {
+    scoreMessage = `
+      <strong>Bạn đang rất gần rồi – hãy tiếp tục nuôi dưỡng trạng thái sẵn sàng này.</strong><br><br>
+      Cơ thể bạn đang phản hồi rất tốt – điều đó cho thấy bạn đã tích lũy được nền tảng ổn định cả về thể chất và tinh thần.<br><br>
+      Để giúp bạn duy trì sự sẵn sàng này, mình đã chuẩn bị mini thử thách 3 ngày – mỗi ngày, bạn sẽ nhận được một video nhỏ nhưng tinh gọn:<br><br>
+      <strong>Ngày 1:</strong> Audio 102 câu nói tích cực – dành nghe lúc nghỉ ngơi, hoặc lúc gò<br>
+      <strong>Ngày 2:</strong> 2 động tác giúp giữ nhịp vận động và mở hông<br>
+      <strong>Ngày 3:</strong> Gợi ý điều chỉnh nhịp thở khi cơn gò đến<br><br>
+    `;
+  } else if (totalScore >= 34 && totalScore < 44) {
+    scoreMessage = `
+      <strong>Bạn đang ở ngã rẽ – nơi chỉ cần điều chỉnh nhẹ, mọi thứ sẽ khớp lại.</strong><br><br>
+      Bạn đã có một số nền tảng, nhưng cơ thể vẫn đang chờ bạn “gỡ một nút thắt nhỏ” – có thể là tư thế, nhịp thở hoặc tâm lý chưa thực sự thả lỏng.<br><br>
+      Mình đã chuẩn bị cho bạn chuỗi 3 ngày kết nối lại – giúp bạn soi rõ và điều chỉnh nhẹ từ những gì đang có:<br><br>
+      <strong>Ngày 1:</strong> Video "Ngồi đúng – đẻ nhẹ"<br>
+      <strong>Ngày 2:</strong> Thở chậm – cách điều chỉnh khi cơn gò đến<br>
+      <strong>Ngày 3:</strong> Audio 102 câu nói tích cực – dành nghe lúc nghỉ ngơi, hoặc lúc gò<br><br>
+    `;
+  } else if (totalScore >= 17 && totalScore < 34) {
+    scoreMessage = `
+      <strong>Cơ thể bạn đang lên tiếng – và bạn có thể lắng nghe ngay từ hôm nay.</strong><br><br>
+      Kết quả này không có gì sai – nó chỉ nhắc rằng: "Mình cần được quan tâm hơn một chút."<br><br>
+      Hành trình chuẩn bị cho sinh nở bắt đầu từ những việc rất đơn giản – khi bạn làm đúng chỗ, mọi thứ sẽ khớp lại tự nhiên.<br><br>
+      Mini thử thách 3 ngày này là bước đầu để bạn kết nối lại nhẹ nhàng:<br><br>
+      <strong>Ngày 1:</strong> Video Cơ sàn chậu 101 – bài tập nền đầu tiên<br>
+      <strong>Ngày 2:</strong> Tư thế ngồi tối ưu – giúp bé vào vị trí dễ sinh<br>
+      <strong>Ngày 3:</strong> Hít thở đúng cách để bình tĩnh hơn mỗi ngày<br><br>
+    `;
+  } else if (totalScore < 17) {
+    scoreMessage = `
+      <strong>Chưa sẵn sàng không có nghĩa là không thể – bạn chỉ đang cần một điểm bắt đầu đúng đắn.</strong><br><br>
+      Nếu bạn cảm thấy mình còn mông lung – điều đó hoàn toàn bình thường. Bạn đang bắt đầu một điều mới, và điều quan trọng là: bạn đã dừng lại để lắng nghe.<br><br>
+      3 video trong 3 ngày tới sẽ giúp bạn khởi động lại, nhẹ nhàng mà đủ sâu:<br><br>
+      <strong>Ngày 1:</strong> Hít thở 2 phút – để xoa dịu và ổn định lại<br>
+      <strong>Ngày 2:</strong> Tư thế ngồi – cách đơn giản nhất để nâng đỡ bé<br>
+      <strong>Ngày 3:</strong> Cơ sàn chậu nhẹ nhàng – vừa sức, không áp lực<br><br>
+    `;
   }
 
+  let endFinalMessage = `
+    Để nhận đủ 3 video trong 3 ngày tới:<br><br>
+    👉 Điền email của bạn vào ô bên dưới – Hãy đảm bảo email đúng để nhận được videos 💌<br><br>
+    <input type="email" id="userEmail" placeholder="Nhập email của bạn..." style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 5px;">
+    <div id="emailError" style="color: #721c24; font-size: 14px; margin: 5px 0; display: none;"></div>
+    <button type="button" onclick="submitEmail()" style="width: 100%; padding: 12px; background-color: #28a745; color: white; border: none; border-radius: 5px; font-weight: bold;">Gửi cho mình videos</button>
+    <div id="emailSuccess" style="color: #155724; font-size: 14px; margin: 10px 0; display: none;">✅ Email đã được ghi nhận thành công!</div>
+  `;
+
+  // Calculate max possible score dynamically
+  const maxPossibleScore = quizQuestions.reduce((total, question) => {
+    const maxScoreForQuestion = Math.max(...question.options.map(option => option.score));
+    return total + maxScoreForQuestion;
+  }, 0);
+
+  // Calculate score as percentage
+  const scorePercentage = Math.round((totalScore / maxPossibleScore) * 100);
+
   finalScore.innerHTML = `
-    <strong>Your Score: ${score}/${totalQuestions} (${percentage}%)</strong><br><br>
-    <div style="text-align: left;">
-      ${detailedResults}
-    </div>
+    <h3>Kết quả đánh giá: ${scorePercentage}%</h3>
+    <div>${scoreMessage}</div>
+    <div>${endFinalMessage}</div>
   `;
 
   resultsDiv.style.display = 'block';
-  sendResultsToGoogleSheets();
+}
+
+function sendResultsToGoogleSheets() {
+  // Calculate max possible score dynamically
+  const maxPossibleScore = quizQuestions.reduce((total, question) => {
+    const maxScoreForQuestion = Math.max(...question.options.map(option => option.score));
+    return total + maxScoreForQuestion;
+  }, 0);
+
+  const resultsData = {
+    timestamp: new Date().toISOString(),
+    totalQuestions: totalQuestions,
+    totalScore: totalScore,
+    maxPossibleScore: maxPossibleScore,
+    answers: answers || {}
+  };
+
+  console.log('Sending data:', resultsData);
+
+  // Create a JSONP request
+  const script = document.createElement('script');
+  const callbackName = 'jsonpCallback' + Date.now();
+
+  // Create global callback function
+  window[callbackName] = function(response) {
+    console.log('Response:', response);
+    // Show success message
+    const statusDiv = document.createElement('div');
+    statusDiv.innerHTML = '✅ Results successfully saved!';
+    document.getElementById('results').appendChild(statusDiv);
+
+    // Cleanup
+    document.head.removeChild(script);
+    delete window[callbackName];
+  };
+
+  // Build URL with data as query parameters
+  const params = new URLSearchParams({
+    callback: callbackName,
+    data: JSON.stringify(resultsData)
+  });
+
+  script.src = `${GOOGLE_SCRIPT_URL}?${params}`;
+  document.head.appendChild(script);
 }
 
 function retryQuiz() {
   initializeQuiz();
 }
 
-// Initialize the quiz when page loads
-window.onload = function() {
-  initializeQuiz();
-};
+// Email validation and submission function
+function submitEmail() {
+  const emailInput = document.getElementById('userEmail');
+  const emailError = document.getElementById('emailError');
+  const emailSuccess = document.getElementById('emailSuccess');
+  const email = emailInput.value.trim();
 
-// Send results to Google Sheets
-function sendResultsToGoogleSheets() {
-  // Validate data before sending
-  if (typeof score === 'undefined' || typeof totalQuestions === 'undefined') {
-    console.error('Quiz data not available');
-    alert('Error: Quiz data not available');
+  // Hide previous messages
+  emailError.style.display = 'none';
+  emailSuccess.style.display = 'none';
+
+  // Simple email validation regex
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+  if (!email) {
+    emailError.textContent = 'Vui lòng nhập email của bạn.';
+    emailError.style.display = 'block';
     return;
   }
 
-  const resultsData = {
-    timestamp: new Date().toISOString(),
-    totalQuestions: totalQuestions,
-    score: score,
-    percentage: Math.round((score / totalQuestions) * 100),
-    answers: answers || {}
+  if (!emailRegex.test(email)) {
+    emailError.textContent = 'Vui lòng nhập một địa chỉ email hợp lệ.';
+    emailError.style.display = 'block';
+    return;
+  }
+
+  // Add email to answers object
+  answers.userEmail = {
+    email: email,
+    submittedAt: new Date().toISOString()
   };
 
-  console.log('Sending data:', resultsData); // Debug log
+  // Show success message
+  emailSuccess.style.display = 'block';
 
-  // Show user that data is being sent
-  const statusDiv = document.createElement('div');
-  statusDiv.id = 'submission-status';
-  statusDiv.style.cssText = 'margin-top: 20px; padding: 10px; border-radius: 5px; text-align: center;';
-  statusDiv.innerHTML = '📤 Sending results to Google Sheets...';
-  statusDiv.style.backgroundColor = '#fff3cd';
-  statusDiv.style.color = '#856404';
-  document.getElementById('results').appendChild(statusDiv);
+  // Disable the input and button
+  emailInput.disabled = true;
+  emailInput.style.backgroundColor = '#f8f9fa';
+  const button = emailInput.nextElementSibling.nextElementSibling; // Get the button after error div
+  button.disabled = true;
+  button.textContent = 'Đã ghi nhận email';
+  button.style.backgroundColor = '#6c757d';
 
-  fetch(GOOGLE_SCRIPT_URL, {
-    method: 'POST',
-    mode: 'cors', // Explicitly set CORS mode
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify(resultsData)
-  })
-  .then(response => {
-    console.log('Response status:', response.status);
-    console.log('Response headers:', response.headers);
+  console.log('Email recorded:', email);
+  console.log('Updated answers:', answers);
 
-    if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`);
-    }
-
-    return response.text(); // Use .text() first to see raw response
-  })
-  .then(data => {
-    console.log('Raw response:', data);
-
-    // Update status to success
-    statusDiv.innerHTML = '✅ Results successfully saved to Google Sheets!';
-    statusDiv.style.backgroundColor = '#d4edda';
-    statusDiv.style.color = '#155724';
-
-    try {
-      const jsonData = JSON.parse(data);
-      console.log('Parsed response:', jsonData);
-
-      if (jsonData.status === 'error') {
-        throw new Error(jsonData.message || 'Unknown error from server');
-      }
-    } catch (parseError) {
-      console.warn('Response is not valid JSON, but request seems successful:', data);
-    }
-  })
-  .catch(error => {
-    console.error('Error sending to Google Sheets:', error);
-
-    // Update status to show error
-    statusDiv.innerHTML = `❌ Error saving results: ${error.message}`;
-    statusDiv.style.backgroundColor = '#f8d7da';
-    statusDiv.style.color = '#721c24';
-
-    // Also show an alert for immediate user feedback
-    alert(`Failed to save results to Google Sheets: ${error.message}\n\nPlease check the browser console for more details.`);
-  });
+  // Send results to Google Sheets
+  sendResultsToGoogleSheets();
 }
+
+// Initialize quiz when page loads
+window.addEventListener('load', initializeQuiz);
 </script>
