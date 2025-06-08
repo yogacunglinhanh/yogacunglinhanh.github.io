@@ -331,18 +331,13 @@ function generateQuestions() {
       `;
     });
 
-    const isLastQuestion = index === quizQuestions.length - 1;
-    const nextButtonText = isLastQuestion ? 'Xem Kết Quả' : 'Câu Tiếp Theo';
-    const nextButtonAction = isLastQuestion ? 'showResults()' : 'nextQuestion()';
-
     questionDiv.innerHTML = `
       <h3>Câu ${index + 1}</h3>
       <p><strong>${q.question}</strong></p>
       <form>
         ${optionsHTML}
         <br>
-        <button type="button" onclick="submitAnswer(this, ${index})">Gửi Câu Trả Lời</button>
-        <button type="button" onclick="${nextButtonAction}" style="display: none;" class="next-btn">${nextButtonText}</button>
+        <button type="button" class="quiz-action-btn" onclick="handleQuizAction(this, ${index})">Gửi Câu Trả Lời</button>
       </form>
       <p class="quiz-feedback" style="font-weight:bold;"></p>
     `;
@@ -379,6 +374,47 @@ function nextQuestion() {
   if (currentQuestion < totalQuestions) {
     showQuestion(currentQuestion);
     updateProgress();
+  }
+}
+
+function handleQuizAction(button, questionIndex) {
+  const questionDiv = button.closest('.quiz-question');
+  const feedback = questionDiv.querySelector('.quiz-feedback');
+  const isLastQuestion = questionIndex === quizQuestions.length - 1;
+  const nextButtonText = isLastQuestion ? 'Xem Kết Quả' : 'Câu Tiếp Theo';
+
+  if (button.dataset.state !== 'next') {
+    // Submit answer logic
+    const selectedInput = questionDiv.querySelector(`input[name="q${questionIndex}"]:checked`);
+    if (!selectedInput) {
+      feedback.textContent = 'Vui lòng chọn một câu trả lời trước khi gửi.';
+      feedback.style.color = '#721c24';
+      return;
+    }
+    const userAnswerIndex = parseInt(selectedInput.value);
+    const userScore = parseInt(selectedInput.dataset.score);
+
+    answers[`q${questionIndex}`] = {
+      selected: userAnswerIndex,
+      score: userScore,
+      question: quizQuestions[questionIndex].question,
+      selectedText: quizQuestions[questionIndex].options[userAnswerIndex].text
+    };
+    totalScore += userScore;
+
+    questionDiv.classList.add('disabled');
+    button.textContent = nextButtonText;
+    button.dataset.state = 'next';
+    button.classList.add('next-btn');
+  } else {
+    // Next question or show results
+    if (isLastQuestion) {
+      showResults();
+    } else {
+      currentQuestion++;
+      showQuestion(currentQuestion);
+      updateProgress();
+    }
   }
 }
 
