@@ -1,0 +1,411 @@
+<style>
+  .quiz-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+
+  /* Progress Bar Styles */
+  .progress-container {
+    margin-bottom: 30px;
+  }
+
+  .progress-bar {
+    width: 100%;
+    height: 20px;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 10px;
+  }
+
+  .progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #4CAF50, #45a049);
+    border-radius: 10px;
+    transition: width 0.3s ease;
+    width: 0%;
+  }
+
+  .progress-text {
+    text-align: center;
+    font-weight: bold;
+    color: #555;
+    font-size: 14px;
+  }
+
+  /* Question Styles */
+  .quiz-question {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .quiz-question h3 {
+    margin-top: 0;
+    color: #333;
+  }
+
+  .quiz-question label {
+    display: flex;
+    align-items: center;
+    margin: 0.2em 0;
+    padding: 0.4em;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+
+  .quiz-question label:hover {
+    background-color: #f0f0f0;
+  }
+
+  .quiz-question label input[type="radio"] {
+    margin-right: 8px;
+  }
+
+  .quiz-question.disabled label {
+    pointer-events: none;
+    opacity: 0.6;
+  }
+
+  .quiz-question.disabled input[type="radio"] {
+    pointer-events: none;
+  }
+
+  .quiz-question.correct label.correct-answer {
+    background-color: #d4edda;
+    color: #155724;
+  }
+
+  .quiz-question.incorrect label.correct-answer {
+    background-color: #d4edda;
+    color: #155724;
+  }
+
+  .quiz-question.incorrect label.user-wrong {
+    background-color: #f8d7da;
+    color: #721c24;
+  }
+
+  /* Button Styles */
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-right: 10px;
+    transition: background-color 0.2s ease;
+  }
+
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  .next-btn {
+    background-color: #28a745;
+  }
+
+  .next-btn:hover {
+    background-color: #1e7e34;
+  }
+
+  .retry-btn {
+    background-color: #6c757d;
+  }
+
+  .retry-btn:hover {
+    background-color: #545b62;
+  }
+
+  /* Results Styles */
+  .quiz-results {
+    background-color: #f8f9fa;
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    padding: 30px;
+    text-align: center;
+  }
+
+  .quiz-results h3 {
+    color: #007bff;
+    margin-top: 0;
+  }
+
+  #finalScore {
+    font-size: 18px;
+    margin: 20px 0;
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+</style>
+
+<script>
+// ============================================
+// GOOGLE SPREADSHEET INFORMATION
+// ============================================
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwUkX5dii7KeJ3Cci5XBbXAMctbNsRXZuytWoK95VROLNreaCzoGZI9gvsaKmHDTexI/exec';
+
+// ============================================
+// QUIZ CONFIGURATION - ADD/REMOVE QUESTIONS HERE
+// ============================================
+const quizQuestions = [
+  {
+    question: "What is the capital of France?",
+    options: ["Berlin", "Paris", "Madrid", "Rome"],
+    correctAnswer: 1 // Index of correct answer (0-based, so 1 = "Paris")
+  },
+  {
+    question: "What is the largest planet in our solar system?",
+    options: ["Earth", "Saturn", "Jupiter", "Mars"],
+    correctAnswer: 2 // Index of correct answer (0-based, so 2 = "Jupiter")
+  },
+  {
+    question: "Which programming language is known as the 'language of the web'?",
+    options: ["Python", "JavaScript", "Java", "C++"],
+    correctAnswer: 1 // Index of correct answer (0-based, so 1 = "JavaScript")
+  }
+];
+
+// ============================================
+// QUIZ LOGIC - DON'T CHANGE BELOW THIS LINE
+// ============================================
+let currentQuestion = 0;
+let totalQuestions = quizQuestions.length;
+let score = 0;
+let answers = {};
+
+function initializeQuiz() {
+  currentQuestion = 0;
+  score = 0;
+  answers = {};
+  totalQuestions = quizQuestions.length;
+
+  // Clear container
+  document.getElementById('questionContainer').innerHTML = '';
+  document.getElementById('results').style.display = 'none';
+
+  // Generate all questions
+  generateQuestions();
+
+  // Show first question
+  showQuestion(0);
+  updateProgress();
+}
+
+function generateQuestions() {
+  const container = document.getElementById('questionContainer');
+
+  quizQuestions.forEach((q, index) => {
+    const questionDiv = document.createElement('div');
+    questionDiv.className = 'quiz-question';
+    questionDiv.id = `question${index}`;
+    questionDiv.style.display = 'none';
+
+    let optionsHTML = '';
+    q.options.forEach((option, optionIndex) => {
+      optionsHTML += `
+        <label>
+          <input type="radio" name="q${index}" value="${optionIndex}"> ${option}
+        </label>
+      `;
+    });
+
+    const isLastQuestion = index === quizQuestions.length - 1;
+    const nextButtonText = isLastQuestion ? 'View Results' : 'Next Question';
+    const nextButtonAction = isLastQuestion ? 'showResults()' : 'nextQuestion()';
+
+    questionDiv.innerHTML = `
+      <h3>Question ${index + 1}</h3>
+      <p><strong>${q.question}</strong></p>
+      <form>
+        ${optionsHTML}
+        <br>
+        <button type="button" onclick="submitAnswer(this, ${index})">Submit</button>
+        <button type="button" onclick="${nextButtonAction}" style="display: none;" class="next-btn">${nextButtonText}</button>
+      </form>
+      <p class="quiz-feedback" style="font-weight:bold;"></p>
+    `;
+
+    container.appendChild(questionDiv);
+  });
+}
+
+function showQuestion(questionIndex) {
+  // Hide all questions
+  document.querySelectorAll('.quiz-question').forEach(q => {
+    q.style.display = 'none';
+  });
+
+  // Show current question
+  document.getElementById(`question${questionIndex}`).style.display = 'block';
+}
+
+function updateProgress() {
+  const progressFill = document.getElementById('progressFill');
+  const progressText = document.getElementById('progressText');
+  const percentage = Math.round(((currentQuestion + 1) / totalQuestions) * 100);
+
+  progressFill.style.width = percentage + '%';
+  progressText.textContent = `Question ${currentQuestion + 1} of ${totalQuestions} (${percentage}%)`;
+}
+
+function submitAnswer(button, questionIndex) {
+  const questionDiv = button.closest('.quiz-question');
+  const correctAnswer = quizQuestions[questionIndex].correctAnswer;
+  const selectedInput = questionDiv.querySelector(`input[name="q${questionIndex}"]:checked`);
+  const feedback = questionDiv.querySelector('.quiz-feedback');
+  const submitBtn = button;
+  const nextBtn = questionDiv.querySelector('.next-btn');
+
+  if (!selectedInput) {
+    feedback.textContent = 'Please select an answer.';
+    feedback.style.color = '#721c24';
+    return;
+  }
+
+  const userAnswer = parseInt(selectedInput.value);
+  const labels = questionDiv.querySelectorAll('label');
+
+  // Store the answer
+  answers[`q${questionIndex}`] = {
+    selected: userAnswer,
+    correct: correctAnswer,
+    isCorrect: userAnswer === correctAnswer,
+    question: quizQuestions[questionIndex].question
+  };
+
+  // Remove previous styling
+  questionDiv.classList.remove('correct', 'incorrect');
+  labels.forEach(label => {
+    label.classList.remove('correct-answer', 'user-wrong');
+  });
+
+  // Disable radio buttons after submit
+  questionDiv.classList.add('disabled');
+
+  if (userAnswer === correctAnswer) {
+    questionDiv.classList.add('correct');
+    selectedInput.closest('label').classList.add('correct-answer');
+    feedback.textContent = 'Correct!';
+    feedback.style.color = '#155724';
+    score++;
+  } else {
+    questionDiv.classList.add('incorrect');
+    selectedInput.closest('label').classList.add('user-wrong');
+
+    // Highlight correct answer
+    const correctInput = questionDiv.querySelector(`input[value="${correctAnswer}"]`);
+    correctInput.closest('label').classList.add('correct-answer');
+
+    feedback.textContent = 'Incorrect. The correct answer is highlighted in green.';
+    feedback.style.color = '#721c24';
+  }
+
+  // Hide submit button and show next button
+  submitBtn.style.display = 'none';
+  nextBtn.style.display = 'inline-block';
+}
+
+function nextQuestion() {
+  currentQuestion++;
+  showQuestion(currentQuestion);
+  updateProgress();
+}
+
+function showResults() {
+  // Hide current question
+  document.querySelectorAll('.quiz-question').forEach(q => {
+    q.style.display = 'none';
+  });
+
+  // Update progress to 100%
+  const progressFill = document.getElementById('progressFill');
+  const progressText = document.getElementById('progressText');
+  progressFill.style.width = '100%';
+  progressText.textContent = 'Quiz Complete! (100%)';
+
+  // Show results
+  const resultsDiv = document.getElementById('results');
+  const finalScore = document.getElementById('finalScore');
+
+  const percentage = Math.round((score / totalQuestions) * 100);
+
+  let detailedResults = '';
+  for (let i = 0; i < totalQuestions; i++) {
+    const answer = answers[`q${i}`];
+    const status = answer.isCorrect ? '✅ Correct' : '❌ Incorrect';
+    detailedResults += `<strong>Question ${i + 1}:</strong> ${status}<br>`;
+  }
+
+  finalScore.innerHTML = `
+    <strong>Your Score: ${score}/${totalQuestions} (${percentage}%)</strong><br><br>
+    <div style="text-align: left;">
+      ${detailedResults}
+    </div>
+  `;
+
+  resultsDiv.style.display = 'block';
+  sendResultsToGoogleSheets();
+}
+
+function retryQuiz() {
+  initializeQuiz();
+}
+
+// Initialize the quiz when page loads
+window.onload = function() {
+  initializeQuiz();
+};
+
+// Send results to Google Sheets
+function sendResultsToGoogleSheets() {
+  // Validate data before sending
+  if (typeof score === 'undefined' || typeof totalQuestions === 'undefined') {
+    console.error('Quiz data not available');
+    return;
+  }
+
+  const resultsData = {
+    timestamp: new Date().toISOString(),
+    totalQuestions: totalQuestions,
+    score: score,
+    percentage: Math.round((score / totalQuestions) * 100),
+    answers: answers || []
+  };
+
+  console.log('Sending data:', resultsData); // Debug log
+
+  fetch(GOOGLE_SCRIPT_URL, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(resultsData)
+  })
+  .then(response => {
+    console.log('Response status:', response.status);
+    return response.text(); // Use .text() first to see raw response
+  })
+  .then(data => {
+    console.log('Raw response:', data);
+    try {
+      const jsonData = JSON.parse(data);
+      console.log('Parsed response:', jsonData);
+    } catch (e) {
+      console.error('Response is not valid JSON:', data);
+    }
+  })
+  .catch(error => {
+    console.error('Error sending to Google Sheets:', error);
+  });
+}
+</script>

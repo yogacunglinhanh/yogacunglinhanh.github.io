@@ -1,8 +1,6 @@
----
----
-
 @import "minimal-mistakes";
 
+/* General Styles */
 .btn--yoga {
   background-color: darken(#301D10, 10%);
   color: white;
@@ -47,7 +45,7 @@
   text-align: left !important;
 }
 
-// go to the top of the page button
+/* Go to the top of the page button */
 #goTopBtn {
   display: none; /* Hidden by default */
   position: fixed;

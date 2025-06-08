@@ -1,15 +1,15 @@
 main:
-  - title: "Giới Thiệu"
-    url: /
-  - title: "Blogs"
-    url: /blogs/
   - title: "Khoá Học"
     url: /khoa-hoc/
+  - title: "Blogs"
+    url: /blogs/
   - title: "Khoá Yoga Nền Tảng"
     url: /khoa-hoc/yoga-nen-tang/
   - title: "Khoá Yoga Bầu Vượt Cạn"
     url: /khoa-hoc/yoga-bau-vuot-can/
   - title: "21 Ngày Kết Nối Với Cơ Thể"
     url: /khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/
+  - title: "Giới Thiệu"
+    url: /
   - title: "Liên Hệ"
     url: /lien-he/
