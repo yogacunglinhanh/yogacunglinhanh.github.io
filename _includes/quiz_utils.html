@@ -489,11 +489,7 @@ async function sendResultsToGoogleSheets() {
   }, 0);
 
   const resultsData = {
-    timestamp_au: (function() {
-      const d = new Date();
-      d.setHours(d.getHours() + 10);
-      return d.toISOString().replace('Z', '+10:00');
-    })(),
+    timestamp_au: new Date().toLocaleString('en-AU', {timeZone: 'Australia/Sydney'}),
     totalQuestions: totalQuestions,
     totalScore: totalScore,
     maxPossibleScore: maxPossibleScore,
@@ -566,11 +562,7 @@ function submitEmail() {
   // Add email to answers object
   answers.userEmail = {
     email: email,
-    submittedAt: (function() {
-      const d = new Date();
-      d.setHours(d.getHours() + 10);
-      return d.toISOString().replace('Z', '+10:00');
-    })()
+    submittedAt: new Date().toLocaleString('en-AU', {timeZone: 'Australia/Sydney'})
   };
 
   // Show success message
