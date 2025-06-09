@@ -21,10 +21,6 @@ Không phải để "giảng dạy", mà là để thì thầm bên tai mẹ –
 
 >"Mọi thứ rồi sẽ ổn."
 
-📥 Nghe & tải về tại đây: [Tải từ Google Drive](https://bit.ly/102positiveaffirmation)
-
-📺 Nghe ngay trên [YouTube](https://youtu.be/363arSOa958?si=Ar3ulaf6KvzPQ98h) để nếu bạn không nhớ để file ở đâu, bạn luôn có thể tìm lại được.
-
 ## 🎯 TRƯỚC KHI NGHE AUDIO – MẸ HÃY DỪNG LẠI 3 PHÚT: Cơ thể mẹ đã thực sự sẵn sàng sinh thường chưa?
 
 ⚠️ Sự thật: rất nhiều mẹ bầu nghĩ mình đã chuẩn bị đủ... nhưng thực tế còn thiếu 3–4 điều quan trọng.
@@ -36,6 +32,12 @@ Không phải để "giảng dạy", mà là để thì thầm bên tai mẹ –
 - ✅ Có mini-plan phù hợp với chính mình
 
 👉 Làm test ngay bây giờ tại [link này](/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/) – vì mỗi tuần trễ là mất đi cơ hội chuẩn bị tốt hơn cho bản thân và cho con.
+
+***
+
+📥 Nghe & tải về **102 câu nói giúp mẹ vững vàng giờ phút sinh nở** tại đây: [Tải từ Google Drive](https://bit.ly/102positiveaffirmation)
+
+📺 Nghe ngay trên [YouTube](https://youtu.be/363arSOa958?si=Ar3ulaf6KvzPQ98h) để nếu bạn không nhớ để file ở đâu, bạn luôn có thể tìm lại được.
 
 ## 💡 Positive affirmation – là gì vậy mẹ?
 
