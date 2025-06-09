@@ -23,8 +23,6 @@ Hoặc mẹ đang run khi nghĩ tới phòng sinh – cái nơi mà ai cũng nó
 
 ✅ Mà là: 👉 Mẹ có tin mình làm được – đúng vào khoảnh khắc khó nhất không?
 
-***
-
 ## 🎯 TRƯỚC KHI NGHE AUDIO – MẸ HÃY DỪNG LẠI 3 PHÚT: Cơ thể mẹ đã thực sự sẵn sàng sinh thường chưa?
 
 ⚠️ Sự thật: rất nhiều mẹ bầu nghĩ mình đã chuẩn bị đủ... nhưng thực tế còn thiếu 3–4 điều quan trọng.
@@ -46,7 +44,9 @@ Mình thu âm bằng giọng thật, tốc độ chậm, âm nhạc nhẹ nhàng
 Không phải để "giảng dạy", mà là để thì thầm bên tai mẹ – như một người bạn âm thầm nhắc mẹ:
 
 >"Bạn làm được."
+
 >"Tôi tin bạn."
+
 >"Mọi thứ rồi sẽ ổn."
 
 📥 Nghe & tải về tại đây: [Tải từ Google Drive](https://bit.ly/102positiveaffirmation)
@@ -66,6 +66,7 @@ Không phải để "giảng dạy", mà là để thì thầm bên tai mẹ –
 💞 Vậy nên, khi mẹ nghe những câu nói như:
 
 >“Tôi đủ mạnh mẽ để làm điều này.”
+
 >“Cơ thể mình biết cách sinh nở.”
 
 Đó không chỉ là lời động viên. Đó là liệu pháp tinh thần, là một cách mẹ đang luyện tập tâm trí – để sẵn sàng nhất khi giây phút vượt cạn đến.
@@ -88,15 +89,17 @@ Cứ để lời thì thầm ấy len vào từng hơi thở, thẩm thấu vào
 
 **✨ Một vài câu nói trong audio:**
 
->"Tôi tin rằng cơ thể mình biết cách sinh nở."
->"Tôi không kiểm soát – tôi tin vào quá trình."
->"Tôi đủ yêu thương và sức mạnh để làm mẹ."
->"Chúng ta sẽ cùng nhau vượt qua, nhẹ nhàng."
+- "Tôi tin rằng cơ thể mình biết cách sinh nở."
+- "Tôi không kiểm soát – tôi tin vào quá trình."
+- "Tôi đủ yêu thương và sức mạnh để làm mẹ."
+- "Chúng ta sẽ cùng nhau vượt qua, nhẹ nhàng."
 
 **💬 Một vài mẹ bầu đã nghe và chia sẻ:**
 
 >"Em cảm thấy được tiếp thêm niềm tin, lạc quan nhiều hơn."
+
 >"Audio nghe dễ chịu lắm em ạ."
+
 >"Nghe audio mà chị thấy thời gian như chậm lại, mọi thứ là có thể."
 
 **🙋‍♀️ Mình là Linh – Giáo viên Yoga Chuyên Bầu & Hồi Phục Sau Sinh được đào tạo tại Úc**:
