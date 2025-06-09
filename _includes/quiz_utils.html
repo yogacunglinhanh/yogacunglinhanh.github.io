@@ -369,88 +369,53 @@ function updateProgress() {
   progressText.textContent = `Câu ${currentQuestion + 1} / ${totalQuestions} (${progressPercentage}%)`;
 }
 
-function nextQuestion() {
-  currentQuestion++;
-  if (currentQuestion < totalQuestions) {
-    showQuestion(currentQuestion);
-    updateProgress();
-  }
-}
-
 function handleQuizAction(button, questionIndex) {
   const questionDiv = button.closest('.quiz-question');
   const feedback = questionDiv.querySelector('.quiz-feedback');
   const isLastQuestion = questionIndex === quizQuestions.length - 1;
   const nextButtonText = isLastQuestion ? 'Xem Kết Quả' : 'Câu Tiếp Theo';
 
-  if (button.dataset.state !== 'next') {
-    // Submit answer logic
-    const selectedInput = questionDiv.querySelector(`input[name="q${questionIndex}"]:checked`);
-    if (!selectedInput) {
-      feedback.textContent = 'Vui lòng chọn một câu trả lời trước khi gửi.';
-      feedback.style.color = '#721c24';
-      return;
-    }
-    const userAnswerIndex = parseInt(selectedInput.value);
-    const userScore = parseInt(selectedInput.dataset.score);
-
-    answers[`q${questionIndex}`] = {
-      selected: userAnswerIndex,
-      score: userScore,
-      question: quizQuestions[questionIndex].question,
-      selectedText: quizQuestions[questionIndex].options[userAnswerIndex].text
-    };
-    totalScore += userScore;
-
-    questionDiv.classList.add('disabled');
-    button.textContent = nextButtonText;
-    button.dataset.state = 'next';
-    button.classList.add('next-btn');
-  } else {
-    // Next question or show results
-    if (isLastQuestion) {
-      showResults();
-    } else {
-      currentQuestion++;
-      showQuestion(currentQuestion);
-      updateProgress();
-    }
-  }
-}
-
-function submitAnswer(button, questionIndex) {
-  const questionDiv = button.closest('.quiz-question');
+  // Check if user has selected an answer
   const selectedInput = questionDiv.querySelector(`input[name="q${questionIndex}"]:checked`);
-  const feedback = questionDiv.querySelector('.quiz-feedback');
-  const submitBtn = button;
-  const nextBtn = questionDiv.querySelector('.next-btn');
-
   if (!selectedInput) {
     feedback.textContent = 'Vui lòng chọn một câu trả lời trước khi gửi.';
     feedback.style.color = '#721c24';
+    feedback.style.display = 'block';
     return;
   }
 
+  // Clear any error message
+  feedback.style.display = 'none';
+
+  // Lock in the answer (disable all inputs for this question)
+  const allInputs = questionDiv.querySelectorAll(`input[name="q${questionIndex}"]`);
+  allInputs.forEach(input => {
+    input.disabled = true;
+  })
+
+  // Store the answer
   const userAnswerIndex = parseInt(selectedInput.value);
   const userScore = parseInt(selectedInput.dataset.score);
 
-  // Store the answer with score
   answers[`q${questionIndex}`] = {
     selected: userAnswerIndex,
     score: userScore,
     question: quizQuestions[questionIndex].question,
     selectedText: quizQuestions[questionIndex].options[userAnswerIndex].text
   };
-
-  // Add to total score
   totalScore += userScore;
 
-  // Disable radio buttons after submit
+  // Disable the current question (visual feedback that it's locked)
   questionDiv.classList.add('disabled');
 
-  // Hide submit button and show next button
-  submitBtn.style.display = 'none';
-  nextBtn.style.display = 'inline-block';
+  // Move to next question or show results
+  if (isLastQuestion) {
+    showResults();
+  } else {
+    currentQuestion++;
+    showQuestion(currentQuestion);
+    updateProgress();
+  }
 }
 
 function showResults() {
@@ -473,50 +438,44 @@ function showResults() {
   let scoreMessage = '';
   if (totalScore >= 44) {
     scoreMessage = `
-      <strong>Bạn đang rất gần rồi – hãy tiếp tục nuôi dưỡng trạng thái sẵn sàng này.</strong><br><br>
-      Cơ thể bạn đang phản hồi rất tốt – điều đó cho thấy bạn đã tích lũy được nền tảng ổn định cả về thể chất và tinh thần.<br><br>
-      Để giúp bạn duy trì sự sẵn sàng này, mình đã chuẩn bị mini thử thách 3 ngày – mỗi ngày, bạn sẽ nhận được một video nhỏ nhưng tinh gọn:<br><br>
-      <strong>Ngày 1:</strong> Audio 102 câu nói tích cực – dành nghe lúc nghỉ ngơi, hoặc lúc gò<br>
-      <strong>Ngày 2:</strong> 2 động tác giúp giữ nhịp vận động và mở hông<br>
-      <strong>Ngày 3:</strong> Gợi ý điều chỉnh nhịp thở khi cơn gò đến<br><br>
+      <strong>Bạn biết khá rõ rồi – và mình sẽ giúp bạn nhìn toàn cảnh.</strong><br><br>
+      Bạn có vẻ là người đọc nhiều, học kỹ, thực hành tốt, rất tốt :) Nhưng chính vì có quá nhiều lời khuyên ở YouTube, Facebook, báo chí, sách vở, nên đôi khi bạn lại rơi vào cảm giác thiếu định hướng: nên làm cái gì – lúc nào – và vì sao. Cái bạn cần không phải thêm việc để làm, mà cái thêm cái nhìn tổng quát hơn.<br><br>
+      <strong>💬 Mình sẽ giúp bạn</strong> nhìn lại bức tranh lớn – và sắp xếp lại các mảnh ghép theo thứ tự phù hợp với chính bạn.<br><br>
     `;
   } else if (totalScore >= 34 && totalScore < 44) {
     scoreMessage = `
-      <strong>Bạn đang ở ngã rẽ – nơi chỉ cần điều chỉnh nhẹ, mọi thứ sẽ khớp lại.</strong><br><br>
-      Bạn đã có một số nền tảng, nhưng cơ thể vẫn đang chờ bạn “gỡ một nút thắt nhỏ” – có thể là tư thế, nhịp thở hoặc tâm lý chưa thực sự thả lỏng.<br><br>
-      Mình đã chuẩn bị cho bạn chuỗi 3 ngày kết nối lại – giúp bạn soi rõ và điều chỉnh nhẹ từ những gì đang có:<br><br>
-      <strong>Ngày 1:</strong> Video "Ngồi đúng – đẻ nhẹ"<br>
-      <strong>Ngày 2:</strong> Thở chậm – cách điều chỉnh khi cơn gò đến<br>
-      <strong>Ngày 3:</strong> Audio 102 câu nói tích cực – dành nghe lúc nghỉ ngơi, hoặc lúc gò<br><br>
+      <strong>Bạn đã có nền tảng – chỉ cần ai đó đồng hành thêm một chút.</strong><br><br>
+      Bạn không còn xa lạ với khái niệm về sinh thường, tư thế, hay hơi thở. Có thể bạn đã bắt đầu tập, bắt đầu thở, bắt đầu tin mình có thể sinh tự nhiên. Nhưng điều bạn còn thiếu là sự đều đặn – và một người tạo thêm động lực để bạn không bỏ cuộc giữa chừng.<br><br>
+      <strong>💬 Đó chính là lý do</strong> mình thiết kế hành trình đồng hành này – để bạn giữ nhịp, giữ kết nối với cơ thể và hiểu cơ thể sâu hơn. Hành trình mang thai là 1 hành trình cực kỳ thiêng liêng, trong đời chỉ có vài lần, hãy tận dụng cơ hội để hiểu hơn về mình và cơ thể mình nhé.<br><br>
     `;
   } else if (totalScore >= 17 && totalScore < 34) {
     scoreMessage = `
-      <strong>Cơ thể bạn đang lên tiếng – và bạn có thể lắng nghe ngay từ hôm nay.</strong><br><br>
-      Kết quả này không có gì sai – nó chỉ nhắc rằng: "Mình cần được quan tâm hơn một chút."<br><br>
-      Hành trình chuẩn bị cho sinh nở bắt đầu từ những việc rất đơn giản – khi bạn làm đúng chỗ, mọi thứ sẽ khớp lại tự nhiên.<br><br>
-      Mini thử thách 3 ngày này là bước đầu để bạn kết nối lại nhẹ nhàng:<br><br>
-      <strong>Ngày 1:</strong> Video Cơ sàn chậu 101 – bài tập nền đầu tiên<br>
-      <strong>Ngày 2:</strong> Tư thế ngồi tối ưu – giúp bé vào vị trí dễ sinh<br>
-      <strong>Ngày 3:</strong> Hít thở đúng cách để bình tĩnh hơn mỗi ngày<br><br>
+      <strong>Cơ thể bạn đang lên tiếng – và bạn đã bắt đầu biết lắng nghe.</strong><br><br>
+      Bạn có thể đã từng nghe đâu đó về cơ sàn chậu, hoặc xem video về hơi thở, nhưng vẫn thấy hoang mang giữa quá nhiều luồng thông tin. Điều khó nhất không phải là thiếu kiến thức, mà là không biết cái gì thực sự phù hợp với mình.<br><br>
+      <strong>💬 Mình hiểu.</strong> Và mình muốn giúp bạn lọc bớt nhiễu, để thấy rõ hơn đâu là điều bạn nên làm ngay bây giờ, vì thời gian chúng ta có hạn. Chúng ta nên tập những gì cần và đủ, thay vì tập lung tung mà không biết cơ thể cần hay không.<br><br>
     `;
   } else if (totalScore < 17) {
     scoreMessage = `
-      <strong>Chưa sẵn sàng không có nghĩa là không thể – bạn chỉ đang cần một điểm bắt đầu đúng đắn.</strong><br><br>
-      Nếu bạn cảm thấy mình còn mông lung – điều đó hoàn toàn bình thường. Bạn đang bắt đầu một điều mới, và điều quan trọng là: bạn đã dừng lại để lắng nghe.<br><br>
-      3 video trong 3 ngày tới sẽ giúp bạn khởi động lại, nhẹ nhàng mà đủ sâu:<br><br>
-      <strong>Ngày 1:</strong> Hít thở 2 phút – để xoa dịu và ổn định lại<br>
-      <strong>Ngày 2:</strong> Tư thế ngồi – cách đơn giản nhất để nâng đỡ bé<br>
-      <strong>Ngày 3:</strong> Cơ sàn chậu nhẹ nhàng – vừa sức, không áp lực<br><br>
+      <strong>Bạn chưa sẵn sàng – và đó chính xác lý do bạn đang ở đây.</strong><br><br>
+      Bạn đang ở điểm xuất phát – nơi mọi thứ vẫn còn rất mới mẻ: từ tư thế ngồi, hơi thở, cơ sàn chậu cho tới việc phục hồi sau sinh. Có thể bạn chưa từng được hướng dẫn cụ thể, hoặc đơn giản là chưa từng được ai giải thích cặn kẽ.<br><br>
+      <strong>💬 Không sao cả.</strong> Hành trình nào cũng bắt đầu từ việc nhận ra mình cần biết thêm. Mình ở đây để giúp bạn bắt đầu từ những bước đầu tiên phù hợp với tình trạng sức khoẻ của bạn nhất, tối ưu thời gian bạn có trong quá trình mang thai nhất.<br><br>
     `;
   }
 
   let endFinalMessage = `
-    Để nhận đủ 3 video trong 3 ngày tới:<br><br>
-    👉 Điền email của bạn vào ô bên dưới – Hãy đảm bảo email đúng để nhận được videos 💌<br><br>
+    <strong>👉 Bạn muốn hiểu rõ: "Cơ thể mình thực sự đang cần gì?"</strong><br><br>
+    Chia sẻ email ở form dưới đây, mình sẽ gửi bản phân tích chi tiết dựa trên từng câu trả lời của bạn trong quiz trong vòng 2-3 ngày. Vì mình cần thời gian xem câu trả lời của bạn kĩ, nên sẽ mất 2-3 ngày.<br><br>
+    <strong>✨ Đã có nhiều mẹ bầu nhận được phân tích này và nói: "Giờ mình biết chính xác mình cần làm gì rồi!"</strong><br><br>
+    <strong>BONUS:</strong> Mình sẽ gửi tặng kèm Mini challenge 3 ngày (mỗi ngày 1 email với hướng dẫn cụ thể), giúp bạn bắt đầu kết nối với cơ thể trong hành trình mang bầu này hơn.<br><br>
+    Điền email để nhận kết quả phân tích chi tiết dành riêng cho bạn & email mini challenge.<br>
     <input type="email" id="userEmail" placeholder="Nhập email của bạn..." style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 5px;">
     <div id="emailError" style="color: #721c24; font-size: 14px; margin: 5px 0; display: none;"></div>
     <button type="button" onclick="submitEmail()" style="width: 100%; padding: 12px; background-color: #28a745; color: white; border: none; border-radius: 5px; font-weight: bold;">Gửi cho mình videos</button>
-    <div id="emailSuccess" style="color: #155724; font-size: 14px; margin: 10px 0; display: none;">✅ Email đã được ghi nhận thành công!</div>
+    <div id="emailSuccess" style="color: #155724; font-size: 14px; margin: 10px 0; display: none;">✅ Bạn hãy đón chờ email từ mình nhé!</div><br>
+    Sau khi điền, bạn sẽ nhận được email confirmation & 1 video hướng dẫn tập thở 2 phút để có thể bắt đầu ngay.<br><br>
+    Hành trình sinh nở là 1 hành trình thiêng liêng. Nó không chỉ sinh con mà còn sinh ra những bà mẹ mạnh mẽ, tự chủ và biết cách lắng nghe bản thân.<br><br>
+    Thân,<br><br>
+    Linh<br>
   `;
 
   // Calculate max possible score dynamically
@@ -529,7 +488,7 @@ function showResults() {
   const scorePercentage = Math.round((totalScore / maxPossibleScore) * 100);
 
   finalScore.innerHTML = `
-    <h3>Kết quả đánh giá: ${scorePercentage}%</h3>
+    <h3>KẾT QUẢ ĐÁNH GIÁ CỦA BẠN: ${scorePercentage}%</h3>
     <div>${scoreMessage}</div>
     <div>${endFinalMessage}</div>
   `;
@@ -566,7 +525,6 @@ async function sendResultsToGoogleSheets() {
       console.log('Success:', result);
 
       const statusDiv = document.createElement('div');
-      statusDiv.innerHTML = '✅ Results successfully saved!';
       document.getElementById('results').appendChild(statusDiv);
     } else {
       throw new Error('Network response was not ok');

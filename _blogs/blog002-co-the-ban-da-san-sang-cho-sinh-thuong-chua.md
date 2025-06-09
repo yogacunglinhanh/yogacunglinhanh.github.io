@@ -11,13 +11,13 @@ excerpt_separator: "<!--more-->"
 
 Chỉ cần trả lời trung thực 18 câu hỏi, và bạn sẽ thấy
 
-Những thực hành thường ngày tưởng nhỏ, nhưng nó có thể ảnh hưởng đến quá trình sinh nở
-
+- Những thực hành thường ngày tưởng nhỏ, nhưng nó có thể ảnh hưởng đến quá trình sinh nở.
 - Toàn diện những gì bạn có thể chuẩn bị cho việc sinh nở.
 - Nhận ngay bài tập phù hợp với tuần thai và tình trạng sức khoẻ của bạn.
-- Hành trình sinh thường không bắt đầu từ tuần 39. Nó bắt đầu từ hôm nay – với cơ thể bạn đang mang.
 
-Mỗi câu mang tính đánh giá nhẹ nhàng – không chẩn đoán – không gây áp lực.
+*Hành trình sinh thường không bắt đầu từ tuần 39. Nó bắt đầu từ hôm nay – với cơ thể bạn đang mang.*
+
+*Mỗi câu mang tính đánh giá nhẹ nhàng – không chẩn đoán – không gây áp lực.*
 
 <div class="quiz-container">
   <!-- Progress Bar -->
