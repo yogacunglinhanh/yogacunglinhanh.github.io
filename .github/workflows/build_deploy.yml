@@ -48,6 +48,7 @@ jobs:
       - name: Inject secrets
         run: |
           echo "google_script_url: ${{ secrets.GOOGLE_SCRIPT_URL }}" > _data/secrets.yml
+
       - name: Build with Jekyll
         run: bundle exec jekyll build
         env:
