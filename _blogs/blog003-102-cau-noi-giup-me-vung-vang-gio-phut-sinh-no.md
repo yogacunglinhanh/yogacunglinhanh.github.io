@@ -1,6 +1,6 @@
 ---
 author: linh_dang
-title: "🌸 Món quà thì thầm cho mẹ bầu: 102 câu nói giúp mẹ vững vàng giờ phút sinh nở"
+title: "🌸 Món quà cho mẹ bầu: 102 câu nói giúp mẹ vững vàng giờ phút sinh nở"
 collection: blogs
 permalink: /blogs/102-cau-noi-giup-me-vung-vang-gio-phut-sinh-no/
 excerpt_separator: "<!--more-->"
@@ -9,35 +9,7 @@ excerpt_separator: "<!--more-->"
 <!-- markdownlint-disable MD028 -->
 <!-- markdownlint-disable MD033 -->
 
-## Mẹ đang ở đâu đó trên hành trình thai kỳ…
-
-Có thể mẹ còn vài tháng nữa mới sinh.
-
-Hoặc chỉ còn vài tuần, vài ngày.
-
-Hoặc mẹ đang run khi nghĩ tới phòng sinh – cái nơi mà ai cũng nói "hãy chuẩn bị tinh thần đi".
-
-💭 Và mẹ biết không?
-
-❌ Không phải cứ khoẻ là sinh dễ. Không phải cứ tập yoga là đẻ nhanh.
-
-✅ Mà là: 👉 Mẹ có tin mình làm được – đúng vào khoảnh khắc khó nhất không?
-
-## 🎯 TRƯỚC KHI NGHE AUDIO – MẸ HÃY DỪNG LẠI 3 PHÚT: Cơ thể mẹ đã thực sự sẵn sàng sinh thường chưa?
-
-⚠️ Sự thật: rất nhiều mẹ bầu nghĩ mình đã chuẩn bị đủ... nhưng thực tế còn thiếu 3–4 điều quan trọng.
-
-📍 Test nhanh 3 phút này sẽ giúp mẹ:
-
-- ✅ Biết cơ thể đã thật sự sẵn sàng chưa
-- ✅ Nhận ra điểm còn thiếu & cần bổ sung
-- ✅ Có mini-plan phù hợp với chính mình
-
-👉 Làm test ngay bây giờ tại [link này](/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/) – vì mỗi tuần trễ là mất đi cơ hội chuẩn bị tốt hơn cho bản thân và cho con.
-
-***
-
-🎧 Và đây là món quà mình muốn tặng mẹ: *Audio 102 câu nói thần kỳ – lặp suốt 5 tiếng*
+🎧 *Audio 102 câu nói thần kỳ – lặp suốt 5 tiếng*
 
 Mình thu âm bằng giọng thật, tốc độ chậm, âm nhạc nhẹ nhàng.
 
@@ -52,6 +24,18 @@ Không phải để "giảng dạy", mà là để thì thầm bên tai mẹ –
 📥 Nghe & tải về tại đây: [Tải từ Google Drive](https://bit.ly/102positiveaffirmation)
 
 📺 Nghe ngay trên [YouTube](https://youtu.be/363arSOa958?si=Ar3ulaf6KvzPQ98h) để nếu bạn không nhớ để file ở đâu, bạn luôn có thể tìm lại được.
+
+## 🎯 TRƯỚC KHI NGHE AUDIO – MẸ HÃY DỪNG LẠI 3 PHÚT: Cơ thể mẹ đã thực sự sẵn sàng sinh thường chưa?
+
+⚠️ Sự thật: rất nhiều mẹ bầu nghĩ mình đã chuẩn bị đủ... nhưng thực tế còn thiếu 3–4 điều quan trọng.
+
+📍 Test nhanh 3 phút này sẽ giúp mẹ:
+
+- ✅ Biết cơ thể đã thật sự sẵn sàng chưa
+- ✅ Nhận ra điểm còn thiếu & cần bổ sung
+- ✅ Có mini-plan phù hợp với chính mình
+
+👉 Làm test ngay bây giờ tại [link này](/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/) – vì mỗi tuần trễ là mất đi cơ hội chuẩn bị tốt hơn cho bản thân và cho con.
 
 ## 💡 Positive affirmation – là gì vậy mẹ?
 

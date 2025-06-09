@@ -143,7 +143,7 @@
 // ============================================
 // GOOGLE SPREADSHEET INFORMATION
 // ============================================
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyTeDkaHgACI_vIbx2tJ-Tyi5UqYPxU3Y5YnXUW9jImq2QtudNVSoREP-NTwQyw-Eg/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbz_WbcRlYdYNjjf7074nqySGvBnQtFQDpX49yV53it9zMzls11YRILnNfj16IuZNiBz/exec';
 
 // ============================================
 // QUIZ CONFIGURATION - ADD/REMOVE QUESTIONS HERE
@@ -434,50 +434,6 @@ function showResults() {
   const resultsDiv = document.getElementById('results');
   const finalScore = document.getElementById('finalScore');
 
-  // Determine message based on total score
-  let scoreMessage = '';
-  if (totalScore >= 44) {
-    scoreMessage = `
-      <strong>Bạn biết khá rõ rồi – và mình sẽ giúp bạn nhìn toàn cảnh.</strong><br><br>
-      Bạn có vẻ là người đọc nhiều, học kỹ, thực hành tốt, rất tốt :) Nhưng chính vì có quá nhiều lời khuyên ở YouTube, Facebook, báo chí, sách vở, nên đôi khi bạn lại rơi vào cảm giác thiếu định hướng: nên làm cái gì – lúc nào – và vì sao. Cái bạn cần không phải thêm việc để làm, mà cái thêm cái nhìn tổng quát hơn.<br><br>
-      <strong>💬 Mình sẽ giúp bạn</strong> nhìn lại bức tranh lớn – và sắp xếp lại các mảnh ghép theo thứ tự phù hợp với chính bạn.<br><br>
-    `;
-  } else if (totalScore >= 34 && totalScore < 44) {
-    scoreMessage = `
-      <strong>Bạn đã có nền tảng – chỉ cần ai đó đồng hành thêm một chút.</strong><br><br>
-      Bạn không còn xa lạ với khái niệm về sinh thường, tư thế, hay hơi thở. Có thể bạn đã bắt đầu tập, bắt đầu thở, bắt đầu tin mình có thể sinh tự nhiên. Nhưng điều bạn còn thiếu là sự đều đặn – và một người tạo thêm động lực để bạn không bỏ cuộc giữa chừng.<br><br>
-      <strong>💬 Đó chính là lý do</strong> mình thiết kế hành trình đồng hành này – để bạn giữ nhịp, giữ kết nối với cơ thể và hiểu cơ thể sâu hơn. Hành trình mang thai là 1 hành trình cực kỳ thiêng liêng, trong đời chỉ có vài lần, hãy tận dụng cơ hội để hiểu hơn về mình và cơ thể mình nhé.<br><br>
-    `;
-  } else if (totalScore >= 17 && totalScore < 34) {
-    scoreMessage = `
-      <strong>Cơ thể bạn đang lên tiếng – và bạn đã bắt đầu biết lắng nghe.</strong><br><br>
-      Bạn có thể đã từng nghe đâu đó về cơ sàn chậu, hoặc xem video về hơi thở, nhưng vẫn thấy hoang mang giữa quá nhiều luồng thông tin. Điều khó nhất không phải là thiếu kiến thức, mà là không biết cái gì thực sự phù hợp với mình.<br><br>
-      <strong>💬 Mình hiểu.</strong> Và mình muốn giúp bạn lọc bớt nhiễu, để thấy rõ hơn đâu là điều bạn nên làm ngay bây giờ, vì thời gian chúng ta có hạn. Chúng ta nên tập những gì cần và đủ, thay vì tập lung tung mà không biết cơ thể cần hay không.<br><br>
-    `;
-  } else if (totalScore < 17) {
-    scoreMessage = `
-      <strong>Bạn chưa sẵn sàng – và đó chính xác lý do bạn đang ở đây.</strong><br><br>
-      Bạn đang ở điểm xuất phát – nơi mọi thứ vẫn còn rất mới mẻ: từ tư thế ngồi, hơi thở, cơ sàn chậu cho tới việc phục hồi sau sinh. Có thể bạn chưa từng được hướng dẫn cụ thể, hoặc đơn giản là chưa từng được ai giải thích cặn kẽ.<br><br>
-      <strong>💬 Không sao cả.</strong> Hành trình nào cũng bắt đầu từ việc nhận ra mình cần biết thêm. Mình ở đây để giúp bạn bắt đầu từ những bước đầu tiên phù hợp với tình trạng sức khoẻ của bạn nhất, tối ưu thời gian bạn có trong quá trình mang thai nhất.<br><br>
-    `;
-  }
-
-  let endFinalMessage = `
-    <strong>👉 Bạn muốn hiểu rõ: "Cơ thể mình thực sự đang cần gì?"</strong><br><br>
-    Chia sẻ email ở form dưới đây, mình sẽ gửi bản phân tích chi tiết dựa trên từng câu trả lời của bạn trong quiz trong vòng 2-3 ngày. Vì mình cần thời gian xem câu trả lời của bạn kĩ, nên sẽ mất 2-3 ngày.<br><br>
-    <strong>✨ Đã có nhiều mẹ bầu nhận được phân tích này và nói: "Giờ mình biết chính xác mình cần làm gì rồi!"</strong><br><br>
-    <strong>BONUS:</strong> Mình sẽ gửi tặng kèm Mini challenge 3 ngày (mỗi ngày 1 email với hướng dẫn cụ thể), giúp bạn bắt đầu kết nối với cơ thể trong hành trình mang bầu này hơn.<br><br>
-    Điền email để nhận kết quả phân tích chi tiết dành riêng cho bạn & email mini challenge.<br>
-    <input type="email" id="userEmail" placeholder="Nhập email của bạn..." style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 5px;">
-    <div id="emailError" style="color: #721c24; font-size: 14px; margin: 5px 0; display: none;"></div>
-    <button type="button" onclick="submitEmail()" style="width: 100%; padding: 12px; background-color: #28a745; color: white; border: none; border-radius: 5px; font-weight: bold;">Gửi cho mình videos</button>
-    <div id="emailSuccess" style="color: #155724; font-size: 14px; margin: 10px 0; display: none;">✅ Bạn hãy đón chờ email từ mình nhé!</div><br>
-    Sau khi điền, bạn sẽ nhận được email confirmation & 1 video hướng dẫn tập thở 2 phút để có thể bắt đầu ngay.<br><br>
-    Hành trình sinh nở là 1 hành trình thiêng liêng. Nó không chỉ sinh con mà còn sinh ra những bà mẹ mạnh mẽ, tự chủ và biết cách lắng nghe bản thân.<br><br>
-    Thân,<br><br>
-    Linh<br>
-  `;
-
   // Calculate max possible score dynamically
   const maxPossibleScore = quizQuestions.reduce((total, question) => {
     const maxScoreForQuestion = Math.max(...question.options.map(option => option.score));
@@ -487,8 +443,38 @@ function showResults() {
   // Calculate score as percentage
   const scorePercentage = Math.round((totalScore / maxPossibleScore) * 100);
 
+  // Determine message based on total score
+  let scoreMessage = '';
+  if (totalScore >= 44) {
+    scoreMessage = `
+      <strong>CƠ THỂ BẠN ĐÃ ${scorePercentage}% SẴN SÀNG. BẠN CÓ THỂ BIẾT KHÁ RÕ TỪNG MẨU GHÉP</strong><br><br>
+      Nếu bạn muốn có thêm cái nhìn toàn cảnh về cơ thể, tâm trí của bạn cho việc sinh nở, chia sẻ email ở form dưới đây.<br><br>
+      Mình sẽ dành 2-3 ngày tới để phân tích câu trả lời của bạn và gửi hướng đi tiếp theo để bạn có thể sẵn sàng hơn nữa. Mẹ bầu không cần tập nhiều, chỉ cần tập đúng và đủ.<br><br>
+    `;
+  } else if (totalScore >= 34 && totalScore < 44) {
+    scoreMessage = `
+      <strong>CƠ THỂ BẠN ĐÃ ${scorePercentage}% SẴN SÀNG, BẮT ĐẦU VÀO GUỒNG VÀ CÓ NỀN TẢNG.</strong><br><br>
+      Tuy nhiên có thể bạn chưa có cái nhìn tổng quát mình cần gì trong những tuần tới để tập trung rèn luyện trong những tuần còn lại.<br><br>
+      Nếu bạn muốn hiểu rõ mình thực sự đang cần gì, và nhận bản phân tích chi tiết về độ sẵn sàng của bạn, chia sẻ email ở form dưới đây.<br><br>
+      Mình sẽ dành 2-3 ngày tới để phân tích và gửi hướng đi tiếp theo trong những tuần mang thai còn lại của bạn. Mẹ bầu không cần tập nhiều, chỉ cần tập đúng và đủ.<br><br>
+    `;
+  } else if (totalScore < 34) {
+    scoreMessage = `
+      <strong>CƠ THỂ BẠN ĐÃ ${scorePercentage}% SẴN SÀNG, VÀ CÓ THỂ SẴN SÀNG HƠN.</strong><br><br>
+      Nếu bạn muốn hiểu rõ mình thực sự đang cần gì, và nhận bản phân tích chi tiết về độ sẵn sàng của bạn, chia sẻ email ở form dưới đây.<br><br>
+      Mình sẽ dành 2-3 ngày tới để phân tích và gửi hướng đi tiếp theo trong những tuần mang thai còn lại của bạn. Mẹ bầu không cần tập nhiều, chỉ cần tập đúng và đủ.<br><br>
+    `;
+  }
+
+  let endFinalMessage = `
+    <strong>Hãy đảm bảo email đúng để nhận được video 💌</strong><br><br>
+    <input type="email" id="userEmail" placeholder="Nhập email của bạn..." style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 5px;">
+    <div id="emailError" style="color: #721c24; font-size: 14px; margin: 5px 0; display: none;"></div>
+    <button type="button" onclick="submitEmail()" style="width: 100%; padding: 12px; background-color: #28a745; color: white; border: none; border-radius: 5px; font-weight: bold;">Gửi cho mình videos</button>
+    <div id="emailSuccess" style="color: #155724; font-size: 14px; margin: 10px 0; display: none;">✅ Bạn hãy đón chờ email từ mình nhé!</div>
+  `;
+
   finalScore.innerHTML = `
-    <h3>KẾT QUẢ ĐÁNH GIÁ CỦA BẠN: ${scorePercentage}%</h3>
     <div>${scoreMessage}</div>
     <div>${endFinalMessage}</div>
   `;
@@ -503,12 +489,25 @@ async function sendResultsToGoogleSheets() {
   }, 0);
 
   const resultsData = {
-    timestamp: new Date().toISOString(),
+    timestamp_au: (function() {
+      const d = new Date();
+      d.setHours(d.getHours() + 10);
+      return d.toISOString().replace('Z', '+10:00');
+    })(),
     totalQuestions: totalQuestions,
     totalScore: totalScore,
     maxPossibleScore: maxPossibleScore,
-    answers: answers || {}
+    scorePercentage: Math.round((totalScore / maxPossibleScore) * 100),
+    email: answers.userEmail.email ? answers.userEmail.email : '',
   };
+
+  // Dynamically add each answer's details
+  for (let i = 0; i < quizQuestions.length; i++) {
+    const ans = answers[`q${i}`] || {};
+    resultsData[`question_${i+1}`] = ans.question || '';
+    resultsData[`answer_${i+1}`] = ans.selectedText || '';
+    resultsData[`score_${i+1}`] = ans.score !== undefined ? ans.score : '';
+  }
 
   try {
     const response = await fetch(GOOGLE_SCRIPT_URL, {
@@ -531,7 +530,6 @@ async function sendResultsToGoogleSheets() {
     }
   } catch (error) {
     console.error('Error:', error);
-    // Handle error appropriately
   }
 }
 
@@ -568,7 +566,11 @@ function submitEmail() {
   // Add email to answers object
   answers.userEmail = {
     email: email,
-    submittedAt: new Date().toISOString()
+    submittedAt: (function() {
+      const d = new Date();
+      d.setHours(d.getHours() + 10);
+      return d.toISOString().replace('Z', '+10:00');
+    })()
   };
 
   // Show success message
