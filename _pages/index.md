@@ -39,7 +39,7 @@ Các lớp của mình tập trung tạo dựng cho học viên kiến thức n�
 
 Để hiểu thêm cách dạy của mình, mọi người có thể tham khảo các bài tập trên YouTube Yoga cùng Linh Anh ở [đây](https://www.youtube.com/@yogacunglinhanh-noibanketn8829).
 
-*"Nếu muốn đi nhanh hãy đi một mình, nhưng muốn đi xa hãy đi cùng nhau"* là thế mà.
+_"Nếu muốn đi nhanh hãy đi một mình, nhưng muốn đi xa hãy đi cùng nhau"_ là thế mà.
 
 {% include youtube_embed.html id="sMw6G99DTkc" %}
 

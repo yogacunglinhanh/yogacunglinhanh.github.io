@@ -9,19 +9,19 @@ excerpt_separator: "<!--more-->"
 <!-- markdownlint-disable MD028 -->
 <!-- markdownlint-disable MD033 -->
 
-🎧 *Audio 102 câu nói thần kỳ – lặp suốt 5 tiếng*
+🎧 _Audio 102 câu nói thần kỳ – lặp suốt 5 tiếng_
 
 Mình thu âm bằng giọng thật, tốc độ chậm, âm nhạc nhẹ nhàng.
 
 Không phải để "giảng dạy", mà là để thì thầm bên tai mẹ – như một người bạn âm thầm nhắc mẹ:
 
->"Bạn làm được."
+> "Bạn làm được."<br>
+> "Tôi tin bạn."<br>
+> "Mọi thứ rồi sẽ ổn."
 
->"Tôi tin bạn."
+## 🎯 TEST NHANH 3 PHÚT: Cơ thể mẹ đã thực sự sẵn sàng sinh thường chưa?
 
->"Mọi thứ rồi sẽ ổn."
-
-## 🎯 TRƯỚC KHI NGHE AUDIO – MẸ HÃY DỪNG LẠI 3 PHÚT: Cơ thể mẹ đã thực sự sẵn sàng sinh thường chưa?
+[👉 LÀM TEST NGAY BÂY GIỜ](/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
 ⚠️ Sự thật: rất nhiều mẹ bầu nghĩ mình đã chuẩn bị đủ... nhưng thực tế còn thiếu 3–4 điều quan trọng.
 
@@ -31,9 +31,7 @@ Không phải để "giảng dạy", mà là để thì thầm bên tai mẹ –
 - ✅ Nhận ra điểm còn thiếu & cần bổ sung
 - ✅ Có mini-plan phù hợp với chính mình
 
-👉 Làm test ngay bây giờ tại [link này](/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/) – vì mỗi tuần trễ là mất đi cơ hội chuẩn bị tốt hơn cho bản thân và cho con.
-
-***
+---
 
 📥 Nghe & tải về **102 câu nói giúp mẹ vững vàng giờ phút sinh nở** tại đây: [Tải từ Google Drive](https://bit.ly/102positiveaffirmation)
 
@@ -46,14 +44,13 @@ Không phải để "giảng dạy", mà là để thì thầm bên tai mẹ –
 📚 **Khoa học đã chứng minh:**
 
 - Khi lặp lại các câu nói tích cực, vùng não liên quan đến cảm xúc và khả năng ứng phó với căng thẳng sẽ được kích hoạt mạnh hơn.
-- Một nghiên cứu từ *Carnegie Mellon University* cho thấy người sử dụng affirmation thường xuyên có khả năng giữ bình tĩnh và đưa ra lựa chọn sáng suốt hơn khi đối mặt áp lực.
+- Một nghiên cứu từ _Carnegie Mellon University_ cho thấy người sử dụng affirmation thường xuyên có khả năng giữ bình tĩnh và đưa ra lựa chọn sáng suốt hơn khi đối mặt áp lực.
 - Trong thai kỳ, điều này đặc biệt quan trọng vì tâm lý mẹ ảnh hưởng trực tiếp đến hormone sinh nở (như oxytocin) và cảm nhận an toàn của bé.
 
 💞 Vậy nên, khi mẹ nghe những câu nói như:
 
->“Tôi đủ mạnh mẽ để làm điều này.”
-
->“Cơ thể mình biết cách sinh nở.”
+> “Tôi đủ mạnh mẽ để làm điều này.”<br>
+> “Cơ thể mình biết cách sinh nở.”
 
 Đó không chỉ là lời động viên. Đó là liệu pháp tinh thần, là một cách mẹ đang luyện tập tâm trí – để sẵn sàng nhất khi giây phút vượt cạn đến.
 
@@ -82,17 +79,15 @@ Cứ để lời thì thầm ấy len vào từng hơi thở, thẩm thấu vào
 
 **💬 Một vài mẹ bầu đã nghe và chia sẻ:**
 
->"Em cảm thấy được tiếp thêm niềm tin, lạc quan nhiều hơn."
-
->"Audio nghe dễ chịu lắm em ạ."
-
->"Nghe audio mà chị thấy thời gian như chậm lại, mọi thứ là có thể."
+> "Em cảm thấy được tiếp thêm niềm tin, lạc quan nhiều hơn."<br>
+> "Audio nghe dễ chịu lắm em ạ."<br>
+> "Nghe audio mà chị thấy thời gian như chậm lại, mọi thứ là có thể."
 
 **🙋‍♀️ Mình là Linh – Giáo viên Yoga Chuyên Bầu & Hồi Phục Sau Sinh được đào tạo tại Úc**:
 
 Mình đã giúp nhiều mẹ chuẩn bị sinh thường thành công qua các khoá Yoga chuyên sâu, và là một người mẹ từng run, rồi từng bình tĩnh lại – chỉ nhờ một câu nói:
 
->"Tôi có thể."
+> "Tôi có thể."
 
 **🎯 Nhớ làm bài test trước nhé mẹ!** 👉 [Kiểm tra: Cơ thể bạn đã sẵn sàng sinh thường chưa?](/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/)
 
