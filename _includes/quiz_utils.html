@@ -276,14 +276,6 @@ const quizQuestions = [
       { text: "Có ý tưởng nhưng chưa nói chuyện với ai", score: 2 },
       { text: "Mình đã viết kế hoạch và thảo luận với bác sĩ/nữ hộ sinh", score: 3 }
     ]
-  },
-  {
-    question: "Bạn đang ở tuần thai thứ mấy rồi?",
-    options: [
-      { text: "Dưới 28 tuần", score: 1 },
-      { text: "28–36 tuần", score: 2 },
-      { text: "Trên 36 tuần", score: 3 }
-    ]
   }
 ];
 
@@ -445,20 +437,20 @@ function showResults() {
 
   // Determine message based on total score
   let scoreMessage = '';
-  if (totalScore >= 44) {
+  if (totalScore >= 41) {
     scoreMessage = `
       <strong>CƠ THỂ BẠN ĐÃ ${scorePercentage}% SẴN SÀNG. BẠN CÓ THỂ BIẾT KHÁ RÕ TỪNG MẨU GHÉP</strong><br><br>
       Nếu bạn muốn có thêm cái nhìn toàn cảnh về cơ thể, tâm trí của bạn cho việc sinh nở, chia sẻ email ở form dưới đây.<br><br>
       Mình sẽ dành 2-3 ngày tới để phân tích câu trả lời của bạn và gửi hướng đi tiếp theo để bạn có thể sẵn sàng hơn nữa. Mẹ bầu không cần tập nhiều, chỉ cần tập đúng và đủ.<br><br>
     `;
-  } else if (totalScore >= 34 && totalScore < 44) {
+  } else if (totalScore >= 31 && totalScore < 41) {
     scoreMessage = `
       <strong>CƠ THỂ BẠN ĐÃ ${scorePercentage}% SẴN SÀNG, BẮT ĐẦU VÀO GUỒNG VÀ CÓ NỀN TẢNG.</strong><br><br>
       Tuy nhiên có thể bạn chưa có cái nhìn tổng quát mình cần gì trong những tuần tới để tập trung rèn luyện trong những tuần còn lại.<br><br>
       Nếu bạn muốn hiểu rõ mình thực sự đang cần gì, và nhận bản phân tích chi tiết về độ sẵn sàng của bạn, chia sẻ email ở form dưới đây.<br><br>
       Mình sẽ dành 2-3 ngày tới để phân tích và gửi hướng đi tiếp theo trong những tuần mang thai còn lại của bạn. Mẹ bầu không cần tập nhiều, chỉ cần tập đúng và đủ.<br><br>
     `;
-  } else if (totalScore < 34) {
+  } else if (totalScore < 31) {
     scoreMessage = `
       <strong>CƠ THỂ BẠN ĐÃ ${scorePercentage}% SẴN SÀNG, VÀ CÓ THỂ SẴN SÀNG HƠN.</strong><br><br>
       Nếu bạn muốn hiểu rõ mình thực sự đang cần gì, và nhận bản phân tích chi tiết về độ sẵn sàng của bạn, chia sẻ email ở form dưới đây.<br><br>
@@ -467,6 +459,10 @@ function showResults() {
   }
 
   let endFinalMessage = `
+    <strong>Bạn đang ở tuần thai thứ bao nhiêu?</strong><br><br>
+    <input type="text" id="userWeek" placeholder="Nhập tuần thai của bạn..." style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 5px;">
+    <div id="weekError" style="color: #721c24; font-size: 14px; margin: 5px 0; display: none;"></div>
+    <button type="button" onclick="submitWeek()" style="width: 100%; padding: 12px; background-color: #007bff; color: white; border: none; border-radius: 5px; font-weight: bold;">Gửi</button>
     <strong>Hãy đảm bảo email đúng để nhận được video 💌</strong><br><br>
     <input type="email" id="userEmail" placeholder="Nhập email của bạn..." style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 5px;">
     <div id="emailError" style="color: #721c24; font-size: 14px; margin: 5px 0; display: none;"></div>
@@ -495,6 +491,7 @@ async function sendResultsToGoogleSheets() {
     maxPossibleScore: maxPossibleScore,
     scorePercentage: Math.round((totalScore / maxPossibleScore) * 100),
     email: answers.userEmail.email ? answers.userEmail.email : '',
+    week: answers.userWeek.week ? answers.userWeek.week : '',
   };
 
   // Dynamically add each answer's details
@@ -531,6 +528,32 @@ async function sendResultsToGoogleSheets() {
 
 function retryQuiz() {
   initializeQuiz();
+}
+
+// Week function
+// Need to validate the week input to be a number between 1 and 40.
+function submitWeek() {
+  const weekInput = document.getElementById('userWeek');
+  const weekError = document.getElementById('weekError');
+  const week = parseInt(weekInput.value.trim(), 10);
+
+  // Hide previous messages
+  weekError.style.display = 'none';
+
+  if (!week || isNaN(week) || week < 1 || week > 40) {
+    weekError.textContent = 'Vui lòng nhập tuần thai hợp lệ (1-40).';
+    weekError.style.display = 'block';
+    return;
+  }
+
+  // Add week to answers object
+  answers.userWeek = {
+    week: week,
+    submittedAt: new Date().toLocaleString('en-AU', {timeZone: 'Australia/Sydney'})
+  };
+
+  console.log('Week recorded:', week);
+  console.log('Updated answers:', answers);
 }
 
 // Email validation and submission function
