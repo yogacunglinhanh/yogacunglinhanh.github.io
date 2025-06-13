@@ -74,7 +74,8 @@ yoga-bau-vuot-can-lo-trinh-week1:
     alt: "Tuần 1: Nền Tảng"
     title: "Tuần 1: Nền Tảng"
     excerpt: >-
-      Giới thiệu về yoga bầu, các tư thế an toàn cho thai kỳ<br><br>
+      Giới thiệu về yoga bầu, lợi ích và các nguyên tắc vàng tập Yoga để đảm bảo an toàn cho mẹ và bé.<br><br>
+      Giới thiệu các tư thế ngồi, đứng, di chuyển để giúp mẹ giảm đau, mỏi và các triệu chứng mang thai, đặc biệt sẽ giúp ích cho các mẹ bầu bận rộn không có nhiều thời gian tập luyện và các mẹ không hay thường xuyên tập luyện trước khi mang thai.<br><br>
       *"Linh thiết kế bài bản quá! Vừa mở ra đã thấy yên tâm, không cần giỏi công nghệ vẫn học được."*<br>
       *- Mẹ P sinh lần đầu, tuổi 35*
 yoga-bau-vuot-can-lo-trinh-week2:
