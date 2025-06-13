@@ -19,7 +19,9 @@ Không phải để "giảng dạy", mà là để thì thầm bên tai mẹ –
 > "Tôi tin bạn."<br>
 > "Mọi thứ rồi sẽ ổn."
 
-## 🎯 TRƯỚC KHI NGHE AUDIO – MẸ HÃY DỪNG LẠI 3 PHÚT: Cơ thể mẹ đã thực sự sẵn sàng sinh thường chưa?
+## 🎯 TEST NHANH 3 PHÚT: Cơ thể mẹ đã thực sự sẵn sàng sinh thường chưa?
+
+[👉 LÀM TEST NGAY BÂY GIỜ](/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
 ⚠️ Sự thật: rất nhiều mẹ bầu nghĩ mình đã chuẩn bị đủ... nhưng thực tế còn thiếu 3–4 điều quan trọng.
 
@@ -28,8 +30,6 @@ Không phải để "giảng dạy", mà là để thì thầm bên tai mẹ –
 - ✅ Biết cơ thể đã thật sự sẵn sàng chưa
 - ✅ Nhận ra điểm còn thiếu & cần bổ sung
 - ✅ Có mini-plan phù hợp với chính mình
-
-👉 Làm test ngay bây giờ tại [link này](/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/) – vì mỗi tuần trễ là mất đi cơ hội chuẩn bị tốt hơn cho bản thân và cho con.
 
 ---
 
