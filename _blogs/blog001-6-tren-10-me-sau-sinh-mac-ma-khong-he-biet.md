@@ -15,8 +15,8 @@ Sau sinh một thời gian, nếu bạn cảm thấy bụng mình vẫn còn ph�
 
 Mình gặp rất nhiều mẹ sau sinh nói:
 
->“Chắc do mình chưa giảm mỡ bụng”<br>
-“Chắc cần tập mạnh hơn…”
+> “Chắc do mình chưa giảm mỡ bụng”<br>
+> “Chắc cần tập mạnh hơn…”
 
 Nhưng thực tế, đây không phải là vấn đề mỡ. Mà là **cấu trúc cơ bụng bị giãn ra và chưa được phục hồi đúng cách**.
 

@@ -138,7 +138,7 @@ Bạn đã phục hồi xong. Cơ thể ổn hơn. Bụng có cảm giác. Core 
 
 ## Gợi cảm hứng khép lại
 
->“Hồi phục sau sinh không tự đến theo thời gian. Nó cần bạn ở lại – mỗi ngày – một chút.”
+> “Hồi phục sau sinh không tự đến theo thời gian. Nó cần bạn ở lại – mỗi ngày – một chút.”
 
 Bạn đã vượt qua giai đoạn khó khăn nhất.
 

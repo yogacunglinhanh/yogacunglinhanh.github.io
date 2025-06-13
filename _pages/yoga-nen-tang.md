@@ -135,7 +135,7 @@ Sau khoá học, bạn sẽ:
 
 **Bước 3:** Linh sẽ nhắn tin cho bạn nếu thấy lớp học phù hợp với bạn, và bạn sẽ chuyển tiền vào tài khoản dưới:
 
->Việt Nam: Đặng Ngọc Anh, Account number: 06740920301, TP Bank
+> Việt Nam: Đặng Ngọc Anh, Account number: 06740920301, TP Bank
 
 ​Vậy là bạn đã sẵn sàng để kết nối với cơ thể & hơi thở rồi! Chúc mừng!
 

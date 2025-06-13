@@ -177,7 +177,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 
 {% include feature_row id="yoga-bau-vuot-can-cac-goi-hoc" %}
 
-***Lưu Ý: Gói Toàn Diện & VIP : Nhận tối đa 10 mẹ bầu đăng ký mỗi tháng để đảm bảo chất lượng đồng hành 1:1!***
+**_Lưu Ý: Gói Toàn Diện & VIP : Nhận tối đa 10 mẹ bầu đăng ký mỗi tháng để đảm bảo chất lượng đồng hành 1:1!_**
 
 <div style="text-align: center;">
   <a href="https://forms.gle/hJuC49WYqPv39qcS7"

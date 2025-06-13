@@ -15,9 +15,9 @@ Chỉ cần trả lời trung thực 18 câu hỏi, và bạn sẽ thấy
 - Toàn diện những gì bạn có thể chuẩn bị cho việc sinh nở.
 - Nhận ngay bài tập phù hợp với tuần thai và tình trạng sức khoẻ của bạn.
 
-*Hành trình sinh thường không bắt đầu từ tuần 39. Nó bắt đầu từ hôm nay – với cơ thể bạn đang mang.*
+_Hành trình sinh thường không bắt đầu từ tuần 39. Nó bắt đầu từ hôm nay – với cơ thể bạn đang mang._
 
-*Mỗi câu mang tính đánh giá nhẹ nhàng – không chẩn đoán – không gây áp lực.*
+_Mỗi câu mang tính đánh giá nhẹ nhàng – không chẩn đoán – không gây áp lực._
 
 <div class="quiz-container">
   <!-- Progress Bar -->
