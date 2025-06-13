@@ -459,11 +459,11 @@ function showResults() {
   }
 
   let endFinalMessage = `
-    <strong>Bạn đang ở tuần thai thứ bao nhiêu?</strong><br><br>
+    <strong>Bạn đang ở tuần thai thứ bao nhiêu? Thông tin này rất cần thiết để mình đưa ra gợi ý phù hợp nhất cho bạn</strong><br>
     <input type="text" id="userWeek" placeholder="Nhập tuần thai của bạn..." style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 5px;">
     <div id="weekError" style="color: #721c24; font-size: 14px; margin: 5px 0; display: none;"></div>
-    <button type="button" onclick="submitWeek()" style="width: 100%; padding: 12px; background-color: #007bff; color: white; border: none; border-radius: 5px; font-weight: bold;">Gửi</button>
-    <strong>Hãy đảm bảo email đúng để nhận được video 💌</strong><br><br>
+    <button type="button" onclick="submitWeek()" style="width: 100%; padding: 12px; background-color: #007bff; color: white; border: none; border-radius: 5px; font-weight: bold;">Gửi</button><br><br>
+    <strong>Hãy đảm bảo email đúng để nhận được video 💌</strong><br>
     <input type="email" id="userEmail" placeholder="Nhập email của bạn..." style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 5px;" disabled>
     <div id="emailError" style="color: #721c24; font-size: 14px; margin: 5px 0; display: none;"></div>
     <button type="button" id="submitEmailBtn" onclick="submitEmail()" style="width: 100%; padding: 12px; background-color: #28a745; color: white; border: none; border-radius: 5px; font-weight: bold;" disabled>Gửi cho mình videos</button>
