@@ -25,7 +25,7 @@ PHÙ HỢP CHO MẸ SINH THƯỜNG & SINH MỔ.
 
 Nhận ngay tại đấy! 
 
-[Tôi muốn nhận quà](https://docs.google.com/forms/d/e/1FAIpQLSfriFoYFY1R7ZoGgrttHebYs5xGAxIupaIAY-EG4lEckeBUwQ/viewform){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}[Chat với mình qua Facebook nhé](https://www.facebook.com/ngoclinhdnl/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+[Tôi muốn nhận quà](https://docs.google.com/forms/d/e/1FAIpQLSfriFoYFY1R7ZoGgrttHebYs5xGAxIupaIAY-EG4lEckeBUwQ/viewform){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
 ## Tách cơ bụng là gì?
 
@@ -138,5 +138,5 @@ Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạ
 Ngoài ra, nếu bạn sinh mổ, mà vẫn cảm thấy đau, căng khi ngồi dậy. Hãy để cho cơ thể hoàn toàn hết đau đã. Tập trung vào hơi thở trước 3 phần như ở trên.
 
 Nếu còn thắc mắc gì, nhắn tin với Linh để nhận tư vấn thêm.
-
+[Chat với mình qua Facebook nhé](https://www.facebook.com/ngoclinhdnl/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
