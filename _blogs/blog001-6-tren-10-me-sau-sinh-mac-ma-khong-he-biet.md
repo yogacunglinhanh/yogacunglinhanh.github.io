@@ -20,6 +20,13 @@ Mình gặp rất nhiều mẹ sau sinh nói:
 
 Nhưng thực tế, đây không phải là vấn đề mỡ. Mà là **cấu trúc cơ bụng bị giãn ra và chưa được phục hồi đúng cách**.
 
+## 🎯 MÓN QUÀ CHO MẸ SAU SINH: BỘ 3 VIDEO TẬP AN TOÀN, HIỆU QUẢ. 
+PHÙ HỢP CHO MẸ SINH THƯỜNG & SINH MỔ.
+
+Nhận ngay tại đấy! 
+
+[Tôi muốn nhận quà](https://docs.google.com/forms/d/e/1FAIpQLSfriFoYFY1R7ZoGgrttHebYs5xGAxIupaIAY-EG4lEckeBUwQ/viewform){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}[Chat với mình qua Facebook nhé](https://www.facebook.com/ngoclinhdnl/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+
 ## Tách cơ bụng là gì?
 
 Trong thai kỳ, cơ thẳng bụng (rectus abdominis) – gồm 2 dải cơ chạy dọc hai bên rốn – sẽ bị kéo giãn để tạo không gian cho thai nhi phát triển. Dải mô liên kết ở giữa (linea alba) cũng bị căng giãn theo. Nếu sau sinh, khoảng cách giữa hai bên cơ này không khép lại hoàn toàn, thì gọi là **Diastasis Recti**.
@@ -130,10 +137,6 @@ Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạ
 
 Ngoài ra, nếu bạn sinh mổ, mà vẫn cảm thấy đau, căng khi ngồi dậy. Hãy để cho cơ thể hoàn toàn hết đau đã. Tập trung vào hơi thở trước 3 phần như ở trên.
 
-Nếu bạn quan tâm về hành trình hồi phục sau sinh, để lại email và điền khảo sát dưới đây. Sau khi điền thông tin, bạn sẽ được nhận bộ 3 video tập an toàn tại nhà cho mẹ sau sinh.
+Nếu còn thắc mắc gì, nhắn tin với Linh để nhận tư vấn thêm.
 
-Những thông tin trong khảo sát sẽ giúp mình hiểu hơn về nhu cầu của mẹ sau sinh, và giúp gửi & chia sẻ thông tin hữu ích đến cho mọi người.
 
-Cảm ơn bạn! ♥️♥️♥️
-
-[Làm khảo sát ngay nhé](https://docs.google.com/forms/d/e/1FAIpQLSfriFoYFY1R7ZoGgrttHebYs5xGAxIupaIAY-EG4lEckeBUwQ/viewform){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}[Chat với mình qua Facebook nhé](https://www.facebook.com/ngoclinhdnl/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
