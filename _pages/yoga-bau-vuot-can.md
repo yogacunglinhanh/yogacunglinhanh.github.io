@@ -257,26 +257,22 @@ Song song đó, Linh có kinh nghiệm giảng dạy về trị liệu đau (c�
   <p>Cho mình được cùng bạn bước đi trên hành trình ấy.</p>
 </details>
 
-## Các Tips Hay
-
-### 6 Động Tác Thai Kỳ Khoẻ Mạnh Sinh Nở Dễ Dàng
-
-{% include youtube_embed.html id="u_7R_D45bMI" %}
+## Học Thử Tại Đây
 
 ### Vị Trí Tối Ưu Của Em Bé Là Gì?
 
 {% include youtube_embed.html id="PdqnI9-HSHk" %}
 
+### Cơ Sàn Chậu 101
+
+{% include youtube_embed.html id="XbR-RpYR0_w" %}
+
 ### Đi Đẻ Nên Mang Gì Cho Bản Thân?
 
 {% include youtube_embed.html id="N6hogXUaD88" %}
 
-### Lợi & Hại Của Việc Tự Tập Yoga Theo YouTube Tại Nhà?
-
-{% include youtube_embed.html id="z3uONHon5dg" %}
-
 ## Bạn Muốn Được Hỗ Trợ Thêm?
 
-[Nhận 7 Ngày Luyện Tập Cho 7 Triệu Chứng Bầu](https://www.facebook.com/ngoclinhdnl/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+[Test Mức Độ Sẵn Sàng Sinh Thường]([https://www.facebook.com/ngoclinhdnl/](https://yogacunglinhanh.com/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/)){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 [Tham Gia Nhóm Facebook](https://www.facebook.com/ngoclinhdnl/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 [Chat Với Linh Qua Facebook](https://www.facebook.com/ngoclinhdnl/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
