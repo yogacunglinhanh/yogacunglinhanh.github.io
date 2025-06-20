@@ -74,33 +74,23 @@ yoga-21-ngay-ket-noi-voi-co-the:
 
 <details>
   <summary><strong>Mình mới tập Yoga, mình nên bắt đầu từ đâu?</strong></summary>
-  <p>Nếu bạn mới tập Yoga, và chưa có nền tảng vững chắc tập thế nào để an toàn, không bị chấn thương, mình sẽ khuyến khích bạn tham khảo khoá Yoga nền tảng.<p>
+  <p>Nếu bạn mới tập Yoga, và chưa có nền tảng vững chắc tập thế nào để an toàn, không bị chấn thương, mình sẽ khuyến khích bạn tham khảo khoá Yoga nền tảng.
     <li>Khoá sẽ cho bạn 1 nền tảng Yoga vững chắc để tránh những chấn thương không cần thiết như thoái hoá cột sống cổ, thoái hoá cột sống lưng, đau khớp đầu gối, chấn thương cổ tay ....</li>
     <li>Cho bạn nào thực sự tạo dựng nền tảng Yoga chắc chắn để khoẻ nhưng trên hết không bị chấn thương cổ tay, lưng, cổ, chân, đầu gối . vvv.</li>
     <li>Ngoài ra, lớp cũng giúp bạn bắt đầu tập thở - 1 trong những điều nhiều lớp Yoga bỏ qua nhưng cực kỳ quan trọng, nó như xây ngôi nhà mà thiếu cái "móng nhà" í. Bạn có thể tham khảo thêm thông tin lớp tại https://yogacunglinhanh.com/khoa-hoc/yoga-nen-tang/.</li>
-</details>
 
 <details>
   <summary><strong>Mình muốn tìm hiểu thêm về lớp Yoga Bầu Trước & Hồi Phục Sau Sinh?</strong></summary>
-  <p>Tuỳ tình trạng cơ thể của mẹ bầu, và bạn đã sinh xong bao lâu, mình có những khoá khác nhau để giúp mẹ trau dồi sức khoẻ cho bản thân, và hồi phục sau sinh an toàn và hiệu quả</p>
+  <p>Tuỳ tình trạng cơ thể của mẹ bầu, và bạn đã sinh xong bao lâu, mình có những khoá khác nhau để giúp mẹ trau dồi sức khoẻ cho bản thân, và hồi phục sau sinh an toàn và hiệu quả
      <li>Bạn có thể tham khảo thông tin lớp ở trên & tham gia nhóm cộng đồng Yoga Bầu & Hồi Phục Sau Sinh Cùng Linh Anh https://www.facebook.com/groups/yogabau.linhanh</li>
      <li>Ngoài ra, bạn cũng có thể tham khảo 2 playlist YouTube mình đã tạo dựng cho mẹ bầu & mẹ sau sinh, để hiểu thêm về cách dạy của mình.
   <li>Bí Quyết Sinh Nở Dễ Dàng: https://www.youtube.com/playlist?list=PL-U5o45t3xZgy_-zVaA288VzX6DaCRHpg
   <li>Bí Quyết Hồi Phục An Toàn Cho Mẹ Sinh Thường & Sinh Mổ: https://www.youtube.com/playlist?list=PL-U5o45t3xZgxNxLBojt2-R2IX8CCU9T9</li>
-</details>
 
 <details>
   <summary><strong>Mình sẽ học online đúng không?</strong></summary>
-  <p>Đúng vậy!! Bạn, máy tính yêu thương của bạn, và Yoga ☺️</p>
-</details>
-
-<details>
-  <summary><strong>Bạn sẽ học như thế nào?</strong></summary>
   <ul>
-    <li>Bạn sẽ được mời vào nhóm Facebook kín riêng với hướng dẫn kỹ lượng mà mình đã sắp xếp theo 6 tuần cho gần 20 chục các động tác cơ bản của Yoga.</li>
-    <li>Ở lớp này, bạn có thể tự chọn giờ học cho bạn 1 cách phù hợp nhất. Cứ khi nào muốn học là mở bài ra học thôi. Bạn sẽ là người làm chủ chặng đường này của mình.</li>
-    <li>Khoá học kéo dài 6 tuần, nhưng bạn có thể giãn ra thành 8-9 tuần nếu cần thiết, miễn là bạn vẫn tập các bài cũ đều đặn các tuần.</li>
-  </ul>
+  <p>Đúng vậy!! Bạn, máy tính yêu thương của bạn, và Yoga ☺️</p>
 </details>
 
 <details>
@@ -113,5 +103,6 @@ yoga-21-ngay-ket-noi-voi-co-the:
 
 <details>
   <summary><strong>Nếu mình muốn học thì bao giờ lớp bắt đầu?</strong>​​​​​​​​​​​​​​​​​​</summary>
+  <ul>
   <p>Bạn có thể bắt đầu bất cứ lúc nào bạn sẵn sàng! Tuy nhiên nếu bạn là mẹ bầu, sau sinh hay có bất cứ chấn thương nào, hãy nhắn tin cho mình để được tư vấn lộ trình chỉnh sửa riêng cho bạn nhé</p>
 </details>
