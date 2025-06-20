@@ -74,22 +74,19 @@ yoga-21-ngay-ket-noi-voi-co-the:
 
 <details>
   <summary><strong>Mình mới tập Yoga, mình nên bắt đầu từ đâu?</strong></summary>
-  <ul>
-    <li>Nếu bạn mới tập Yoga, và chưa có nền tảng vững chắc tập thế nào để an toàn, không bị chấn thương, mình sẽ khuyến khích bạn tham khảo khoá Yoga nền tảng.</li>
+  <p>Nếu bạn mới tập Yoga, và chưa có nền tảng vững chắc tập thế nào để an toàn, không bị chấn thương, mình sẽ khuyến khích bạn tham khảo khoá Yoga nền tảng.<p>
     <li>Khoá sẽ cho bạn 1 nền tảng Yoga vững chắc để tránh những chấn thương không cần thiết như thoái hoá cột sống cổ, thoái hoá cột sống lưng, đau khớp đầu gối, chấn thương cổ tay ....</li>
     <li>Cho bạn nào thực sự tạo dựng nền tảng Yoga chắc chắn để khoẻ nhưng trên hết không bị chấn thương cổ tay, lưng, cổ, chân, đầu gối . vvv.</li>
     <li>Ngoài ra, lớp cũng giúp bạn bắt đầu tập thở - 1 trong những điều nhiều lớp Yoga bỏ qua nhưng cực kỳ quan trọng, nó như xây ngôi nhà mà thiếu cái "móng nhà" í. Bạn có thể tham khảo thêm thông tin lớp tại https://yogacunglinhanh.com/khoa-hoc/yoga-nen-tang/.</li>
-  </ul>
 </details>
 
 <details>
   <summary><strong>Mình muốn tìm hiểu thêm về lớp Yoga Bầu Trước & Hồi Phục Sau Sinh?</strong></summary>
   <p>Tuỳ tình trạng cơ thể của mẹ bầu, và bạn đã sinh xong bao lâu, mình có những khoá khác nhau để giúp mẹ trau dồi sức khoẻ cho bản thân, và hồi phục sau sinh an toàn và hiệu quả</p>
      <li>Bạn có thể tham khảo thông tin lớp ở trên & nhắn tin cho mình qua Facebook/Zalo để được tư vấn thêm.</li>
-  <li>Ngoài ra, bạn cũng có thể tham khảo 2 playlist YouTube mình đã tạo dựng cho mẹ bầu & mẹ sau sinh.
-  Bí Quyết Sinh Nở Dễ Dàng: https://www.youtube.com/playlist?list=PL-U5o45t3xZgy_-zVaA288VzX6DaCRHpg
-  Bí Quyết Hồi Phục An Toàn Cho Mẹ Sinh Thường & Sinh Mổ
-  </li>
+     <li>Ngoài ra, bạn cũng có thể tham khảo 2 playlist YouTube mình đã tạo dựng cho mẹ bầu & mẹ sau sinh.
+  <li> Bí Quyết Sinh Nở Dễ Dàng: https://www.youtube.com/playlist?list=PL-U5o45t3xZgy_-zVaA288VzX6DaCRHpg<li>
+  <li>Bí Quyết Hồi Phục An Toàn Cho Mẹ Sinh Thường & Sinh Mổ: https://www.youtube.com/playlist?list=PL-U5o45t3xZgxNxLBojt2-R2IX8CCU9T9</li>
 </details>
 
 <details>
