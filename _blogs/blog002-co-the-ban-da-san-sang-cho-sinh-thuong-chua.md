@@ -9,7 +9,7 @@ excerpt_separator: "<!--more-->"
 <!-- markdownlint-disable MD028 -->
 <!-- markdownlint-disable MD033 -->
 
-Chỉ cần trả lời trung thực 18 câu hỏi, và bạn sẽ thấy
+Chỉ cần trả lời trung thực 16 câu hỏi, và bạn sẽ thấy
 
 - Những thực hành thường ngày tưởng nhỏ, nhưng nó có thể ảnh hưởng đến quá trình sinh nở.
 - Toàn diện những gì bạn có thể chuẩn bị cho việc sinh nở.
