@@ -83,9 +83,9 @@ yoga-21-ngay-ket-noi-voi-co-the:
 <details>
   <summary><strong>Mình muốn tìm hiểu thêm về lớp Yoga Bầu Trước & Hồi Phục Sau Sinh?</strong></summary>
   <p>Tuỳ tình trạng cơ thể của mẹ bầu, và bạn đã sinh xong bao lâu, mình có những khoá khác nhau để giúp mẹ trau dồi sức khoẻ cho bản thân, và hồi phục sau sinh an toàn và hiệu quả</p>
-     <li>Bạn có thể tham khảo thông tin lớp ở trên & nhắn tin cho mình qua Facebook/Zalo để được tư vấn thêm.</li>
-     <li>Ngoài ra, bạn cũng có thể tham khảo 2 playlist YouTube mình đã tạo dựng cho mẹ bầu & mẹ sau sinh.
-  <li> Bí Quyết Sinh Nở Dễ Dàng: https://www.youtube.com/playlist?list=PL-U5o45t3xZgy_-zVaA288VzX6DaCRHpg<li>
+     <li>Bạn có thể tham khảo thông tin lớp ở trên & tham gia nhóm cộng đồng Yoga Bầu & Hồi Phục Sau Sinh Cùng Linh Anh https://www.facebook.com/groups/yogabau.linhanh</li>
+     <li>Ngoài ra, bạn cũng có thể tham khảo 2 playlist YouTube mình đã tạo dựng cho mẹ bầu & mẹ sau sinh, để hiểu thêm về cách dạy của mình.
+  <li>Bí Quyết Sinh Nở Dễ Dàng: https://www.youtube.com/playlist?list=PL-U5o45t3xZgy_-zVaA288VzX6DaCRHpg
   <li>Bí Quyết Hồi Phục An Toàn Cho Mẹ Sinh Thường & Sinh Mổ: https://www.youtube.com/playlist?list=PL-U5o45t3xZgxNxLBojt2-R2IX8CCU9T9</li>
 </details>
 
@@ -104,29 +104,14 @@ yoga-21-ngay-ket-noi-voi-co-the:
 </details>
 
 <details>
-  <summary><strong>Có những hỗ trợ gì khi bạn học?</strong></summary>
+  <summary><strong>Có những hỗ trợ gì khi bạn học các khoá này?</strong></summary>
   <ul>
     <li>Trong lúc học, bạn có thể comment hỏi bất cứ câu hỏi gì ở ngay trong các video, mình sẽ trả lời kỹ càng cho bạn.</li>
-    <li>Muốn có người hỗ trợ chỉnh sửa? Bạn có thể upgrade lên gói "Học có chỉnh sửa", để mình sửa các động tác hàng tuần cực kỳ chi tiết. Mình có thể đảm bảo bạn sẽ cảm nhận sự khác biệt ở cơ thể hơn hẳn so với trước khi lựa chọn gói có chỉnh sửa này. Cam kết hoàn tiền nếu cảm thấy không hài lòng ☺️</li>
+    <li>Ngoài ra, tuỳ vào gói bạn mua từng khoá, mình cũng sẽ giúp chỉnh sửa 1:1 và hỗ trợ qua chat Facebook/Zalo hàng tuần. Tất cả các khoá luôn có cam kết hoàn tiền nếu cảm thấy không hài lòng ☺️</li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>Bao giờ lớp bắt đầu?</strong>​​​​​​​​​​​​​​​​​​</summary>
-  <p>Bạn có thể bắt đầu bất cứ lúc nào!</p>
-</details>
-
-<details>
-  <summary><strong>Bọn mình sẽ có được gì sau lớp này?</strong>​​​​​​​​​​​​​​​​​​​</summary>
-  <ul>
-    <li>Kiến thức vững chãi để tập không bị chấn thương.</li>
-    <li>Tâm hồn yêu thương cơ thể và bản thân mình hơn rất nhiều.</li>
-    <li>Nhận ra mình có thể làm tất cả những gì bạn muốn !.</li>
-  </ul>
-  <p>...và rất nhiều thứ nữa nha, bọn mình chỉ có kể qua thế thôi ☺️</p>
-  <p>
-    Có gì cứ vào nhóm
-    <a href="https://www.facebook.com/groups/yoga.cung.linh.anh" target="_blank" rel="noopener">Facebook Yoga cùng Linh Anh</a>
-    của bọn mình sẽ biết!
-  </p>
+  <summary><strong>Nếu mình muốn học thì bao giờ lớp bắt đầu?</strong>​​​​​​​​​​​​​​​​​​</summary>
+  <p>Bạn có thể bắt đầu bất cứ lúc nào bạn sẵn sàng! Tuy nhiên nếu bạn là mẹ bầu, sau sinh hay có bất cứ chấn thương nào, hãy nhắn tin cho mình để được tư vấn lộ trình chỉnh sửa riêng cho bạn nhé</p>
 </details>
