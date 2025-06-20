@@ -70,6 +70,30 @@ yoga-21-ngay-ket-noi-voi-co-the:
 
 {% include testimonial_slider.html images=page.testimonial_images %}
 
+testimonial_images:
+  - src: "/assets/images/testimonials/testimonial_010.png"
+    alt: "Testimonial 10"
+  - src: "/assets/images/testimonials/testimonial_008.png"
+    alt: "Testimonial 8"
+  - src: "/assets/images/testimonials/testimonial_003.png"
+    alt: "Testimonial 3"
+  - src: "/assets/images/testimonials/testimonial_009.png"
+    alt: "Testimonial 9"
+  - src: "/assets/images/testimonials/testimonial_006.png"
+    alt: "Testimonial 6"
+  - src: "/assets/images/testimonials/testimonial_007.png"
+    alt: "Testimonial 7"
+  - src: "/assets/images/testimonials/testimonial_011.png"
+    alt: "Testimonial 11"
+  - src: "/assets/images/testimonials/testimonial_002.png"
+    alt: "Testimonial 2"
+  - src: "/assets/images/testimonials/testimonial_001.png"
+    alt: "Testimonial 1"
+  - src: "/assets/images/testimonials/testimonial_004.png"
+    alt: "Testimonial 4"
+  - src: "/assets/images/testimonials/testimonial_005.png"
+    alt: "Testimonial 5"
+
 ## Câu Hỏi Thường Hỏi (FAQ)
 
  <details>
@@ -98,7 +122,7 @@ yoga-21-ngay-ket-noi-voi-co-the:
         <ul>
         <p>Đúng vậy!! Bạn, máy tính yêu thương của bạn, và Yoga ☺️</p>
         <ul>
-    </details>
+  </details>
 
   <details>
         <summary><strong>Có những hỗ trợ gì khi bạn học các khoá này?</strong></summary>
