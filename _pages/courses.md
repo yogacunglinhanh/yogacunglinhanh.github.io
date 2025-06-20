@@ -70,29 +70,6 @@ yoga-21-ngay-ket-noi-voi-co-the:
 
 {% include testimonial_slider.html images=page.testimonial_images %}
 
-testimonial_images:
-  - src: "/assets/images/testimonials/testimonial_010.png"
-    alt: "Testimonial 10"
-  - src: "/assets/images/testimonials/testimonial_008.png"
-    alt: "Testimonial 8"
-  - src: "/assets/images/testimonials/testimonial_003.png"
-    alt: "Testimonial 3"
-  - src: "/assets/images/testimonials/testimonial_009.png"
-    alt: "Testimonial 9"
-  - src: "/assets/images/testimonials/testimonial_006.png"
-    alt: "Testimonial 6"
-  - src: "/assets/images/testimonials/testimonial_007.png"
-    alt: "Testimonial 7"
-  - src: "/assets/images/testimonials/testimonial_011.png"
-    alt: "Testimonial 11"
-  - src: "/assets/images/testimonials/testimonial_002.png"
-    alt: "Testimonial 2"
-  - src: "/assets/images/testimonials/testimonial_001.png"
-    alt: "Testimonial 1"
-  - src: "/assets/images/testimonials/testimonial_004.png"
-    alt: "Testimonial 4"
-  - src: "/assets/images/testimonials/testimonial_005.png"
-    alt: "Testimonial 5"
 
 ## Câu Hỏi Thường Hỏi (FAQ)
 
@@ -121,7 +98,7 @@ testimonial_images:
         <summary><strong>Mình sẽ học online đúng không?</strong></summary>
         <ul>
         <p>Đúng vậy!! Bạn, máy tính yêu thương của bạn, và Yoga ☺️</p>
-        <ul>
+        </ul>
   </details>
 
   <details>
@@ -136,5 +113,5 @@ testimonial_images:
         <summary><strong>Nếu mình muốn học thì bao giờ lớp bắt đầu?</strong></summary>
         <ul>
         <p>Bạn có thể bắt đầu bất cứ lúc nào bạn sẵn sàng! Tuy nhiên nếu bạn là mẹ bầu, sau sinh hay có bất cứ chấn thương nào, hãy nhắn tin cho mình để được tư vấn lộ trình chỉnh sửa riêng cho bạn nhé</p>
-        <ul>
+        </ul>
   </details>
