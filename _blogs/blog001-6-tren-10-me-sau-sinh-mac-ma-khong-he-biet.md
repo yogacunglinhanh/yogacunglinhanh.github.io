@@ -20,10 +20,11 @@ Mình gặp rất nhiều mẹ sau sinh nói:
 
 Nhưng thực tế, đây không phải là vấn đề mỡ. Mà là **cấu trúc cơ bụng bị giãn ra và chưa được phục hồi đúng cách**.
 
-## 🎯 MÓN QUÀ CHO MẸ SAU SINH: BỘ 3 VIDEO TẬP AN TOÀN, HIỆU QUẢ. 
+## 🎯 MÓN QUÀ CHO MẸ SAU SINH: BỘ 3 VIDEO TẬP AN TOÀN, HIỆU QUẢ
+
 PHÙ HỢP CHO MẸ SINH THƯỜNG & SINH MỔ.
 
-Nhận ngay tại đấy! 
+Nhận ngay tại đấy!
 
 [Tôi muốn nhận quà](https://docs.google.com/forms/d/e/1FAIpQLSfriFoYFY1R7ZoGgrttHebYs5xGAxIupaIAY-EG4lEckeBUwQ/viewform){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
@@ -139,4 +140,3 @@ Ngoài ra, nếu bạn sinh mổ, mà vẫn cảm thấy đau, căng khi ngồi 
 
 Nếu còn thắc mắc gì, nhắn tin với Linh để nhận tư vấn thêm.
 [Chat với mình qua Facebook nhé](https://www.facebook.com/ngoclinhdnl/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
-
