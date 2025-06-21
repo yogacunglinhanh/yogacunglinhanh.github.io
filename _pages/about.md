@@ -1,7 +1,7 @@
 ---
 author: linh_dang
 title: "Yoga cùng Linh Anh"
-permalink: /
+permalink: /gioi-thieu/
 testimonial_images:
   - src: "/assets/images/testimonials/testimonial_010.png"
     alt: "Testimonial 10"
