@@ -139,4 +139,4 @@ Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạ
 Ngoài ra, nếu bạn sinh mổ, mà vẫn cảm thấy đau, căng khi ngồi dậy. Hãy để cho cơ thể hoàn toàn hết đau đã. Tập trung vào hơi thở trước 3 phần như ở trên.
 
 Nếu còn thắc mắc gì, tham gia nhóm Yoga Bầu và Hồi Phục Sau Sinh cùng Linh Anh để được hỗ trợ trả lời bất cứ câu hỏi gì
-[Tham Gia Nhóm Facebook nhé]([https://www.facebook.com/ngoclinhdnl/](https://www.facebook.com/groups/yogabau.linhanh)){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+[Tham Gia Nhóm Facebook nhé]((https://www.facebook.com/groups/yogabau.linhanh))
