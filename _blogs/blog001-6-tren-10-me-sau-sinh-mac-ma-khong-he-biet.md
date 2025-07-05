@@ -49,7 +49,7 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
 
 ## Vậy bước tiếp theo là gì? Bạn có thể tự kiểm tra tại nhà – chỉ mất 3 phút
 
-### Bụng bạn có khe hở khi gồng nhẹ – gọi là tách cơ bụng (Diastasis Recti)
+### 1. Bụng bạn có khe hở khi gồng nhẹ – gọi là tách cơ bụng (Diastasis Recti)
 
 📋 **Cách kiểm tra:** Nằm ngửa, gập đầu gối. Đặt 2–3 ngón tay ngang lên bụng, đúng vùng rốn. Rồi nâng đầu lên nhẹ như thể sắp ngồi dậy. Nếu bạn cảm thấy có một khoảng lõm, rộng hơn 2 ngón tay, sâu hơn 1 đốt giữa bụng – đặc biệt vùng rốn hoặc dưới rốn – thì khả năng cao là bạn vẫn đang bị tách cơ bụng.
 
@@ -64,7 +64,10 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
   <figcaption>Nguồn ảnh: https://edallybh.vn/vi-sao-sau-sinh-thuong-beo-bung-va-phuong-phap-giai-quyet-nd84236.html</figcaption>
 </figure>
 
-### Khi ngồi dậy, bụng nhô thành hình nón – đó là dấu hiệu "coning"
+Xem video hướng dẫn cách kiểm tra tại nhà ở đây 
+{% include youtube_embed.html id="2XnP0e7Yq3g" %}
+
+### 2. Khi ngồi dậy, bụng nhô thành hình nón – đó là dấu hiệu "coning"
 
 **📋 Cách kiểm tra:** Thử để ý lúc bạn nằm rồi ngồi dậy (hoặc ho mạnh): Nếu thấy bụng bị đẩy lên thành 1 đường nhọn nhô cao như hình "nón", thì đó là dấu hiệu áp lực trong bụng chưa ổn định.
 
@@ -79,7 +82,19 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
   <figcaption>Nguồn ảnh: https://www.pelvichealthnj.com/pelvic-floor-blog/how-can-i-get-rid-of-abdominal-coning/</figcaption>
 </figure>
 
-### Nhìn từ ngoài, bụng bạn có đang tròn mềm phía trước – như bầu 4–5 tháng?
+#### Nếu bạn có 2 dấu hiệu này
+
+- Chắc chắn bạn bị vẫn bị phân tách cơ thẳng bụng.
+- Cần tránh các động tác plank, crunch mà tập các động tác chuyên cơ lõi.
+- Hãy bắt đầu bằng Tập trung vào bài tập thở 3 phần/ Thở Bụng. Bạn có thể xem video tại [đây](https://www.youtube.com/watch?v=pHqxfKe8lpA) . Nếu cần hỗ trợ hồi phục, tham khảo khoá Yoga Hồi Phục Cơ Bụng & Cơ Sàn Chậu Sau Sinh của mình. 
+
+Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạn cần bắt đầu lại từ nền tảng: thở đúng – kết nối lại vùng core – và chuyển động đúng cách trong sinh hoạt hằng ngày.
+
+{% include youtube_embed.html id="pHqxfKe8lpA" %}
+
+Ngoài ra, còn 1 số dấu hiệu khác, bạn có thể thử xem để hiểu "độ khoẻ" của cơ bụng 
+
+### 1. Nhìn từ ngoài, bụng bạn có đang tròn mềm phía trước – như bầu 4–5 tháng?
 
 **📋 Cách kiểm tra:** Đứng thẳng trước gương, mặc áo ôm sát. Quan sát từ góc nghiêng và mặt trước. Để ý xem phần bụng có nhô ra phía trước, tạo thành hình cung tròn không - đặc biệt vùng dưới rốn. Bạn cũng có thể chụp ảnh nghiêng để so sánh với trước khi mang thai.
 
@@ -89,7 +104,7 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
 - [ ] Có – nhìn vẫn "nhô nhẹ" dù mình đã giảm cân
 - [ ] Rất rõ – người ngoài vẫn hỏi "sao vẫn còn bụng?"
 
-### Bạn có cảm giác bụng bị "rụng xuống" hoặc không có lực khi xoay người, bế con, đẩy xe?
+### 2. Bạn có cảm giác bụng bị "rụng xuống" hoặc không có lực khi xoay người, bế con, đẩy xe?
 
 **📋 Cách kiểm tra:** Thử những động tác hàng ngày: bế con lên xuống, xoay người sang hai bên khi ngồi, đẩy xe đẩy hoặc cửa nặng, nhấc đồ từ sàn lên. Để ý cảm giác ở vùng bụng - có cảm thấy "lỏng lẻo", phải dùng tay đỡ, hoặc có cảm giác áp lực khó chịu không.
 
@@ -99,7 +114,7 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
 - [ ] Có lúc cảm giác yếu hoặc phải siết lại
 - [ ] Thường xuyên – phải lấy tay đỡ bụng, cảm giác không vững
 
-### Bạn bị đau âm ỉ lưng dưới, hông hoặc vùng bụng dưới mỗi lần bế bé lâu hoặc đứng bếp?
+### 3. Bạn bị đau âm ỉ lưng dưới, hông hoặc vùng bụng dưới mỗi lần bế bé lâu hoặc đứng bếp?
 
 **📋 Cách kiểm tra:** Quan sát cảm giác sau những hoạt động: đứng nấu ăn 15-30 phút, bế con trong 10-15 phút, hoặc đi bộ 20-30 phút. Để ý xem có xuất hiện cảm giác đau âm ỉ, tức nặng ở vùng lưng dưới, hai bên hông, hoặc vùng mu (vùng bụng dưới rốn) không.
 
@@ -109,7 +124,7 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
 - [ ] Có đôi lúc
 - [ ] Có – gần như ngày nào cũng bị
 
-### Khi bạn "gồng bụng" – bạn thấy lực đi đâu?
+### 4. Khi bạn "gồng bụng" – bạn thấy lực đi đâu?
 
 **📋 Cách kiểm tra:** Nằm ngửa hoặc ngồi thẳng, đặt tay lên bụng. Thử "siết bụng" như chuẩn bị ai đó sẽ đấm vào bụng bạn. Quan sát: bụng có bị đẩy lên phía trước (phồng ra) hay co sâu vào trong? Bạn có cảm giác kiểm soát được lực hay cảm thấy lộn xộn, không biết lực đi đâu?
 
@@ -121,20 +136,10 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
 
 ### 📊 Đánh giá kết quả
 
-#### Nếu bạn có dấu hiệu 1-2
-
-- Chắc chắn bạn bị vẫn bị phân tách cơ thẳng bụng.
-- Cần tránh các động tác plank, crunch mà tập các động tác chuyên cơ lõi.
-- Hãy bắt đầu bằng Tập trung vào bài tập thở 3 phần/ Thở Bụng. Bạn có thể xem video tại [đây](https://www.youtube.com/watch?v=pHqxfKe8lpA)
-
-Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạn cần bắt đầu lại từ nền tảng: thở đúng – kết nối lại vùng core – và chuyển động đúng cách trong sinh hoạt hằng ngày.
-
-{% include youtube_embed.html id="pHqxfKe8lpA" %}
-
 #### Nếu bạn chỉ có những dấu hiệu khác 3-6
 
 - Khả năng cao bạn không bị phân tách cơ thẳng bụng
-- Tuy nhiên cơ lõi vẫn yếu, cần ưu tiên tập các bài tập cho cơ lõi.
+- Tuy nhiên cơ bụng vẫn yếu, cần ưu tiên tập các bài tập cho cơ bụng. Nếu cần hỗ trợ hồi phục, tham khảo khoá Yoga Hồi Phục Cơ Bụng & Cơ Sàn Chậu Sau Sinh của mình. 
 
 Ngoài ra, nếu bạn sinh mổ, mà vẫn cảm thấy đau, căng khi ngồi dậy. Hãy để cho cơ thể hoàn toàn hết đau đã. Tập trung vào hơi thở trước 3 phần như ở trên.
 
