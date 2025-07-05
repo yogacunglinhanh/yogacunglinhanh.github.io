@@ -1,6 +1,6 @@
 ---
 author: linh_dang
-title: "3 Phút Để Biết: Cơ Thể Bạn Đã Sẵn Sàng Cho Sinh Thường Chưa?"
+title: "QUIZ NHANH 3 PHÚT CHO MẸ BẦU: Cơ Thể Bạn Đã Sẵn Sàng Cho Sinh Thường Chưa?"
 collection: blogs
 permalink: /blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/
 excerpt_separator: "<!--more-->"
