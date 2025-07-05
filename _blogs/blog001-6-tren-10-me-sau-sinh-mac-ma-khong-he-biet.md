@@ -140,12 +140,11 @@ Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạ
 
 ### 📊 Đánh giá kết quả
 
-#### Nếu bạn chỉ có những dấu hiệu khác 3-6
+#### Nếu bạn có những dấu hiệu này
 
 - Khả năng cao bạn không bị phân tách cơ thẳng bụng
 - Tuy nhiên cơ bụng vẫn yếu, cần ưu tiên tập các bài tập cho cơ bụng. Nếu cần hỗ trợ hồi phục, tham khảo khoá Yoga Hồi Phục Cơ Bụng & Cơ Sàn Chậu Sau Sinh của mình. 
 
-Nếu bạn sinh mổ, mà vẫn cảm thấy đau, căng khi ngồi dậy. Hãy để cho cơ thể hoàn toàn hết đau đã. Tập trung vào hơi thở trước 3 phần như ở trên.
+Mình chia sẻ rất nhiều kiến thức hồi phục sau sinh trên Facebook, hãy tham gia nhóm để được hiểu thêm về cách hồi phục sau sinh cho bản thân, phù hợp cho mẹ sinh thường & sinh mổ
 
-Mình chia sẻ rất nhiều kiến thức hồi phục sau sinh trên Facebook, hãy tham gia nhóm để được hiểu thêm về cách hồi phục sau sinh cho bản thân nhé.
-[Tham Gia Nhóm Facebook nhé](https://www.facebook.com/groups/yogabau.linhanh)
+[Tham Gia Nhóm Facebook nhé](https://www.facebook.com/groups/yogabau.linhanh){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
