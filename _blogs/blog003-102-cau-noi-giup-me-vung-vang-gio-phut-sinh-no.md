@@ -1,6 +1,6 @@
 ---
 author: linh_dang
-title: "🌸 Món quà cho mẹ bầu: 102 câu nói giúp mẹ vững vàng giờ phút sinh nở"
+title: "🌸 Món Quà Cho Mẹ Bầu: 102 câu nói giúp mẹ vững vàng giờ phút sinh nở"
 collection: blogs
 permalink: /blogs/102-cau-noi-giup-me-vung-vang-gio-phut-sinh-no/
 excerpt_separator: "<!--more-->"
