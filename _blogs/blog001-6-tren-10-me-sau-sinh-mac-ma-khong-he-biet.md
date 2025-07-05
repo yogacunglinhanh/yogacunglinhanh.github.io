@@ -20,14 +20,6 @@ Mình gặp rất nhiều mẹ sau sinh nói:
 
 Nhưng thực tế, đây không phải là vấn đề mỡ. Mà là **cấu trúc cơ bụng bị giãn ra và chưa được phục hồi đúng cách**.
 
-## 🎯 MÓN QUÀ CHO MẸ SAU SINH: BỘ 3 VIDEO TẬP AN TOÀN, HIỆU QUẢ
-
-PHÙ HỢP CHO MẸ SINH THƯỜNG & SINH MỔ.
-
-Nhận ngay tại đấy!
-
-[Tôi muốn nhận quà](https://docs.google.com/forms/d/e/1FAIpQLSfriFoYFY1R7ZoGgrttHebYs5xGAxIupaIAY-EG4lEckeBUwQ/viewform){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
-
 ## Tách cơ bụng là gì?
 
 Trong thai kỳ, cơ thẳng bụng (rectus abdominis) – gồm 2 dải cơ chạy dọc hai bên rốn – sẽ bị kéo giãn để tạo không gian cho thai nhi phát triển. Dải mô liên kết ở giữa (linea alba) cũng bị căng giãn theo. Nếu sau sinh, khoảng cách giữa hai bên cơ này không khép lại hoàn toàn, thì gọi là **Diastasis Recti**.
@@ -50,7 +42,7 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
 ## Vậy bước tiếp theo là gì? Bạn có thể tự kiểm tra tại nhà – chỉ mất 5 phút
 
 Xem video hướng dẫn cách kiểm tra tại nhà ở đây 
-{% include youtube_embed.html id="2XnP0e7Yq3g" %}
+{% include youtube_embed.html id="48_yrQI6PMw" %}
 
 #### Dưới đây là tóm tắt các dấu hiệu mẹ có thể thử nhận biết
 
@@ -148,3 +140,11 @@ Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạ
 Mình chia sẻ rất nhiều kiến thức hồi phục sau sinh trên Facebook, hãy tham gia nhóm để được hiểu thêm về cách hồi phục sau sinh cho bản thân, phù hợp cho mẹ sinh thường & sinh mổ
 
 [Tham Gia Nhóm Facebook nhé](https://www.facebook.com/groups/yogabau.linhanh){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+
+## 🎯 MÓN QUÀ CHO MẸ SAU SINH: BỘ 3 VIDEO TẬP AN TOÀN, HIỆU QUẢ
+
+PHÙ HỢP CHO MẸ SINH THƯỜNG & SINH MỔ.
+
+Nhận ngay tại đấy!
+
+[Tôi muốn nhận quà](https://docs.google.com/forms/d/e/1FAIpQLSfriFoYFY1R7ZoGgrttHebYs5xGAxIupaIAY-EG4lEckeBUwQ/viewform){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
