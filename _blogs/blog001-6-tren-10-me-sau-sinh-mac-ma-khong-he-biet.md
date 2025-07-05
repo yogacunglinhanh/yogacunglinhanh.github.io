@@ -1,8 +1,8 @@
 ---
 author: linh_dang
-title: "6/10 Mẹ Sau Sinh Mắc Mà Không Hề Biết"
+title: "6 Dấu Hiệu Bụng Yếu Mẹ Sau Sinh Cần Biết"
 collection: blogs
-permalink: /blogs/6-tren-10-me-sau-sinh-mac-ma-khong-he-biet/
+permalink: /blogs/6-dau-hieu-bung-yeu-me-sau-sinh-can-biet/
 excerpt_separator: "<!--more-->"
 ---
 
