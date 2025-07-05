@@ -47,7 +47,12 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
 
 <img src="/assets/images/blogs/blog001-6-tren-10-me-sau-sinh-mac-ma-khong-he-biet.png" height=800 width=800 alt="">
 
-## Vậy bước tiếp theo là gì? Bạn có thể tự kiểm tra tại nhà – chỉ mất 3 phút
+## Vậy bước tiếp theo là gì? Bạn có thể tự kiểm tra tại nhà – chỉ mất 5 phút
+
+Xem video hướng dẫn cách kiểm tra tại nhà ở đây 
+{% include youtube_embed.html id="2XnP0e7Yq3g" %}
+
+#### Dưới đây là tóm tắt các dấu hiệu mẹ có thể thử nhận biết
 
 ### 1. Bụng bạn có khe hở khi gồng nhẹ – gọi là tách cơ bụng (Diastasis Recti)
 
@@ -64,8 +69,6 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
   <figcaption>Nguồn ảnh: https://edallybh.vn/vi-sao-sau-sinh-thuong-beo-bung-va-phuong-phap-giai-quyet-nd84236.html</figcaption>
 </figure>
 
-Xem video hướng dẫn cách kiểm tra tại nhà ở đây 
-{% include youtube_embed.html id="2XnP0e7Yq3g" %}
 
 ### 2. Khi ngồi dậy, bụng nhô thành hình nón – đó là dấu hiệu "coning"
 
@@ -92,7 +95,8 @@ Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạ
 
 {% include youtube_embed.html id="pHqxfKe8lpA" %}
 
-Ngoài ra, còn 1 số dấu hiệu khác, bạn có thể thử xem để hiểu "độ khoẻ" của cơ bụng 
+
+#### Ngoài ra, còn 1 số dấu hiệu khác, bạn có thể thử xem để hiểu "độ khoẻ" của cơ bụng 
 
 ### 1. Nhìn từ ngoài, bụng bạn có đang tròn mềm phía trước – như bầu 4–5 tháng?
 
@@ -141,7 +145,7 @@ Ngoài ra, còn 1 số dấu hiệu khác, bạn có thể thử xem để hiể
 - Khả năng cao bạn không bị phân tách cơ thẳng bụng
 - Tuy nhiên cơ bụng vẫn yếu, cần ưu tiên tập các bài tập cho cơ bụng. Nếu cần hỗ trợ hồi phục, tham khảo khoá Yoga Hồi Phục Cơ Bụng & Cơ Sàn Chậu Sau Sinh của mình. 
 
-Ngoài ra, nếu bạn sinh mổ, mà vẫn cảm thấy đau, căng khi ngồi dậy. Hãy để cho cơ thể hoàn toàn hết đau đã. Tập trung vào hơi thở trước 3 phần như ở trên.
+Nếu bạn sinh mổ, mà vẫn cảm thấy đau, căng khi ngồi dậy. Hãy để cho cơ thể hoàn toàn hết đau đã. Tập trung vào hơi thở trước 3 phần như ở trên.
 
-Nếu còn thắc mắc gì, tham gia nhóm Yoga Bầu và Hồi Phục Sau Sinh cùng Linh Anh để được hỗ trợ trả lời bất cứ câu hỏi gì
+Mình chia sẻ rất nhiều kiến thức hồi phục sau sinh trên Facebook, hãy tham gia nhóm để được hiểu thêm về cách hồi phục sau sinh cho bản thân nhé.
 [Tham Gia Nhóm Facebook nhé](https://www.facebook.com/groups/yogabau.linhanh)
