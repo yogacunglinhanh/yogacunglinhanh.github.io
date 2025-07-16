@@ -105,7 +105,8 @@ Sau khoá học, bạn sẽ:
 - Cảm thấy nhẹ nhõm, vui vẻ, tràn năng lượng hơn
 - Có chuỗi bài tập đơn giản, hiệu quả để tập bất cứ lúc nào
 - Hiểu rõ từng động tác tác động đến cơ thể ra sao để tự điều chỉnh
-- Tự tin tập an toàn tại nhà hoặc đi học ở lớp, là 1 nền tảng vững chắc để bạn có thể tự tập theo YouTube trong những năm tháng tiếp theo :) Tiết kiệm được bao nhiêu tiền đi học Yoga ở ngoài mà có khi học ở ngoài còn bị tập sai, khiến chấn thương lại phải đi chữa trị.  
+- Tự tin tập an toàn theo YouTube trong những năm tháng tiếp theo
+- Tiết kiệm được bao nhiêu tiền đi học Yoga ở ngoài mà có khi học ở ngoài còn bị tập sai, khiến chấn thương lại phải đi chữa trị.  
 
 **Đã có hơn 70 bạn đã tham gia và cảm nhận được sự thay đổi tích cực.**
 **Giờ đến lượt bạn rồi! ❤️**
