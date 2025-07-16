@@ -88,13 +88,14 @@ testimonial_images:
 
 - Nhanh mệt, đau nhức ê ẩm
 - Tâm trí rối bời, khó tập trung
-- Tập theo YouTube mà không biết đúng sai
-- Mất kết nối với cơ thể, đặc biệt sau sinh vài tháng
+- Mất kết nối với cơ thể, đặc biệt sau sinh 5-6 vài tháng
 - Thiếu động lực, không biết bắt đầu từ đâu
+- Tập theo YouTube mà không biết đúng sai
+- Hoặc chỉ đơn giản muốn tăng cường sức khoẻ
 
 **Mình rất hiểu bạn.**
 
-Không phải bạn lười – mà có thể bạn chưa tìm được cách tập phù hợp, chưa có người đồng hành, chưa có routine rõ ràng hay một không gian đủ an toàn để tập với sự yêu thương dành cho chính mình.
+Không phải bạn không muốn tập – mà có thể bạn chưa tìm được cách tập phù hợp, chưa có người đồng hành, chưa có lộ trình rõ ràng hay một không gian đủ an toàn để tập với sự yêu thương dành cho chính mình.
 
 **Nếu bạn thấy mình trong những dòng này – khoá học này là dành cho bạn.**
 
@@ -103,10 +104,10 @@ Sau khoá học, bạn sẽ:
 - Kết nối lại với cơ thể và hơi thở rõ rệt hơn
 - Cảm thấy nhẹ nhõm, vui vẻ, tràn năng lượng hơn
 - Có chuỗi bài tập đơn giản, hiệu quả để tập bất cứ lúc nào
-- Tự tin tập an toàn tại nhà hoặc đi học ở lớp
 - Hiểu rõ từng động tác tác động đến cơ thể ra sao để tự điều chỉnh
+- Tự tin tập an toàn tại nhà hoặc đi học ở lớp, là 1 nền tảng vững chắc để bạn có thể tự tập theo YouTube trong những năm tháng tiếp theo :) Tiết kiệm được bao nhiêu tiền đi học Yoga ở ngoài mà có khi học ở ngoài còn bị tập sai, khiến chấn thương lại phải đi chữa trị.  
 
-**Đã có hơn 70 mẹ bầu và mẹ sau sinh tham gia và cảm nhận được sự thay đổi tích cực.**
+**Đã có hơn 70 bạn đã tham gia và cảm nhận được sự thay đổi tích cực.**
 **Giờ đến lượt bạn rồi! ❤️**
 
 ## Lộ Trình Học Tập
@@ -123,7 +124,7 @@ Sau khoá học, bạn sẽ:
 
 {% include feature_row id="yoga-nen-tang-week6" type="left" %}
 
-## Chia Sẻ Của Những Bạn Đi Trước
+## Chia Sẻ Của Những Bạn Đi Trước, Đặc Biệt lợi ích cho cả con nhỏ nếu bạn đang chuẩn bị/đang làm mẹ
 
 {% include testimonial_slider.html images=page.testimonial_images %}
 
@@ -135,14 +136,14 @@ Sau khoá học, bạn sẽ:
 
 **Bước 3:** Linh sẽ nhắn tin cho bạn nếu thấy lớp học phù hợp với bạn, và bạn sẽ chuyển tiền vào tài khoản dưới:
 
-> Việt Nam: Đặng Ngọc Anh, Account number: 06740920301, TP Bank
+> Việt Nam: Đặng Ngọc Anh, Account number: 686811906666, MB Bank
 
 ​Vậy là bạn đã sẵn sàng để kết nối với cơ thể & hơi thở rồi! Chúc mừng!
 
 - Khoá Tự Học: **2.500.000 VND**
-- Khoá Học Được chỉnh sửa: **3.800.000 VND** được chỉnh sửa video kỹ lương. hàng tuần như được học 1:1.
+- Khoá Học Được chỉnh sửa: **3.800.000 VND** được chỉnh sửa video kỹ lương, tư vấn hàng tuần, thực sự không khác gì học 1:1. 
 
-​​​Nếu bạn có thắc mắc gì thì đừng ngần ngại gửi [facebook message cho Linh](https://www.facebook.com/ngoclinhdnl/)!
+​​​Nếu bạn cần hỗ trợ tài chính hay có thắc mắc gì thì đừng ngần ngại gửi [facebook message cho Linh](https://www.facebook.com/ngoclinhdnl/)!
 
 {% include contact-form.html %}
 
@@ -151,7 +152,7 @@ Sau khoá học, bạn sẽ:
 <details>
   <summary><strong>Lớp học này dành cho ai?</strong></summary>
   <ul>
-    <li>Cho bạn nào muốn khoẻ hơn trong thời gian ngắn.</li>
+    <li>Cho bạn nào muốn khoẻ hơn trong thời gian ngắn (khoảng 2 tháng).</li>
     <li>Cho bạn nào muốn thiết lập 1 thói quen tập Yoga hàng ngày nhưng không biết tập gì.</li>
     <li>Cho bạn nào thực sự tạo dựng nền tảng Yoga chắc chắn để khoẻ nhưng trên hết không bị chấn thương cổ tay, lưng, cổ, chân, đầu gối . vvv.</li>
     <li>Dù bạn đã tập Yoga lâu năm hay chưa biết tí gì Yoga, nếu bạn muốn kết nối Tâm-Thân-Trí hơn, lớp này là cho bạn. Sau khi học lớp này, bạn sẽ phát triển 1 tình yêu và tự tin cho bản thân hơn rất nhiều, và chắc chắn nó sẽ giúp bạn tự tin ngay cả khi bạn ra khỏi thảm, ở ngoài đời sống của bạn.</li>
@@ -160,7 +161,7 @@ Sau khoá học, bạn sẽ:
 
 <details>
   <summary><strong>Lớp học sẽ vào giờ nào?</strong></summary>
-  <p>Đây là lớp tự học, nên bạn là người làm chủ và có thể chủ động giờ giấc theo thời gian biểu của bạn. Mình sẽ khuyến khích bạn vẫn tập như thể đang học live với mình, tức là tập từ 6-7 tuần để thấy sự chuyển đổi của cơ thể nhanh và rõ ràng nhất!</p>
+  <p>Đây là lớp tự học, nên bạn là người làm chủ và có thể chủ động giờ giấc theo thời gian biểu của bạn. Mình sẽ khuyến khích bạn vẫn tập như thể đang học live với mình, tức là tập từ 6-7 tuần để thấy sự chuyển đổi của cơ thể nhanh và rõ ràng nhất! Nếu bạn học gói được chỉnh sửa, bạn sẽ có mình kèm cặp xuyên suốt, để đảm bảo bạn tập đúng, và cải thiện nhanh nhất có thể</p>
 </details>
 
 <details>
@@ -181,7 +182,7 @@ Sau khoá học, bạn sẽ:
   <summary><strong>Có những hỗ trợ gì khi bạn học?</strong></summary>
   <ul>
     <li>Trong lúc học, bạn có thể comment hỏi bất cứ câu hỏi gì ở ngay trong các video, mình sẽ trả lời kỹ càng cho bạn.</li>
-    <li>Muốn có người hỗ trợ chỉnh sửa? Bạn có thể upgrade lên gói "Học có chỉnh sửa", để mình sửa các động tác hàng tuần cực kỳ chi tiết. Mình có thể đảm bảo bạn sẽ cảm nhận sự khác biệt ở cơ thể hơn hẳn so với trước khi lựa chọn gói có chỉnh sửa này. Cam kết hoàn tiền nếu cảm thấy không hài lòng ☺️</li>
+    <li>Muốn có người hỗ trợ chỉnh sửa? Bạn có thể upgrade lên gói "Học có chỉnh sửa", để mình sửa các động tác hàng tuần cực kỳ chi tiết. Mình sẽ khuyến khích bạn nào đang thực sự nghiêm túc muốn nâng cao sức khoẻ tập theo gói này vì khi có người kèm cặp, bạn sẽ cảm nhận sự khác biệt ở cơ thể hơn hẳn so với trước. Đã học thì phải học cho đủ, cho đến nơi đến chốn mà. Nếu vì 1 lý do nào đó, bạn học vào không hài lòng, mình cam kết hoàn tiền ☺️</li>
   </ul>
 </details>
 
@@ -193,9 +194,8 @@ Sau khoá học, bạn sẽ:
 <details>
   <summary><strong>Bọn mình sẽ có được gì sau lớp này?</strong>​​​​​​​​​​​​​​​​​​​</summary>
   <ul>
-    <li>Kiến thức vững chãi để tập không bị chấn thương.</li>
-    <li>Tâm hồn yêu thương cơ thể và bản thân mình hơn rất nhiều.</li>
-    <li>Nhận ra mình có thể làm tất cả những gì bạn muốn !.</li>
+    <li>Sau 6-7 tuần, bạn không chỉ có kiến thức nền tảng vững chãi để tập không bị chấn thương, mà bạn còn được trang bị 1 tâm hồn yêu thương cơ thể mình, 1 điều cực kỳ quan trọng nếu như bạn đang trên hành trình yêu mình, và đặc biệt trành hình chuẩn bị làm mẹ. Lớp học không chỉ dừng lại sau 6-7 tuần, mà còn cho bạn kiến thức để bạn có thể đi tập theo bất cứ kênh YouTube nào bạn muốn, biết rằng bạn luôn biết cách tập đúng, đủ, an toàn và hiệu quả. Nó là 1 tiền đề rất quan trọng khi bạn bắt đầu chăm sóc sức khoẻ. </li>
+    <li>Sau lớp học,mình có thể làm tất cả những gì bạn muốn !.</li>
   </ul>
   <p>...và rất nhiều thứ nữa nha, bọn mình chỉ có kể qua thế thôi ☺️</p>
   <p>
