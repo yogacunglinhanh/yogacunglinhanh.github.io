@@ -112,11 +112,6 @@ Bạn đã phục hồi xong. Cơ thể ổn hơn. Bụng có cảm giác. Core 
 </details>
 
 <details>
-  <summary><strong>Nếu tôi không tập được mỗi ngày thì sao?</strong></summary>
-  <p>Không sao cả. Bạn có thể tập theo nhịp riêng của mình. Có mẹ tập liền mạch 21 ngày, có mẹ chọn cách ngày. Miễn là bạn quay lại. Video và email vẫn ở đó, sẵn sàng khi bạn sẵn sàng.</p>
-</details>
-
-<details>
   <summary><strong>Tập trung phần nào của cơ thể?</strong></summary>
   <p>Chủ yếu là vai gáy, lưng dưới, khớp háng, cơ thể toàn thân – giúp làm mềm, thả lỏng và giữ nhịp vận động. Không tập trung vào bụng hoặc siết cơ core. Nếu bạn đang tìm chương trình chuyên sâu về bụng – hãy quay lại với khoá <a href="/khoa-hoc/yoga-hoi-phuc-sau-sinh-cham-ma-chac/">Hồi Phục Sau Sinh</a> hoặc tiếp tục khoá nâng cao sau này.</p>
 </details>
@@ -135,8 +130,6 @@ Bạn đã phục hồi xong. Cơ thể ổn hơn. Bụng có cảm giác. Core 
     <li>Và một lời cam kết nhỏ: dành thời gian cho chính mình.</li>
   </ul>
 </details>
-
-## Gợi cảm hứng khép lại
 
 > “Hồi phục sau sinh không tự đến theo thời gian. Nó cần bạn ở lại – mỗi ngày – một chút.”
 
