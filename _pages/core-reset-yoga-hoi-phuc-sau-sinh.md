@@ -3,7 +3,7 @@ layout: splash
 title: "CORE RESET - Yoga Hồi Phục Sau Sinh"
 permalink: /khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/
 core-reset-yoga-hoi-phuc-sau-sinh:
-  - image_path: /assets/images/courses/yoga-21-ngay-ket-noi-voi-co-the-cover.png  # TO FIXED
+  - image_path: /assets/images/courses/yoga-21-ngay-ket-noi-voi-co-the-cover.png # TO FIXED
     alt: "Core Reset Yoga Hồi Phục Sau Sinh"
     title: "CORE RESET - Hành Trình 3 Tháng Hồi PHục Sâu Từ Trong Ra Ngoài"
     excerpt: >-
@@ -17,7 +17,7 @@ core-reset-yoga-hoi-phuc-sau-sinh:
         url: https://forms.gle/DtpJifpigkyj5HUU7
         class: "btn--yoga"
 core-reset-yoga-hoi-phuc-sau-sinh-thu-ngo:
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-thu-ngo.jpg  # TO FIXED
+  - image_path: /assets/images/courses/yoga-bau-vuot-can-thu-ngo.jpg # TO FIXED
     alt: "Thư Ngỏ"
     title: "Thư Ngỏ"
     excerpt: >-
@@ -58,18 +58,18 @@ core-reset-yoga-hoi-phuc-sau-sinh-loi-ich:
   - excerpt: >-
       🎧 **Giữ khoá học trọn đời**<br>
       Bạn có thể quay lại ôn tập bất cứ lúc nào, theo đúng guồng của mình
- - excerpt: >-
+  - excerpt: >-
       🎧 **Giáo viên được đào tạo bài bản**<br>
       Giáo viên được đào tạo tại Úc và Ấn Độ – kết hợp giữa chuyên môn hiện đại & chiều sâu truyền thống
 core-reset-yoga-hoi-phuc-sau-sinh-section1:
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-week1.jpg  # TO FIXED
+  - image_path: /assets/images/courses/yoga-bau-vuot-can-week1.jpg # TO FIXED
     alt: "Level 0: Nền Tảng"
     title: "Level 0: Kiến Thức Nền Tảng"
     excerpt: >-
       Hiểu về cơ thể sau sinh và quá trình phục hồi
       Thiết lập mindset đúng cho hành trình
 core-reset-yoga-hoi-phuc-sau-sinh-section2:
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-week2.jpg  # TO FIXED
+  - image_path: /assets/images/courses/yoga-bau-vuot-can-week2.jpg # TO FIXED
     alt: "Level 1: Thực Hành Kết Nối"
     title: "Level 1: Thực Hành Hơi Thở, Cơ Hoành, Cơ Sàn Chậu"
     excerpt: >-
@@ -77,14 +77,14 @@ core-reset-yoga-hoi-phuc-sau-sinh-section2:
       Các bài tập ngắn giải quyết vấn nạn quen thuộc của mẹ sau sinh
       Chỉnh sửa lại tư thế sinh hoạt hàng ngày
 core-reset-yoga-hoi-phuc-sau-sinh-section3:
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-week345.jpg  # TO FIXED
+  - image_path: /assets/images/courses/yoga-bau-vuot-can-week345.jpg # TO FIXED
     alt: "Level 2-6: Luyện Tập Cơ Core Từ Nhẹ Đến Nặng"
     title: "Level 2-6: Luyện Tập Cơ Core Từ Nhẹ Đến Nặng"
     excerpt: >-
-    Tập cơ lõi từ tư thế nằm đến ngồi, đứng
-    Kết hợp với hơi thở trong từng động tác
-    Dần dần tăng cường độ một cách an toàn
-    **Mỗi level có kiểm tra, phản hồi sát sao - chỉ khi đạt mới lên level tiếp theo**
+      Tập cơ lõi từ tư thế nằm đến ngồi, đứng<br>
+      Kết hợp với hơi thở trong từng động tác<br>
+      Dần dần tăng cường độ một cách an toàn<br>
+      **Mỗi level có kiểm tra, phản hồi sát sao - chỉ khi đạt mới lên level tiếp theo**
 core-reset-yoga-hoi-phuc-sau-sinh-cac-goi-hoc:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-package-goi-co-dong.png
   - image_path: /assets/images/courses/yoga-bau-vuot-can-package-goi-toan-dien.png
