@@ -16,26 +16,6 @@ core-reset-yoga-hoi-phuc-sau-sinh:
       - label: "Đăng Ký Ngay"
         url: https://forms.gle/DtpJifpigkyj5HUU7
         class: "btn--yoga"
-core-reset-yoga-hoi-phuc-sau-sinh-thu-ngo:
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-thu-ngo.jpg # TO FIXED
-    alt: "Thư Ngỏ"
-    title: "Thư Ngỏ"
-    excerpt: >-
-      Chào bạn, mình là Linh.<br><br>
-      Mùa đông 2023, mình sinh thường bé đầu lòng một cách nhẹ nhàng, không phải vì may mắn, mà vì mình đã chuẩn bị cả về thể chất lẫn tinh thần: bằng hơi thở, thiền định, chuyển động, viết nhật ký, để kết nối và hiểu bản thân
-      Nhưng… hồi phục sau sinh thì không hề nhẹ nhàng như mình từng nghĩ.
-      Mình đã đọc rất nhiều sách, học về nuôi con, làm mẹ…
-      Vậy mà khi sinh xong, mình vẫn choáng ngợp với nhiều thứ quá mới.
-      Vì sao?
-      Vì không ai dặn mình rằng:
-      "Mẹ cũng cần được chuẩn bị để phục hồi. Không chỉ có con."
-      Mình nhớ rõ cảm giác:
-      • Nhìn bụng mình sau sinh và nghĩ: "Ủa, mình vẫn đang bầu à? Nếu to mãi như thế về già thì sao?"
-      • Khóc khi nhìn cơ thể mình mà không nhận ra.
-      • Ứa nước mắt không tự chủ được những lúc đau lưng, kiệt sức nhưng con cứ đòi
-      Nhưng trong hành trình đó, mình đi học thêm, được hướng dẫn bởi chuyên gia về hồi phục sau sinh, và từng bước một – kết nối lại với vùng lõi của mình: bụng, sàn chậu, cảm xúc, và chỉnh sửa lại những tư thế hàng ngày với con.
-      Hành trình đó không nhanh – phải hơn 2 năm mình mới thấy "cái rãnh" ở bụng, mới hiểu cách thực hành cơ sàn chậu thế nào trong những tư thế đơn giản nhất như là bế con, thực hành hơi thở trong cuộc sống.
-      Và chính từ hành trình đó, mình tạo ra lớp học nhỏ này:<br><br>
 core-reset-yoga-hoi-phuc-sau-sinh-loi-ich:
   - excerpt: >-
       🤰 **Kết Nối Sâu Sắc Với Cơ Lõi**<br>
@@ -93,21 +73,23 @@ core-reset-yoga-hoi-phuc-sau-sinh-cac-goi-hoc:
 
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD036 -->
+<!-- markdownlint-disable MD026 -->
 
 {% include feature_row_custom.html id="core-reset-yoga-hoi-phuc-sau-sinh" type="left" %}
-
-{% include feature_row id="core-reset-yoga-hoi-phuc-sau-sinh-thu-ngo" type="left" %}
 
 ## Bạn đang cảm thấy…
 
 🤰 Bụng to như thế vẫn còn bầu, dù đã sinh xong 4-5 tháng
+
 😰 Bế con một chút là đau lưng như muốn gãy làm đôi, mặc dù con cũng không nặng lắm đâu nhé
+
 😳 Ho, hắt hơi 1 tí là ướt quần?
+
 💔 Có thể đã bắt đầu tập thể dục lại nhưng không cảm nhận được gì, không biết mình đang tập có được tích sự gì không?
 
 👉 **Bạn không một mình đâu**. Và bạn hoàn toàn có thể thay đổi điều này – **từ gốc, từ lõi, từ chính bên trong mình**.
 
-## Lợi Ích Khi Tham Gia Khoá Học
+## Sau Khi Tham Gia Khoá Học Bạn Sẽ...
 
 {% include feature_row id="core-reset-yoga-hoi-phuc-sau-sinh-loi-ich" %}
 
@@ -133,8 +115,10 @@ core-reset-yoga-hoi-phuc-sau-sinh-cac-goi-hoc:
 
 ## Lịch Khai Giảng
 
-Bắt đầu: Tháng 8/2024
+Bắt đầu: Tháng 8/2025
+
 Linh hoạt: Có thể bắt đầu muộn hơn nếu bạn cam kết tập đúng nhịp
+
 Yếu tố quan trọng: Giữ guồng tập đều đặn
 
 ## Mức Đầu Tư
@@ -169,7 +153,7 @@ Song song đó, Linh có kinh nghiệm giảng dạy về trị liệu đau (c�
 
 <details>
   <summary><strong>Nếu tôi không tập được mỗi ngày thì sao?</strong></summary>
-  <p>Không sao cả. Mình hiểu các mẹ rất bận nên có khi bị nhỡ 1-2 ngày. Nếu trong 1 tuần, bạn tập được 4 buổi, đó là gọi là thành công rồi. Trong hành trình hồi phục này, tập ít mà đều có hiệu quả hơn tập nhiều nhưng giãn. Thế nên hãy cố gắng giữ vững tinh thần nhé. Với lại, bạn phải tập luyện thì mới khoẻ, mới lên level được. Không lên level được thì mình không gửi video để tập tiếp đâu. Thế nên hy vọng đó sẽ là động lực của bạn để tiếp tục tập. Nếu cần mình hỗ trợ, thôi thúc, nhắn tin để mình hỏi thăm hàng ngày!</p>
+  <p>Không sao cả. Mình hiểu các mẹ rất bận nên có khi bị nhỡ 1-2 ngày. Nếu trong 1 tuần, bạn tập được 4 buổi, đó là gọi là thành công rồi. Trong hành trình hồi phục này, tập ít mà đều có hiệu quả hơn tập nhiều nhưng giãn.</p>
 </details>
 
 <details>
