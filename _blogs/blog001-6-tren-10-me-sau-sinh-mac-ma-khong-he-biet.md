@@ -41,10 +41,10 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
 
 ## Vậy bước tiếp theo là gì? Bạn có thể tự kiểm tra tại nhà – chỉ mất 5 phút
 
-Xem video hướng dẫn cách kiểm tra tại nhà ở đây 
+Xem video hướng dẫn cách kiểm tra tại nhà ở đây
 {% include youtube_embed.html id="48_yrQI6PMw" %}
 
-#### Dưới đây là tóm tắt các dấu hiệu mẹ có thể thử nhận biết
+## Dưới đây là tóm tắt các dấu hiệu mẹ có thể thử nhận biết
 
 ### 1. Bụng bạn có khe hở khi gồng nhẹ – gọi là tách cơ bụng (Diastasis Recti)
 
@@ -61,7 +61,6 @@ Xem video hướng dẫn cách kiểm tra tại nhà ở đây
   <figcaption>Nguồn ảnh: https://edallybh.vn/vi-sao-sau-sinh-thuong-beo-bung-va-phuong-phap-giai-quyet-nd84236.html</figcaption>
 </figure>
 
-
 ### 2. Khi ngồi dậy, bụng nhô thành hình nón – đó là dấu hiệu "coning"
 
 **📋 Cách kiểm tra:** Thử để ý lúc bạn nằm rồi ngồi dậy (hoặc ho mạnh): Nếu thấy bụng bị đẩy lên thành 1 đường nhọn nhô cao như hình "nón", thì đó là dấu hiệu áp lực trong bụng chưa ổn định.
@@ -77,18 +76,17 @@ Xem video hướng dẫn cách kiểm tra tại nhà ở đây
   <figcaption>Nguồn ảnh: https://www.pelvichealthnj.com/pelvic-floor-blog/how-can-i-get-rid-of-abdominal-coning/</figcaption>
 </figure>
 
-#### Nếu bạn có 2 dấu hiệu này
+## Nếu bạn có 2 dấu hiệu này
 
 - Chắc chắn bạn bị vẫn bị phân tách cơ thẳng bụng.
 - Cần tránh các động tác plank, crunch mà tập các động tác chuyên cơ lõi.
-- Hãy bắt đầu bằng Tập trung vào bài tập thở 3 phần/ Thở Bụng. Bạn có thể xem video tại [đây](https://www.youtube.com/watch?v=pHqxfKe8lpA) . Nếu cần hỗ trợ hồi phục, tham khảo khoá Yoga Hồi Phục Cơ Bụng & Cơ Sàn Chậu Sau Sinh của mình. 
+- Hãy bắt đầu bằng Tập trung vào bài tập thở 3 phần/ Thở Bụng. Bạn có thể xem video tại [đây](https://www.youtube.com/watch?v=pHqxfKe8lpA) . Nếu cần hỗ trợ hồi phục, tham khảo khoá Yoga Hồi Phục Cơ Bụng & Cơ Sàn Chậu Sau Sinh của mình.
 
 Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạn cần bắt đầu lại từ nền tảng: thở đúng – kết nối lại vùng core – và chuyển động đúng cách trong sinh hoạt hằng ngày.
 
 {% include youtube_embed.html id="pHqxfKe8lpA" %}
 
-
-#### Ngoài ra, còn 1 số dấu hiệu khác, bạn có thể thử xem để hiểu "độ khoẻ" của cơ bụng 
+## Ngoài ra, còn 1 số dấu hiệu khác, bạn có thể thử xem để hiểu "độ khoẻ" của cơ bụng
 
 ### 1. Nhìn từ ngoài, bụng bạn có đang tròn mềm phía trước – như bầu 4–5 tháng?
 
@@ -135,7 +133,7 @@ Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạ
 #### Nếu bạn có những dấu hiệu này
 
 - Khả năng cao bạn không bị phân tách cơ thẳng bụng
-- Tuy nhiên cơ bụng vẫn yếu, cần ưu tiên tập các bài tập cho cơ bụng. Nếu cần hỗ trợ hồi phục, tham khảo khoá Yoga Hồi Phục Cơ Bụng & Cơ Sàn Chậu Sau Sinh của mình. 
+- Tuy nhiên cơ bụng vẫn yếu, cần ưu tiên tập các bài tập cho cơ bụng. Nếu cần hỗ trợ hồi phục, tham khảo khoá Yoga Hồi Phục Cơ Bụng & Cơ Sàn Chậu Sau Sinh của mình.
 
 Mình chia sẻ rất nhiều kiến thức hồi phục sau sinh trên Facebook, hãy tham gia nhóm để được hiểu thêm về cách hồi phục sau sinh cho bản thân, phù hợp cho mẹ sinh thường & sinh mổ
 
