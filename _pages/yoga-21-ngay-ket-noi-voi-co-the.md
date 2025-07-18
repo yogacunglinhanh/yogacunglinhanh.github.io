@@ -113,7 +113,7 @@ Bạn đã phục hồi xong. Cơ thể ổn hơn. Bụng có cảm giác. Core 
 
 <details>
   <summary><strong>Tập trung phần nào của cơ thể?</strong></summary>
-  <p>Chủ yếu là vai gáy, lưng dưới, khớp háng, cơ thể toàn thân – giúp làm mềm, thả lỏng và giữ nhịp vận động. Không tập trung vào bụng hoặc siết cơ core. Nếu bạn đang tìm chương trình chuyên sâu về bụng – hãy quay lại với khoá <a href="/khoa-hoc/yoga-hoi-phuc-sau-sinh-cham-ma-chac/">Hồi Phục Sau Sinh</a> hoặc tiếp tục khoá nâng cao sau này.</p>
+  <p>Chủ yếu là vai gáy, lưng dưới, khớp háng, cơ thể toàn thân – giúp làm mềm, thả lỏng và giữ nhịp vận động. Không tập trung vào bụng hoặc siết cơ core. Nếu bạn đang tìm chương trình chuyên sâu về bụng – hãy quay lại với khoá <a href="/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/">Hồi Phục Sau Sinh</a> hoặc tiếp tục khoá nâng cao sau này.</p>
 </details>
 
 <details>

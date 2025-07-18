@@ -32,12 +32,12 @@ yoga-bau-vuot-can:
     url: /khoa-hoc/yoga-bau-vuot-can/
     btn_label: "Xem Thêm"
     btn_class: "btn--yoga"
-yoga-hoi-phuc-sau-sinh-cham-ma-chac:
+core-reset-yoga-hoi-phuc-sau-sinh:
   - image_path: /assets/images/courses/yoga-course-coming-up-cover.png
-    alt: "Hồi Phục Sau Sinh - Chậm Mà Chắc"
-    title: "Hồi Phục Sau Sinh - Chậm Mà Chắc"
+    alt: "Core Reset Yoga Hồi Phục Sau Sinh"
+    title: "Core Reset Yoga Hồi Phục Sau Sinh"
     excerpt: >-
-      Dự Kiến Ra Mắt Tháng **7/2025**<br><br>
+      Dự Kiến Ra Mắt Tháng **8/2025**<br><br>
       Nếu bạn quan tâm khoá học này, và muốn nhận ưu đãi 10% khi lớp ra mắt, giúp mình làm khảo sát nhanh nhé.
     url: https://docs.google.com/forms/d/e/1FAIpQLSfriFoYFY1R7ZoGgrttHebYs5xGAxIupaIAY-EG4lEckeBUwQ/viewform
     btn_label: "Làm Khảo Sát Ngay Mẹ Yêu Nhé"
@@ -82,7 +82,7 @@ testimonial_images:
 
 {% include feature_row id="yoga-bau-vuot-can" type="left" %}
 
-{% include feature_row id="yoga-hoi-phuc-sau-sinh-cham-ma-chac" type="left" %}
+{% include feature_row id="core-reset-yoga-hoi-phuc-sau-sinh" type="left" %}
 
 {% include feature_row id="yoga-21-ngay-ket-noi-voi-co-the" type="left" %}
 
