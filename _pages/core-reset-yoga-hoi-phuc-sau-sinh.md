@@ -5,7 +5,7 @@ permalink: /khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/
 core-reset-yoga-hoi-phuc-sau-sinh:
   - image_path: /assets/images/courses/yoga-core-reset-xo-bung.jpg
     alt: "🌿 Core Reset Yoga Hồi Phục Sau Sinh"
-    title: "🌿 CORE RESET - Hành Trình 3 Tháng Hồi PHục Sâu Từ Trong Ra Ngoài"
+    title: "🌿 CORE RESET - Hành Trình 3+ Tháng Hồi PHục Sâu Từ Trong Ra Ngoài"
     excerpt: >-
       **Dành cho mẹ sau sinh muốn thiết lập lại kết nối với cơ lõi**<br><br>
       ✨ Hiểu rõ về mặt giải phẫu các cơ lõi kết nối làm việc với nhau thế nào<br>
@@ -41,8 +41,9 @@ core-reset-yoga-hoi-phuc-sau-sinh-giai-doan2:
     excerpt: >-
       <ul>
         <li>6 level nâng cao từ dễ đến khó: Nằm → Ngồi → Đứng</li>
-        <li>Tập thở & kết nối với cơ bụng sâu, cơ sàn chậu</li>
-        <li>Mỗi level có kiểm tra - chỉ đạt mới lên level tiếp</li>
+        <li>Kết nối & tập luyện chuyên sâu cho cơ bụng sâu, cơ sàn chậu</li>
+        <li>Mỗi level sẽ cần 1-2 tuần tập, tuỳ theo tiến độ của mẹ</li>
+        <li>Có bài kiểm tra ở mỗi level - chỉ đạt chất lượng video level tiếp theo mới được mở ra</li>
       </ul>
 core-reset-yoga-hoi-phuc-sau-sinh-giai-doan3:
   - image_path: /assets/images/courses/yoga-core-reset-giai-doan3.png
@@ -50,17 +51,18 @@ core-reset-yoga-hoi-phuc-sau-sinh-giai-doan3:
     title: "Giai đoạn 3: 21 Ngày Kết Nối Toàn Thân (BONUS nhưng quan trọng)"
     excerpt: >-
       <ul>
-        <li>Tập 20-30 phút/ngày cho toàn bộ cơ thể</li>
+        <li>Tập 20-30 phút/ngày cho toàn bộ cơ thể vì sau giai đoạn 2, bạn sẽ hiểu, cơ thể chúng ta là 1 khối, không thể tách rời</li>
         <li>Kết nối mặt cảm xúc & tinh thần</li>
-        <li>Tạo thói quen luyện tập bền vững</li>
+        <li>Tạo thói quen luyện tập bền vững sau khi đã phục hồi</li>
+        <li>Nếu bạn chọn gói "Tự Tập", chuỗi 21 ngày này sẽ không trong giáo trình</li>
       </ul>
 core-reset-yoga-hoi-phuc-sau-sinh-loi-ich:
   - excerpt: >-
       🤰 **Kết Nối Sâu Sắc Với Cơ Lõi**<br>
       Cảm nhận rõ cơ bụng sâu (TVA), kiểm soát tiểu tiện tốt và biết cách thở điều hoà cơ thể😊<br><br>
   - excerpt: >-
-      ♥️ **Xua Tan Những Cơn Đau Lưng**<br>
-      Biết cách tập mỗi khi đau lưng, sinh hoạt hàng ngày để giải toả căng cứng, đồng thời luyện lưng, bụng khoẻ để hết đau lưng.<br><br>
+      ♥️ **Bụng khoẻ, hết đau lưng, hết són tiểu**<br>
+      Chấm dứt những tai nạn són tiểu, lưng gãy làm đôi, bụng khoẻ thon gọn và quan trọng hơn là khoẻ hơn.<br><br>
   - excerpt: >-
       🙆‍♀️ **Tập đúng nhóm cơ**<br>
       Hiểu rõ giải phẫu cơ thể, vì sao cần tập từng động tác để có động lực tập.<br><br>
@@ -75,7 +77,7 @@ core-reset-yoga-hoi-phuc-sau-sinh-loi-ich:
       Giúp bạn củng cố cơ thể toàn diện, sau khi đã tập trung tập cơ lõi.
   - excerpt: >-
       🎧 **Giữ khoá học trọn đời**<br>
-      Bạn có thể quay lại ôn tập bất cứ lúc nào, theo đúng guồng của mình
+      Bạn có thể quay lại ôn tập bất cứ lúc nào, theo đúng guồng của mình hay là ngay sau khi sinh bé tiếp theo
   - excerpt: >-
       🎧 **Giáo viên được đào tạo bài bản**<br>
       Giáo viên được đào tạo tại Úc và Ấn Độ – kết hợp giữa chuyên môn hiện đại & chiều sâu truyền thống
@@ -107,7 +109,7 @@ cô Hồng (60+ tuổi):
 
 Linh (Người tạo ra Core Reset):
 
-> "Sau 2 năm nghiên cứu và thực hành, mình đã hồi phục khỏi són tiểu dù sinh thường, hết sổ bụng dù sau sinh 6 tháng bụng vẫn to. Giờ mình có thể làm chủ cơ thể một cách sâu sắc và tự tin."
+> "Sau 2 năm nghiên cứu và thực hành, mình đã hồi phục khỏi són tiểu dù sinh thường, hết sổ bụng dù sau sinh 6 tháng bụng vẫn to. Giờ mình có thể tự tin đi chơi, bế con và tự tin sinh bé tiếp theo."
 
 ## 👩‍🏫 Về Giáo Viên Linh
 
@@ -127,8 +129,8 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
 
 - Khi mang thai: Có người khổng lồ chui vào làm nhà rạn nứt
 - Khi sinh: Người khổng lồ chui ra, phá tan "cửa chính" (nếu bạn sinh mổ) hoặc "đường hầm" (nếu bạn sinh thường)
-- Nếu bạn chỉ tu sửa 1 phần tức là chỉ tập bụng hoặc cơ sàn chậu, ngôi nhà vẫn yếu, dễ sụp đổ
-- Với Core Reset tu sửa toàn diện, ngôi nhà của bạn sẽ vững chắc từ nền móng
+- Khi bạn chỉ tập trung tập cơ bụng, hoặc cơ sàn chậu, bạn chỉ đang tu sửa 1 mặt ngôi nhà. Ngôi nhà vẫn yếu, dễ sụp đổ
+- Với Core Reset tu sửa toàn diện, ngôi nhà của bạn sẽ vững chắc từ nền móng đến mái nhà
 
 <img src="/assets/images/courses/yoga-core-reset-ngoi-nha-cua-ban.jpg" height=500 width=500 alt="">
 
@@ -163,7 +165,7 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
     <th>Gói Chuyên Sâu</th>
   </tr>
   <tr>
-    <td><strong style="color: green;">1.500.000đ</strong></td>
+    <td><strong style="color: green;">1.800.000đ</strong></td>
     <td><strong style="color: green;">2.500.000đ</strong></td>
     <td><strong style="color: green;">3.900.000đ</strong></td>
   </tr>
@@ -178,7 +180,7 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
     <td style="vertical-align: top;">
       <ul>
         <li>Toàn bộ quyền lợi <strong>Gói Tự Tập</strong></li>
-        <li>Gửi bài tập qua video trong 3 tháng, nhận phản hồi 1:1</li>
+        <li>Gửi bài tập qua video trong 3+ tháng, nhận phản hồi 1:1</li>
         <li>Hướng dẫn điều chỉnh tư thế, cảm nhận đúng vùng cơ</li>
         <li>Gợi ý thói quen sống phù hợp từng giai đoạn</li>
         <li><strong>Bonus</strong>: <a href="/khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/">Khoá 21 ngày kết nối với cơ thể</a> (trị giá 999.000đ)</li>
