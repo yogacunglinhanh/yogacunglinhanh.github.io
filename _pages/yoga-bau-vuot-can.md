@@ -179,7 +179,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <th>Gói VIP Kèm Riêng</th>
   </tr>
   <tr>
-    <td><strong style="color: green;">1.100.000đ</strong><strong style="color: red;"> (Trị Giá: 1.500.000đ)</strong></td>
+    <td><strong style="color: green;">1.500.000đ</strong><strong style="color: red;"> (Trị Giá: 1.800.000đ)</strong></td>
     <td><strong style="color: green;">2.600.000đ</strong><strong style="color: red;"> (Trị Giá: 4.000.000đ)</strong></td>
     <td><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 6.000.000đ)</strong></td>
   </tr>
