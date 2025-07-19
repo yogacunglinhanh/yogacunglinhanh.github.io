@@ -66,7 +66,7 @@ Bạn đã phục hồi xong. Cơ thể ổn hơn. Bụng có cảm giác. Core 
 
 ## Giá và ưu đãi
 
-🎁 **Học phí trọn gói: 499.000đ ( Trị Giá 999.000đ nhưng mình muốn giữ giá ưu đãi để mẹ nào cũng có thể bắt đầu)**
+🎁 **Học phí trọn gói: 799.000đ ( Trị Giá 999.000đ nhưng mình muốn giữ giá ưu đãi để mẹ nào cũng có thể bắt đầu)**
 
 ✨ Ưu đãi giữ nguyên – không tăng giá
 
