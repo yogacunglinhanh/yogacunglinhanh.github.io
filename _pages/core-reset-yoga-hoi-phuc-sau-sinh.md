@@ -1,11 +1,11 @@
 ---
 layout: splash
-title: "CORE RESET - Yoga Hồi Phục Sau Sinh"
+title: "🌿 CORE RESET - Yoga Hồi Phục Sau Sinh"
 permalink: /khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/
 core-reset-yoga-hoi-phuc-sau-sinh:
-  - image_path: /assets/images/courses/yoga-21-ngay-ket-noi-voi-co-the-cover.png # TO FIXED
-    alt: "Core Reset Yoga Hồi Phục Sau Sinh"
-    title: "CORE RESET - Hành Trình 3 Tháng Hồi PHục Sâu Từ Trong Ra Ngoài"
+  - image_path: /assets/images/courses/yoga-core-reset-xo-bung.jpg
+    alt: "🌿 Core Reset Yoga Hồi Phục Sau Sinh"
+    title: "🌿 CORE RESET - Hành Trình 3 Tháng Hồi PHục Sâu Từ Trong Ra Ngoài"
     excerpt: >-
       **Dành cho mẹ sau sinh muốn thiết lập lại kết nối với cơ lõi**<br><br>
       ✨ Hiểu rõ về mặt giải phẫu các cơ lõi kết nối làm việc với nhau thế nào<br>
@@ -16,6 +16,44 @@ core-reset-yoga-hoi-phuc-sau-sinh:
       - label: "Đăng Ký Ngay"
         url: https://forms.gle/DtpJifpigkyj5HUU7
         class: "btn--yoga"
+      - label: "Chương Trình Học Chi Tiết"
+        url: /khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/#ch%C6%B0%C6%A1ng-tr%C3%ACnh-h%E1%BB%8Dc-chi-ti%E1%BA%BFt
+        class: "btn--explore"
+      - label: "Xem Các Gói Học"
+        url: /khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/#-m%E1%BB%A9c-%C4%91%E1%BA%A7u-t%C6%B0
+        class: "btn--buy"
+core-reset-yoga-hoi-phuc-sau-sinh-giai-doan1:
+  - image_path: /assets/images/courses/yoga-core-reset-giai-doan1.png
+    alt: "Giai đoạn 1: Nền tảng (2-3 tuần)"
+    title: "Giai đoạn 1: Nền tảng (2-3 tuần)"
+    excerpt: >-
+      <ul>
+        <li>Hiểu về cơ thể sau sinh & quá trình phục hồi</li>
+        <li>Kiểm tra tình trạng cơ bụng, cơ sàn chậu, cột sống</li>
+        <li>Chỉnh sửa tư thế trong sinh hoạt hàng ngày</li>
+        <li>Bài tập ngắn giải quyết các vấn nạn của mẹ sau sinh</li>
+        <li>Thiết lập mindset đúng cho hành trình</li>
+      </ul>
+core-reset-yoga-hoi-phuc-sau-sinh-giai-doan2:
+  - image_path: /assets/images/courses/yoga-core-reset-giai-doan2.png
+    alt: "Giai đoạn 2: Tu Sửa Chuyên Sâu (9-11 tuần)"
+    title: "Giai đoạn 2: Tu Sửa Chuyên Sâu (9-11 tuần)"
+    excerpt: >-
+      <ul>
+        <li>6 level nâng cao từ dễ đến khó: Nằm → Ngồi → Đứng</li>
+        <li>Tập thở & kết nối với cơ bụng sâu, cơ sàn chậu</li>
+        <li>Mỗi level có kiểm tra - chỉ đạt mới lên level tiếp</li>
+      </ul>
+core-reset-yoga-hoi-phuc-sau-sinh-giai-doan3:
+  - image_path: /assets/images/courses/yoga-core-reset-giai-doan3.png
+    alt: "Giai đoạn 3: 21 Ngày Kết Nối Toàn Thân (BONUS nhưng quan trọng)"
+    title: "Giai đoạn 3: 21 Ngày Kết Nối Toàn Thân (BONUS nhưng quan trọng)"
+    excerpt: >-
+      <ul>
+        <li>Tập 20-30 phút/ngày cho toàn bộ cơ thể</li>
+        <li>Kết nối mặt cảm xúc & tinh thần</li>
+        <li>Tạo thói quen luyện tập bền vững</li>
+      </ul>
 core-reset-yoga-hoi-phuc-sau-sinh-loi-ich:
   - excerpt: >-
       🤰 **Kết Nối Sâu Sắc Với Cơ Lõi**<br>
@@ -41,34 +79,6 @@ core-reset-yoga-hoi-phuc-sau-sinh-loi-ich:
   - excerpt: >-
       🎧 **Giáo viên được đào tạo bài bản**<br>
       Giáo viên được đào tạo tại Úc và Ấn Độ – kết hợp giữa chuyên môn hiện đại & chiều sâu truyền thống
-core-reset-yoga-hoi-phuc-sau-sinh-section1:
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-week1.jpg # TO FIXED
-    alt: "Level 0: Nền Tảng"
-    title: "Level 0: Kiến Thức Nền Tảng"
-    excerpt: >-
-      Hiểu về cơ thể sau sinh và quá trình phục hồi
-      Thiết lập mindset đúng cho hành trình
-core-reset-yoga-hoi-phuc-sau-sinh-section2:
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-week2.jpg # TO FIXED
-    alt: "Level 1: Thực Hành Kết Nối"
-    title: "Level 1: Thực Hành Hơi Thở, Cơ Hoành, Cơ Sàn Chậu"
-    excerpt: >-
-      Hơi thở và cách đi đứng đúng tư thế
-      Các bài tập ngắn giải quyết vấn nạn quen thuộc của mẹ sau sinh
-      Chỉnh sửa lại tư thế sinh hoạt hàng ngày
-core-reset-yoga-hoi-phuc-sau-sinh-section3:
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-week345.jpg # TO FIXED
-    alt: "Level 2-6: Luyện Tập Cơ Core Từ Nhẹ Đến Nặng"
-    title: "Level 2-6: Luyện Tập Cơ Core Từ Nhẹ Đến Nặng"
-    excerpt: >-
-      Tập cơ lõi từ tư thế nằm đến ngồi, đứng<br>
-      Kết hợp với hơi thở trong từng động tác<br>
-      Dần dần tăng cường độ một cách an toàn<br>
-      **Mỗi level có kiểm tra, phản hồi sát sao - chỉ khi đạt mới lên level tiếp theo**
-core-reset-yoga-hoi-phuc-sau-sinh-cac-goi-hoc:
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-package-goi-co-dong.png
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-package-goi-toan-dien.png
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-package-goi-vip-kem-rieng.png
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -77,43 +87,121 @@ core-reset-yoga-hoi-phuc-sau-sinh-cac-goi-hoc:
 
 {% include feature_row_custom.html id="core-reset-yoga-hoi-phuc-sau-sinh" type="left" %}
 
-## Bạn đang cảm thấy…
+## 👩‍🍼 Bạn Có Đang Gặp Phải?
 
-🤰 Bụng to như thế vẫn còn bầu, dù đã sinh xong 4-5 tháng
+🤰 Nhìn bụng mình sau sinh mà thấy như vẫn còn bầu?
 
-😰 Bế con một chút là đau lưng như muốn gãy làm đôi, mặc dù con cũng không nặng lắm đâu nhé
+😰 Bế con một chút là đau lưng, mỏi gáy?
 
-😳 Ho, hắt hơi 1 tí là ướt quần?
+😳 Ho, hắt hơi là són tiểu, không dám cười to?
 
-💔 Có thể đã bắt đầu tập thể dục lại nhưng không cảm nhận được gì, không biết mình đang tập có được tích sự gì không?
+💔 Tập lại nhưng không "kết nối" được với cơ thể?
 
-👉 **Bạn không một mình đâu**. Và bạn hoàn toàn có thể thay đổi điều này – **từ gốc, từ lõi, từ chính bên trong mình**.
+Chào mừng bạn đến với CORE RESET - Khoá học toàn diện giúp mẹ hồi phục sau sinh từ gốc, từ lõi, từ chính bên trong mình.
 
-## Sau Khi Tham Gia Khoá Học Bạn Sẽ...
+## 📈 Thành Quả Thực Tế
+
+cô Hồng (60+ tuổi):
+
+> "Từ khi tập xong với con dâu về cơ sàn chậu, mình không phải suốt ngày đi tìm chỗ vệ sinh nữa!"
+
+Linh (Người tạo ra Core Reset):
+
+> "Sau 2 năm nghiên cứu và thực hành, mình đã hồi phục khỏi són tiểu dù sinh thường, hết sổ bụng dù sau sinh 6 tháng bụng vẫn to. Giờ mình có thể làm chủ cơ thể một cách sâu sắc và tự tin."
+
+## 👩‍🏫 Về Giáo Viên Linh
+
+🎓 Giáo viên Yoga được đào tạo chuyên sâu 300+ giờ tại Úc
+
+🤱 160+ giờ chuyên sâu về yoga thai sản & hồi phục sau sinh
+
+🏥 150+ giờ đào tạo về đau lưng, cổ, vai gáy với giáo viên Ấn Độ
+
+👩‍👧 Mẹ của bé Chanh và đã trải qua hành trình hồi phục thành công
+
+Điều đặc biệt: Linh đã tự hồi phục hoàn toàn khỏi són tiểu và sổ bụng sau 2 năm nghiên cứu và thực hành. Giờ đây, cô chia sẻ phương pháp đã giúp mình và hơn 100+ học viên toàn quốc.
+
+## 🏠 Tại Sao Cần "Tu Sửa Toàn Diện"?
+
+Tưởng tượng cơ thể bạn như 1 ngôi nhà:
+
+- Khi mang thai: Có người khổng lồ chui vào làm nhà rạn nứt
+- Khi sinh: Người khổng lồ chui ra, phá tan "cửa chính" (nếu bạn sinh mổ) hoặc "đường hầm" (nếu bạn sinh thường)
+- Nếu bạn chỉ tu sửa 1 phần tức là chỉ tập bụng hoặc cơ sàn chậu, ngôi nhà vẫn yếu, dễ sụp đổ
+- Với Core Reset tu sửa toàn diện, ngôi nhà của bạn sẽ vững chắc từ nền móng
+
+<img src="/assets/images/courses/yoga-core-reset-ngoi-nha-cua-ban.jpg" height=500 width=500 alt="">
+
+## Chương Trình Học Chi Tiết
+
+{% include feature_row id="core-reset-yoga-hoi-phuc-sau-sinh-giai-doan1" type="left" %}
+
+{% include feature_row id="core-reset-yoga-hoi-phuc-sau-sinh-giai-doan2" type="left" %}
+
+{% include feature_row id="core-reset-yoga-hoi-phuc-sau-sinh-giai-doan3" type="left" %}
+
+## 🎯 Kết Quả Sau Khoá Học
 
 {% include feature_row id="core-reset-yoga-hoi-phuc-sau-sinh-loi-ich" %}
 
-👉 Một hành trình thật sự “chậm mà chắc” – để bạn về lại với chính mình, không chỉ khoẻ hơn mà còn kết nối sâu sắc hơn.
+## 📋 Thông Tin Khoá Học
 
-## Hành trình này dành cho ai?
+| Nội Dung      | Chi Tiết                                                              |
+| :------------ | :-------------------------------------------------------------------- |
+| Thời Lượng    | 3 tháng (6 level x 2 tuần)                                            |
+| Hình Thức     | Online qua video + Phản Hồi 1:1                                       |
+| Thời Gian Tập | 10-15 phút/ngày, tối thiểu 4 ngày/tuần                                |
+| Đối Tượng     | Mẹ sinh thường 2+ tháng, sinh mổ 4+ tháng (có thể tập dù đã sinh lâu) |
+| Kinh Nghiệm   | Không yêu cầu kinh nghiệm yoga/fitness                                |
 
-✔️ Mẹ sinh thường từ 2 tháng trở lên
+## 💰 Mức Đầu Tư
 
-✔️ Mẹ sinh mổ từ 4 tháng trở lên (đã được bác sĩ xác nhận ổn để tập)
+<table>
+  <tr>
+    <th>Gói Tự Tập</th>
+    <th>Gói Kèm Sát</th>
+    <th>Gói Chuyên Sâu</th>
+  </tr>
+  <tr>
+    <td><strong style="color: green;">1.500.000đ</strong></td>
+    <td><strong style="color: green;">2.500.000đ</strong></td>
+    <td><strong style="color: green;">3.900.000đ</strong></td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Tài liệu hướng dẫn lý thuyết & giải phẫu cơ hoành, cơ sàn chậu, cơ bụng</li>
+        <li>Video luyện tập các cơ lõi</li>
+        <li>Trọn bộ video của 6 level</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Toàn bộ quyền lợi <strong>Gói Tự Tập</strong></li>
+        <li>Gửi bài tập qua video trong 3 tháng, nhận phản hồi 1:1</li>
+        <li>Hướng dẫn điều chỉnh tư thế, cảm nhận đúng vùng cơ</li>
+        <li>Gợi ý thói quen sống phù hợp từng giai đoạn</li>
+        <li><strong>Bonus</strong>: <a href="/khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/">Khoá 21 ngày kết nối với cơ thể</a> (trị giá 999.000đ)</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Toàn bộ quyền lợi <strong>Gói Kèm Sát</strong></li>
+        <li>Tập live trực tiếp qua Zoom 1:1 - 3 buổi (30 phút mỗi buổi)</li>
+        <li>Điều chỉnh động tác chi tiết hơn theo từng cơ địa</li>
+        <li><strong>Bonus</strong>: <a href="/khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/">Khoá 21 ngày kết nối với cơ thể</a> (trị giá 999.000đ)</li>
+        <li><strong>Bonus</strong>: Playlist nhạc tập luyện</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Cho mẹ rất kỉ luật, hiểu cách cơ thể hoạt động để tập an toàn, hiệu quả</td>
+    <td>Cho mẹ muốn được theo sát, gửi bài và được góp ý kỹ càng</td>
+    <td>Cho mẹ muốn quan sát trực tiếp & tương tác live cùng giáo viên</td>
+  </tr>
+</table>
 
-✔️ Đặc biệt phù hợp cho mẹ dành nhiều thời gian cho con, nhưng ít cơ hội vận động. Toàn phải "vận động" bất đắc dĩ như là bế con ngủ, chơi..
-
-✔️ Không yêu cầu kinh nghiệm yoga trước đó
-
-## Lộ Trình Học Tập
-
-{% include feature_row id="core-reset-yoga-hoi-phuc-sau-sinh-section1" type="left" %}
-
-{% include feature_row id="core-reset-yoga-hoi-phuc-sau-sinh-section2" type="left" %}
-
-{% include feature_row id="core-reset-yoga-hoi-phuc-sau-sinh-section3" type="left" %}
-
-## Lịch Khai Giảng
+## ⏰ Thông Tin Đăng Ký
 
 Bắt đầu: Tháng 8/2025
 
@@ -121,49 +209,26 @@ Linh hoạt: Có thể bắt đầu muộn hơn nếu bạn cam kết tập đú
 
 Yếu tố quan trọng: Giữ guồng tập đều đặn
 
-## Mức Đầu Tư
-
-{% include feature_row id="core-reset-yoga-hoi-phuc-sau-sinh-cac-goi-hoc" %}
-
-**_Lưu Ý: Gói Toàn Diện & VIP : Nhận tối đa 10 mẹ bầu đăng ký mỗi tháng để đảm bảo chất lượng đồng hành 1:1!_**
-
-<div style="text-align: center;">
-  <a href="https://forms.gle/DtpJifpigkyj5HUU7"
-     style="display: inline-block; margin: 0.5em; padding: 0.6em 1.2em;
-            background-color: #5fad8e; color:white; border-radius: 0;
-            text-decoration: none; font-weight: bold;">
-    Đăng Ký/Chia Sẻ Thông Tin Ngay
-  </a>
-</div>
-
-## Về Linh
-
-Chào bạn, mình là Linh Đặng, là giáo viên chuyên sâu về Trước Sinh, Sau Sinh và Cơ sàn chậu. Mình được chứng nhận Prenatal & Post Natal ở 2 trung tâm nổi tiếng ở Úc, [Bliss Baby Yoga](https://blissbabyyoga.com/) và [Body Mind Life](https://www.bodymindlife.com/about) với **hơn 160 giờ đào tạo chuyên sâu** về:
-
-- Yoga tiền sản & hậu sản: Tư thế phù hợp và cần tránh, kỹ thuật hỗ trợ cơn đau lưng – khung chậu – diastasis recti, chuỗi bài tập thở & tư thế sinh chủ động, tổ chức lớp Mẹ & Bé sau sinh.
-- Giải phẫu học chuyên sâu cho phụ nữ mang thai & sau sinh: Bao gồm đau khớp háng, xương mu, hồi phục cơ sàn chậu.
-- Cơ sàn chậu cho phụ nữ: Thấu hiểu cấu trúc, chức năng và cách chăm sóc cơ sàn chậu bằng yoga, góp phần giảm són tiểu, tăng độ đàn hồi tầng sinh môn, và hỗ trợ quá trình sinh thường tự nhiên​.
-
-Song song đó, Linh có kinh nghiệm giảng dạy về trị liệu đau (cổ, vai, lưng, gối), giúp lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương khớp hoặc hạn chế vận động.​ Bạn có thể theo dõi [YouTube Yoga cùng Linh Anh](https://www.youtube.com/@yogacunglinhanh-noibanketn8829) để hiểu hơn cách mình dạy.
-
-[Chat Với Linh Qua Facebook](https://www.facebook.com/ngoclinhdnl/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
-[Xem Tips Sinh Nở Trên YouTube](https://www.youtube.com/playlist?list=PL-U5o45t3xZgy_-zVaA288VzX6DaCRHpg){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
-
-## Câu Hỏi Thường Hỏi (FAQ)
+## ❓ Câu Hỏi Thường Hỏi (FAQ)
 
 <details>
-  <summary><strong>Nếu tôi không tập được mỗi ngày thì sao?</strong></summary>
-  <p>Không sao cả. Mình hiểu các mẹ rất bận nên có khi bị nhỡ 1-2 ngày. Nếu trong 1 tuần, bạn tập được 4 buổi, đó là gọi là thành công rồi. Trong hành trình hồi phục này, tập ít mà đều có hiệu quả hơn tập nhiều nhưng giãn.</p>
+  <summary><strong>Tập bao lâu thì thấy kết quả?</strong></summary>
+  <p>Thông thường sau 2-3 tuần tập bạn sẽ cảm nhận được sự thay đổi ngay ở những phần bạn đang tập, đặc biệt là cơ sàn chậu nếu bạn đang són tiểu, và cảm giác thon gọn lại ở cơ bụng nếu bạn bị sổ.</p>
 </details>
 
 <details>
-  <summary><strong>Có được hỗ trợ không?</strong></summary>
-  <p>Tuỳ vào gói bạn lựa chọn, sẽ được hỗ trợ hay không. Nếu bạn chọn gói "Kèm Sát" và "Chuyên Sâu" thì được hỗ trợ, chỉnh sửa nhiều 1:1 hoặc trực tiếp.</p>
+  <summary><strong>Sinh mổ có tập được không?</strong></summary>
+  <p>Có, nhưng cần được bác sĩ xác nhận ổn định và bắt đầu từ 4 tháng sau sinh.</p>
 </details>
 
 <details>
-  <summary><strong>Bao lâu được truy cập hành trình này?</strong></summary>
-  <p>Bạn được truy cập trọn đời. Có thể tập lại bất kỳ lúc nào, bao nhiêu lần cũng được.</p>
+  <summary><strong>Sinh từ lâu rồi có tập được không?</strong></summary>
+  <p>Hoàn toàn có thể! Cơ thể có thể hồi phục bất cứ lúc nào, dù bạn đã sinh xong rất lâu.</p>
+</details>
+
+<details>
+  <summary><strong>Không có thời gian cố định có tập được không?</strong></summary>
+  <p>Hoàn toàn được! Khoá học thiết kế linh hoạt cho mẹ bận rộn, tập theo lịch của mình.</p>
 </details>
 
 <details>

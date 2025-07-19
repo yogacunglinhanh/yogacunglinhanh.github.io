@@ -33,14 +33,17 @@ yoga-bau-vuot-can:
     btn_label: "Xem Thêm"
     btn_class: "btn--yoga"
 core-reset-yoga-hoi-phuc-sau-sinh:
-  - image_path: /assets/images/courses/yoga-course-coming-up-cover.png
-    alt: "Core Reset Yoga Hồi Phục Sau Sinh"
-    title: "Core Reset Yoga Hồi Phục Sau Sinh"
+  - image_path: /assets/images/courses/yoga-core-reset-xo-bung.jpg
+    alt: "🌿 CORE RESET - Hành Trình 3 Tháng Hồi PHục Sâu Từ Trong Ra Ngoài"
+    title: "🌿 CORE RESET - Hành Trình 3 Tháng Hồi PHục Sâu Từ Trong Ra Ngoài"
     excerpt: >-
-      Dự Kiến Ra Mắt Tháng **8/2025**<br><br>
-      Nếu bạn quan tâm khoá học này, và muốn nhận ưu đãi 10% khi lớp ra mắt, giúp mình làm khảo sát nhanh nhé.
-    url: https://docs.google.com/forms/d/e/1FAIpQLSfriFoYFY1R7ZoGgrttHebYs5xGAxIupaIAY-EG4lEckeBUwQ/viewform
-    btn_label: "Làm Khảo Sát Ngay Mẹ Yêu Nhé"
+      **Dành cho mẹ sau sinh muốn thiết lập lại kết nối với cơ lõi**<br><br>
+      ✨ Hiểu rõ về mặt giải phẫu các cơ lõi kết nối làm việc với nhau thế nào<br>
+      🧘‍♀️ Tập mỗi ngày 10-15 phút – không gồng ép cơ thể – tập đúng, đủ<br>
+      💬 Phản hồi, chỉnh sửa 1:1 của giáo viên qua những bài tập<br>
+      📬 7 Level từ dễ đến khó, phải hoành thành từng level, nộp bài và qua thì mới được tập bài mới<br>
+    url: /khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/
+    btn_label: "Xem Thêm"
     btn_class: "btn--yoga"
 yoga-21-ngay-ket-noi-voi-co-the:
   - image_path: /assets/images/courses/yoga-21-ngay-ket-noi-voi-co-the-cover.png

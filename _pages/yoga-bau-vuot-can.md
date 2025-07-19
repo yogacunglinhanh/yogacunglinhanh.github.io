@@ -111,10 +111,6 @@ yoga-bau-vuot-can-lo-trinh-week10:
     title: "Tuần 10: Về Đích"
     excerpt: >-
       Các bài tập thư giãn cho cơ thể & củng cố niềm sự vững vàng trước sinh.<br><br>
-yoga-bau-vuot-can-cac-goi-hoc:
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-package-goi-co-dong.png
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-package-goi-toan-dien.png
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-package-goi-vip-kem-rieng.png
 testimonial_images:
   - src: "/assets/images/testimonials/yoga-bau-vuot-can-feedback1.jpg"
     alt: "Yoga Bau Vuot Can Feedback 1"
@@ -176,7 +172,59 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 
 ## Mức Đầu Tư
 
-{% include feature_row id="yoga-bau-vuot-can-cac-goi-hoc" %}
+<table>
+  <tr>
+    <th>Gói Cô Đọng</th>
+    <th>Gói Toàn Diện</th>
+    <th>Gói VIP Kèm Riêng</th>
+  </tr>
+  <tr>
+    <td><strong style="color: green;">1.100.000đ</strong><strong style="color: red;"> (Trị Giá: 1.500.000đ)</strong></td>
+    <td><strong style="color: green;">2.600.000đ</strong><strong style="color: red;"> (Trị Giá: 4.000.000đ)</strong></td>
+    <td><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 6.000.000đ)</strong></td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>7 buổi (tự học)</li>
+        <li>Cơ sàn chậu, hơi thở, âm thanh</li>
+        <li>Tập rượt đi sinh</li>
+        <li>Bài tập tự luyện</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>10 tuần (tự học có check-in)</li>
+        <li>Cơ sàn chậu, hơi thở, âm thanh</li>
+        <li>Tập rượt đi sinh</li>
+        <li>Mindset đi đẻ & Birth plan</li>
+        <li>Check-in 1-2 lần/tuần để cá nhân hoá nội dung học</li>
+        <li>Hỗ trợ sau sinh 1 tháng</li>
+        <li><strong>Bonus trị giá 1.100.000đ</strong>: Audio Positive Affirmation 102, Checklist trước khi sinh, Exercise Plan cá nhân</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Toàn bộ quyền lợi <strong>Gói Toàn Diện</strong></li>
+        <li>10 tuần (tự học có check-in)</li>
+        <li>4 buổi live Zoom 1:1</li>
+        <li>Điều chỉnh sâu cá nhân sát sao</li>
+        <li>Phản hồi trực tiếp bài tập/video</li>
+        <li>Hỗ trợ sau sinh 1 tháng</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Không điều chỉnh bài tập</td>
+    <td>Điều chỉnh bài tập theo cơ thể qua buổi Zoom 20' 1:1 đầu khoá & check-in chat hàng tuần</td>
+    <td>Điều chỉnh bài tập theo cơ thể qua các buổi live trực tiếp & check-in chat hàng tuần</td>
+  </tr>
+  <tr>
+    <td>Cho mẹ bầu gần ngày sinh, muốn chuẩn bị gấp rút, hoặc muốn trải nghiệm học bài bản</td>
+    <td>Cho mẹ muốn hỗ trợ cá nhân & muốn đi trọn hành trình</td>
+    <td>Cho mẹ muốn hướng dẫn sát sao, nhiều complications, hoặc cần người ủn mông</td>
+  </tr>
+</table>
 
 **_Lưu Ý: Gói Toàn Diện & VIP : Nhận tối đa 10 mẹ bầu đăng ký mỗi tháng để đảm bảo chất lượng đồng hành 1:1!_**
 
