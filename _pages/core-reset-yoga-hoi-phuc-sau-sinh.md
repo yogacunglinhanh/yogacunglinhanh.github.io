@@ -243,10 +243,10 @@ Yếu tố quan trọng: Giữ guồng tập đều đặn
 </details>
 
 > “Phục hồi sau sinh không phải là chuyện làm cho nhanh –
-> mà là hành trình về lại chính mình, từng hơi thở – từng chuyển động, giúp mẹ vững vàng trong những năm tới"
+> mà là hành trình về lại chính mình, từng hơi thở – từng chuyển động, giúp mẹ vững vàng trong những năm tới, và sinh bé tiếp theo (nếu có)😁 "
 > Nếu bạn đang tìm một hành trình sâu, chậm, nhưng thật sự vững – thì **CORE RESET** chính là nơi bạn bắt đầu.
 
-👉 [Điền Đơn Chia Sẻ Thông Tin Chia Sẻ Tình Trạng Của Bạn](https://forms.gle/DtpJifpigkyj5HUU7){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+👉 [Đăng Ký Ngay](https://forms.gle/DtpJifpigkyj5HUU7){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
 ## Bạn Muốn Được Hỗ Trợ Thêm?
 
