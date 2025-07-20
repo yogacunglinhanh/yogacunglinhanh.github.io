@@ -71,16 +71,13 @@ core-reset-yoga-hoi-phuc-sau-sinh-loi-ich:
       Được chỉnh sửa sát sao để đảm bảo bạn tập đúng, hiệu quả và tiến bộ nhanh.<br><br>
   - excerpt: >-
       🗓️ **Kế hoạch rõ ràng**<br>
-      Biết chính xác từng tuần mình cần làm gì, thay vì mò mẫm một mình trên Youtube giữa bao nhiêu thông tin trái chiều. Hỗ trợ facebook nhóm kín<br><br>
+      Biết chính xác từng tuần mình cần làm gì, thay vì mò mẫm một mình trên Youtube giữa bao nhiêu thông tin trái chiều.<br><br>
   - excerpt: >-
-      🎧 **Bonus Chuỗi Bài 21 Ngày Kết Nối Với Cơ Thể**<br>
-      Giúp bạn củng cố cơ thể toàn diện, sau khi đã tập trung tập cơ lõi.
-  - excerpt: >-
-      🎧 **Giữ khoá học trọn đời**<br>
-      Bạn có thể quay lại ôn tập bất cứ lúc nào, theo đúng guồng của mình hay là ngay sau khi sinh bé tiếp theo
+      🎧 **Hỗ trợ facebook nhóm kín**<br>
+      Nơi các mẹ chia sẻ kinh nghiệm hỗ trợ lẫn nhau.<br><br>
   - excerpt: >-
       🎧 **Giáo viên được đào tạo bài bản**<br>
-      Giáo viên được đào tạo tại Úc và Ấn Độ – kết hợp giữa chuyên môn hiện đại & chiều sâu truyền thống
+      Giáo viên được đào tạo tại Úc và Ấn Độ – kết hợp giữa chuyên môn hiện đại & chiều sâu truyền thống<br><br>
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -253,6 +250,7 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
 
 - Bắt đầu: Tháng 8/2025
 - Linh hoạt: Có thể bắt đầu muộn hơn nếu bạn cam kết tập đúng nhịp
+- Khoá học có thời hạn 1 năm từ ngày bắt đầu.
 - Yếu tố quan trọng: Giữ guồng tập đều đặn
 
 <div style="text-align: center;">
