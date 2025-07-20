@@ -174,14 +174,14 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 
 <table>
   <tr>
-    <th>Gói Cô Đọng</th>
-    <th>Gói Toàn Diện</th>
-    <th>Gói VIP Kèm Riêng</th>
+    <th style="text-align: center;">Gói Cô Đọng</th>
+    <th style="text-align: center;">Gói Toàn Diện</th>
+    <th style="text-align: center;">Gói VIP Kèm Riêng</th>
   </tr>
   <tr>
-    <td><strong style="color: green;">1.100.000đ</strong><strong style="color: red;"> (Trị Giá: 1.500.000đ)</strong></td>
-    <td><strong style="color: green;">2.600.000đ</strong><strong style="color: red;"> (Trị Giá: 4.000.000đ)</strong></td>
-    <td><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 6.000.000đ)</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">1.100.000đ</strong><strong style="color: red;"> (Trị Giá: 1.500.000đ)</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">2.600.000đ</strong><strong style="color: red;"> (Trị Giá: 4.000.000đ)</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 6.000.000đ)</strong></td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
@@ -200,7 +200,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
         <li>Mindset đi đẻ & Birth plan</li>
         <li>Check-in 1-2 lần/tuần để cá nhân hoá nội dung học</li>
         <li>Hỗ trợ sau sinh 1 tháng</li>
-        <li><strong>Bonus trị giá 1.100.000đ</strong>: Audio Positive Affirmation 102, Checklist trước khi sinh, Exercise Plan cá nhân</li>
+        <li><strong style="color: red;">BONUS trị giá 1.100.000đ</strong>: Audio Positive Affirmation 102, Checklist trước khi sinh, Exercise Plan cá nhân</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
@@ -215,9 +215,23 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     </td>
   </tr>
   <tr>
-    <td>Không điều chỉnh bài tập</td>
-    <td>Điều chỉnh bài tập theo cơ thể qua buổi Zoom 20' 1:1 đầu khoá & check-in chat hàng tuần</td>
-    <td>Điều chỉnh bài tập theo cơ thể qua các buổi live trực tiếp & check-in chat hàng tuần</td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Không điều chỉnh bài tập</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Điều chỉnh bài tập theo cơ thể qua buổi Zoom 20' 1:1 đầu khoá</li>
+        <li>Check-in chat hàng tuần</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Điều chỉnh bài tập theo cơ thể qua các buổi live trực tiếp</li>
+        <li>check-in chat hàng tuần</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>Cho mẹ bầu gần ngày sinh, muốn chuẩn bị gấp rút, hoặc muốn trải nghiệm học bài bản</td>

@@ -33,11 +33,11 @@ yoga-bau-vuot-can:
     btn_label: "Xem Thêm"
     btn_class: "btn--yoga"
 core-reset-yoga-hoi-phuc-sau-sinh:
-  - image_path: /assets/images/courses/yoga-core-reset-xo-bung.jpg
+  - image_path: /assets/images/courses/yoga-core-reset-cover.png
     alt: "🌿 CORE RESET - Hành Trình 3 Tháng Hồi PHục Sâu Từ Trong Ra Ngoài"
     title: "🌿 CORE RESET - Hành Trình 3 Tháng Hồi PHục Sâu Từ Trong Ra Ngoài"
     excerpt: >-
-      **Dành cho mẹ sau sinh muốn thiết lập lại kết nối với cơ lõi**<br><br>
+      *Dành cho mẹ sau sinh muốn thiết lập lại kết nối với cơ lõi*<br><br>
       ✨ Hiểu rõ về mặt giải phẫu các cơ lõi kết nối làm việc với nhau thế nào<br>
       🧘‍♀️ Tập mỗi ngày 10-15 phút – không gồng ép cơ thể – tập đúng, đủ<br>
       💬 Phản hồi, chỉnh sửa 1:1 của giáo viên qua những bài tập<br>

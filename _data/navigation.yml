@@ -3,14 +3,14 @@ main:
     url: /khoa-hoc/
   - title: "Blogs"
     url: /blogs/
-  - title: "Khoá Yoga Nền Tảng"
-    url: /khoa-hoc/yoga-nen-tang/
-  - title: "Khoá Yoga Bầu Vượt Cạn"
+  - title: "Yoga Bầu Vượt Cạn"
     url: /khoa-hoc/yoga-bau-vuot-can/
+  - title: "Core Reset Hồi Phục Sau Sinh"
+    url: /khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/
+  - title: "Yoga Nền Tảng"
+    url: /khoa-hoc/yoga-nen-tang/
   - title: "21 Ngày Kết Nối Với Cơ Thể"
     url: /khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/
-  - title: "Khoá Core Reset Yoga Hồi Phục Sau Sinh"
-    url: /khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/
   - title: "Giới Thiệu"
     url: /gioi-thieu/
   - title: "Liên Hệ"

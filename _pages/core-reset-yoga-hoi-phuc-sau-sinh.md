@@ -3,11 +3,11 @@ layout: splash
 title: "🌿 CORE RESET - Yoga Hồi Phục Sau Sinh"
 permalink: /khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/
 core-reset-yoga-hoi-phuc-sau-sinh:
-  - image_path: /assets/images/courses/yoga-core-reset-xo-bung.jpg
+  - image_path: /assets/images/courses/yoga-core-reset-cover.png
     alt: "🌿 Core Reset Yoga Hồi Phục Sau Sinh"
     title: "🌿 CORE RESET - Hành Trình 3 Tháng Hồi PHục Sâu Từ Trong Ra Ngoài"
     excerpt: >-
-      **Dành cho mẹ sau sinh muốn thiết lập lại kết nối với cơ lõi**<br><br>
+      *Dành cho mẹ sau sinh muốn thiết lập lại kết nối với cơ lõi*<br><br>
       ✨ Hiểu rõ về mặt giải phẫu các cơ lõi kết nối làm việc với nhau thế nào<br>
       🧘‍♀️ Tập mỗi ngày 10-15 phút – không gồng ép cơ thể – tập đúng, đủ<br>
       💬 Phản hồi, chỉnh sửa 1:1 của giáo viên qua những bài tập<br>
@@ -46,8 +46,8 @@ core-reset-yoga-hoi-phuc-sau-sinh-giai-doan2:
       </ul>
 core-reset-yoga-hoi-phuc-sau-sinh-giai-doan3:
   - image_path: /assets/images/courses/yoga-core-reset-giai-doan3.png
-    alt: "Giai đoạn 3: 21 Ngày Kết Nối Toàn Thân (BONUS nhưng quan trọng)"
-    title: "Giai đoạn 3: 21 Ngày Kết Nối Toàn Thân (BONUS nhưng quan trọng)"
+    alt: "Giai đoạn 3: 21 Ngày Kết Nối Toàn Thân"
+    title: "Giai đoạn 3: 21 Ngày Kết Nối Toàn Thân"
     excerpt: >-
       <ul>
         <li>Tập 20-30 phút/ngày cho toàn bộ cơ thể</li>
@@ -99,6 +99,10 @@ core-reset-yoga-hoi-phuc-sau-sinh-loi-ich:
 
 Chào mừng bạn đến với CORE RESET - Khoá học toàn diện giúp mẹ hồi phục sau sinh từ gốc, từ lõi, từ chính bên trong mình.
 
+<div style="text-align: center;">
+  <img src="/assets/images/courses/yoga-core-reset-xo-bung.png" height="500" width="500" alt="">
+</div>
+
 ## 📈 Thành Quả Thực Tế
 
 cô Hồng (60+ tuổi):
@@ -130,7 +134,9 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
 - Nếu bạn chỉ tu sửa 1 phần tức là chỉ tập bụng hoặc cơ sàn chậu, ngôi nhà vẫn yếu, dễ sụp đổ
 - Với Core Reset tu sửa toàn diện, ngôi nhà của bạn sẽ vững chắc từ nền móng
 
-<img src="/assets/images/courses/yoga-core-reset-ngoi-nha-cua-ban.jpg" height=500 width=500 alt="">
+<div style="text-align: center;">
+  <img src="/assets/images/courses/yoga-core-reset-ngoi-nha-cua-ban.jpg" height="500" width="500" alt="">
+</div>
 
 ## Chương Trình Học Chi Tiết
 
@@ -146,26 +152,45 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
 
 ## 📋 Thông Tin Khoá Học
 
-| Nội Dung      | Chi Tiết                                                              |
-| :------------ | :-------------------------------------------------------------------- |
-| Thời Lượng    | 3 tháng (6 level x 2 tuần)                                            |
-| Hình Thức     | Online qua video + Phản Hồi 1:1                                       |
-| Thời Gian Tập | 10-15 phút/ngày, tối thiểu 4 ngày/tuần                                |
-| Đối Tượng     | Mẹ sinh thường 2+ tháng, sinh mổ 4+ tháng (có thể tập dù đã sinh lâu) |
-| Kinh Nghiệm   | Không yêu cầu kinh nghiệm yoga/fitness                                |
+<table style="width: 100%;">
+  <tr>
+    <th style="text-align: center;">Nội Dung</th>
+    <th style="text-align: center;">Chi Tiết</th>
+  </tr>
+  <tr>
+    <td>Thời Lượng</td>
+    <td>3 tháng (6 level x 2 tuần)</td>
+  </tr>
+  <tr>
+    <td>Hình Thức</td>
+    <td>Online qua video + Phản Hồi 1:1</td>
+  </tr>
+  <tr>
+    <td>Thời Gian Tập</td>
+    <td>10-15 phút/ngày, tối thiểu 4 ngày/tuần</td>
+  </tr>
+  <tr>
+    <td>Đối Tượng</td>
+    <td>Mẹ sinh thường 2+ tháng, sinh mổ 4+ tháng (có thể tập dù đã sinh lâu)</td>
+  </tr>
+  <tr>
+    <td>Kinh Nghiệm</td>
+    <td>Không yêu cầu kinh nghiệm yoga/fitness</td>
+  </tr>
+</table>
 
 ## 💰 Mức Đầu Tư
 
 <table>
   <tr>
-    <th>Gói Tự Tập</th>
-    <th>Gói Kèm Sát</th>
-    <th>Gói Chuyên Sâu</th>
+    <th style="text-align: center;">Gói Tự Tập</th>
+    <th style="text-align: center;">Gói Kèm Sát</th>
+    <th style="text-align: center;">Gói Chuyên Sâu</th>
   </tr>
   <tr>
-    <td><strong style="color: green;">1.500.000đ</strong></td>
-    <td><strong style="color: green;">2.500.000đ</strong></td>
-    <td><strong style="color: green;">3.900.000đ</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">1.500.000đ</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">2.500.000đ</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">3.900.000đ</strong></td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
@@ -181,7 +206,8 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
         <li>Gửi bài tập qua video trong 3 tháng, nhận phản hồi 1:1</li>
         <li>Hướng dẫn điều chỉnh tư thế, cảm nhận đúng vùng cơ</li>
         <li>Gợi ý thói quen sống phù hợp từng giai đoạn</li>
-        <li><strong>Bonus</strong>: <a href="/khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/">Khoá 21 ngày kết nối với cơ thể</a> (trị giá 999.000đ)</li>
+        <li><strong style="color: red;">Giai Đoạn 3</strong>: <a href="/khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/">Khoá 21 ngày kết nối với cơ thể</a> (trị giá 999.000đ)</li>
+        <li><strong style="color: red;">BONUS</strong>: Podcast 5 ngày viết và thở sau sinh</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
@@ -189,8 +215,28 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
         <li>Toàn bộ quyền lợi <strong>Gói Kèm Sát</strong></li>
         <li>Tập live trực tiếp qua Zoom 1:1 - 3 buổi (30 phút mỗi buổi)</li>
         <li>Điều chỉnh động tác chi tiết hơn theo từng cơ địa</li>
-        <li><strong>Bonus</strong>: <a href="/khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/">Khoá 21 ngày kết nối với cơ thể</a> (trị giá 999.000đ)</li>
-        <li><strong>Bonus</strong>: Playlist nhạc tập luyện</li>
+        <li><strong style="color: red;">Giai Đoạn 3</strong>: <a href="/khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/">Khoá 21 ngày kết nối với cơ thể</a> (trị giá 999.000đ)</li>
+        <li><strong style="color: red;">BONUS</strong>: Podcast 5 ngày viết và thở sau sinh</li>
+        <li><strong style="color: red;">BONUS</strong>: Playlist nhạc tập luyện</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Không có phản hồi cá nhân</li>
+        <li>Không kèm <strong>Giai Đoạn 3</strong></li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Hỗ trợ nhắn tin/hỏi đáp 1:1 và sửa video</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Hỗ trợ nhắn tin/hỏi đáp 1:1 và sửa video</li>
+        <li>Học live 3 buổi</li>
       </ul>
     </td>
   </tr>
@@ -203,11 +249,22 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
 
 ## ⏰ Thông Tin Đăng Ký
 
-Bắt đầu: Tháng 8/2025
+- Bắt đầu: Tháng 8/2025
+- Linh hoạt: Có thể bắt đầu muộn hơn nếu bạn cam kết tập đúng nhịp
+- Yếu tố quan trọng: Giữ guồng tập đều đặn
 
-Linh hoạt: Có thể bắt đầu muộn hơn nếu bạn cam kết tập đúng nhịp
+<div style="text-align: center;">
+  <a href="https://forms.gle/DtpJifpigkyj5HUU7"
+     style="display: inline-block; margin: 0.5em; padding: 0.6em 1.2em;
+            background-color: #5fad8e; color:white; border-radius: 0;
+            text-decoration: none; font-weight: bold;">
+    Đăng Ký Ngay
+  </a>
+</div>
 
-Yếu tố quan trọng: Giữ guồng tập đều đặn
+## Review Những Lớp Khác của Yoga Cùng Linh Anh
+
+{% include youtube_embed.html id="d6tQiBzpEeY" %}
 
 ## ❓ Câu Hỏi Thường Hỏi (FAQ)
 
