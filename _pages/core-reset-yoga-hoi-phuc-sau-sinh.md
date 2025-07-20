@@ -71,7 +71,7 @@ core-reset-yoga-hoi-phuc-sau-sinh-loi-ich:
       Được chỉnh sửa sát sao để đảm bảo bạn tập đúng, hiệu quả và tiến bộ nhanh.<br><br>
   - excerpt: >-
       🗓️ **Kế hoạch rõ ràng**<br>
-      Biết chính xác từng tuần mình cần làm gì, thay vì mò mẫm một mình trên Youtube giữa bao nhiêu thông tin trái chiều.<br><br>
+      Biết chính xác từng tuần mình cần làm gì, thay vì mò mẫm một mình trên Youtube giữa bao nhiêu thông tin trái chiều. Hỗ trợ facebook nhóm kín<br><br>
   - excerpt: >-
       🎧 **Bonus Chuỗi Bài 21 Ngày Kết Nối Với Cơ Thể**<br>
       Giúp bạn củng cố cơ thể toàn diện, sau khi đã tập trung tập cơ lõi.
