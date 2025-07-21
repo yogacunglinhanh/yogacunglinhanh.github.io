@@ -194,6 +194,7 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
   <tr>
     <td style="text-align: center;"><strong style="color: green;">Sau 31/7/25, Giá sẽ thay đổi</strong></td>
     <td style="text-align: center;"><strong style="color: green;">Sau 31/7/25, Giá sẽ thay đổi</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">Sau 31/7/25, Giá sẽ thay đổi</strong></td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
