@@ -192,6 +192,10 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
     <td style="text-align: center;"><strong style="color: green;">3.900.000đ</strong></td>
   </tr>
   <tr>
+    <td style="text-align: center;"><strong style="color: green;">Sau 31/7/25, Giá sẽ thay đổi</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">Sau 31/7/25, Giá sẽ thay đổi</strong></td>
+  </tr>
+  <tr>
     <td style="vertical-align: top;">
       <ul>
         <li>Tài liệu hướng dẫn lý thuyết & giải phẫu cơ hoành, cơ sàn chậu, cơ bụng</li>
@@ -249,6 +253,7 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
 ## ⏰ Thông Tin Đăng Ký
 
 - Bắt đầu: Tháng 8/2025
+- Giá hiện giờ là 10% ưu đãi, đến hết 31/7/2025, giá sẽ thay đổi.
 - Linh hoạt: Có thể bắt đầu muộn hơn nếu bạn cam kết tập đúng nhịp
 - Khoá học có thời hạn 1 năm từ ngày bắt đầu.
 - Yếu tố quan trọng: Giữ guồng tập đều đặn
