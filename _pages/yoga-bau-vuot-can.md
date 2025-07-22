@@ -74,8 +74,8 @@ yoga-bau-vuot-can-danh-cho-ai:
       Giữa vô số thông tin trái chiều và muốn có một lộ trình rõ ràng, bài bản<br><br>
 yoga-bau-vuot-can-lo-trinh-week1:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week1.jpg
-    alt: "Tuần 1-2: Chuẩn Bị Nền Tảng"
-    title: "Tuần 1-2: Chuẩn Bị Nền Tảng"
+    alt: "Giai Đoạn 1: Chuẩn Bị Nền Tảng (2 tuần)"
+    title: "Giai Đoạn 1: Chuẩn Bị Nền Tảng (2 tuần)"
     excerpt: >-
       Giới thiệu về yoga bầu, lợi ích và các nguyên tắc vàng tập Yoga để đảm bảo an toàn cho mẹ và bé.<br><br>
       Giới thiệu các tư thế ngồi, đứng, di chuyển để giúp mẹ giảm đau, mỏi và các triệu chứng mang thai, đặc biệt sẽ giúp ích cho các mẹ bầu bận rộn không có nhiều thời gian tập luyện và các mẹ không hay thường xuyên tập luyện trước khi mang thai.<br><br>
@@ -84,29 +84,29 @@ yoga-bau-vuot-can-lo-trinh-week1:
       *- Mẹ P sinh lần đầu, tuổi 35*
 yoga-bau-vuot-can-lo-trinh-week345:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week345.jpg
-    alt: "Tuần 3-4-5-6: Tập Trung Luyện Thân & Thở"
-    title: "Tuần 3-4-5-6: Tập Trung Luyện Thân & Thở"
+    alt: "Giai Đoạn 2: Tập Trung Luyện Thân & Thở (4 tuần)"
+    title: "Giai Đoạn 2: Tập Trung Luyện Thân & Thở (4 tuần)"
     excerpt: >-
       Các kỹ thuật thở & bài tập giúp mẹ đối mặt với việc đau lưng, phù nề, đau hông trong thai kỳ.<br>
       Học cách kết nối với em bé.
       Học cách thở để giảm đau lúc đẻ và rút ngắn giai đoạn "rặn đẻ"
 yoga-bau-vuot-can-lo-trinh-week89:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week89.jpg
-    alt: "Tuần 7-10: Chuẩn bị sinh & Về Đích"
-    title: "Tuần 7-10: Chuẩn bị sinh & Về Đích"
+    alt: "Giai Đoạn 3: Chuẩn Bị Sinh & Về Đích (3 tuần)"
+    title: "Giai Đoạn 3: Chuẩn Bị Sinh & Về Đích (3 tuần)"
     excerpt: >-
       Tư thế sinh, kỹ thuật thở khi chuyển dạ, và cách đối phó với cơn đau. Thực hành "giả đi đẻ", giúp bạn hiểu bạn cần đối phó cái gì
       Xây dựng Action Birth Plan cá nhân, chuẩn bị tâm lý và checklist trước khi đi sinh.
       Các bài tập thư giãn cho cơ thể & củng cố niềm sự vững vàng trước sinh.
 yoga-bau-vuot-can-lo-trinh-week10:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week10.jpg
-    alt: "Tuần 11 -14: Học Cách Chăm Sau Sinh"
-    title: "Tuần 10: Học Cách Chăm Sau Sinh"
+    alt: "Giai Đoạn 4: Học Cách Chăm Sau Sinh (2-3 tuần)"
+    title: "Giai Đoạn 4: Học Cách Chăm Sau Sinh (2-3 tuần)"
     excerpt: >-
-      Học cách luyện tập cơ sàn chậu "đúng, an toàn" ngay sau khi sinh, giúp cơ hồi phục nhanh nhất
-      Học cách đi đứng, di chuyển cho mẹ sinh thường, sinh mổ
+      Kiến thức tập cơ sàn chậu "đúng, an toàn" ngay sau khi sinh, giúp cơ hồi phục nhanh nhất
       Các bài tập thư giãn, nhẹ nhàng tránh đau mỏi cổ, vai gáy, đau lưng cho mẹ mới sinh
-      Podcast 5 Ngày "Thở & Viết"<br><br>
+      Podcast 5 Ngày "Thở & Viết"
+      Tips chăm sóc bản thân sau sinh<br><br>
 
       👉 Mỗi tuần chỉ 2–3 video, tập lúc nào cũng được – miễn là đúng & đều 💛<br><br>
 testimonial_images: 
@@ -176,7 +176,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <th style="text-align: center;">Gói VIP Kèm Riêng</th>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong style="color: green;">1.300.000đ</strong><strong style="color: red;"> (Trị Giá: 1.800.000đ)</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">1.500.000đ</strong><strong style="color: red;"> (Trị Giá: 1.800.000đ)</strong></td>
     <td style="text-align: center;"><strong style="color: green;">2.700.000đ</strong><strong style="color: red;"> (Trị Giá: 4.000.000đ)</strong></td>
     <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 5.500.000đ)</strong></td>
   </tr>
@@ -213,6 +213,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <td style="vertical-align: top;">
       <ul>
         <li>Không điều chỉnh bài tập</li>
+        <li>Không có giai đoạn 4</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
