@@ -119,7 +119,7 @@ yoga-bau-vuot-can-lo-trinh-week10:
       Học cách đi đứng, di chuyển cho mẹ sinh thường, sinh mổ
       Các bài tập thư giãn, nhẹ nhàng tránh đau mỏi cổ, vai gáy, đau lưng cho mẹ mới sinh
       Podcast 5 Ngày "Thở & Viết"<br><br>
-testimonial_images:
+testimonial_images: 
   - src: "/assets/images/testimonials/yoga-bau-vuot-can-feedback1.jpg"
     alt: "Yoga Bau Vuot Can Feedback 1"
   - src: "/assets/images/testimonials/yoga-bau-vuot-can-feedback2.jpg"
