@@ -105,17 +105,12 @@ yoga-bau-vuot-can-lo-trinh-week67:
       Tư thế sinh, kỹ thuật thở khi chuyển dạ, và cách đối phó với cơn đau. Thực hành "giả đi đẻ", giúp bạn hiểu bạn cần đối phó cái gì
 yoga-bau-vuot-can-lo-trinh-week89:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week89.jpg
-    alt: "Tuần 8-9: Birth Plan"
-    title: "Tuần 8-9: Birth Plan"
+    alt: "Tuần 8-9-10: Birth Plan & Về Đích"
+    title: "Tuần 8-9: Birth Plan & Về Đích"
     excerpt: >-
       Xây dựng Action Birth Plan cá nhân, chuẩn bị tâm lý và checklist trước khi đi sinh.
+      Các bài tập thư giãn cho cơ thể & củng cố niềm sự vững vàng trước sinh.
 yoga-bau-vuot-can-lo-trinh-week10:
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-week10.jpg
-    alt: "Tuần 10: Về Đích"
-    title: "Tuần 10: Về Đích"
-    excerpt: >-
-      Các bài tập thư giãn cho cơ thể & củng cố niềm sự vững vàng trước sinh.<br><br>
-yoga-bau-vuot-can-lo-trinh-week11-14:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week10.jpg
     alt: "Tuần 11 -14: Học Cách Chăm Sau Sinh"
     title: "Tuần 10: Học Cách Chăm Sau Sinh"
