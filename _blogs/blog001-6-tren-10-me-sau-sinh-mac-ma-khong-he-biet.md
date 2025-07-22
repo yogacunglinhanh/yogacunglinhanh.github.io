@@ -1,13 +1,14 @@
 ---
 author: linh_dang
-title: "6 Dấu Hiệu Bụng Yếu Mẹ Sau Sinh Cần Biết"
+title: "4 Dấu Hiệu Bụng Yếu Mẹ Sau Sinh Cần Biết"
 collection: blogs
-permalink: /blogs/6-dau-hieu-bung-yeu-me-sau-sinh-can-biet/
+permalink: /blogs/4-dau-hieu-bung-yeu-me-sau-sinh-can-biet/
 excerpt_separator: "<!--more-->"
 ---
 
 <!-- markdownlint-disable MD028 -->
 <!-- markdownlint-disable MD033 -->
+## Bụng xổ, đau lưng là mối quan tâm của rất nhiều mẹ sau sinh, tuy nhiên nhiều mẹ không biết là vì sao và cũng không thực sự hiểu cơ thể của mình. Hôm nay hãy cùng mình xem qua 4 dấu hiệu bụng mẹ đang yếu nhé! 
 
 ### 1. Nhìn từ ngoài, bụng bạn có đang tròn mềm phía trước – như bầu 4–5 tháng?
 
