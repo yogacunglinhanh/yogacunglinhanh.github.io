@@ -53,7 +53,7 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
 
 ## Dưới đây là tóm tắt 2 dấu hiệu mẹ có thể thử nhận biết
 
-### 1. Bụng bạn có khe hở khi gồng nhẹ – gọi là tách cơ bụng (Diastasis Recti)
+### 3. Bụng bạn có khe hở khi gồng nhẹ – gọi là tách cơ bụng (Diastasis Recti)
 
 📋 **Cách kiểm tra:** Nằm ngửa, gập đầu gối. Đặt 2–3 ngón tay ngang lên bụng, đúng vùng rốn. Rồi nâng đầu lên nhẹ như thể sắp ngồi dậy. Nếu bạn cảm thấy có một khoảng lõm, rộng hơn 2 ngón tay, sâu hơn 1 đốt giữa bụng – đặc biệt vùng rốn hoặc dưới rốn – thì khả năng cao là bạn vẫn đang bị tách cơ bụng.
 
@@ -68,7 +68,7 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
   <figcaption>Nguồn ảnh: https://edallybh.vn/vi-sao-sau-sinh-thuong-beo-bung-va-phuong-phap-giai-quyet-nd84236.html</figcaption>
 </figure>
 
-### 2. Khi ngồi dậy, bụng nhô thành hình nón – đó là dấu hiệu "coning"
+### 4. Khi ngồi dậy, bụng nhô thành hình nón – đó là dấu hiệu "coning"
 
 **📋 Cách kiểm tra:** Thử để ý lúc bạn nằm rồi ngồi dậy (hoặc ho mạnh): Nếu thấy bụng bị đẩy lên thành 1 đường nhọn nhô cao như hình "nón", thì đó là dấu hiệu áp lực trong bụng chưa ổn định.
 
