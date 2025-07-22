@@ -115,7 +115,6 @@ yoga-bau-vuot-can-lo-trinh-week10:
     title: "Tuần 10: Về Đích"
     excerpt: >-
       Các bài tập thư giãn cho cơ thể & củng cố niềm sự vững vàng trước sinh.<br><br>
-
 yoga-bau-vuot-can-lo-trinh-week11-14:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week10.jpg
     alt: "Tuần 11 -14: Học Cách Chăm Sau Sinh"
