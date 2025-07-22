@@ -101,7 +101,7 @@ Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạ
 - Khả năng cao bạn KHÔNG bị phân tách cơ thẳng bụng nhưng BỤNG YẾU! 
 - Bụng vẫn yếu nên cơ lưng đang phải gánh thay, đâm đau lưng, gù lưng. Thế nên hãy ưu tiên tập các bài tập cho cơ lõi gồm cơ bụng sâu, cơ lưng, cơ 2 bên sườn, cơ sàn chậu và cơ hoành.
 
-## 🎯 Nếu cần hỗ trợ, tham khảo khoá CORE RESET - HÀNH TRÌNH HỒI PHỤC SAU SINH 3 THÁNG 
+## 🎯 Khoá CORE RESET - HÀNH TRÌNH HỒI PHỤC SAU SINH 3 THÁNG có thể là cái mẹ đang cần
 
 PHÙ HỢP CHO MẸ SINH THƯỜNG & SINH MỔ.
 
