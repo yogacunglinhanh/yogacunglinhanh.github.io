@@ -55,14 +55,14 @@ yoga-bau-vuot-can-loi-ich:
   - excerpt: >-
       🗓️ **Học 3 cách thở**<br>
       Học 3 kiểu thở khác nhau để giảm "đau đẻ", tránh kiệt sức cho mẹ sinh thường.<br><br>
-   - excerpt: >-
+  - excerpt: >-
       ♥️ **Giải mã và phá tan niềm tin giới hạn "sợ đẻ"**<br>
       Tự tin hơn đi khi đẻ và kết nối với con sâu sắc hơn.<br><br>
   - excerpt: >-
       📄 **Hiểu và được hỗ trợ cách chăm sóc bản thân mình sau sinh**<br>
       Tự trang bị cho bản thân kiến thức "chăm" mình trong giai đoạn "đau khổ" nhất.<br><br>
   - excerpt: >-
-      🎧 **BONUS**<br>
+      🎁 **BONUS**<br>
       Podcast 5 ngày "Thở & Viết Sau Sinh", giúp mẹ giải toả tâm lý khi bước vào giai đoạn mới. 
 yoga-bau-vuot-can-danh-cho-ai:
   - excerpt: >-
