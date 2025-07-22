@@ -108,9 +108,7 @@ Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạ
 - [ ] Có lúc cảm giác yếu hoặc phải siết lại
 - [ ] Thường xuyên – phải lấy tay đỡ bụng, cảm giác không vững
 
-### 3. Bạn bị đau âm ỉ lưng dưới, hông hoặc vùng bụng dưới mỗi lần bế bé lâu hoặc đứng bếp?
-
-**📋 Cách kiểm tra:** Quan sát cảm giác sau những hoạt động: đứng nấu ăn 15-30 phút, bế con trong 10-15 phút, hoặc đi bộ 20-30 phút. Để ý xem có xuất hiện cảm giác đau âm ỉ, tức nặng ở vùng lưng dưới, hai bên hông, hoặc vùng mu (vùng bụng dưới rốn) không.
+### 3. Lưng bạn như bị gãy, đau nhức?
 
 🎯 Kết quả kiểm tra:
 
@@ -133,16 +131,16 @@ Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạ
 #### Nếu bạn có những dấu hiệu này
 
 - Khả năng cao bạn không bị phân tách cơ thẳng bụng
-- Tuy nhiên cơ bụng vẫn yếu, cần ưu tiên tập các bài tập cho cơ bụng. Nếu cần hỗ trợ hồi phục, tham khảo khoá Yoga Hồi Phục Cơ Bụng & Cơ Sàn Chậu Sau Sinh của mình.
+- Tuy nhiên cơ bụng vẫn yếu, nên nhiều khi cơ lưng đang phải gánh thay. Nên ưu tiên tập các bài tập cho cơ bụng sâu. Nếu cần hỗ trợ hồi phục, tham khảo khoá Core Reset Yoga Hồi Phục Cơ Bụng & Cơ Sàn Chậu Sau Sinh của mình.
 
 Mình chia sẻ rất nhiều kiến thức hồi phục sau sinh trên Facebook, hãy tham gia nhóm để được hiểu thêm về cách hồi phục sau sinh cho bản thân, phù hợp cho mẹ sinh thường & sinh mổ
 
 [Tham Gia Nhóm Facebook nhé](https://www.facebook.com/groups/yogabau.linhanh){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
-## 🎯 MÓN QUÀ CHO MẸ SAU SINH: BỘ 3 VIDEO TẬP AN TOÀN, HIỆU QUẢ
+## 🎯 CORE RESET - HÀNH TRÌNH HỒI PHỤC SAU SINH 3 THÁNG 
 
 PHÙ HỢP CHO MẸ SINH THƯỜNG & SINH MỔ.
 
 Nhận ngay tại đấy!
 
-[Tôi muốn nhận quà](https://docs.google.com/forms/d/e/1FAIpQLSfriFoYFY1R7ZoGgrttHebYs5xGAxIupaIAY-EG4lEckeBUwQ/viewform){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+[Xem thêm thông tin khoá]([https://docs.google.com/forms/d/e/1FAIpQLSfriFoYFY1R7ZoGgrttHebYs5xGAxIupaIAY-EG4lEckeBUwQ/viewform](https://yogacunglinhanh.com/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/)){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
