@@ -40,22 +40,25 @@ yoga-bau-vuot-can-thu-ngo:
 yoga-bau-vuot-can-loi-ich:
   - excerpt: >-
       🤰 **Thai kỳ khoẻ mạnh**<br>
-      Biết cách tránh và giảm các triệu chứng thai kỳ như chuột rút, khó thở, đau lưng ... để mẹ khoẻ hơn. Mẹ khoẻ thì con mới khoẻ 😊<br><br>
+      Biết cách tránh và giảm các triệu chứng thai kỳ như chuột rút, khó thở, đau lưng ... giúp ngủ ngon, bớt phù nề 😊<br><br>
   - excerpt: >-
-      ♥️ **Cân bằng cảm xúc**<br>
-      Chăm sóc cả cảm xúc của bạn, giữ tâm lý cân bằng, tự tin sinh nở.<br><br>
+      🤰 **Biết cách tập an toàn**<br>
+      Hiểu rõ giải phẫu cơ thể, vì sao cần tập những động tác đúng và hiệu quả😊<br><br>
   - excerpt: >-
-      🙆‍♀️ **Tập đúng nhóm cơ để sinh dễ hơn**<br>
-      Biết cách tập các nhóm cơ thân trên & dưới để sinh nở dễ hơn, và đặc biệt giảm thiếu các nguy cơ rách rạch tầng sinh môn, xổ bụng sau sinh.<br><br>
+  -   🙆‍♀️ **Tập đúng cơ sinh nở dễ dàng**<br>
+      Biết cách tập rút ngắn thời gian rặn để, giảm thiếu các nguy cơ rách rạch tầng sinh môn.<br><br>
+ - excerpt: >-
+      ♥️ **Giải mã và phá tan niềm tin giới hạn "sợ đẻ"**<br>
+      Tự tin hơn đi khi đẻ và kết nối với con sâu sắc hơn.<br><br>
   - excerpt: >-
-      📄 **Birth Plan cá nhân hóa**<br>
-      Tự tay viết Birth Plan của riêng mình. Biết rõ các giai đoạn sinh và chuẩn bị cho từng bước một cách tự tin, chủ động.<br><br>
+      🗓️ **Học 3 cách thở**<br>
+      Học 3 kiểu thở khác nhau để giảm "đau đẻ", tránh kiệt sức cho mẹ sinh thường.<br><br>
   - excerpt: >-
-      🗓️ **Kế hoạch rõ ràng**<br>
-      Biết chính xác từng tuần mình cần làm gì, thay vì mò mẫm một mình trên Youtube giữa bao nhiêu thông tin trái chiều.<br><br>
+      📄 **Hiểu và được hỗ trợ cách chăm sóc bản thân mình sau sinh**<br>
+      Tự trang bị cho bản thân kiến thức "chăm" mình trong giai đoạn "đau khổ" nhất.<br><br>
   - excerpt: >-
-      🎧 **Audio Thiền Định**<br>
-      Nhận các audio positive affirmation độc quyền giúp bạn thư giãn, kết nối với con và giữ bình tĩnh khi sinh dù là sinh thường hay sinh mổ.
+      🎧 **BONUS**<br>
+      Podcast 5 ngày "Thở & Viết Sau Sinh", giúp mẹ giải toả tâm lý khi bước vào giai đoạn mới. 
 yoga-bau-vuot-can-danh-cho-ai:
   - excerpt: >-
       🤰 **Mẹ bầu từ tuần 13 trở đi**<br>
@@ -93,12 +96,13 @@ yoga-bau-vuot-can-lo-trinh-week345:
     excerpt: >-
       Các kỹ thuật thở & bài tập giúp mẹ đối mặt với việc đau lưng, phù nề, đau hông trong thai kỳ.<br>
       Học cách kết nối với em bé.
+      Học cách thở để giảm đau lúc đẻ và rút ngắn giai đoạn "rặn đẻ"
 yoga-bau-vuot-can-lo-trinh-week67:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week67.jpg
     alt: "Tuần 6-7: Chuẩn Bị Sinh"
     title: "Tuần 6-7: Chuẩn Bị Sinh"
     excerpt: >-
-      Tư thế sinh, kỹ thuật thở khi chuyển dạ, và cách đối phó với cơn đau. Thực hành "giả đi đẻ".
+      Tư thế sinh, kỹ thuật thở khi chuyển dạ, và cách đối phó với cơn đau. Thực hành "giả đi đẻ", giúp bạn hiểu bạn cần đối phó cái gì
 yoga-bau-vuot-can-lo-trinh-week89:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week89.jpg
     alt: "Tuần 8-9: Birth Plan"
@@ -111,6 +115,16 @@ yoga-bau-vuot-can-lo-trinh-week10:
     title: "Tuần 10: Về Đích"
     excerpt: >-
       Các bài tập thư giãn cho cơ thể & củng cố niềm sự vững vàng trước sinh.<br><br>
+
+yoga-bau-vuot-can-lo-trinh-week11-14:
+  - image_path: /assets/images/courses/yoga-bau-vuot-can-week10.jpg
+    alt: "Tuần 11 -14: Học Cách Chăm Sau Sinh"
+    title: "Tuần 10: Học Cách Chăm Sau Sinh"
+    excerpt: >-
+      Học cách luyện tập cơ sàn chậu "đúng, an toàn" ngay sau khi sinh, giúp cơ hồi phục nhanh nhất
+      Học cách đi đứng, di chuyển cho mẹ sinh thường, sinh mổ
+      Các bài tập thư giãn, nhẹ nhàng tránh đau mỏi cổ, vai gáy, đau lưng cho mẹ mới sinh
+      Podcast 5 Ngày "Thở & Viết"<br><br>
 testimonial_images:
   - src: "/assets/images/testimonials/yoga-bau-vuot-can-feedback1.jpg"
     alt: "Yoga Bau Vuot Can Feedback 1"
@@ -162,11 +176,10 @@ Ví dụ điển hình:
 
 **​Yoga Bầu Vượt Cạn** không chỉ đồng hành cùng bạn đến ngày sinh, mà còn để lại trong bạn:
 
-- Sự tự tin vào trực giác của chính mình - một món quà quý giá khi bạn bước vào hành trình làm mẹ.
 - Kỹ năng lắng nghe và kết nối với cơ thể - điều sẽ giúp bạn hồi phục nhanh chóng sau sinh.
 - Khả năng thở sâu và giữ bình tĩnh - công cụ vô giá trong những đêm dài chăm con.
+- Kiến thức để mẹ có thể "chăm" bản thân trong những tuần đầu sau sinh
 - Một cộng đồng những người mẹ đồng hành - nơi bạn có thể chia sẻ, học hỏi và trưởng thành cùng nhau.
-- Yoga cùng Linh Anh cũng có rất nhiều khoá học, podcast để giúp mẹ sau sinh chuyển tiếp sang 1 chặng đường mời - Hồi phục sau sinh và nuôi con.
 
 Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SINH RA một người mẹ mới - mạnh mẽ, tự tin và tràn đầy yêu thương.
 
@@ -179,8 +192,8 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <th style="text-align: center;">Gói VIP Kèm Riêng</th>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong style="color: green;">1.100.000đ</strong><strong style="color: red;"> (Trị Giá: 1.500.000đ)</strong></td>
-    <td style="text-align: center;"><strong style="color: green;">2.600.000đ</strong><strong style="color: red;"> (Trị Giá: 4.000.000đ)</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">1.300.000đ</strong><strong style="color: red;"> (Trị Giá: 1.800.000đ)</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">2.500.000đ</strong><strong style="color: red;"> (Trị Giá: 4.000.000đ)</strong></td>
     <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 6.000.000đ)</strong></td>
   </tr>
   <tr>
@@ -194,23 +207,22 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>10 tuần (tự học có check-in)</li>
+        <li>3 tháng thực hành sát sao</li>
         <li>Cơ sàn chậu, hơi thở, âm thanh</li>
         <li>Tập rượt đi sinh</li>
         <li>Mindset đi đẻ & Birth plan</li>
-        <li>Check-in 1-2 lần/tuần để cá nhân hoá nội dung học</li>
+        <li>Chỉnh sửa ảnh/video phản hồi cá nhân 1:1</li>
         <li>Hỗ trợ sau sinh 1 tháng</li>
-        <li><strong style="color: red;">BONUS trị giá 1.100.000đ</strong>: Audio Positive Affirmation 102, Checklist trước khi sinh, Exercise Plan cá nhân</li>
+        <li><strong style="color: red;">BONUS trị giá 999.000đ</strong>: Podcast 5 Ngày Viết&Thở Sau Sinh, Audio Thiền Định, Cá Nhân Hoá Bài Tập</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
         <li>Toàn bộ quyền lợi <strong>Gói Toàn Diện</strong></li>
-        <li>10 tuần (tự học có check-in)</li>
+        <li>3 tháng đồng hành sát sao (tự học có check-in)</li>
         <li>4 buổi live Zoom 1:1</li>
         <li>Điều chỉnh sâu cá nhân sát sao</li>
         <li>Phản hồi trực tiếp bài tập/video</li>
-        <li>Hỗ trợ sau sinh 1 tháng</li>
       </ul>
     </td>
   </tr>
@@ -222,8 +234,8 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Điều chỉnh bài tập theo cơ thể qua buổi Zoom 20' 1:1 đầu khoá</li>
-        <li>Check-in chat hàng tuần</li>
+        <li>Điều chỉnh động tác, feedback qua chat riêng</li>
+        <li>C</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
@@ -257,13 +269,17 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 
 ## Về Linh
 
-Chào bạn, mình là Linh Đặng, là giáo viên chuyên sâu về Trước Sinh, Sau Sinh và Cơ sàn chậu. Mình được chứng nhận Prenatal & Post Natal ở 2 trung tâm nổi tiếng ở Úc, [Bliss Baby Yoga](https://blissbabyyoga.com/) và [Body Mind Life](https://www.bodymindlife.com/about) với **hơn 160 giờ đào tạo chuyên sâu** về:
+Chào bạn, mình là Linh Đặng, là giáo viên Yoga chuyên sâu về thai sản và hồi phục sau sinh. Mình được chứng nhận Prenatal & Post Natal ở 2 trung tâm nổi tiếng ở Úc, [Bliss Baby Yoga](https://blissbabyyoga.com/) và [Body Mind Life](https://www.bodymindlife.com/about) với
 
-- Yoga tiền sản & hậu sản: Tư thế phù hợp và cần tránh, kỹ thuật hỗ trợ cơn đau lưng – khung chậu – diastasis recti, chuỗi bài tập thở & tư thế sinh chủ động, tổ chức lớp Mẹ & Bé sau sinh.
-- Giải phẫu học chuyên sâu cho phụ nữ mang thai & sau sinh: Bao gồm đau khớp háng, xương mu, hồi phục cơ sàn chậu.
-- Cơ sàn chậu cho phụ nữ: Thấu hiểu cấu trúc, chức năng và cách chăm sóc cơ sàn chậu bằng yoga, góp phần giảm són tiểu, tăng độ đàn hồi tầng sinh môn, và hỗ trợ quá trình sinh thường tự nhiên​.
+🎓 360+ đào tạo nền tảng về yoga nền tảng, giải phẫu học & năng lượng
 
-Song song đó, Linh có kinh nghiệm giảng dạy về trị liệu đau (cổ, vai, lưng, gối), giúp lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương khớp hoặc hạn chế vận động.​ Bạn có thể theo dõi [YouTube Yoga cùng Linh Anh](https://www.youtube.com/@yogacunglinhanh-noibanketn8829) để hiểu hơn cách mình dạy.
+🤱 160+ giờ chuyên sâu về yoga thai sản & hồi phục sau sinh
+
+🏥 140+ giờ đào tạo về Yoga trị liệu đau lưng, cổ, vai gáy với giáo viên Ấn Độ/Úc
+
+👩‍👧 Mẹ của bé Chanh, đã sinh thường nhanh chóng chỉ trong 3 tiếng hơn và trải qua hành trình hồi phục sau sinh thành công
+
+Lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương khớp hoặc hạn chế vận động qua những chỉnh sửa của Linh.​ Bạn có thể theo dõi [YouTube Yoga cùng Linh Anh](https://www.youtube.com/@yogacunglinhanh-noibanketn8829) để hiểu hơn cách mình dạy.
 
 [Chat Với Linh Qua Facebook](https://www.facebook.com/ngoclinhdnl/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 [Xem Tips Sinh Nở Trên YouTube](https://www.youtube.com/playlist?list=PL-U5o45t3xZgy_-zVaA288VzX6DaCRHpg){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
