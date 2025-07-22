@@ -192,8 +192,8 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
   </tr>
   <tr>
     <td style="text-align: center;"><strong style="color: green;">1.300.000đ</strong><strong style="color: red;"> (Trị Giá: 1.800.000đ)</strong></td>
-    <td style="text-align: center;"><strong style="color: green;">2.500.000đ</strong><strong style="color: red;"> (Trị Giá: 4.000.000đ)</strong></td>
-    <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 6.000.000đ)</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">2.700.000đ</strong><strong style="color: red;"> (Trị Giá: 4.000.000đ)</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 5.500.000đ)</strong></td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
@@ -206,12 +206,11 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>3 tháng thực hành sát sao</li>
-        <li>Cơ sàn chậu, hơi thở, âm thanh</li>
-        <li>Tập rượt đi sinh</li>
-        <li>Mindset đi đẻ & Birth plan</li>
+        <li>Toàn bộ quyền lợi trong gói "Cô Đọng"</li>
+        <li>3 tháng đồng hành sát sao</li>
         <li>Chỉnh sửa ảnh/video phản hồi cá nhân 1:1</li>
-        <li>Hỗ trợ sau sinh 1 tháng</li>
+        <li>Bài Tập Thiền Giải Mã Niềm Tin Giới Hạn & Phá Vỡ nó
+        <li>Mindset đi đẻ & Birth plan</li>
         <li><strong style="color: red;">BONUS trị giá 999.000đ</strong>: Podcast 5 Ngày Viết&Thở Sau Sinh, Audio Thiền Định, Cá Nhân Hoá Bài Tập</li>
       </ul>
     </td>
@@ -234,13 +233,13 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <td style="vertical-align: top;">
       <ul>
         <li>Điều chỉnh động tác, feedback qua chat riêng</li>
-        <li>C</li>
+        <li>1 buổi zoom 20' tuần 8-10 để tập rượt đi đẻ</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Điều chỉnh bài tập theo cơ thể qua các buổi live trực tiếp</li>
-        <li>check-in chat hàng tuần</li>
+        <li>Điều chỉnh bài tập theo cơ thể qua các buổi live trực tiếp/chat</li>
+        <li>Hỗ trợ chỉnh sửa bài tập 1:1</li>
       </ul>
     </td>
   </tr>
