@@ -10,10 +10,12 @@ yoga-bau-vuot-can-intro:
       Mẹ yêu ơi,<br><br>
       Khoá học này không chỉ dạy mẹ những động tác yoga đâu.<br>
       Mà là 1 hành trình từng bước giúp mẹ chuẩn bị cho 1 ca sinh chủ động, bình tĩnh và đầy yêu thương.<br><br>
-      Mỗi bài tập, mỗi kỹ thuật thở đều được thiết kế để
-    - Giảm đau lưng, phù nề, mệt mỏi<br>
-    - Kết nối với con yêu và chính mình<br>
-    - Sẵn sàng vượt cạn bằng sự hiểu biết và tự tin.<br><br>
+      Mỗi bài tập, mỗi kỹ thuật thở đều được thiết kế để<br>
+      <ul>
+        <li>Giảm đau lưng, phù nề, mệt mỏi</li>
+        <li>Kết nối với con yêu và chính mình</li>
+        <li>Sẵn sàng vượt cạn bằng sự hiểu biết và tự tin.</li>
+      </ul><br>
       Mẹ sẽ biết động tác nào giúp giảm đau lưng, đau hông, phù nề, và cách thở để vượt qua những cơn gò đầu tiên bằng sự bình tĩnh, vững chãi.<br><br>
       Nếu mẹ đang cần một ai đó đồng hành – mình ở đây.<br>
       Cùng mẹ đi qua hành trình này, nhẹ nhàng mà đầy sức mạnh.
@@ -48,7 +50,7 @@ yoga-bau-vuot-can-loi-ich:
       🤰 **Biết cách tập an toàn**<br>
       Hiểu rõ giải phẫu cơ thể, vì sao cần tập những động tác đúng và hiệu quả😊<br><br>
   - excerpt: >-
-  -   🙆‍♀️ **Tập đúng cơ sinh nở dễ dàng**<br>
+      🙆‍♀️ **Tập đúng cơ sinh nở dễ dàng**<br>
       Biết cách tập rút ngắn thời gian rặn để, giảm thiếu các nguy cơ rách rạch tầng sinh môn.<br><br>
   - excerpt: >-
       🗓️ **Học 3 cách thở**<br>
@@ -107,7 +109,6 @@ yoga-bau-vuot-can-lo-trinh-week10:
       Các bài tập thư giãn, nhẹ nhàng tránh đau mỏi cổ, vai gáy, đau lưng cho mẹ mới sinh
       Podcast 5 Ngày "Thở & Viết"
       Tips chăm sóc bản thân sau sinh<br><br>
-
       👉 Mỗi tuần chỉ 2–3 video, tập lúc nào cũng được – miễn là đúng & đều 💛<br><br>
 testimonial_images: 
   - src: "/assets/images/testimonials/yoga-bau-vuot-can-feedback1.jpg"
