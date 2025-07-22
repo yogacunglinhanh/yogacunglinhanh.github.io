@@ -8,7 +8,9 @@ excerpt_separator: "<!--more-->"
 
 <!-- markdownlint-disable MD028 -->
 <!-- markdownlint-disable MD033 -->
-## Bụng xổ, đau lưng là mối quan tâm của rất nhiều mẹ sau sinh, tuy nhiên nhiều mẹ không biết là vì sao và cũng không thực sự hiểu cơ thể của mình. Hôm nay hãy cùng mình xem qua 4 dấu hiệu bụng mẹ đang yếu nhé! 
+## Bụng xổ, đau lưng là mối quan tâm của rất nhiều mẹ sau sinh, tuy nhiên nhiều mẹ không biết là vì sao và cũng không thực sự hiểu cơ thể của mình. 
+
+Hôm nay hãy cùng mình xem qua 4 dấu hiệu bụng mẹ đang yếu nhé! 
 
 ### 1. Nhìn từ ngoài, bụng bạn có đang tròn mềm phía trước – như bầu 4–5 tháng?
 
