@@ -9,18 +9,27 @@ excerpt_separator: "<!--more-->"
 <!-- markdownlint-disable MD028 -->
 <!-- markdownlint-disable MD033 -->
 
-## Tách cơ bụng sau sinh (Diastasis Recti): không chỉ là chuyện “bụng chưa nhỏ lại”
+### 1. Nhìn từ ngoài, bụng bạn có đang tròn mềm phía trước – như bầu 4–5 tháng?
 
-Sau sinh một thời gian, nếu bạn cảm thấy bụng mình vẫn còn phình ra, lỏng lẻo – hoặc thấy rõ bụng nhô hình “nón” mỗi lần ngồi dậy, thì có thể bạn đang gặp phải tình trạng tách cơ bụng (**Diastasis Recti**).
+**📋 Cách kiểm tra:** Đứng thẳng trước gương, mặc áo ôm sát. Quan sát từ góc nghiêng và mặt trước. Để ý xem phần bụng có nhô ra phía trước, tạo thành hình cung tròn không - đặc biệt vùng dưới rốn. Bạn cũng có thể chụp ảnh nghiêng để so sánh với trước khi mang thai.
 
-Mình gặp rất nhiều mẹ sau sinh nói:
+🎯 Kết quả kiểm tra:
 
-> “Chắc do mình chưa giảm mỡ bụng”<br>
-> “Chắc cần tập mạnh hơn…”
+- [ ] Không – bụng đã phẳng tương đối
+- [ ] Có – nhìn vẫn "nhô nhẹ" dù mình đã giảm cân
+- [ ] Rất rõ – người ngoài vẫn hỏi "sao vẫn còn bụng?"
 
-Nhưng thực tế, đây không phải là vấn đề mỡ. Mà là **cấu trúc cơ bụng bị giãn ra và chưa được phục hồi đúng cách**.
+### 2. Lưng bạn như bị gãy, đau nhức?
 
-## Tách cơ bụng là gì?
+🎯 Kết quả kiểm tra:
+
+- [ ] Không
+- [ ] Có đôi lúc
+- [ ] Có – gần như ngày nào cũng bị
+
+Ngoài 2 dấu hiệu này, bạn cũng cần kiểm tra mình có bị phân tách cơ thẳng bụng không? 
+
+## Phân Tách cơ bụng là gì?
 
 Trong thai kỳ, cơ thẳng bụng (rectus abdominis) – gồm 2 dải cơ chạy dọc hai bên rốn – sẽ bị kéo giãn để tạo không gian cho thai nhi phát triển. Dải mô liên kết ở giữa (linea alba) cũng bị căng giãn theo. Nếu sau sinh, khoảng cách giữa hai bên cơ này không khép lại hoàn toàn, thì gọi là **Diastasis Recti**.
 
@@ -39,12 +48,7 @@ Thế nên việc tập đúng hay sai, rất quan trọng vào việc nhận di
 
 <img src="/assets/images/blogs/blog001-6-tren-10-me-sau-sinh-mac-ma-khong-he-biet.png" height=800 width=800 alt="">
 
-## Vậy bước tiếp theo là gì? Bạn có thể tự kiểm tra tại nhà – chỉ mất 5 phút
-
-Xem video hướng dẫn cách kiểm tra tại nhà ở đây
-{% include youtube_embed.html id="48_yrQI6PMw" %}
-
-## Dưới đây là tóm tắt các dấu hiệu mẹ có thể thử nhận biết
+## Dưới đây là tóm tắt 2 dấu hiệu mẹ có thể thử nhận biết
 
 ### 1. Bụng bạn có khe hở khi gồng nhẹ – gọi là tách cơ bụng (Diastasis Recti)
 
@@ -76,71 +80,30 @@ Xem video hướng dẫn cách kiểm tra tại nhà ở đây
   <figcaption>Nguồn ảnh: https://www.pelvichealthnj.com/pelvic-floor-blog/how-can-i-get-rid-of-abdominal-coning/</figcaption>
 </figure>
 
-## Nếu bạn có 2 dấu hiệu này
+Xem video hướng dẫn cách kiểm tra tại nhà ở đây. Bạn có thể tự kiểm tra tại nhà – chỉ mất 5 phút
+{% include youtube_embed.html id="48_yrQI6PMw" %}
 
-- Chắc chắn bạn bị vẫn bị phân tách cơ thẳng bụng.
+## Nếu bạn có dấu hiệu 3 & 4
+
+- Chắc chắn bạn bị phân tách cơ thẳng bụng, dấu hiệu bụng cực yếu
 - Cần tránh các động tác plank, crunch mà tập các động tác chuyên cơ lõi.
-- Hãy bắt đầu bằng Tập trung vào bài tập thở 3 phần/ Thở Bụng. Bạn có thể xem video tại [đây](https://www.youtube.com/watch?v=pHqxfKe8lpA) . Nếu cần hỗ trợ hồi phục, tham khảo khoá Yoga Hồi Phục Cơ Bụng & Cơ Sàn Chậu Sau Sinh của mình.
+- Hãy bắt đầu bằng tập trung vào bài tập thở 3 phần/ Thở Bụng. Bạn có thể xem video tại [đây](https://www.youtube.com/watch?v=pHqxfKe8lpA) .
+- Nếu cần hỗ trợ hồi phục, tham khảo khoá Yoga Hồi Phục Cơ Bụng & Cơ Sàn Chậu Sau Sinh của mình.
 
 Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạn cần bắt đầu lại từ nền tảng: thở đúng – kết nối lại vùng core – và chuyển động đúng cách trong sinh hoạt hằng ngày.
 
 {% include youtube_embed.html id="pHqxfKe8lpA" %}
 
-## Ngoài ra, còn 1 số dấu hiệu khác, bạn có thể thử xem để hiểu "độ khoẻ" của cơ bụng
+## Nếu bạn chỉ có dấu hiệu 1 hoặc 2
+- Khả năng cao bạn KHÔNG bị phân tách cơ thẳng bụng nhưng BỤNG YẾU! 
+- Bụng vẫn yếu nên cơ lưng đang phải gánh thay, đâm đau lưng, gù lưng. Thế nên hãy ưu tiên tập các bài tập cho cơ lõi gồm cơ bụng sâu, cơ lưng, cơ 2 bên sườn, cơ sàn chậu và cơ hoành.
 
-### 1. Nhìn từ ngoài, bụng bạn có đang tròn mềm phía trước – như bầu 4–5 tháng?
-
-**📋 Cách kiểm tra:** Đứng thẳng trước gương, mặc áo ôm sát. Quan sát từ góc nghiêng và mặt trước. Để ý xem phần bụng có nhô ra phía trước, tạo thành hình cung tròn không - đặc biệt vùng dưới rốn. Bạn cũng có thể chụp ảnh nghiêng để so sánh với trước khi mang thai.
-
-🎯 Kết quả kiểm tra:
-
-- [ ] Không – bụng đã phẳng tương đối
-- [ ] Có – nhìn vẫn "nhô nhẹ" dù mình đã giảm cân
-- [ ] Rất rõ – người ngoài vẫn hỏi "sao vẫn còn bụng?"
-
-### 2. Bạn có cảm giác bụng bị "rụng xuống" hoặc không có lực khi xoay người, bế con, đẩy xe?
-
-**📋 Cách kiểm tra:** Thử những động tác hàng ngày: bế con lên xuống, xoay người sang hai bên khi ngồi, đẩy xe đẩy hoặc cửa nặng, nhấc đồ từ sàn lên. Để ý cảm giác ở vùng bụng - có cảm thấy "lỏng lẻo", phải dùng tay đỡ, hoặc có cảm giác áp lực khó chịu không.
-
-🎯 Kết quả kiểm tra:
-
-- [ ] Không – cảm thấy ổn
-- [ ] Có lúc cảm giác yếu hoặc phải siết lại
-- [ ] Thường xuyên – phải lấy tay đỡ bụng, cảm giác không vững
-
-### 3. Lưng bạn như bị gãy, đau nhức?
-
-🎯 Kết quả kiểm tra:
-
-- [ ] Không
-- [ ] Có đôi lúc
-- [ ] Có – gần như ngày nào cũng bị
-
-### 4. Khi bạn "gồng bụng" – bạn thấy lực đi đâu?
-
-**📋 Cách kiểm tra:** Nằm ngửa hoặc ngồi thẳng, đặt tay lên bụng. Thử "siết bụng" như chuẩn bị ai đó sẽ đấm vào bụng bạn. Quan sát: bụng có bị đẩy lên phía trước (phồng ra) hay co sâu vào trong? Bạn có cảm giác kiểm soát được lực hay cảm thấy lộn xộn, không biết lực đi đâu?
-
-🎯 Kết quả kiểm tra:
-
-- [ ] Tập trung sâu bên trong, cảm giác kiểm soát được
-- [ ] Cảm giác bị đẩy ra phía trước – bụng phồng lên
-- [ ] Không biết – thấy lộn xộn, không rõ lực đi đâu
-
-### 📊 Đánh giá kết quả
-
-#### Nếu bạn có những dấu hiệu này
-
-- Khả năng cao bạn không bị phân tách cơ thẳng bụng
-- Tuy nhiên cơ bụng vẫn yếu, nên nhiều khi cơ lưng đang phải gánh thay. Nên ưu tiên tập các bài tập cho cơ bụng sâu. Nếu cần hỗ trợ hồi phục, tham khảo khoá Core Reset Yoga Hồi Phục Cơ Bụng & Cơ Sàn Chậu Sau Sinh của mình.
-
-Mình chia sẻ rất nhiều kiến thức hồi phục sau sinh trên Facebook, hãy tham gia nhóm để được hiểu thêm về cách hồi phục sau sinh cho bản thân, phù hợp cho mẹ sinh thường & sinh mổ
-
-[Tham Gia Nhóm Facebook nhé](https://www.facebook.com/groups/yogabau.linhanh){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
-
-## 🎯 CORE RESET - HÀNH TRÌNH HỒI PHỤC SAU SINH 3 THÁNG 
+## 🎯 Nếu cần hỗ trợ, tham khảo khoá CORE RESET - HÀNH TRÌNH HỒI PHỤC SAU SINH 3 THÁNG 
 
 PHÙ HỢP CHO MẸ SINH THƯỜNG & SINH MỔ.
 
-Nhận ngay tại đấy!
-
 [Xem thêm thông tin khoá]([https://docs.google.com/forms/d/e/1FAIpQLSfriFoYFY1R7ZoGgrttHebYs5xGAxIupaIAY-EG4lEckeBUwQ/viewform](https://yogacunglinhanh.com/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/)){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+
+Cuối cùng, mình chia sẻ rất nhiều kiến thức hồi phục sau sinh trên Facebook, hãy tham gia nhóm để được hiểu thêm về cách hồi phục sau sinh cho bản thân
+
+[Tham Gia Nhóm Facebook](https://www.facebook.com/groups/yogabau.linhanh){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
