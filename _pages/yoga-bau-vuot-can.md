@@ -178,7 +178,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
         <li>Cơ sàn chậu, hơi thở, âm thanh</li>
         <li>Tập rượt đi sinh</li>
         <li>Bài Tập Thiền Giải Mã Niềm Tin Giới Hạn & Phá Vỡ nó</li>
-        <li>Mindset đi đẻ
+        <li>Mindset đi đẻ</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
@@ -186,7 +186,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
         <li>Toàn bộ quyền lợi trong gói "Cơ Bản"</li>
         <li>Chỉnh sửa ảnh/video phản hồi cá nhân 1:1</li>
         <li>Bài Tập Thiền Giải Mã Niềm Tin Giới Hạn & Phá Vỡ nó</li>
-        <li>Module Chăm Sóc Sau Sinh
+        <li>Module Chăm Sóc Sau Sinh</li>
         <li><strong style="color: red;">BONUS trị giá 999.000đ</strong>: Podcast 5 Ngày Viết&Thở Sau Sinh, Giúp Viết Birth Plan, Checklist Đi Đẻ</li>
       </ul>
     </td>
@@ -225,6 +225,8 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <td>Cho mẹ muốn hướng dẫn sát sao, nhiều vấn đề sức khoẻ riêng, hoặc cần người ủn mông</td>
   </tr>
 </table>
+
+Ngoài ra, nếu mẹ đang chỉ muốn học lý thuyết cấp tốc, có thể chọn gói "Cô Đọng" Gồm 7 Buổi Lý Thuyết và 20% thực hành, giúp mẹ hiểu cách thở, tập cơ sàn chậu, và các giai đoạn sau sinh. Chi Phí: 1.100.000đ. 
 
 **_Lưu Ý: Gói Toàn Diện & VIP : Nhận tối đa 10 mẹ bầu đăng ký mỗi tháng để đảm bảo chất lượng đồng hành 1:1!_**
 
