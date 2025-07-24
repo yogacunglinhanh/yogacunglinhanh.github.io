@@ -87,8 +87,8 @@ yoga-bau-vuot-can-lo-trinh-week3456:
       <li>Học cách thở để giảm đau lúc đẻ và rút ngắn giai đoạn "rặn đẻ".</li>
 yoga-bau-vuot-can-lo-trinh-week789:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week89.jpg
-    alt: "Giai Đoạn 3: Chuẩn Bị Sinh & Về Đích (3 tuần)"
-    title: "Giai Đoạn 3: Chuẩn Bị Sinh & Về Đích (3 tuần)"
+    alt: "Giai Đoạn 3: Chuẩn Bị Sinh & Về Đích (4 tuần)"
+    title: "Giai Đoạn 3: Chuẩn Bị Sinh & Về Đích (4 tuần)"
     excerpt: >-
       <li>Tư thế sinh, kỹ thuật thở khi chuyển dạ, và cách đối phó với cơn đau. Thực hành "giả đi đẻ", giúp bạn hiểu bạn cần đối phó cái gì.</li>
       <li>Xây dựng Action Birth Plan cá nhân, chuẩn bị tâm lý và checklist trước khi đi sinh.</li>
@@ -162,38 +162,37 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 
 <table>
   <tr>
-    <th style="text-align: center;">Gói Cô Đọng</th>
+    <th style="text-align: center;">Gói Cơ Bản</th>
     <th style="text-align: center;">Gói Toàn Diện</th>
     <th style="text-align: center;">Gói VIP Kèm Riêng</th>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong style="color: green;">1.500.000đ</strong><strong style="color: red;"> (Trị Giá: 1.800.000đ)</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">1.800.000đ</strong><strong style="color: red;"> (Trị Giá: 2.300.000đ)</strong></td>
     <td style="text-align: center;"><strong style="color: green;">2.700.000đ</strong><strong style="color: red;"> (Trị Giá: 4.000.000đ)</strong></td>
     <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 5.500.000đ)</strong></td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
       <ul>
-        <li>7 buổi (tự học)</li>
+        <li>12 tuần (tự học)</li>
         <li>Cơ sàn chậu, hơi thở, âm thanh</li>
         <li>Tập rượt đi sinh</li>
-        <li>Bài tập tự luyện</li>
+        <li>Bài Tập Thiền Giải Mã Niềm Tin Giới Hạn & Phá Vỡ nó</li>
+        <li>Mindset đi đẻ
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Toàn bộ quyền lợi trong gói "Cô Đọng"</li>
-        <li>3 tháng đồng hành sát sao</li>
+        <li>Toàn bộ quyền lợi trong gói "Cơ Bản"</li>
         <li>Chỉnh sửa ảnh/video phản hồi cá nhân 1:1</li>
         <li>Bài Tập Thiền Giải Mã Niềm Tin Giới Hạn & Phá Vỡ nó</li>
-        <li>Mindset đi đẻ & Birth plan</li>
-        <li><strong style="color: red;">BONUS trị giá 999.000đ</strong>: Podcast 5 Ngày Viết&Thở Sau Sinh, Audio Thiền Định, Cá Nhân Hoá Bài Tập</li>
+        <li>Module Chăm Sóc Sau Sinh
+        <li><strong style="color: red;">BONUS trị giá 999.000đ</strong>: Podcast 5 Ngày Viết&Thở Sau Sinh, Giúp Viết Birth Plan, Checklist Đi Đẻ</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
         <li>Toàn bộ quyền lợi <strong>Gói Toàn Diện</strong></li>
-        <li>3 tháng đồng hành sát sao (tự học có check-in)</li>
         <li>4 buổi live Zoom 1:1</li>
         <li>Điều chỉnh sâu cá nhân sát sao</li>
         <li>Phản hồi trực tiếp bài tập/video</li>
@@ -221,9 +220,9 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     </td>
   </tr>
   <tr>
-    <td>Cho mẹ bầu gần ngày sinh, muốn chuẩn bị gấp rút, hoặc muốn trải nghiệm học bài bản</td>
-    <td>Cho mẹ muốn hỗ trợ cá nhân & muốn đi trọn hành trình</td>
-    <td>Cho mẹ muốn hướng dẫn sát sao, nhiều complications, hoặc cần người ủn mông</td>
+    <td>Cho mẹ bầu hiểu cơ thể, tự tin tự tập và không cần hỗ trợ sau sinh</td>
+    <td>Cho mẹ muốn hỗ trợ cá nhân & muốn đi trọn hành trình trước và SAU sinh</td>
+    <td>Cho mẹ muốn hướng dẫn sát sao, nhiều vấn đề sức khoẻ riêng, hoặc cần người ủn mông</td>
   </tr>
 </table>
 
@@ -289,8 +288,8 @@ Lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương
 <details>
   <summary><strong>Lớp Học Yoga Bầu Vượt Cạn hoạt động như thế nào?</strong>​​​​​​​​​​​​​​​​​​</summary>
   <ul>
-    <li>Lớp Yoga Bầu kéo dài trong 10 tuần online.</li>
-    <li>Hơn 30 video, tài liệu hướng dẫn, bài tập thực hành, giúp mẹ bầu chuẩn bị toàn diện thân trí & cơ thể.</li>
+    <li>Lớp Yoga Bầu kéo dài trong 3 tháng online.</li>
+    <li>Gần 40 video bài giảng, tài liệu hướng dẫn, bài tập thực hành, giúp mẹ bầu chuẩn bị toàn diện thân trí & cơ thể.</li>
     <li>Mẹ bầu được tư vấn & chia sẻ kế hoạch tập ngay từ những ngày đầu tham gia khoá, để biết nên tập trung tập gì giải quyết vấn đề & mong muốn của bạn thân.</li>
     <li>Hỗ trợ xuyên suốt, tư vấn chỉnh sửa khoá học phù hợp với mỗi cá nhân và thể trạng sức khoẻ.</li>
   </ul>
@@ -310,7 +309,11 @@ Lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương
   <p>Cho mình được cùng bạn bước đi trên hành trình ấy.</p>
 </details>
 
-## Học Thử Tại Đây
+## Bạn Muốn Được Hỗ Trợ Thêm?
+Làm TEST nhanh 3 phút kiểm tra mức độ sinh thường (cho mẹ từ tuần 20 trở đi). Mình sẽ tư vấn cho bạn lộ trình 2 bước tiếp theo
+[Làm Test Ngay](<[https://www.facebook.com/ngoclinhdnl/](https://yogacunglinhanh.com/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/)>){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+
+## Ngoài Ra, Bạn Có Thể Học Thử 2 Video Bài Giảng Tại Đây
 
 ### Vị Trí Tối Ưu Của Em Bé Là Gì?
 
@@ -324,8 +327,6 @@ Lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương
 
 {% include youtube_embed.html id="N6hogXUaD88" %}
 
-## Bạn Muốn Được Hỗ Trợ Thêm?
-
-[Test Mức Độ Sẵn Sàng Sinh Thường](<[https://www.facebook.com/ngoclinhdnl/](https://yogacunglinhanh.com/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/)>){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
-[Tham Gia Nhóm Facebook](https://www.facebook.com/ngoclinhdnl/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
-[Chat Với Linh Qua Facebook](https://www.facebook.com/ngoclinhdnl/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+## Muốn Quan Sát/Học Hỏi Trước?
+Tham Gia Nhóm Yoga Trước & Sau Sinh bằng cách trả lời 3 câu hỏi ngắn. 
+[Tham Gia Nhóm](https://www.facebook.com/groups/yogabau.linhanh){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
