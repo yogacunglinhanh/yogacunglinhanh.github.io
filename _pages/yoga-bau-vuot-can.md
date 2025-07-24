@@ -227,10 +227,10 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 </table>
 
 **_Ngoài ra, mẹ có thể chọn gói CÔ ĐỌNG - 7 Buổi_**
-- 80% Lý Thuyết và 20% Thực Hành
+- 70% Lý Thuyết và 30% Thực Hành
 - Giúp mẹ hiểu cách thở, tập cơ sàn chậu, và các giai đoạn sau sinh.
 - Phù hợp với mẹ muốn học cấp tốc hoặc bổ sung kiến thức nếu mẹ đang tập Yoga chỗ khác rồi
-Chi Phí: 1.100.000đ._**
+- Mức Đầu Tư: 1.100.000đ.
 
 **_Lưu Ý: Gói Toàn Diện & VIP : Nhận tối đa 10 mẹ bầu đăng ký mỗi tháng để đảm bảo chất lượng đồng hành 1:1!_**
 
