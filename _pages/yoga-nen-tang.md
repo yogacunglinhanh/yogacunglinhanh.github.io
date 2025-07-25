@@ -81,6 +81,23 @@ testimonial_images:
     alt: "Yoga Bau Vuot Can Feedback 3"
   - src: "/assets/images/testimonials/yoga-nen-tang-feedback4.png"
     alt: "Yoga Bau Vuot Can Feedback 4"
+
+khoa-nen-tang-gia-loi-ich:
+  - excerpt: >-
+      🦜 Thay thế 2-3 năm tập như con vẹt ngoài studio<br><br>
+  - excerpt: >-
+      🤕🩹 Tránh chấn thương: không tốn tiền chữa trị<br>
+  - excerpt: >-
+      ∞︎︎ Học một lần, áp dụng suốt đời: ROI cực cao<br>
+      Hiểu rõ giải phẫu cơ thể, vì sao cần tập từng động tác để có động lực tập.<br><br>
+  - excerpt: >-
+      📄 Phản Hồi 1:1 Sau mỗi bài tập<br><br>
+  - excerpt: >-
+      👍 Hiểu bản chất: Không phải học lại từ đầu<br><br>
+  - excerpt: >-
+      🔥 Giữ khoá học trọn đời<br>
+  - excerpt: >-
+      🤜🤛 Có nhóm Facebook kín hỗ trợ<br><br>
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -173,32 +190,8 @@ Không phải bạn không muốn tập – mà có thể bạn chưa tìm đư�
 
 ## 💰 GIÁ TRỊ KINH TẾ
 
-khoa-nen-tang-gia-loi-ich:
-  - excerpt: >-
-      🤰 Thay thế 2-3 năm tập như con vẹt ngoài studio<br><br>
-  - excerpt: >-
-      ♥️ Tránh chấn thương: không tốn tiền chữa trị<br>
-  - excerpt: >-
-      🙆‍♀️ Học một lần, áp dụng suốt đời: ROI cực cao<br>
-      Hiểu rõ giải phẫu cơ thể, vì sao cần tập từng động tác để có động lực tập.<br><br>
-  - excerpt: >-
-      📄 Phản Hồi 1:1 Sau mỗi bài tập<br><br>
-  - excerpt: >-
-      🗓️ Hiểu bản chất: Không phải học lại từ đầu<br><br>
-  - excerpt: >-
-      🎧 Giữ khoá học trọn đời**<br>
-      Nơi các mẹ chia sẻ kinh nghiệm hỗ trợ lẫn nhau.<br><br>
-  - excerpt: >-
-      🎧 **Giáo viên được đào tạo bài bản**<br>
-      Giáo viên được đào tạo tại Úc và Ấn Độ – kết hợp giữa chuyên môn hiện đại & chiều sâu truyền thống<br><br>
-
----
-
-<!-- markdownlint-disable MD033 -->
-<!-- markdownlint-disable MD036 -->
-<!-- markdownlint-disable MD026 -->
-
 {% include feature_row_custom.html id="khoa-nen-tang-gia-loi-ich:" type="left" %}
+
 
 ## 🎯 KẾT QUẢ BỀN VỮNG
 
