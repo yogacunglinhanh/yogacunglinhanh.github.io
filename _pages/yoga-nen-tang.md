@@ -21,52 +21,57 @@ yoga-nen-tang-intro:
         class: "btn--buy"
 yoga-nen-tang-week1:
   - image_path: /assets/images/courses/yoga-nen-tang-week1.jpg
-    alt: "Tuần 1: Kiến Thức Căn Bản Để Tập Yoga An Toàn"
-    title: "Tuần 1: Kiến Thức Căn Bản Để Tập Yoga An Toàn"
+    alt: "Tuần 1: Thiết Lập Mindset và Kỹ Thuật Cơ Bản"
+    title: "Tuần 1: Thiết Lập Mindset và Kỹ Thuật Cơ Bản"
     excerpt: >-
-      ✔️ Thiết lập ý định (Set Intention) & Mindset tập Yoga.<br>
-      ✔️ Giới thiệu cách dùng gạch, dây, tường khi tập Yoga để hỗ trợ sâu.<br>
-      ✔️ Giới thiệu tập thở (1).
+      ✔️ Triết lý Yoga ứng dụng cho người hiện đại.<br>
+      ✔️ Sử dụng đạo cụ hỗ trợ (gạch, dây, tường) chuyên nghiệp.<br>
+      ✔️ Kỹ thuật thở cơ bản: Nền tảng của mọi động tác.<br>
+      ✔️ Đánh giá tình trạng cơ thể, thiết lập mục tiêu cá nhân.<br>
 yoga-nen-tang-week2:
   - image_path: /assets/images/courses/yoga-nen-tang-week2.jpg
     alt: "Tuần 2: Hey! Chào Mặt Trời!"
-    title: "Tuần 2: Hey! Chào Mặt Trời!"
+    title: "Tuần 2: Làm chủ chuỗi động tác nền tảng nhất - Chào Mặt Trời!"
     excerpt: >-
-      ✔️ Làm thế nào để tập chuỗi chào mặt trời chuẩn và sâu nhất từ chó úp mặt, đến rắn hổ mang, đến plank v.v.<br>
-      ✔️ Tiếp tục giới thiệu gạch, dây và tường để tập.<br>
-      ✔️ Bài tập này đơn giản, quen thuộc nhưng rất quan trọng vì nó giúp bạn khởi động các cơ để vào các bài tập khác tốt hơn!.
+      ✔️ Những động tác Surya Namaskara/Chuỗi mặt trời A được phân tích chi tiết<br>
+      ✔️ Chỉnh sửa từng tư thế: Chó Úp Mặt, Rắn Hổ Mang, Tấm Ván ...<br>
+      ✔️ Kỹ thuật chuyển động mượt mà, an toàn.<br>
+      ✔️ Cách khởi động toàn thân hiệu quả.<br>
 yoga-nen-tang-week3:
   - image_path: /assets/images/courses/yoga-nen-tang-week3.jpg
-    alt: "Tuần 3: Mở Háng Trút Bỏ Bí Tắc"
-    title: "Tuần 3: Mở Háng Trút Bỏ Bí Tắc"
+    alt: "Tuần 3: Mở Khớp Háng - Giải Phóng Năng Lượng"
+    title: "Tuần 3: Mở Khớp Háng - Giải Phóng Năng Lượng"
     excerpt: >-
-      ✔️ Một loạt các động tác mở háng, tập sao cho hiệu quả và phê nhất 😆<br>
-      ✔️ Các cảm xúc mệt mỏi, bí tắc thường bị chôn vùi ở phần háng nên khi bạn tập các động tác khác, sẽ giúp bạn trút bỏ nhiều năng lượng không tốt.<br>
-      ✔️ Tiếp tục giới thiệu gạch, dây và tường để tập.<br>
-      ✔️ Giới thiệu tập thở (2).
+      ✔️ Một loạt các tư thế mở khớp háng, từ cơ bản đến nâng cao.<br>
+      ✔️ Hiểu về mối liên hệ cảm xúc - cơ thể.<br>
+      ✔️ Kỹ thuật thở số 2: Thở bụng sâu.<br>
 yoga-nen-tang-week4:
   - image_path: /assets/images/courses/yoga-nen-tang-week4.jpg
-    alt: "Tuần 4: Tiếp Tục Mở Háng Và Mở Ngực!"
-    title: "Tuần 4: Tiếp Tục Mở Háng Và Mở Ngực!"
+    alt: "Tuần 4: Mở Khớp Háng, Ngực - Đón Nhận Tình Yêu!"
+    title: "Tuần 4: Mở Khớp Háng, Ngực - Đón Nhận Tình Yêu!"
     excerpt: >-
-      ✔️ Lại tiếp tục mở háng nhaaa, cảm nhận sự trút bỏ ( không bao giờ mở hết được ý 😝)<br>
-      ✔️ Mở ngực để chào ngày mới, đón tình yêu và thả lỏng. Bài này rất hợp sau khi đã trút bỏ những năng lượng không tốt này.<br>
-      ✔️ Tiếp tục giới thiệu gạch, dây và tường để tập.<br>
-      ✔️ Giới thiệu tập thở (3).
+      ✔️ Chuỗi động tác mở ngực chuyên sâu<br>
+      ✔️ Kết hợp mở háng và mở ngực hoàn hảo.<br>
+      ✔️ Kỹ thuật thở số 3.<br>
+      ✔️ Tăng cường sự tự tin và mở lòng.<br>
 yoga-nen-tang-week5:
   - image_path: /assets/images/courses/yoga-nen-tang-week5.jpg
-    alt: "Tuần 5: Lấy Lại Thăng Bằng, Làm Chủ Cuộc Sống!"
-    title: "Tuần 5: Lấy Lại Thăng Bằng, Làm Chủ Cuộc Sống!"
+    alt: "Tuần 5: Thăng Bằng - Làm Chủ Cuộc Sống"
+    title: "Tuần 5: Thăng Bằng - Làm Chủ Cuộc Sống"
     excerpt: >-
-      ✔️ Thử thách bản thân với một số động tác thăng bằng và làm thể nào để chinh phục được nó!<br>
-      ✔️ Bài tập giúp bạn luyện sự tập trung, sẽ giúp việc hiệu quả hơn!<br>
-      ✔️ Tiếp tục giới thiệu gạch, dây và tường để tập.
+      ✔️ Các tư thế thăng bằng từ dễ đến khó.<br>
+      ✔️ Kỹ thuật tập trung tâm trí.<br>
+      ✔️ Phương pháp luyện sự kiên nhẫn và bền bỉ.<br>
+      ✔️ Ứng dụng thăng bằng vào cuộc sống.<br>
 yoga-nen-tang-week6:
   - image_path: /assets/images/courses/yoga-nen-tang-week6.jpg
-    alt: "Tuần 6: Tuần Đặc Biệt! Bí Mật"
-    title: "Tuần 6: Tuần Đặc Biệt! Bí Mật"
+    alt: "Tuần 6: Tích Hợp & Nâng Cao"
+    title: "Tuần 6: Tích Hợp & Nâng Cao"
     excerpt: >-
-      ✔️ Suỵt! 😝
+      ✔️ Bài tập tổng hợp 45 phút hoàn chỉnh
+      ✔️ Kỹ thuật thở nâng cao và thiền định
+      ✔️ Cách thiết lập chuỗi morning routine
+      ✔️ Bonus: Thiền Tìm Mục Đích Cuộc Sống
 testimonial_images:
   - src: "/assets/images/testimonials/yoga-nen-tang-feedback1.png"
     alt: "Yoga Bau Vuot Can Feedback 1"
@@ -103,9 +108,6 @@ Không phải bạn không muốn tập – mà có thể bạn chưa tìm đư�
 - Phương pháp giảm stress hiệu quả, khoa học
 - Kỹ năng tự chăm sóc sức khỏe toàn diện
 
-**Đã có hơn 70 bạn đã tham gia và 100% cảm nhận được sự thay đổi tích cực.**
-**Giờ đến lượt bạn rồi! ❤️**
-
 ## Lộ Trình Học Tập
 
 {% include feature_row id="yoga-nen-tang-week1" type="left" %}
@@ -119,10 +121,6 @@ Không phải bạn không muốn tập – mà có thể bạn chưa tìm đư�
 {% include feature_row id="yoga-nen-tang-week5" type="left" %}
 
 {% include feature_row id="yoga-nen-tang-week6" type="left" %}
-
-## Chia Sẻ Của Những Bạn Đi Trước, Đặc Biệt lợi ích cho cả con nhỏ nếu bạn đang chuẩn bị/đang làm mẹ
-
-{% include testimonial_slider.html images=page.testimonial_images %}
 
 ## 💰 Mức Đầu Tư
 
@@ -173,24 +171,35 @@ Không phải bạn không muốn tập – mà có thể bạn chưa tìm đư�
   </tr>
 </table>
 
+##💰 GIÁ TRỊ KINH TẾ
+
+- Thay thế 2-3 tập như con vẹt ngoài studio: Tiết kiệm 10-15 triệu
+- Tránh chấn thương: Không tốn tiền chữa trị
+- Học một lần, áp dụng suốt đời: ROI cực cao
+- Hiểu bản chất: Không phải học lại từ đầu
+- Khoá học được giữ trọn đời để có thể xem lại bất cứ lúc nào
+
+##🎯 KẾT QUẢ BỀN VỮNG
+
+- Hơn 70+ học viên đã thành công
+- 100% hài lòng với kết quả sau 6 tuần
+- 95% tự tin tập theo bất kỳ video nào sau khóa học
+- Cam kết hoàn tiền 100% nếu không hài lòng
+
+## Chia Sẻ Của Những Bạn Đi Trước. 
+Đặc biệt phù hợp cho các mẹ đang chuẩn bị sức khoẻ để mang thai & đã hồi phục sau sinh
+
+{% include testimonial_slider.html images=page.testimonial_images %}
 
 ## Đăng Ký Học Ngay
 
-**Bước 1:** Đăng ký ở form học ở dưới để mình hiểu hơn về nhu cầu học và nếu bạn có chấn thương, hay có mang thai/mới sinh được bao lâu không.
+**Bước 1:** Đăng ký ở form học ở dưới
 
 **Bước 2:** Nhắn tin cho [Linh ở facebook](https://www.facebook.com/ngoclinhdnl/) sau khi đăng ký.
 
-**Bước 3:** Linh sẽ nhắn tin cho bạn nếu thấy lớp học phù hợp với bạn, và bạn sẽ chuyển tiền vào tài khoản dưới:
-
-> Việt Nam: Đặng Ngọc Anh, Account number: 686811906666, MB Bank
-
 ​Vậy là bạn đã sẵn sàng để kết nối với cơ thể & hơi thở rồi! Chúc mừng!
 
-- Gói Tự Học Thông Minh: **2.500.000 VND**
-- Gói VIP Được Chỉnh Sửa (Được Yêu Thích Nhất): **3.800.000 VND**
-- được chỉnh sửa video kỹ lương, tư vấn hàng tuần, thực sự không khác gì học 1:1.
-
-​​​Nếu bạn cần hỗ trợ tài chính hay có thắc mắc gì thì đừng ngần ngại gửi [facebook message cho Linh](https://www.facebook.com/ngoclinhdnl/)!
+​​​Nếu bạn cần hỗ trợ hay có thắc mắc gì thì đừng ngần ngại gửi [facebook message cho Linh](https://www.facebook.com/ngoclinhdnl/)!
 
 {% include contact-form.html %}
 
