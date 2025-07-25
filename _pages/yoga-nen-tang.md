@@ -84,8 +84,8 @@ testimonial_images:
 khoa-nen-tang-gia-loi-ich:
   - excerpt: >-
       👍 Học đúng từ đầu – không phải học lại<br><br>
-      •   Phân tích 20+ tư thế cổ điển, sửa lỗi sai thường gặp
-      •   Hướng dẫn chi tiết kỹ thuật thẳng hàng – thở – kích hoạt cơ
+      • Phân tích 20+ tư thế cổ điển, sửa lỗi sai thường gặp
+      • Hướng dẫn chi tiết kỹ thuật thẳng hàng – thở – kích hoạt cơ
       “Học như học chữ: từ A-B-C đến ghép câu hoàn chỉnh”
   - excerpt: >-
       🤕🩹 Tránh chấn thương: không tốn tiền chữa trị<br>
