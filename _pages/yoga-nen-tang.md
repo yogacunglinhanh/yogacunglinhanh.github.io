@@ -31,7 +31,7 @@ yoga-nen-tang-week1:
 yoga-nen-tang-week2:
   - image_path: /assets/images/courses/yoga-nen-tang-week2.jpg
     alt: "Tuần 2: Hey! Chào Mặt Trời!"
-    title: "Tuần 2: Làm chủ chuỗi động tác nền tảng nhất - Chào Mặt Trời!"
+    title: "Tuần 2: Làm Chủ Chuỗi Động Tác Nền Tảng Nhất - Chào Mặt Trời!"
     excerpt: >-
       ✔️ Những động tác Surya Namaskara/Chuỗi mặt trời A được phân tích chi tiết<br>
       ✔️ Chỉnh sửa từng tư thế: Chó Úp Mặt, Rắn Hổ Mang, Tấm Ván ...<br>
@@ -68,10 +68,10 @@ yoga-nen-tang-week6:
     alt: "Tuần 6: Tích Hợp & Nâng Cao"
     title: "Tuần 6: Tích Hợp & Nâng Cao"
     excerpt: >-
-      ✔️ Bài tập tổng hợp 45 phút hoàn chỉnh
-      ✔️ Kỹ thuật thở nâng cao và thiền định
-      ✔️ Cách thiết lập chuỗi morning routine
-      ✔️ Bonus: Thiền Tìm Mục Đích Cuộc Sống
+      ✔️ Bài tập tổng hợp 45 phút hoàn chỉnh.<br>
+      ✔️ Kỹ thuật thở nâng cao và thiền định.<br>
+      ✔️ Cách thiết lập chuỗi morning routine.<br>
+      ✔️ Bonus: Thiền Tìm Mục Đích Cuộc Sống.<br>
 testimonial_images:
   - src: "/assets/images/testimonials/yoga-nen-tang-feedback1.png"
     alt: "Yoga Bau Vuot Can Feedback 1"
@@ -171,15 +171,36 @@ Không phải bạn không muốn tập – mà có thể bạn chưa tìm đư�
   </tr>
 </table>
 
-##💰 GIÁ TRỊ KINH TẾ
+## 💰 GIÁ TRỊ KINH TẾ
 
-- Thay thế 2-3 tập như con vẹt ngoài studio: Tiết kiệm 10-15 triệu
-- Tránh chấn thương: Không tốn tiền chữa trị
-- Học một lần, áp dụng suốt đời: ROI cực cao
-- Hiểu bản chất: Không phải học lại từ đầu
-- Khoá học được giữ trọn đời để có thể xem lại bất cứ lúc nào
+khoa-nen-tang-gia-loi-ich:
+  - excerpt: >-
+      🤰 Thay thế 2-3 năm tập như con vẹt ngoài studio<br><br>
+  - excerpt: >-
+      ♥️ Tránh chấn thương: không tốn tiền chữa trị<br>
+  - excerpt: >-
+      🙆‍♀️ Học một lần, áp dụng suốt đời: ROI cực cao<br>
+      Hiểu rõ giải phẫu cơ thể, vì sao cần tập từng động tác để có động lực tập.<br><br>
+  - excerpt: >-
+      📄 Phản Hồi 1:1 Sau mỗi bài tập<br><br>
+  - excerpt: >-
+      🗓️ Hiểu bản chất: Không phải học lại từ đầu<br><br>
+  - excerpt: >-
+      🎧 Giữ khoá học trọn đời**<br>
+      Nơi các mẹ chia sẻ kinh nghiệm hỗ trợ lẫn nhau.<br><br>
+  - excerpt: >-
+      🎧 **Giáo viên được đào tạo bài bản**<br>
+      Giáo viên được đào tạo tại Úc và Ấn Độ – kết hợp giữa chuyên môn hiện đại & chiều sâu truyền thống<br><br>
 
-##🎯 KẾT QUẢ BỀN VỮNG
+---
+
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD036 -->
+<!-- markdownlint-disable MD026 -->
+
+{% include feature_row_custom.html id="khoa-nen-tang-gia-loi-ich:" type="left" %}
+
+## 🎯 KẾT QUẢ BỀN VỮNG
 
 - Hơn 70+ học viên đã thành công
 - 100% hài lòng với kết quả sau 6 tuần
