@@ -81,27 +81,24 @@ testimonial_images:
     alt: "Yoga Bau Vuot Can Feedback 3"
   - src: "/assets/images/testimonials/yoga-nen-tang-feedback4.png"
     alt: "Yoga Bau Vuot Can Feedback 4"
-khoa-nen-tang-gia-loi-ich:
+yoga-nen-tang-loi-ich:
   - excerpt: >-
-      👍 Học đúng từ đầu – không phải học lại<br><br>
-      • Phân tích 20+ tư thế cổ điển, sửa lỗi sai thường gặp
-      • Hướng dẫn chi tiết kỹ thuật thẳng hàng – thở – kích hoạt cơ
-      “Học như học chữ: từ A-B-C đến ghép câu hoàn chỉnh”
+      👍 Học đúng từ đầu – không phải học lại<br>
+      Học như học chữ: từ A-B-C đến ghép câu hoàn chỉnh<br><br>
   - excerpt: >-
-      🤕🩹 Tránh chấn thương: không tốn tiền chữa trị<br>
+      🤕🩹 Tránh chấn thương: không tốn tiền chữa trị
   - excerpt: >-
-      ∞︎︎ Học một lần, áp dụng suốt đời: ROI cực cao<br>
-      Truy cập trọn đời, học lại không giới hạn<br>
-      Giá trị tương đương 2-3 năm học tại studio<br><br>
+      ♾️ Học một lần, áp dụng suốt đời<br>
+      Truy cập trọn đời, học lại không giới hạn. Giá trị tương đương 2-3 năm học tại studio<br><br>
   - excerpt: >-
-      📄 Phản Hồi 1:1 Sau mỗi bài tập<br><br>
+      📄 Phản Hồi 1:1 Sau mỗi bài tập
   - excerpt: >-
-      Cam kết an toàn tuyệt đối
+      🦺 Cam kết an toàn tuyệt đối<br>
       Hoàn tiền 100% nếu không hài lòng<br><br>
   - excerpt: >-
-      🔥 Giữ khoá học trọn đời<br>
+      🔥 Giữ khoá học trọn đời
   - excerpt: >-
-      🤜🤛 Có nhóm Facebook kín hỗ trợ<br><br>
+      🤜🤛 Có nhóm Facebook kín hỗ trợ
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -125,6 +122,8 @@ khoa-nen-tang-gia-loi-ich:
 - Kết nối sâu với chính mình qua từng hơi thở, từng động tác
 
 ## Lợi Ích Cụ Thể Sau Khoá Học?
+
+{% include feature_row id="yoga-nen-tang-loi-ich"%}
 
 🧘‍♀️ Sau 6 tuần, bạn sẽ:
 
