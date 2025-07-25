@@ -82,33 +82,28 @@ testimonial_images:
 
 {% include feature_row_custom.html id="yoga-nen-tang-intro" type="left" %}
 
-## Yoga Nền Tảng Có Phải Dành Cho Bạn?
+## Khoá Yoga Nền Tảng Này Có Phải Dành Cho Bạn?
 
 **Nếu bạn đang thấy mình:**
 
-- Nhanh mệt, đau nhức ê ẩm
-- Tâm trí rối bời, khó tập trung
-- Mất kết nối với cơ thể, đặc biệt sau sinh 5-6 vài tháng
-- Thiếu động lực, không biết bắt đầu từ đâu
-- Tập theo YouTube mà không biết đúng sai
+- Cơ thể mệt mỏi, đau nhức mãn tính không rõ nguyên nhân
+- Tâm trí căng thẳng, khó tập trung trong công việc và cuộc sống
+- Mất kết nối với cơ thể
+- Tập YouTube không hiệu quả, lo sợ chấn thương
 - Hoặc chỉ đơn giản muốn tăng cường sức khoẻ
 
 **Mình rất hiểu bạn.**
 
 Không phải bạn không muốn tập – mà có thể bạn chưa tìm được cách tập phù hợp, chưa có người đồng hành, chưa có lộ trình rõ ràng hay một không gian đủ an toàn để tập với sự yêu thương dành cho chính mình.
 
-**Nếu bạn thấy mình trong những dòng này – khoá học này là dành cho bạn.**
+**Khoá học sẽ giúp bạn.**
 
-Sau khoá học, bạn sẽ:
+- Sức khỏe bền vững, năng lượng tràn đầy
+- Nền tảng Yoga vững chắc để tự tin tập luyện suốt đời
+- Phương pháp giảm stress hiệu quả, khoa học
+- Kỹ năng tự chăm sóc sức khỏe toàn diện
 
-- Kết nối lại với cơ thể và hơi thở rõ rệt hơn
-- Cảm thấy nhẹ nhõm, vui vẻ, tràn năng lượng hơn
-- Có chuỗi bài tập đơn giản, hiệu quả để tập bất cứ lúc nào
-- Hiểu rõ từng động tác tác động đến cơ thể ra sao để tự điều chỉnh
-- Tự tin tập an toàn theo YouTube trong những năm tháng tiếp theo
-- Tiết kiệm được bao nhiêu tiền đi học Yoga ở ngoài mà có khi học ở ngoài còn bị tập sai, khiến chấn thương lại phải đi chữa trị.
-
-**Đã có hơn 70 bạn đã tham gia và cảm nhận được sự thay đổi tích cực.**
+**Đã có hơn 70 bạn đã tham gia và 100% cảm nhận được sự thay đổi tích cực.**
 **Giờ đến lượt bạn rồi! ❤️**
 
 ## Lộ Trình Học Tập
@@ -129,6 +124,56 @@ Sau khoá học, bạn sẽ:
 
 {% include testimonial_slider.html images=page.testimonial_images %}
 
+## 💰 Mức Đầu Tư
+
+<table>
+  <tr>
+    <th style="text-align: center;">Gói Tự Học Thông Minh</th>
+    <th style="text-align: center;">Gói VIP Được Chỉnh Sửa</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong style="color: green;">2.500.000đ</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">3.800.000đ</strong></td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>6 tuần chương trình hoàn chỉnh</li>
+        <li>Hơn 20 động tác Yoga Cổ Điển - Phân Tích Chuyên Sâu</li>
+        <li>3 Hơi Thở Cổ Điển của Yoga</li>
+        <li><strong style="color: red;">BONUS</strong>: Bản Tóm Tắt Vẽ Học Của Từng Tuần </li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Toàn bộ quyền lợi <strong>Gói Tự Học</strong></li>
+        <li>Nhận và gửi feedback 1:1 hàng tuần</li>
+        <li>Gợi ý thói quen sống phù hợp từng giai đoạn</li>
+        <li><strong style="color: red;">BONUS</strong>: Bản Tóm Tắt Vẽ Học Của Từng Tuần, Thiệp Yoga chúc mừng viết tay sau khi hoàn thành lớp học</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Không có phản hồi cá nhân</li>
+        <li>Hỗ trợ trả lời câu hỏi trong nhóm Facebook kín</strong></li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Chỉnh sửa video 1:1 hàng tuần cho đến khi đúng</li>
+        <li>Hỗ trợ nhắn tin/hỏi đáp 1:1 trong nhóm và riêng</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Cho bạn nào rất kỉ luật, hiểu cách cơ thể hoạt động để tập an toàn, hiệu quả</td>
+    <td>Cho mẹ muốn được theo sát, gửi bài và được góp ý kỹ càng</td>
+  </tr>
+</table>
+
+
 ## Đăng Ký Học Ngay
 
 **Bước 1:** Đăng ký ở form học ở dưới để mình hiểu hơn về nhu cầu học và nếu bạn có chấn thương, hay có mang thai/mới sinh được bao lâu không.
@@ -141,8 +186,9 @@ Sau khoá học, bạn sẽ:
 
 ​Vậy là bạn đã sẵn sàng để kết nối với cơ thể & hơi thở rồi! Chúc mừng!
 
-- Khoá Tự Học: **2.500.000 VND**
-- Khoá Học Được chỉnh sửa: **3.800.000 VND** được chỉnh sửa video kỹ lương, tư vấn hàng tuần, thực sự không khác gì học 1:1.
+- Gói Tự Học Thông Minh: **2.500.000 VND**
+- Gói VIP Được Chỉnh Sửa (Được Yêu Thích Nhất): **3.800.000 VND**
+- được chỉnh sửa video kỹ lương, tư vấn hàng tuần, thực sự không khác gì học 1:1.
 
 ​​​Nếu bạn cần hỗ trợ tài chính hay có thắc mắc gì thì đừng ngần ngại gửi [facebook message cho Linh](https://www.facebook.com/ngoclinhdnl/)!
 
