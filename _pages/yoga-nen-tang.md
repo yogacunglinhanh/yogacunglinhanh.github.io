@@ -84,16 +84,21 @@ testimonial_images:
 
 khoa-nen-tang-gia-loi-ich:
   - excerpt: >-
-      🦜 Thay thế 2-3 năm tập như con vẹt ngoài studio<br><br>
+      👍 Học đúng từ đầu – không phải học lại<br><br>
+	•	Phân tích 20+ tư thế cổ điển, sửa lỗi sai thường gặp
+	•	Hướng dẫn chi tiết kỹ thuật thẳng hàng – thở – kích hoạt cơ
+“Học như học chữ: từ A-B-C đến ghép câu hoàn chỉnh”
   - excerpt: >-
       🤕🩹 Tránh chấn thương: không tốn tiền chữa trị<br>
   - excerpt: >-
       ∞︎︎ Học một lần, áp dụng suốt đời: ROI cực cao<br>
-      Hiểu rõ giải phẫu cơ thể, vì sao cần tập từng động tác để có động lực tập.<br><br>
+      Truy cập trọn đời, học lại không giới hạn<br>
+      Giá trị tương đương 2-3 năm học tại studio<br><br>
   - excerpt: >-
       📄 Phản Hồi 1:1 Sau mỗi bài tập<br><br>
   - excerpt: >-
-      👍 Hiểu bản chất: Không phải học lại từ đầu<br><br>
+      Cam kết an toàn tuyệt đối
+    Hoàn tiền 100% nếu không hài lòng<br><br>
   - excerpt: >-
       🔥 Giữ khoá học trọn đời<br>
   - excerpt: >-
@@ -106,7 +111,7 @@ khoa-nen-tang-gia-loi-ich:
 
 ## Khoá Yoga Nền Tảng Này Có Phải Dành Cho Bạn?
 
-**Nếu bạn đang thấy mình:**
+**Khoá học này dành cho bạn nếu:**
 
 - Cơ thể mệt mỏi, đau nhức mãn tính không rõ nguyên nhân
 - Tâm trí căng thẳng, khó tập trung trong công việc và cuộc sống
@@ -114,16 +119,19 @@ khoa-nen-tang-gia-loi-ich:
 - Tập YouTube không hiệu quả, lo sợ chấn thương
 - Hoặc chỉ đơn giản muốn tăng cường sức khoẻ
 
-**Mình rất hiểu bạn.**
+**Và bạn muốn:**
 
-Không phải bạn không muốn tập – mà có thể bạn chưa tìm được cách tập phù hợp, chưa có người đồng hành, chưa có lộ trình rõ ràng hay một không gian đủ an toàn để tập với sự yêu thương dành cho chính mình.
+- Khôi phục năng lượng – ngủ ngon – nhẹ nhàng mỗi ngày
+- Có nền tảng Yoga vững chắc để tự tin tập luyện suốt đời
+- Kết nối sâu với chính mình qua từng hơi thở, từng động tác
 
-**Khoá học sẽ giúp bạn.**
-
-- Sức khỏe bền vững, năng lượng tràn đầy
-- Nền tảng Yoga vững chắc để tự tin tập luyện suốt đời
-- Phương pháp giảm stress hiệu quả, khoa học
-- Kỹ năng tự chăm sóc sức khỏe toàn diện
+## Lợi Ích Cụ Thể Sau Khoá Học?
+🧘‍♀️ Sau 6 tuần, bạn sẽ:
+	•	Tăng sức bền 40%, giảm đau mỏi cổ-vai-gáy
+	•	Thở đúng – ngủ sâu – giảm stress rõ rệt
+	•	Linh hoạt – vững vàng, tư thế cải thiện rõ sau mỗi tuần
+	•	Biết cách tự điều chỉnh động tác, không còn lo chấn thương
+	•	Tập theo bất kỳ video nào cũng hiểu và tự tin
 
 ## Lộ Trình Học Tập
 
@@ -138,6 +146,10 @@ Không phải bạn không muốn tập – mà có thể bạn chưa tìm đư�
 {% include feature_row id="yoga-nen-tang-week5" type="left" %}
 
 {% include feature_row id="yoga-nen-tang-week6" type="left" %}
+
+## 💰 Tại Sao Chọn Khoá Này?
+
+{% include feature_row_custom.html id="khoa-nen-tang-gia-loi-ich:" type="left" %}
 
 ## 💰 Mức Đầu Tư
 
@@ -156,6 +168,7 @@ Không phải bạn không muốn tập – mà có thể bạn chưa tìm đư�
         <li>6 tuần chương trình hoàn chỉnh</li>
         <li>Hơn 20 động tác Yoga Cổ Điển - Phân Tích Chuyên Sâu</li>
         <li>3 Hơi Thở Cổ Điển của Yoga</li>
+        <li>Truy cập trọn đời</li>
         <li><strong style="color: red;">BONUS</strong>: Bản Tóm Tắt Vẽ Học Của Từng Tuần </li>
       </ul>
     </td>
@@ -163,7 +176,6 @@ Không phải bạn không muốn tập – mà có thể bạn chưa tìm đư�
       <ul>
         <li>Toàn bộ quyền lợi <strong>Gói Tự Học</strong></li>
         <li>Nhận và gửi feedback 1:1 hàng tuần</li>
-        <li>Gợi ý thói quen sống phù hợp từng giai đoạn</li>
         <li><strong style="color: red;">BONUS</strong>: Bản Tóm Tắt Vẽ Học Của Từng Tuần, Thiệp Yoga chúc mừng viết tay sau khi hoàn thành lớp học</li>
       </ul>
     </td>
@@ -187,10 +199,6 @@ Không phải bạn không muốn tập – mà có thể bạn chưa tìm đư�
     <td>Cho mẹ muốn được theo sát, gửi bài và được góp ý kỹ càng</td>
   </tr>
 </table>
-
-## 💰 GIÁ TRỊ KINH TẾ
-
-{% include feature_row_custom.html id="khoa-nen-tang-gia-loi-ich:" type="left" %}
 
 
 ## 🎯 KẾT QUẢ BỀN VỮNG
