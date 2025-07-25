@@ -112,17 +112,16 @@ Linh (Người tạo ra Core Reset):
 
 > "Sau 2 năm nghiên cứu và thực hành, mình đã hồi phục khỏi són tiểu dù sinh thường, hết sổ bụng dù sau sinh 6 tháng bụng vẫn to. Giờ mình có thể tự tin đi chơi, bế con và tự tin sinh bé tiếp theo."
 
-## 👩‍🏫 Về Giáo Viên Linh
+## 👩‍🏫 Về Linh
+Giáo viên Yoga chuyên sâu về thai sản và hồi phục sau sinh, được chứng nhận Prenatal & Post Natal ở 2 trung tâm nổi tiếng ở Úc, Bliss Baby Yoga và Body Mind Life với
 
-🎓 Giáo viên Yoga được đào tạo chuyên sâu 300+ giờ tại Úc
+🎓 360+ đào tạo nền tảng về yoga nền tảng, giải phẫu học & năng lượng
 
 🤱 160+ giờ chuyên sâu về yoga thai sản & hồi phục sau sinh
 
-🏥 150+ giờ đào tạo về đau lưng, cổ, vai gáy với giáo viên Ấn Độ
+🏥 140+ giờ đào tạo về Yoga trị liệu đau lưng, cổ, vai gáy với giáo viên Ấn Độ/Úc
 
-👩‍👧 Mẹ của bé Chanh và đã trải qua hành trình hồi phục thành công
-
-Điều đặc biệt: Linh đã tự hồi phục hoàn toàn khỏi són tiểu và sổ bụng sau 2 năm nghiên cứu và thực hành. Giờ đây, cô chia sẻ phương pháp đã giúp mình và hơn 100+ học viên toàn quốc.
+👩‍👧 Mẹ của bé Chanh, đã sinh thường nhanh chóng chỉ trong 3 tiếng hơn và trải qua hành trình hồi phục sau sinh thành công
 
 ## 🏠 Tại Sao Cần "Tu Sửa Toàn Diện"?
 
