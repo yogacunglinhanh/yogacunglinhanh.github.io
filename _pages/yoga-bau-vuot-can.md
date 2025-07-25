@@ -227,6 +227,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 </table>
 
 **_Ngoài ra, mẹ có thể chọn gói CÔ ĐỌNG - 7 Buổi_**
+
 - 70% Lý Thuyết và 30% Thực Hành
 - Giúp mẹ hiểu cách thở, tập cơ sàn chậu, và các giai đoạn sau sinh.
 - Phù hợp với mẹ muốn học cấp tốc hoặc bổ sung kiến thức nếu mẹ đang tập Yoga chỗ khác rồi
@@ -316,6 +317,7 @@ Lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương
 </details>
 
 ## Bạn Muốn Được Hỗ Trợ Thêm?
+
 Làm TEST nhanh 3 phút kiểm tra mức độ sinh thường (cho mẹ từ tuần 20 trở đi). Mình sẽ tư vấn cho bạn lộ trình 2 bước tiếp theo
 [Làm Test Ngay](<[https://www.facebook.com/ngoclinhdnl/](https://yogacunglinhanh.com/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/)>){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
@@ -334,5 +336,6 @@ Làm TEST nhanh 3 phút kiểm tra mức độ sinh thường (cho mẹ từ tu�
 {% include youtube_embed.html id="N6hogXUaD88" %}
 
 ## Muốn Quan Sát/Học Hỏi Trước?
-Tham Gia Nhóm Yoga Trước & Sau Sinh bằng cách trả lời 3 câu hỏi ngắn. 
+
+Tham Gia Nhóm Yoga Trước & Sau Sinh bằng cách trả lời 3 câu hỏi ngắn.
 [Tham Gia Nhóm](https://www.facebook.com/groups/yogabau.linhanh){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}

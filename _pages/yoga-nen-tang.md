@@ -81,13 +81,12 @@ testimonial_images:
     alt: "Yoga Bau Vuot Can Feedback 3"
   - src: "/assets/images/testimonials/yoga-nen-tang-feedback4.png"
     alt: "Yoga Bau Vuot Can Feedback 4"
-
 khoa-nen-tang-gia-loi-ich:
   - excerpt: >-
       👍 Học đúng từ đầu – không phải học lại<br><br>
-	•	Phân tích 20+ tư thế cổ điển, sửa lỗi sai thường gặp
-	•	Hướng dẫn chi tiết kỹ thuật thẳng hàng – thở – kích hoạt cơ
-“Học như học chữ: từ A-B-C đến ghép câu hoàn chỉnh”
+      •   Phân tích 20+ tư thế cổ điển, sửa lỗi sai thường gặp
+      •   Hướng dẫn chi tiết kỹ thuật thẳng hàng – thở – kích hoạt cơ
+      “Học như học chữ: từ A-B-C đến ghép câu hoàn chỉnh”
   - excerpt: >-
       🤕🩹 Tránh chấn thương: không tốn tiền chữa trị<br>
   - excerpt: >-
@@ -98,7 +97,7 @@ khoa-nen-tang-gia-loi-ich:
       📄 Phản Hồi 1:1 Sau mỗi bài tập<br><br>
   - excerpt: >-
       Cam kết an toàn tuyệt đối
-    Hoàn tiền 100% nếu không hài lòng<br><br>
+      Hoàn tiền 100% nếu không hài lòng<br><br>
   - excerpt: >-
       🔥 Giữ khoá học trọn đời<br>
   - excerpt: >-
@@ -126,12 +125,14 @@ khoa-nen-tang-gia-loi-ich:
 - Kết nối sâu với chính mình qua từng hơi thở, từng động tác
 
 ## Lợi Ích Cụ Thể Sau Khoá Học?
+
 🧘‍♀️ Sau 6 tuần, bạn sẽ:
-	•	Tăng sức bền 40%, giảm đau mỏi cổ-vai-gáy
-	•	Thở đúng – ngủ sâu – giảm stress rõ rệt
-	•	Linh hoạt – vững vàng, tư thế cải thiện rõ sau mỗi tuần
-	•	Biết cách tự điều chỉnh động tác, không còn lo chấn thương
-	•	Tập theo bất kỳ video nào cũng hiểu và tự tin
+
+- Tăng sức bền 40%, giảm đau mỏi cổ-vai-gáy
+- Thở đúng – ngủ sâu – giảm stress rõ rệt
+- Linh hoạt – vững vàng, tư thế cải thiện rõ sau mỗi tuần
+- Biết cách tự điều chỉnh động tác, không còn lo chấn thương
+- Tập theo bất kỳ video nào cũng hiểu và tự tin
 
 ## Lộ Trình Học Tập
 
@@ -200,7 +201,6 @@ khoa-nen-tang-gia-loi-ich:
   </tr>
 </table>
 
-
 ## 🎯 KẾT QUẢ BỀN VỮNG
 
 - Hơn 70+ học viên đã thành công
@@ -208,7 +208,8 @@ khoa-nen-tang-gia-loi-ich:
 - 95% tự tin tập theo bất kỳ video nào sau khóa học
 - Cam kết hoàn tiền 100% nếu không hài lòng
 
-## Chia Sẻ Của Những Bạn Đi Trước. 
+## Chia Sẻ Của Những Bạn Đi Trước
+
 Đặc biệt phù hợp cho các mẹ đang chuẩn bị sức khoẻ để mang thai & đã hồi phục sau sinh
 
 {% include testimonial_slider.html images=page.testimonial_images %}
