@@ -89,16 +89,17 @@ yoga-nen-tang-loi-ich:
       🤕🩹**Tránh chấn thương: không tốn tiền chữa trị.**<br>
       Học về alignment, hơi thơ, cách siết các cơ đúng tăng hiệu quả, tránh đau lưng, cổ, vai gáy. 
   - excerpt: >-
-      ♾️ **Hướng dẫn viết Journal hàng ngày.**<br>
-      Kết nối cảm xúc qua viết, thở<br><br>
-  - excerpt: >-
       📄 **Phản Hồi 1:1 Sau mỗi bài tập.**<br>
       Thực sự hiểu mình đang tập đúng hay sai, chỉnh sửa cho từng cá nhân<br><br>
   - excerpt: >-
       🔥 **Giữ khoá học trọn đời**.<br>
-      Xem lại khi quên bất cứ lúc nào <br><br>
+      Bạn có thể quay lại học bất cứ lúc nào khi cần, không giới hạn số lần. Giá trị áp dụng suốt đời, chỉ học một lần. <br><br>
   - excerpt: >-
-      🤜🤛 **Có nhóm Facebook kín hỗ trợ.**<br>
+      ♾️ **Kết Nối cảm xúc thông qua viết & thở.**<br>
+      Được hướng dẫn viết Journal mỗi ngày để lắng nghe cơ thể, kết nối cảm xúc và giảm căng thẳng<br><br>    
+  - excerpt: >-
+      🤜🤛 **Cộng đồng học tập ấm áp, kín đáo và hỗ trợ thật.**<br>
+      Tham gia nhóm Facebook riêng với sự đồng hành từ cô giáo và các học viên khác.<br><br>    
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -147,6 +148,10 @@ Chào mừng bạn đến với Lớp Yoga Nền Tảng - Khoá học 6 Tuần g
 - Biết cách tự điều chỉnh động tác, không còn lo chấn thương
 - Tập theo bất kỳ video nào cũng hiểu và tự tin
 
+  ## 💰 Tại Sao Chọn Khoá Này?
+
+{% include feature_row id="yoga-nen-tang-loi-ich"%}
+
 ## 📈 Thành Quả Thực Tế
 
 Linh Vũ (30+) ở Mỹ:
@@ -176,10 +181,6 @@ Hiếu Trần (25+) ở HCM
 - 95% tự tin tập theo bất kỳ video nào sau khóa học
 - Cam kết hoàn tiền 100% nếu không hài lòng
   
-## 💰 Tại Sao Chọn Khoá Này?
-
-{% include feature_row id="yoga-nen-tang-loi-ich"%}
-
 ## 💰 Mức Đầu Tư
 
 <table>
