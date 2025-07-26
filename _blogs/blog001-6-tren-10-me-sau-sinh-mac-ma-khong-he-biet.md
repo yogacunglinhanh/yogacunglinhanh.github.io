@@ -105,8 +105,10 @@ Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạ
 
 PHÙ HỢP CHO MẸ SINH THƯỜNG & SINH MỔ.
 
-[Xem thêm thông tin khoá]([https://docs.google.com/forms/d/e/1FAIpQLSfriFoYFY1R7ZoGgrttHebYs5xGAxIupaIAY-EG4lEckeBUwQ/viewform](https://yogacunglinhanh.com/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/)){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+[Xem thêm thông tin khoá](https://yogacunglinhanh.com/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
-Cuối cùng, mình chia sẻ rất nhiều kiến thức hồi phục sau sinh trên Facebook, hãy tham gia nhóm để được hiểu thêm về cách hồi phục sau sinh cho bản thân
+THỬ THÁCH 3 NGÀY HỒI PHỤC SAU SINH NHẸ NHÀNG 
+
+Tham Gia Nhóm Facebook
 
 [Tham Gia Nhóm Facebook](https://www.facebook.com/groups/yogabau.linhanh){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
