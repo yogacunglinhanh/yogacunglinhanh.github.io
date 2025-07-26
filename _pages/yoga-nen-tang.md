@@ -121,12 +121,9 @@ yoga-nen-tang-loi-ich:
 - Có nền tảng Yoga vững chắc để tự tin tập luyện suốt đời
 - Kết nối sâu với chính mình qua từng hơi thở, từng động tác
 
-## Lợi Ích Cụ Thể Sau Khoá Học?
+## 🧘‍♀️ Lợi Ích Cụ Thể Sau Khoá Học?
 
-{% include feature_row id="yoga-nen-tang-loi-ich"%}
-
-🧘‍♀️ Sau 6 tuần, bạn sẽ:
-
+ Sau 6 tuần, bạn sẽ:
 - Tăng sức bền 40%, giảm đau mỏi cổ-vai-gáy
 - Thở đúng – ngủ sâu – giảm stress rõ rệt
 - Linh hoạt – vững vàng, tư thế cải thiện rõ sau mỗi tuần
@@ -149,7 +146,7 @@ yoga-nen-tang-loi-ich:
 
 ## 💰 Tại Sao Chọn Khoá Này?
 
-{% include feature_row_custom.html id="khoa-nen-tang-gia-loi-ich:" type="left" %}
+{% include feature_row id="yoga-nen-tang-loi-ich"%}
 
 ## 💰 Mức Đầu Tư
 
