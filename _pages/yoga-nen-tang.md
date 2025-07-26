@@ -134,15 +134,27 @@ Linh Vũ (30+) ở Mỹ:
 > "Cho đến khi học Linh, mình mới phát hiện có nhiều động tác trước giờ mình tập sai, có thể gây chấn thương nhẹ mà không biết. Linh giúp mình chỉnh sửa các động tác sai, và tập sâu vào động tác hơn rất rất nhiều.<br><br>
 > Mình là đứa siêu lười dậy sớm và vịn cớ bận rộn công việc, nhờ tham gia lớp của Linh, mình nay đã lên kế hoạch chăm sóc bản thân tốt hơn, còn vận động được ông xã đi bơi, vừa tăng cường sức khoẻ, vừa gắn kết tinh thần"
 
-Linh Anh (30+) ở Úc
+Linh Anh (30+) ở Sydney
 
 > "Mình đã tập Yoga chạm mốc 6 năm với vô vàn studio, các thể loại yoga (kể cả aerial yoga) và vô số các YouTube video. Lúc mình đến với cô Linh, mình không phải beginner, nhưng cũng không quá nâng cao.<br><br>
 > Sau bao ngày tháng tìm kiếm chân lý, mình rất vui vì đã đky lớp của Linh vì mình cảm thấy đang thực sự học Yoga 1 cách baì bản. Linh chỉnh sửa bài rất kỹ và có tâm, dễ nhớ và khiến mình có động lực học thật giỏi Yoga."
 
 Vicky Tran (30+) ở Singapore
 
-> Khoá học nền tảng giúp mình học được rất nhiều thứ. Ngoài việc được hướng dẫn kỹ lưỡng, cô Linh còn hướng dẫn viết journal xịn xò. Đó là 1 sự kết nối hoàn chỉnh của tâm thân trí. Chúng ta cần 1 cơ thể và bộ não khoẻ mạnh, hạnh phúc thì mới có thể hạnh phúc. Nếu ai có gia đình, con cái thì điều đó sẽ giúp sinh sản ra những người bạn đời và em bé hạnh phúc.<br><br>
-> Chỉ cần bạn bước 1 bước thôi, bước vào sự biết ơn với cơ thể, 1 chân trời khác sẽ mở ra. 
+> "Khoá học nền tảng giúp mình học được rất nhiều thứ. Ngoài việc được hướng dẫn kỹ lưỡng, cô Linh còn hướng dẫn viết journal xịn xò. Đó là 1 sự kết nối hoàn chỉnh của tâm thân trí. Chúng ta cần 1 cơ thể và bộ não khoẻ mạnh, hạnh phúc thì mới có thể hạnh phúc. Nếu ai có gia đình, con cái thì điều đó sẽ giúp sinh sản ra những người bạn đời và em bé hạnh phúc.<br><br>
+> Chỉ cần bạn bước 1 bước thôi, bước vào sự biết ơn với cơ thể, 1 chân trời khác sẽ mở ra."
+
+Hiếu Trần (25+) ở HCM
+
+> "Mình ít vận động, cuộc sống gắn liền với máy tính và trước khi học cũng thấy chi phí học thật đắt đỏ mà không biết có cải thiện được tình hình vốn bi đát thế không. Thế nhưng sau khoá học, mình đã bắt đầu biết cách giữ hơi thở đều đặn, để ý tư thế bản thân "muôn năm xấu", cảm thấy tự tin hơn nhiều vì không còn lo đau cột sống. <br><br>
+> Và ngoài ra, còn tự nấu được cho bản thân bát phở ăn ngon từ người chỉ biết làm trứng chiên. Cho nên hãy cứ tin vào bản thân nhé, bạn sẽ làm được thôi."
+
+## 🎯 KẾT QUẢ BỀN VỮNG
+
+- Hơn 70+ học viên đã thành công
+- 100% hài lòng với kết quả sau 6 tuần
+- 95% tự tin tập theo bất kỳ video nào sau khóa học
+- Cam kết hoàn tiền 100% nếu không hài lòng
 
 > 
 ## Lộ Trình Học Tập
@@ -212,12 +224,6 @@ Vicky Tran (30+) ở Singapore
   </tr>
 </table>
 
-## 🎯 KẾT QUẢ BỀN VỮNG
-
-- Hơn 70+ học viên đã thành công
-- 100% hài lòng với kết quả sau 6 tuần
-- 95% tự tin tập theo bất kỳ video nào sau khóa học
-- Cam kết hoàn tiền 100% nếu không hài lòng
 
 ## Đăng Ký Học Ngay
 
