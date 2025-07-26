@@ -130,6 +130,23 @@ yoga-nen-tang-loi-ich:
 - Biết cách tự điều chỉnh động tác, không còn lo chấn thương
 - Tập theo bất kỳ video nào cũng hiểu và tự tin
 
+## 📈 Thành Quả Thực Tế
+
+Linh Vũ (30+) ở Mỹ:
+
+> "Cho đến khi học Linh, mình mới phát hiện có nhiều động tác trước giờ mình tập sai, có thể gây chấn thương nhẹ mà không biết. Linh giúp mình chỉnh sửa các động tác sai, và tập sâu vào động tác hơn rất rất nhiều. Mình là đứa siêu lười dậy sớm và vịn cớ bận rộn công việc, nhờ tham gia lớp của Linh, mình nay đã lên kế hoạch chăm sóc bản thân tốt hơn, còn vận động được ông xã đi bơi, vừa tăng cường sức khoẻ, vừa gắn kết tinh thần"
+
+Linh Anh (30+) ở Úc
+
+> "Mình đã tập Yoga chạm mốc 6 năm với vô vàn studio, các thể loại yoga (kể cả aerial yoga) và vô số các YouTube video. Lúc mình đến với cô Linh, mình không phải beginner, nhưng cũng không quá nâng cao.
+> Sao bao ngày tháng tìm kiếm chân lý, mình rất vui vì đã đky lớp của Linh vì mình cảm thấy đang thực sự học Yoga 1 cách baì bản. Linh chỉnh sửa bài rất kỹ và có tâm, dễ nhớ và khiến mình có động lực học thật giỏi Yoga."
+
+Vicky Tran (30+) ở Singapore
+
+> Khoá học nền tảng giúp mình học được rất nhiều thứ. Ngoài việc được hướng dẫn kỹ lưỡng, cô Linh còn hướng dẫn viết journal xịn xò. Đó là 1 sự kết nối hoàn chỉnh của tâm thân trí. Chúng ta cần 1 cơ thể và bộ não khoẻ mạnh, hạnh phúc thì mới có thể hạnh phúc. Nếu ai có gia đình, con cái thì điều đó sẽ giúp sinh sản ra những người bạn đời và em bé hạnh phúc.
+> Chỉ cần bạn bước 1 bước thôi, bước vào sự biết ơn với cơ thể, 1 chân trời khác sẽ mở ra. 
+
+> 
 ## Lộ Trình Học Tập
 
 {% include feature_row id="yoga-nen-tang-week1" type="left" %}
@@ -193,7 +210,7 @@ yoga-nen-tang-loi-ich:
   </tr>
   <tr>
     <td>Cho bạn nào rất kỉ luật, hiểu cách cơ thể hoạt động để tập an toàn, hiệu quả</td>
-    <td>Cho mẹ muốn được theo sát, gửi bài và được góp ý kỹ càng</td>
+    <td>Cho bạn nào muốn được theo sát, gửi bài và được góp ý kỹ càng</td>
   </tr>
 </table>
 
