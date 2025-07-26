@@ -118,15 +118,8 @@ yoga-nen-tang-loi-ich:
 - Có nền tảng Yoga vững chắc để tự tin tập luyện suốt đời
 - Kết nối sâu với chính mình qua từng hơi thở, từng động tác
 
-## 🧘‍♀️ Lợi Ích Cụ Thể Sau Khoá Học?
-
- Sau 6 tuần, bạn sẽ:
-- Tăng sức bền 40%, giảm đau mỏi cổ-vai-gáy
-- Thở đúng – ngủ sâu – giảm stress rõ rệt
-- Linh hoạt – vững vàng, tư thế cải thiện rõ sau mỗi tuần
-- Biết cách tự điều chỉnh động tác, không còn lo chấn thương
-- Tập theo bất kỳ video nào cũng hiểu và tự tin
-
+Chào mừng bạn đến với Lớp Yoga Nền Tảng - Khoá học 6 Tuần giúp bạn kết nối với hơi thở & cơ thể toàn diện nhất
+  
 ## 📈 Thành Quả Thực Tế
 
 Linh Vũ (30+) ở Mỹ:
@@ -157,7 +150,7 @@ Hiếu Trần (25+) ở HCM
 - Cam kết hoàn tiền 100% nếu không hài lòng
 
 > 
-## Lộ Trình Học Tập
+## Chương Trình Học 6 Tuần Chi Tiết
 
 {% include feature_row id="yoga-nen-tang-week1" type="left" %}
 
@@ -171,6 +164,15 @@ Hiếu Trần (25+) ở HCM
 
 {% include feature_row id="yoga-nen-tang-week6" type="left" %}
 
+## 🧘‍♀️ Lợi Ích Cụ Thể Sau Khoá Học?
+
+ Sau 6 tuần, bạn sẽ:
+- Tăng sức bền 40%, giảm đau mỏi cổ-vai-gáy
+- Thở đúng – ngủ sâu – giảm stress rõ rệt
+- Linh hoạt – vững vàng, tư thế cải thiện rõ sau mỗi tuần
+- Biết cách tự điều chỉnh động tác, không còn lo chấn thương
+- Tập theo bất kỳ video nào cũng hiểu và tự tin
+  
 ## 💰 Tại Sao Chọn Khoá Này?
 
 {% include feature_row id="yoga-nen-tang-loi-ich"%}
@@ -194,6 +196,7 @@ Hiếu Trần (25+) ở HCM
         <li>3 Hơi Thở Cổ Điển của Yoga</li>
         <li>Truy cập trọn đời</li>
         <li><strong style="color: red;">BONUS</strong>: Bản Tóm Tắt Vẽ Học Của Từng Tuần </li>
+        <li><strong style="color: red;">BONUS</strong>: Hướng Dẫn Viết Journal </li>
       </ul>
     </td>
     <td style="vertical-align: top;">
