@@ -241,6 +241,17 @@ Hiếu Trần (25+) ở HCM
 
 {% include contact-form.html %}
 
+## 👩‍🏫 Về Linh
+Giáo viên Yoga chuyên sâu về thai sản và hồi phục sau sinh, được chứng nhận Prenatal & Post Natal ở 2 trung tâm nổi tiếng ở Úc, Bliss Baby Yoga và Body Mind Life với
+
+🎓 360+ đào tạo nền tảng về yoga nền tảng, giải phẫu học & năng lượng
+
+🤱 160+ giờ chuyên sâu về yoga thai sản & hồi phục sau sinh
+
+🏥 140+ giờ đào tạo về Yoga trị liệu đau lưng, cổ, vai gáy với giáo viên Ấn Độ/Úc
+
+👩‍👧 Mẹ của bé Chanh, đã sinh thường nhanh chóng chỉ trong 3 tiếng hơn và trải qua hành trình hồi phục sau sinh thành công
+
 ## Câu Hỏi Thường Hỏi (FAQ)
 
 <details>
