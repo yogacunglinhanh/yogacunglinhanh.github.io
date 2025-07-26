@@ -231,14 +231,6 @@ Hiếu Trần (25+) ở HCM
 
 ## Đăng Ký Học Ngay
 
-**Bước 1:** Đăng ký ở form học ở dưới
-
-**Bước 2:** Nhắn tin cho [Linh ở facebook](https://www.facebook.com/ngoclinhdnl/) sau khi đăng ký.
-
-​Vậy là bạn đã sẵn sàng để kết nối với cơ thể & hơi thở rồi! Chúc mừng!
-
-​​​Nếu bạn cần hỗ trợ hay có thắc mắc gì thì đừng ngần ngại gửi [facebook message cho Linh](https://www.facebook.com/ngoclinhdnl/)!
-
 {% include contact-form.html %}
 
 ## 👩‍🏫 Về Linh
@@ -251,6 +243,13 @@ Giáo viên Yoga chuyên sâu về thai sản và hồi phục sau sinh, đượ
 🏥 140+ giờ đào tạo về Yoga trị liệu đau lưng, cổ, vai gáy với giáo viên Ấn Độ/Úc
 
 👩‍👧 Mẹ của bé Chanh, đã sinh thường nhanh chóng chỉ trong 3 tiếng hơn và trải qua hành trình hồi phục sau sinh thành công
+
+[Chat Với Linh Qua Facebook](https://www.facebook.com/ngoclinhdnl/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+[Xem Cách Mình Dạy Ở YouTube]([https://www.youtube.com/playlist?list=PL-U5o45t3xZgy_-zVaA288VzX6DaCRHpg](https://www.youtube.com/playlist?list=PL-U5o45t3xZjU-ieOIPNscni7DrTmc2Ve)){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+
+## Review Những Lớp Khác của Yoga Cùng Linh Anh
+
+{% include youtube_embed.html id="d6tQiBzpEeY" %}
 
 ## Câu Hỏi Thường Hỏi (FAQ)
 
