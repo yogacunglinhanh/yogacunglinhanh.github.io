@@ -8,9 +8,14 @@ excerpt_separator: "<!--more-->"
 
 <!-- markdownlint-disable MD028 -->
 <!-- markdownlint-disable MD033 -->
-## Bụng xổ, đau lưng là mối quan tâm của rất nhiều mẹ sau sinh, tuy nhiên nhiều mẹ không biết là vì sao và cũng không thực sự hiểu cơ thể của mình. 
 
-Hôm nay hãy cùng mình xem qua 4 dấu hiệu bụng mẹ đang yếu nhé! 
+## Món quà cho mẹ sau sinh
+
+<div class="ml-embedded" data-form="xKc0oP"></div>
+
+## Bụng xổ, đau lưng là mối quan tâm của rất nhiều mẹ sau sinh, tuy nhiên nhiều mẹ không biết là vì sao và cũng không thực sự hiểu cơ thể của mình
+
+Hôm nay hãy cùng mình xem qua 4 dấu hiệu bụng mẹ đang yếu nhé!
 
 ### 1. Nhìn từ ngoài, bụng bạn có đang tròn mềm phía trước – như bầu 4–5 tháng?
 
@@ -30,7 +35,7 @@ Hôm nay hãy cùng mình xem qua 4 dấu hiệu bụng mẹ đang yếu nhé!
 - [ ] Có đôi lúc
 - [ ] Có – gần như ngày nào cũng bị
 
-Ngoài 2 dấu hiệu này, bạn cũng cần kiểm tra mình có bị phân tách cơ thẳng bụng không? 
+Ngoài 2 dấu hiệu này, bạn cũng cần kiểm tra mình có bị phân tách cơ thẳng bụng không?
 
 ## Phân Tách cơ bụng là gì?
 
@@ -98,7 +103,8 @@ Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạ
 {% include youtube_embed.html id="pHqxfKe8lpA" %}
 
 ## Nếu bạn chỉ có dấu hiệu 1 hoặc 2
-- Khả năng cao bạn KHÔNG bị phân tách cơ thẳng bụng nhưng BỤNG YẾU! 
+
+- Khả năng cao bạn KHÔNG bị phân tách cơ thẳng bụng nhưng BỤNG YẾU!
 - Bụng vẫn yếu nên cơ lưng đang phải gánh thay, đâm đau lưng, gù lưng. Thế nên hãy ưu tiên tập các bài tập cho cơ lõi gồm cơ bụng sâu, cơ lưng, cơ 2 bên sườn, cơ sàn chậu và cơ hoành.
 
 ## 🎯 Khoá CORE RESET - HÀNH TRÌNH HỒI PHỤC SAU SINH 3 THÁNG có thể là cái mẹ đang cần
@@ -107,7 +113,7 @@ PHÙ HỢP CHO MẸ SINH THƯỜNG & SINH MỔ.
 
 [Xem thêm thông tin khoá](https://yogacunglinhanh.com/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
-THỬ THÁCH 3 NGÀY HỒI PHỤC SAU SINH NHẸ NHÀNG 
+THỬ THÁCH 3 NGÀY HỒI PHỤC SAU SINH NHẸ NHÀNG
 
 Tham Gia Nhóm Facebook
 
