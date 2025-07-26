@@ -138,8 +138,8 @@ Linh Vũ (30+) ở Mỹ:
 
 Linh Anh (30+) ở Úc
 
-> "Mình đã tập Yoga chạm mốc 6 năm với vô vàn studio, các thể loại yoga (kể cả aerial yoga) và vô số các YouTube video. Lúc mình đến với cô Linh, mình không phải beginner, nhưng cũng không quá nâng cao.
-> Sao bao ngày tháng tìm kiếm chân lý, mình rất vui vì đã đky lớp của Linh vì mình cảm thấy đang thực sự học Yoga 1 cách baì bản. Linh chỉnh sửa bài rất kỹ và có tâm, dễ nhớ và khiến mình có động lực học thật giỏi Yoga."
+> "Mình đã tập Yoga chạm mốc 6 năm với vô vàn studio, các thể loại yoga (kể cả aerial yoga) và vô số các YouTube video. Lúc mình đến với cô Linh, mình không phải beginner, nhưng cũng không quá nâng cao.<br>
+> Sau bao ngày tháng tìm kiếm chân lý, mình rất vui vì đã đky lớp của Linh vì mình cảm thấy đang thực sự học Yoga 1 cách baì bản. Linh chỉnh sửa bài rất kỹ và có tâm, dễ nhớ và khiến mình có động lực học thật giỏi Yoga."
 
 Vicky Tran (30+) ở Singapore
 
@@ -220,12 +220,6 @@ Vicky Tran (30+) ở Singapore
 - 100% hài lòng với kết quả sau 6 tuần
 - 95% tự tin tập theo bất kỳ video nào sau khóa học
 - Cam kết hoàn tiền 100% nếu không hài lòng
-
-## Chia Sẻ Của Những Bạn Đi Trước
-
-Đặc biệt phù hợp cho các mẹ đang chuẩn bị sức khoẻ để mang thai & đã hồi phục sau sinh
-
-{% include testimonial_slider.html images=page.testimonial_images %}
 
 ## Đăng Ký Học Ngay
 
