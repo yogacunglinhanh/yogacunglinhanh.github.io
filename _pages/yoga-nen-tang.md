@@ -208,7 +208,7 @@ Hiếu Trần (25+) ở HCM
     <td style="vertical-align: top;">
       <ul>
         <li>Không có phản hồi cá nhân</li>
-        <li>Hỗ trợ trả lời câu hỏi trong nhóm Facebook kín</strong></li>
+        <li>Hỗ trợ trả lời câu hỏi trong nhóm Facebook kín</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
