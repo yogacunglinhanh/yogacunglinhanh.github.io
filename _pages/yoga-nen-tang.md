@@ -64,7 +64,7 @@ yoga-nen-tang-week5:
       ✔️ Phương pháp luyện sự kiên nhẫn và bền bỉ.<br>
       ✔️ Ứng dụng thăng bằng vào cuộc sống.<br>
 yoga-nen-tang-week6:
-  - image_path: /assets/images/courses/yoga-nen-tang-week6.jpg
+  - image_path: /assets/images/courses/yoga-nen-tang-week6.png
     alt: "Tuần 6: Tích Hợp & Nâng Cao"
     title: "Tuần 6: Tích Hợp & Nâng Cao"
     excerpt: >-
@@ -87,7 +87,7 @@ yoga-nen-tang-loi-ich:
       Học 20+ tư thế Yoga cổ điển quan trọng nhất. Giá trị tương đương 2-3 năm tập tại studio thường<br><br>
   - excerpt: >-
       🤕🩹**Tránh chấn thương: không tốn tiền chữa trị.**<br>
-      Học về alignment, hơi thơ, cách siết các cơ đúng tăng hiệu quả, tránh đau lưng, cổ, vai gáy. 
+      Học về alignment, hơi thơ, cách siết các cơ đúng tăng hiệu quả, tránh đau lưng, cổ, vai gáy.
   - excerpt: >-
       📄 **Phản Hồi 1:1 Sau mỗi bài tập.**<br>
       Thực sự hiểu mình đang tập đúng hay sai, chỉnh sửa cho từng cá nhân<br><br>
@@ -96,10 +96,10 @@ yoga-nen-tang-loi-ich:
       Bạn có thể quay lại học bất cứ lúc nào khi cần, không giới hạn số lần. Giá trị áp dụng suốt đời, chỉ học một lần. <br><br>
   - excerpt: >-
       ♾️ **Kết Nối cảm xúc thông qua viết & thở.**<br>
-      Được hướng dẫn viết Journal mỗi ngày để lắng nghe cơ thể, kết nối cảm xúc và giảm căng thẳng<br><br>    
+      Được hướng dẫn viết Journal mỗi ngày để lắng nghe cơ thể, kết nối cảm xúc và giảm căng thẳng<br><br>
   - excerpt: >-
       🤜🤛 **Cộng đồng học tập ấm áp, kín đáo và hỗ trợ thật.**<br>
-      Tham gia nhóm Facebook riêng với sự đồng hành từ cô giáo và các học viên khác.<br><br>    
+      Tham gia nhóm Facebook riêng với sự đồng hành từ cô giáo và các học viên khác.<br><br>
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -126,13 +126,14 @@ Chào mừng bạn đến với Lớp Yoga Nền Tảng - Khoá học 6 Tuần g
 
 ## 🧘‍♀️ Lợi Ích Cụ Thể Sau Khoá Học?
 
- Sau 6 tuần, bạn sẽ:
+Sau 6 tuần, bạn sẽ:
+
 - Tăng sức bền 40%, giảm đau mỏi cổ-vai-gáy
 - Thở đúng – ngủ sâu – giảm stress rõ rệt
 - Linh hoạt – vững vàng, tư thế cải thiện rõ sau mỗi tuần
 - Biết cách tự điều chỉnh động tác, không còn lo chấn thương
 - Tập theo bất kỳ video nào cũng hiểu và tự tin
- 
+
 ## Chương Trình Học 6 Tuần Chi Tiết
 
 {% include feature_row id="yoga-nen-tang-week1" type="left" %}
@@ -147,7 +148,7 @@ Chào mừng bạn đến với Lớp Yoga Nền Tảng - Khoá học 6 Tuần g
 
 {% include feature_row id="yoga-nen-tang-week6" type="left" %}
 
- ## 💰 Tại Sao Chọn Khoá Này?
+## 💰 Tại Sao Chọn Khoá Này?
 
 {% include feature_row id="yoga-nen-tang-loi-ich"%}
 
@@ -172,7 +173,7 @@ Hiếu Trần (25+) ở HCM
 
 > "Mình ít vận động, cuộc sống gắn liền với máy tính và trước khi học cũng thấy chi phí học thật đắt đỏ mà không biết có cải thiện được tình hình vốn bi đát thế không. Thế nhưng sau khoá học, mình đã bắt đầu biết cách giữ hơi thở đều đặn, để ý tư thế bản thân "muôn năm xấu", cảm thấy tự tin hơn nhiều vì không còn lo đau cột sống. <br><br>
 > Và ngoài ra, còn tự nấu được cho bản thân bát phở ăn ngon từ người chỉ biết làm trứng chiên. Cho nên hãy cứ tin vào bản thân nhé, bạn sẽ làm được thôi."
-  
+
 ## 💰 Mức Đầu Tư
 
 <table>
@@ -223,12 +224,12 @@ Hiếu Trần (25+) ở HCM
   </tr>
 </table>
 
-
 ## Đăng Ký Học Ngay
 
 {% include contact-form.html %}
 
 ## 👩‍🏫 Về Linh
+
 Giáo viên Yoga chuyên sâu về thai sản và hồi phục sau sinh, được chứng nhận Prenatal & Post Natal ở 2 trung tâm nổi tiếng ở Úc, Bliss Baby Yoga và Body Mind Life với
 
 🎓 360+ đào tạo nền tảng về yoga nền tảng, giải phẫu học & năng lượng
@@ -240,7 +241,7 @@ Giáo viên Yoga chuyên sâu về thai sản và hồi phục sau sinh, đượ
 👩‍👧 Mẹ của bé Chanh, đã sinh thường nhanh chóng chỉ trong 3 tiếng hơn và trải qua hành trình hồi phục sau sinh thành công
 
 [Chat Với Linh Qua Facebook](https://www.facebook.com/ngoclinhdnl/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
-[Xem Cách Mình Dạy Ở YouTube]([https://www.youtube.com/playlist?list=PL-U5o45t3xZgy_-zVaA288VzX6DaCRHpg](https://www.youtube.com/playlist?list=PL-U5o45t3xZjU-ieOIPNscni7DrTmc2Ve)){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+[Xem Cách Mình Dạy Ở YouTube](<[https://www.youtube.com/playlist?list=PL-U5o45t3xZgy_-zVaA288VzX6DaCRHpg](https://www.youtube.com/playlist?list=PL-U5o45t3xZjU-ieOIPNscni7DrTmc2Ve)>){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
 ## Review Những Lớp Khác của Yoga Cùng Linh Anh
 
