@@ -83,19 +83,22 @@ testimonial_images:
     alt: "Yoga Bau Vuot Can Feedback 4"
 yoga-nen-tang-loi-ich:
   - excerpt: >-
-      👍 Học đúng từ đầu – không phải học lại<br>
-      Học như học chữ: từ A-B-C đến ghép câu hoàn chỉnh<br><br>
+      👍 **Học đúng từ đầu – không phải học lại.**<br>
+      Học 20+ tư thế Yoga cổ điển quan trọng nhất. Giá trị tương đương 2-3 năm tập tại studio thường<br><br>
   - excerpt: >-
-      🤕🩹 Tránh chấn thương: không tốn tiền chữa trị
+      🤕🩹**Tránh chấn thương: không tốn tiền chữa trị.**<br>
+      Học về alignment, hơi thơ, cách siết các cơ đúng tăng hiệu quả, tránh đau lưng, cổ, vai gáy. 
   - excerpt: >-
-      ♾️ Học một lần, áp dụng suốt đời<br>
-      Truy cập trọn đời, học lại không giới hạn. Giá trị tương đương 2-3 năm học tại studio<br><br>
+      ♾️ **Hướng dẫn viết Journal hàng ngày.**<br>
+      Kết nối cảm xúc qua viết, thở<br><br>
   - excerpt: >-
-      📄 Phản Hồi 1:1 Sau mỗi bài tập
+      📄 **Phản Hồi 1:1 Sau mỗi bài tập.**<br>
+      Thực sự hiểu mình đang tập đúng hay sai, chỉnh sửa cho từng cá nhân<br><br>
   - excerpt: >-
-      🔥 Giữ khoá học trọn đời
+      🔥 **Giữ khoá học trọn đời**.<br>
+      Xem lại khi quên bất cứ lúc nào <br><br>
   - excerpt: >-
-      🤜🤛 Có nhóm Facebook kín hỗ trợ
+      🤜🤛 **Có nhóm Facebook kín hỗ trợ.**<br>
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -120,29 +123,7 @@ yoga-nen-tang-loi-ich:
 
 Chào mừng bạn đến với Lớp Yoga Nền Tảng - Khoá học 6 Tuần giúp bạn kết nối với hơi thở & cơ thể toàn diện nhất
   
-## 📈 Thành Quả Thực Tế
-
-Linh Vũ (30+) ở Mỹ:
-
-> "Cho đến khi học Linh, mình mới phát hiện có nhiều động tác trước giờ mình tập sai, có thể gây chấn thương nhẹ mà không biết. Linh giúp mình chỉnh sửa các động tác sai, và tập sâu vào động tác hơn rất rất nhiều.<br><br>
-> Mình là đứa siêu lười dậy sớm và vịn cớ bận rộn công việc, nhờ tham gia lớp của Linh, mình nay đã lên kế hoạch chăm sóc bản thân tốt hơn, còn vận động được ông xã đi bơi, vừa tăng cường sức khoẻ, vừa gắn kết tinh thần"
-
-Linh Anh (30+) ở Sydney
-
-> "Mình đã tập Yoga chạm mốc 6 năm với vô vàn studio, các thể loại yoga (kể cả aerial yoga) và vô số các YouTube video. Lúc mình đến với cô Linh, mình không phải beginner, nhưng cũng không quá nâng cao.<br><br>
-> Sau bao ngày tháng tìm kiếm chân lý, mình rất vui vì đã đky lớp của Linh vì mình cảm thấy đang thực sự học Yoga 1 cách baì bản. Linh chỉnh sửa bài rất kỹ và có tâm, dễ nhớ và khiến mình có động lực học thật giỏi Yoga."
-
-Vicky Tran (30+) ở Singapore
-
-> "Khoá học nền tảng giúp mình học được rất nhiều thứ. Ngoài việc được hướng dẫn kỹ lưỡng, cô Linh còn hướng dẫn viết journal xịn xò. Đó là 1 sự kết nối hoàn chỉnh của tâm thân trí. Chúng ta cần 1 cơ thể và bộ não khoẻ mạnh, hạnh phúc thì mới có thể hạnh phúc. Nếu ai có gia đình, con cái thì điều đó sẽ giúp sinh sản ra những người bạn đời và em bé hạnh phúc.<br><br>
-> Chỉ cần bạn bước 1 bước thôi, bước vào sự biết ơn với cơ thể, 1 chân trời khác sẽ mở ra."
-
-Hiếu Trần (25+) ở HCM
-
-> "Mình ít vận động, cuộc sống gắn liền với máy tính và trước khi học cũng thấy chi phí học thật đắt đỏ mà không biết có cải thiện được tình hình vốn bi đát thế không. Thế nhưng sau khoá học, mình đã bắt đầu biết cách giữ hơi thở đều đặn, để ý tư thế bản thân "muôn năm xấu", cảm thấy tự tin hơn nhiều vì không còn lo đau cột sống. <br><br>
-> Và ngoài ra, còn tự nấu được cho bản thân bát phở ăn ngon từ người chỉ biết làm trứng chiên. Cho nên hãy cứ tin vào bản thân nhé, bạn sẽ làm được thôi."
-
-> 
+ 
 ## Chương Trình Học 6 Tuần Chi Tiết
 
 {% include feature_row id="yoga-nen-tang-week1" type="left" %}
@@ -166,6 +147,27 @@ Hiếu Trần (25+) ở HCM
 - Biết cách tự điều chỉnh động tác, không còn lo chấn thương
 - Tập theo bất kỳ video nào cũng hiểu và tự tin
 
+## 📈 Thành Quả Thực Tế
+
+Linh Vũ (30+) ở Mỹ:
+
+> "Cho đến khi học Linh, mình mới phát hiện có nhiều động tác trước giờ mình tập sai, có thể gây chấn thương nhẹ mà không biết. Linh giúp mình chỉnh sửa các động tác sai, và tập sâu vào động tác hơn rất rất nhiều.<br><br>
+> Mình là đứa siêu lười dậy sớm và vịn cớ bận rộn công việc, nhờ tham gia lớp của Linh, mình nay đã lên kế hoạch chăm sóc bản thân tốt hơn, còn vận động được ông xã đi bơi, vừa tăng cường sức khoẻ, vừa gắn kết tinh thần"
+
+Linh Anh (30+) ở Sydney
+
+> "Mình đã tập Yoga chạm mốc 6 năm với vô vàn studio, các thể loại yoga (kể cả aerial yoga) và vô số các YouTube video. Lúc mình đến với cô Linh, mình không phải beginner, nhưng cũng không quá nâng cao.<br><br>
+> Sau bao ngày tháng tìm kiếm chân lý, mình rất vui vì đã đky lớp của Linh vì mình cảm thấy đang thực sự học Yoga 1 cách baì bản. Linh chỉnh sửa bài rất kỹ và có tâm, dễ nhớ và khiến mình có động lực học thật giỏi Yoga."
+
+Vicky Tran (30+) ở Singapore
+
+> "Khoá học nền tảng giúp mình học được rất nhiều thứ. Ngoài việc được hướng dẫn kỹ lưỡng, cô Linh còn hướng dẫn viết journal xịn xò. Đó là 1 sự kết nối hoàn chỉnh của tâm thân trí. Chúng ta cần 1 cơ thể và bộ não khoẻ mạnh, hạnh phúc thì mới có thể hạnh phúc. Nếu ai có gia đình, con cái thì điều đó sẽ giúp sinh sản ra những người bạn đời và em bé hạnh phúc.<br><br>
+> Chỉ cần bạn bước 1 bước thôi, bước vào sự biết ơn với cơ thể, 1 chân trời khác sẽ mở ra."
+
+Hiếu Trần (25+) ở HCM
+
+> "Mình ít vận động, cuộc sống gắn liền với máy tính và trước khi học cũng thấy chi phí học thật đắt đỏ mà không biết có cải thiện được tình hình vốn bi đát thế không. Thế nhưng sau khoá học, mình đã bắt đầu biết cách giữ hơi thở đều đặn, để ý tư thế bản thân "muôn năm xấu", cảm thấy tự tin hơn nhiều vì không còn lo đau cột sống. <br><br>
+> Và ngoài ra, còn tự nấu được cho bản thân bát phở ăn ngon từ người chỉ biết làm trứng chiên. Cho nên hãy cứ tin vào bản thân nhé, bạn sẽ làm được thôi."
   
 ## 🎯 KẾT QUẢ BỀN VỮNG
 
@@ -183,7 +185,7 @@ Hiếu Trần (25+) ở HCM
 <table>
   <tr>
     <th style="text-align: center;">Gói Tự Học Thông Minh</th>
-    <th style="text-align: center;">Gói VIP Được Chỉnh Sửa</th>
+    <th style="text-align: center;">Gói VIP Được Chỉnh Sửa - Gói Được Ưa Chuộng</th>
   </tr>
   <tr>
     <td style="text-align: center;"><strong style="color: green;">2.500.000đ</strong></td>
