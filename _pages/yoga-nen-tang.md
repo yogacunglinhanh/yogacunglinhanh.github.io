@@ -142,13 +142,6 @@ Hiếu Trần (25+) ở HCM
 > "Mình ít vận động, cuộc sống gắn liền với máy tính và trước khi học cũng thấy chi phí học thật đắt đỏ mà không biết có cải thiện được tình hình vốn bi đát thế không. Thế nhưng sau khoá học, mình đã bắt đầu biết cách giữ hơi thở đều đặn, để ý tư thế bản thân "muôn năm xấu", cảm thấy tự tin hơn nhiều vì không còn lo đau cột sống. <br><br>
 > Và ngoài ra, còn tự nấu được cho bản thân bát phở ăn ngon từ người chỉ biết làm trứng chiên. Cho nên hãy cứ tin vào bản thân nhé, bạn sẽ làm được thôi."
 
-## 🎯 KẾT QUẢ BỀN VỮNG
-
-- Hơn 70+ học viên đã thành công
-- 100% hài lòng với kết quả sau 6 tuần
-- 95% tự tin tập theo bất kỳ video nào sau khóa học
-- Cam kết hoàn tiền 100% nếu không hài lòng
-
 > 
 ## Chương Trình Học 6 Tuần Chi Tiết
 
@@ -172,6 +165,14 @@ Hiếu Trần (25+) ở HCM
 - Linh hoạt – vững vàng, tư thế cải thiện rõ sau mỗi tuần
 - Biết cách tự điều chỉnh động tác, không còn lo chấn thương
 - Tập theo bất kỳ video nào cũng hiểu và tự tin
+
+  
+## 🎯 KẾT QUẢ BỀN VỮNG
+
+- Hơn 70+ học viên đã thành công
+- 100% hài lòng với kết quả sau 6 tuần
+- 95% tự tin tập theo bất kỳ video nào sau khóa học
+- Cam kết hoàn tiền 100% nếu không hài lòng
   
 ## 💰 Tại Sao Chọn Khoá Này?
 
