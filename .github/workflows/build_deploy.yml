@@ -1,9 +1,13 @@
 name: Build and Deploy Jekyll site to GitHub Pages
 
 on:
-  push:
-    branches: [master]
-  pull_request:
+  # push:
+  #   branches: [master]
+  # pull_request:
+  #   branches: [master]
+  workflow_run:
+    workflows: ["*"] # This will trigger after ANY workflow completes
+    types: [completed]
     branches: [master]
   workflow_dispatch:
 
