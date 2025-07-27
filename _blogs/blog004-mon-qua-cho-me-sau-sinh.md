@@ -15,25 +15,25 @@ Mình đã từng như vậy — và hiểu cảm giác khi không biết bắt 
 
 Nên mình làm món quà nhỏ này, gửi tặng mẹ:
 
-## 🎁 Hành trình 4 ngày hồi phục nhẹ nhàng
-– Mỗi ngày 1 video chỉ 10 phút trong 3 ngày
-– Tập ngay lúc bé bú, ngủ, chơi
-– Không cần thảm – không cần thay đồ
-– Tập vai, cổ, bụng, sàn chậu – hiệu quả ngay từ lần đầu
+## Hành trình 4 ngày hồi phục nhẹ nhàng
+– ✅ Mỗi ngày 1 video chỉ 10 phút trong 3 ngày
+– ✅ Tập ngay lúc bé bú, ngủ, chơi
+– ✅ Không cần thảm – không cần thay đồ
+– ✅ Tập vai, cổ, bụng, sàn chậu – hiệu quả ngay từ lần đầu
 
-##💡 + Masterclass 20 phút vào ngày thứ 4
+## 💡 + KÈM Masterclass 20 phút vào ngày thứ 4
 Giải thích cho mẹ hiểu:
-	•	Vì sao cơ thể sau sinh yếu đi?
-	•	Cơ lõi là gì? Tập thế nào mới phục hồi đúng – không phản tác dụng?
+- ✅ Vì sao cơ thể sau sinh yếu đi?
+- ✅ Cơ lõi là gì? Tập thế nào mới phục hồi đúng – không phản tác dụng?
 
 💝 Đây không phải “thử thách thể lực” từ mình. 
 Mà là món quà để mẹ bắt đầu lắng nghe lại cơ thể mình, nhẹ nhàng thôi nhưng đều đặn.
 
 📩 Nhận trọn bộ quà tại đây:
 
-<div class="ml-embedded" data-form="xKc0oP"></div>
-
 Chúc mẹ một hành trình hồi phục thật dịu dàng nhé 🌿
+
+<div class="ml-embedded" data-form="xKc0oP"></div>
 
 ## Về Linh
 
@@ -47,7 +47,7 @@ Chào bạn, mình là Linh Đặng, là giáo viên Yoga chuyên sâu về thai
 
 👩‍👧 Mẹ của bé Chanh, đã sinh thường nhanh chóng chỉ trong 3 tiếng hơn và trải qua hành trình hồi phục sau sinh thành công
 
-**🎯 Khoá học Core Reset Hồi Phục Cơ Bụng & Cơ Sàn Chậu** 
+## 🎯 Khoá học Core Reset Hồi Phục Cơ Bụng & Cơ Sàn Chậu
 
 [Xem Thêm](https://yogacunglinhanh.com/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
