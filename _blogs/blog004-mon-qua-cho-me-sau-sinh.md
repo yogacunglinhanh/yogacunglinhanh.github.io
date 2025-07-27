@@ -15,23 +15,11 @@ Mình đã từng như vậy — và hiểu cảm giác khi không biết bắt 
 
 Nên mình làm món quà nhỏ này, gửi tặng mẹ:
 
-## 🎁 HÀNH TRÌNH 4 NGÀY HỒI PHỤC NHẸ NHÀNG
-✅ Mỗi ngày 1 video chỉ 10 phút
-✅ Tập ngay lúc bé bú, ngủ, chơi
-✅ Không cần thảm – không cần thay đồ
-✅ Tập vai, cổ, bụng, sàn chậu – hiệu quả ngay từ lần đầu
-
-## 💡 MASTERCLASS 20 phút vào ngày thứ 4
-Giải thích cho mẹ hiểu:
-
-- Vì sao cơ thể sau sinh yếu đi?
-- Cơ lõi là gì? Tập thế nào mới phục hồi đúng – không phản tác dụng?
-
 <div class="ml-embedded" data-form="xKc0oP"></div>
 
 💝 Món quà nhỏ này được tạo ra với tất cả tình yêu thương dành cho các mẹ
 
-**🎯 Ngoài ra, nếu bạn đã sẵn sàng tiến sâu hơn, tham gia khoá học Core Reset 
+**🎯 Ngoài ra, nếu bạn đã sẵn sàng tiến sâu hơn, tham gia khoá học Core Reset** 
 
 ** 👉 [Xem Thêm](https://yogacunglinhanh.com/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/)
 
