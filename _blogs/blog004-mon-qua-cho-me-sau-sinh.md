@@ -9,8 +9,8 @@ excerpt_separator: "<!--more-->"
 <!-- markdownlint-disable MD028 -->
 <!-- markdownlint-disable MD033 -->
 
-Nếu cơ thể mẹ sau sinh đang mỏi ê ẩm, khó thở, đau lưng hay són tiểu nhẹ —
-Mẹ không một mình đâu.
+Nếu cơ thể mẹ sau sinh đang mỏi ê ẩm, khó thở, đau lưng hay són tiểu nhẹ.<br>
+Mẹ không một mình đâu.<br>
 Mình đã từng như vậy — và hiểu cảm giác khi không biết bắt đầu từ đâu.
 
 Nên mình làm món quà nhỏ này, gửi tặng mẹ:
@@ -26,8 +26,8 @@ Giải thích cho mẹ hiểu:
 - ✅ Vì sao cơ thể sau sinh yếu đi?
 - ✅ Cơ lõi là gì? Tập thế nào mới phục hồi đúng – không phản tác dụng?
 
-📩 Nhận trọn bộ quà tại đây:
-Đây không phải “thử thách thể lực” từ mình mà để mẹ bắt đầu lắng nghe lại cơ thể mình, nhẹ nhàng nhưng đều đặn.
+📩 Nhận trọn bộ quà tại đây:.<br>
+Đây không phải “thử thách thể lực” từ mình mà để mẹ bắt đầu lắng nghe lại cơ thể mình, nhẹ nhàng nhưng đều đặn..<br><br>
 
 Chúc mẹ một hành trình hồi phục thật dịu dàng nhé 🌿
 
