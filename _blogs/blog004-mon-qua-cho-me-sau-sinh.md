@@ -21,7 +21,7 @@ Nên mình làm món quà nhỏ này, gửi tặng mẹ:
 
 **🎯 Ngoài ra, nếu bạn đã sẵn sàng tiến sâu hơn, tham gia khoá học Core Reset** 
 
-** 👉 [Xem Thêm](https://yogacunglinhanh.com/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/)
+[Xem Thêm](https://yogacunglinhanh.com/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
 ## Về Linh
 
