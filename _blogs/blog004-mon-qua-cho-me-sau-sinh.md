@@ -33,6 +33,12 @@ Chúc mẹ một hành trình hồi phục thật dịu dàng nhé 🌿
 
 <div class="ml-embedded" data-form="xKc0oP"></div>
 
+
+## 🎯 Khoá học Core Reset Hồi Phục Cơ Bụng & Cơ Sàn Chậu
+Hành trình 3 tháng hồi phục sâu từ trong ra ngoài.
+
+[Xem Thêm](https://yogacunglinhanh.com/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+
 ## Về Linh
 
 Chào bạn, mình là Linh Đặng, là giáo viên Yoga chuyên sâu về thai sản và hồi phục sau sinh. Mình được chứng nhận Prenatal & Post Natal ở 2 trung tâm nổi tiếng ở Úc, [Bliss Baby Yoga](https://blissbabyyoga.com/) và [Body Mind Life](https://www.bodymindlife.com/about) với
@@ -44,10 +50,6 @@ Chào bạn, mình là Linh Đặng, là giáo viên Yoga chuyên sâu về thai
 🏥 140+ giờ đào tạo về Yoga trị liệu đau lưng, cổ, vai gáy với giáo viên Ấn Độ/Úc
 
 👩‍👧 Mẹ của bé Chanh, đã sinh thường nhanh chóng chỉ trong 3 tiếng hơn và trải qua hành trình hồi phục sau sinh thành công
-
-## 🎯 Khoá học Core Reset Hồi Phục Cơ Bụng & Cơ Sàn Chậu
-
-[Xem Thêm](https://yogacunglinhanh.com/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
 ## Bạn Muốn Được Hỗ Trợ Thêm?
 
