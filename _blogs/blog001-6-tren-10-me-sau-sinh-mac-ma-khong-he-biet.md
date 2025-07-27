@@ -9,10 +9,6 @@ excerpt_separator: "<!--more-->"
 <!-- markdownlint-disable MD028 -->
 <!-- markdownlint-disable MD033 -->
 
-## Món quà cho mẹ sau sinh
-
-<div class="ml-embedded" data-form="xKc0oP"></div>
-
 ## Bụng xổ, đau lưng là mối quan tâm của rất nhiều mẹ sau sinh, tuy nhiên nhiều mẹ không biết là vì sao và cũng không thực sự hiểu cơ thể của mình
 
 Hôm nay hãy cùng mình xem qua 4 dấu hiệu bụng mẹ đang yếu nhé!
@@ -36,6 +32,10 @@ Hôm nay hãy cùng mình xem qua 4 dấu hiệu bụng mẹ đang yếu nhé!
 - [ ] Có – gần như ngày nào cũng bị
 
 Ngoài 2 dấu hiệu này, bạn cũng cần kiểm tra mình có bị phân tách cơ thẳng bụng không?
+
+## MÓN QUÀ CHO MẸ SAU SINH: Hành Trình 4 Ngày Hồi Phục Cơ Thể
+
+[👉 Đăng Ký Nhận Quà](/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
 ## Phân Tách cơ bụng là gì?
 
