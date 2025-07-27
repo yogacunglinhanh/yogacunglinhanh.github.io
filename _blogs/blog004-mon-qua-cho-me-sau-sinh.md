@@ -27,24 +27,12 @@ Giải thích cho mẹ hiểu:
 - Vì sao cơ thể sau sinh yếu đi?
 - Cơ lõi là gì? Tập thế nào mới phục hồi đúng – không phản tác dụng?
 
-Sẵn sàng bắt đầu hành trình hồi phục?
-Nhận ngay món quà này và cùng bắt đầu chăm sóc bản thân từ hôm nay
 
 💝 Món quà nhỏ này được tạo ra với tất cả tình yêu thương dành cho các mẹ
-
-Hãy bắt đầu hành trình chăm só thân từ hôm nay ✨
-
-**🙋‍♀️ Mình là Linh – Giáo viên Yoga Chuyên Bầu & Hồi Phục Sau Sinh được đào tạo tại Úc**:
-
-Mình đã giúp nhiều mẹ chuẩn bị sinh thường thành công qua các khoá Yoga chuyên sâu, và là một người mẹ từng run, rồi từng bình tĩnh lại – chỉ nhờ một câu nói:
-
-> "Tôi có thể."
 
 **🎯 Ngoài ra, nếu bạn đã sẵn sàng tiến sâu hơn, tham gia khoá học Core Reset 
 
 ** 👉 [Xem Thêm](https://yogacunglinhanh.com/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/)
-
-Thân gửi tặng bạn, một món quà nhỏ – nhưng có thể thay đổi khoảnh khắc lớn.
 
 ## Về Linh
 
