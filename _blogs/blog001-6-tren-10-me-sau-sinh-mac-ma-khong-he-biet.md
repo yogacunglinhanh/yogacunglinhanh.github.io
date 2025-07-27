@@ -35,7 +35,7 @@ Ngoài 2 dấu hiệu này, bạn cũng cần kiểm tra mình có bị phân t�
 
 ## MÓN QUÀ CHO MẸ SAU SINH: Hành Trình 4 Ngày Hồi Phục Cơ Thể
 
-[👉 Đăng Ký Nhận Quà](/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+[👉 Đăng Ký Nhận Quà](https://yogacunglinhanh.com/blogs/mon-qua-cho-me-sau-sinh/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
 ## Phân Tách cơ bụng là gì?
 
