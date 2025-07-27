@@ -16,20 +16,18 @@ Mình đã từng như vậy — và hiểu cảm giác khi không biết bắt 
 Nên mình làm món quà nhỏ này, gửi tặng mẹ:
 
 ## Hành trình 4 ngày hồi phục nhẹ nhàng
-– ✅ Mỗi ngày 1 video chỉ 10 phút trong 3 ngày
-– ✅ Tập ngay lúc bé bú, ngủ, chơi
-– ✅ Không cần thảm – không cần thay đồ
-– ✅ Tập vai, cổ, bụng, sàn chậu – hiệu quả ngay từ lần đầu
+- ✅ Mỗi ngày 1 video chỉ 10 phút trong 3 ngày
+- ✅ Tập ngay lúc bé bú, ngủ, chơi
+- ✅ Không cần thảm – không cần thay đồ
+- ✅ Tập vai, cổ, bụng, sàn chậu – hiệu quả ngay từ lần đầu
 
 ## 💡 + KÈM Masterclass 20 phút vào ngày thứ 4
 Giải thích cho mẹ hiểu:
 - ✅ Vì sao cơ thể sau sinh yếu đi?
 - ✅ Cơ lõi là gì? Tập thế nào mới phục hồi đúng – không phản tác dụng?
 
-💝 Đây không phải “thử thách thể lực” từ mình. 
-Mà là món quà để mẹ bắt đầu lắng nghe lại cơ thể mình, nhẹ nhàng thôi nhưng đều đặn.
-
 📩 Nhận trọn bộ quà tại đây:
+Đây không phải “thử thách thể lực” từ mình mà để mẹ bắt đầu lắng nghe lại cơ thể mình, nhẹ nhàng nhưng đều đặn.
 
 Chúc mẹ một hành trình hồi phục thật dịu dàng nhé 🌿
 
