@@ -9,7 +9,7 @@ excerpt_separator: "<!--more-->"
 <!-- markdownlint-disable MD028 -->
 <!-- markdownlint-disable MD033 -->
 
-## Bụng xổ, đau lưng là mối quan tâm của rất nhiều mẹ sau sinh, tuy nhiên nhiều mẹ không biết là vì sao và cũng không thực sự hiểu cơ thể của mình
+## Bụng xổ, đau lưng là mối quan tâm của rất nhiều mẹ sau sinh, tuy nhiên nhiều mẹ không biết là vì sao lại như thế. 
 
 Hôm nay hãy cùng mình xem qua 4 dấu hiệu bụng mẹ đang yếu nhé!
 
