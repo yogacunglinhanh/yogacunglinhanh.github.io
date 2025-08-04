@@ -174,36 +174,36 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
   <tr>
     <td style="vertical-align: top;">
       <ul>
-        <li>12 tuần (tự học)</li>
-        <li>Cơ sàn chậu, hơi thở, âm thanh</li>
-        <li>Tập rượt đi sinh</li>
-        <li>Bài Tập Thiền Giải Mã Niềm Tin Giới Hạn & Phá Vỡ nó</li>
-        <li>Mindset đi đẻ</li>
+        <li>12 tuần tự học, được thiết kế bài bản theo lộ trình dễ tiếp cận</li>
+        <li>Hướng dẫn bài bản 3 nền tảng sinh thường: Cơ sàn chậu – Hơi thở – Tư Thế</li>
+        <li>Tự luyện tập rướt sinh với video hướng dẫn</li>
+        <li>Thiền phá vỡ niềm tin giới hạn và vượt qua nỗi sợ sinh</li>
+        <li>Xây nền “Mindset đi đẻ” mạnh mẽ, vững vàng</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
         <li>Toàn bộ quyền lợi trong gói "Cơ Bản"</li>
-        <li>Chỉnh sửa ảnh/video phản hồi cá nhân 1:1</li>
-        <li>Bài Tập Thiền Giải Mã Niềm Tin Giới Hạn & Phá Vỡ nó</li>
-        <li>Module Chăm Sóc Sau Sinh</li>
-        <li><strong style="color: red;">BONUS trị giá 999.000đ</strong>: Podcast 5 Ngày Viết&Thở Sau Sinh, Giúp Viết Birth Plan, Checklist Đi Đẻ</li>
+        <li>Chỉnh sửa ảnh/video bài tập của bạn 1:1 – đảm bảo tập đúng, an toàn</li>
+        <li>Hướng dẫn viết Birth Plan & Checklist sinh nở cá nhân hóa</li>
+        <li>Bổ sung Module chăm sóc sau sinh – giúp phục hồi chủ động, tinh thần lạc quan</li>
+        <li><strong style="color: red;">BONUS trị giá 999.000đ</strong>: Chuỗi Podcast 5 Ngày Viết&Thở Sau Sinh Cực kỳ hữu ích</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
         <li>Toàn bộ quyền lợi <strong>Gói Toàn Diện</strong></li>
-        <li>4 buổi live Zoom 1:1</li>
-        <li>Điều chỉnh sâu cá nhân sát sao</li>
-        <li>Phản hồi trực tiếp bài tập/video</li>
+        <li>4 buổi Zoom 1:1 kèm riêng – điều chỉnh bài tập trực tiếp theo thể trạng cá nhân</li>
+        <li>Nhận phản hồi cá nhân hóa ngay trên video/ảnh bài tập bạn gửi</li>
+        <li>Có thể linh hoạt điều chỉnh bài tập theo thời điểm thai kỳ, thể trạng hoặc thay đổi tâm lý</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
       <ul>
-        <li>Không điều chỉnh bài tập</li>
-        <li>Không có giai đoạn 4</li>
+        <li>Không điều chỉnh bài tập cá nhân</li>
+        <li>Không có giai đoạn hỗ trợ sau sinh</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
@@ -220,17 +220,17 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     </td>
   </tr>
   <tr>
-    <td>Cho mẹ bầu hiểu cơ thể, tự tin tự tập và không cần hỗ trợ sau sinh</td>
-    <td>Cho mẹ muốn hỗ trợ cá nhân & muốn đi trọn hành trình trước và SAU sinh</td>
-    <td>Cho mẹ muốn hướng dẫn sát sao, nhiều vấn đề sức khoẻ riêng, hoặc cần người ủn mông</td>
+    <td>Phù hợp cho mẹ yêu thích sự chủ động, tự nghiên cứu và không cần hỗ trợ sau sinh</td>
+    <td>Phù hợp cho mẹ muốn được đồng hành, phản hồi cá nhân và có kế hoạch chu đáo đến sau sinh</td>
+    <td>Phù hợp cho mẹ cần sát sao, cần hỗ trợ nhiều hơn về sức khỏe, tinh thần hoặc thể trạng đặc biệt</td>
   </tr>
 </table>
 
 **_Ngoài ra, mẹ có thể chọn gói CÔ ĐỌNG - 7 Buổi_**
-
+- Chuyên sâu – Cô đọng – Hiệu quả nhanh
 - 70% Lý Thuyết và 30% Thực Hành
 - Giúp mẹ hiểu cách thở, tập cơ sàn chậu, và các giai đoạn sau sinh.
-- Phù hợp với mẹ muốn học cấp tốc hoặc bổ sung kiến thức nếu mẹ đang tập Yoga chỗ khác rồi
+- Phù hợp cho mẹ muốn học cấp tốc hoặc đã tập Yoga chỗ khác rồi, chỉ cần bổ sung kỹ thuật chuẩn
 - Mức Đầu Tư: 1.100.000đ.
 
 **_Lưu Ý: Gói Toàn Diện & VIP : Nhận tối đa 10 mẹ bầu đăng ký mỗi tháng để đảm bảo chất lượng đồng hành 1:1!_**
