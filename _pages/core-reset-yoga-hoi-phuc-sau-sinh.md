@@ -187,14 +187,9 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
     <th style="text-align: center;">Gói Chuyên Sâu</th>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong style="color: green;">1.500.000đ</strong></td>
-    <td style="text-align: center;"><strong style="color: green;">2.500.000đ</strong></td>
-    <td style="text-align: center;"><strong style="color: green;">3.900.000đ</strong></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><strong style="color: green;">Sau 31/7/25, Giá sẽ thay đổi</strong></td>
-    <td style="text-align: center;"><strong style="color: green;">Sau 31/7/25, Giá sẽ thay đổi</strong></td>
-    <td style="text-align: center;"><strong style="color: green;">Sau 31/7/25, Giá sẽ thay đổi</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">1.650.000đ</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">2.700.000đ</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong></td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
