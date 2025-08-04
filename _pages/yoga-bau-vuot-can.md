@@ -175,7 +175,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <td style="vertical-align: top;">
       <ul>
         <li>12 tuần tự học, được thiết kế bài bản theo lộ trình dễ tiếp cận</li>
-        <li>Hướng dẫn bài bản 3 nền tảng sinh thường: Cơ sàn chậu – Hơi thở – Tư Thế</li>
+        <li>Hướng dẫn bài bản 4 nền tảng sinh thường: Cơ sàn chậu – Hơi thở – Tư Thế - Tâm Lý</li>
         <li>Tự luyện tập rướt sinh với video hướng dẫn</li>
         <li>Thiền phá vỡ niềm tin giới hạn và vượt qua nỗi sợ sinh</li>
         <li>Xây nền “Mindset đi đẻ” mạnh mẽ, vững vàng</li>
@@ -187,7 +187,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
         <li>Chỉnh sửa ảnh/video bài tập của bạn 1:1 – đảm bảo tập đúng, an toàn</li>
         <li>Hướng dẫn viết Birth Plan & Checklist sinh nở cá nhân hóa</li>
         <li>Bổ sung Module chăm sóc sau sinh – giúp phục hồi chủ động, tinh thần lạc quan</li>
-        <li><strong style="color: red;">BONUS trị giá 999.000đ</strong>: Chuỗi Podcast 5 Ngày Viết&Thở Sau Sinh Cực kỳ hữu ích</li>
+        <li><strong style="color: red;">BONUS trị giá 499.000đ</strong>: Chuỗi Podcast 5 Ngày Viết&Thở Sau Sinh Cực kỳ hữu ích</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
