@@ -114,12 +114,13 @@ yoga-nen-tang-loi-ich:
 - Tâm trí căng thẳng, khó tập trung trong công việc và cuộc sống
 - Mất kết nối với cơ thể
 - Tập YouTube không hiệu quả, lo sợ chấn thương
-- Hoặc chỉ đơn giản muốn tăng cường sức khoẻ
+- Tập ở Studio đại trà, bị rối
 
 **Và bạn muốn:**
 
 - Khôi phục năng lượng – ngủ ngon – nhẹ nhàng mỗi ngày
 - Có nền tảng Yoga vững chắc để tự tin tập luyện suốt đời
+- Được học Yoga bài bản, có kiến thức vững chắc
 - Kết nối sâu với chính mình qua từng hơi thở, từng động tác
 
 Chào mừng bạn đến với Lớp Yoga Nền Tảng - Khoá học 6 Tuần giúp bạn kết nối với hơi thở & cơ thể toàn diện nhất
@@ -128,6 +129,7 @@ Chào mừng bạn đến với Lớp Yoga Nền Tảng - Khoá học 6 Tuần g
 
 Sau 6 tuần, bạn sẽ:
 
+- Học kỹ lưỡng về định tuyến của hơn 20 động tác kinh điển của Yoga như là chó úp mặt, tấm gỗ, chiến binh I, II, III..
 - Tăng sức bền 40%, giảm đau mỏi cổ-vai-gáy
 - Thở đúng – ngủ sâu – giảm stress rõ rệt
 - Linh hoạt – vững vàng, tư thế cải thiện rõ sau mỗi tuần
