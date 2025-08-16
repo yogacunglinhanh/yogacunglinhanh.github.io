@@ -100,8 +100,7 @@ yoga-bau-vuot-can-lo-trinh-week101112:
     excerpt: >-
       <li>Kiến thức tập cơ sàn chậu "đúng, an toàn" ngay sau khi sinh, giúp cơ hồi phục nhanh nhất.</li>
       <li>Các bài tập thư giãn, nhẹ nhàng tránh đau mỏi cổ, vai gáy, đau lưng cho mẹ mới sinh.</li>
-      <li>Podcast 5 Ngày "Thở & Viết".</li>
-      <li>Tips chăm sóc bản thân sau sinh.</li>
+      <li>Thực Hành Viết Journal Giải Toả Tập Lý Sau Sinh Cho mẹ sau sinh.</li>
 testimonial_images:
   - src: "/assets/images/testimonials/yoga-bau-vuot-can-feedback1.jpg"
     alt: "Yoga Bau Vuot Can Feedback 1"
@@ -153,7 +152,7 @@ Ví dụ điển hình:
 
 - Kỹ năng lắng nghe và kết nối với cơ thể - điều sẽ giúp bạn hồi phục nhanh chóng sau sinh.
 - Khả năng thở sâu và giữ bình tĩnh - công cụ vô giá trong những đêm dài chăm con.
-- Kiến thức để mẹ có thể "chăm" bản thân trong những tuần đầu sau sinh
+- Kiến thức để mẹ có thể "chăm" bản thân trong những tuần đầu sau sinh, cực kỳ quan trọng vì đến lúc đó mới tìm sự trợ giúp thì hơi muộn :)
 - Một cộng đồng những người mẹ đồng hành - nơi bạn có thể chia sẻ, học hỏi và trưởng thành cùng nhau.
 
 Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SINH RA một người mẹ mới - mạnh mẽ, tự tin và tràn đầy yêu thương.
@@ -185,9 +184,9 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
       <ul>
         <li>Toàn bộ quyền lợi trong gói "Cơ Bản"</li>
         <li>Chỉnh sửa ảnh/video bài tập của bạn 1:1 – đảm bảo tập đúng, an toàn</li>
+        <li>Nhận phản hồi cá nhân hóa ngay trên video/ảnh bài tập bạn gửi</li>
         <li>Hướng dẫn viết Birth Plan & Checklist sinh nở cá nhân hóa</li>
-        <li>Bổ sung Module chăm sóc sau sinh – giúp phục hồi chủ động, tinh thần lạc quan</li>
-        <li><strong style="color: red;">BONUS trị giá 499.000đ</strong>: Chuỗi Podcast 5 Ngày Viết&Thở Sau Sinh Cực kỳ hữu ích</li>
+        <li>Có thể linh hoạt điều chỉnh bài tập theo thời điểm thai kỳ, thể trạng hoặc thay đổi tâm lý</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
@@ -203,7 +202,6 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <td style="vertical-align: top;">
       <ul>
         <li>Không điều chỉnh bài tập cá nhân</li>
-        <li>Không có giai đoạn hỗ trợ sau sinh</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
@@ -220,18 +218,19 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     </td>
   </tr>
   <tr>
-    <td>Phù hợp cho mẹ yêu thích sự chủ động, tự nghiên cứu và không cần hỗ trợ sau sinh</td>
-    <td>Phù hợp cho mẹ muốn được đồng hành, phản hồi cá nhân và có kế hoạch chu đáo đến sau sinh</td>
+    <td>Phù hợp cho mẹ yêu thích sự chủ động, tự nghiên cứu và tự tin tập đúng</td>
+    <td>Phù hợp cho mẹ muốn được đồng hành, phản hồi cá nhân</td>
     <td>Phù hợp cho mẹ cần sát sao, cần hỗ trợ nhiều hơn về sức khỏe, tinh thần hoặc thể trạng đặc biệt</td>
   </tr>
 </table>
 
-**_Ngoài ra, mẹ có thể chọn gói CÔ ĐỌNG - 7 Buổi_**
+**_Ngoài ra, mẹ có thể chọn gói CÔ ĐỌNG - 7 Buổi-3 Tuần_**
 - Chuyên sâu – Cô đọng – Hiệu quả nhanh
 - 70% Lý Thuyết và 30% Thực Hành
-- Giúp mẹ hiểu cách thở, tập cơ sàn chậu, và các giai đoạn sau sinh.
+- Giúp mẹ hiểu cách thở, tập cơ sàn chậu, và các giai đoạn sinh nở.
 - Phù hợp cho mẹ muốn học cấp tốc hoặc đã tập Yoga chỗ khác rồi, chỉ cần bổ sung kỹ thuật chuẩn
 - Mức Đầu Tư: 1.100.000đ.
+- BONUS: Thực Hành Viết Journal Sau Sinh Giúp Mẹ Giải Toả Tâm Lý
 
 **_Lưu Ý: Gói Toàn Diện & VIP : Nhận tối đa 10 mẹ bầu đăng ký mỗi tháng để đảm bảo chất lượng đồng hành 1:1!_**
 
