@@ -185,6 +185,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
       <ul>
         <li>Toàn bộ quyền lợi trong gói "Cơ Bản"</li>
         <li>3 tuần Kiến thức & bài tập chăm sóc cơ thể sau sinh để tránh các vấn nạn đau lưng, đau cổ vai gáy</li>
+        <li>1 buổi zoom 1:1 tập rượt đi đẻ những tuần cuối</li>
         <li>Thực Hành thở và bài tập tâm lý giúp mẹ giải toả căng thẳng & tránh trầm cảm sau sinh</li>
       </ul>
     </td>
@@ -206,7 +207,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <td style="vertical-align: top;">
       <ul>
         <li>Hỗ trợ trả lời câu hỏi/chỉnh sửa qua ảnh/video 1:1</li>
-        <li>2 buổi zoom 20' đầu lớp và trước khi đi đẻ</li>
+        <li>1 buổi zoom 30' trước khi đi đẻ để tập rượt đi đẻ</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
@@ -228,7 +229,6 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 - Giúp mẹ nắm qua những kĩ năng cơ bản để sinh thường
 - Phù hợp cho mẹ từ tuần 35 trở đi, mẹ đã tập Yoga ở chỗ khác và chỉ cần bổ sung kỹ thuật chuẩn
 - Mức Đầu Tư: 1.100,000đ
-- 
   
 **_Lưu Ý: Gói Toàn Diện & VIP : Nhận tối đa 10 mẹ bầu đăng ký mỗi tháng để đảm bảo chất lượng đồng hành 1:1!_**
 
