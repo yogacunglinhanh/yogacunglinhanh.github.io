@@ -167,32 +167,31 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
   </tr>
   <tr>
     <td style="text-align: center;"><strong style="color: green;">1.800.000đ</strong><strong style="color: red;"> (Trị Giá: 2.300.000đ)</strong></td>
-    <td style="text-align: center;"><strong style="color: green;">2.700.000đ</strong><strong style="color: red;"> (Trị Giá: 4.000.000đ)</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">2.500.000đ</strong><strong style="color: red;"> (Trị Giá: 4.000.000đ)</strong></td>
     <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 5.500.000đ)</strong></td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
       <ul>
-        <li>12 tuần tự học, được thiết kế bài bản theo lộ trình dễ tiếp cận</li>
-        <li>Hướng dẫn bài bản 4 nền tảng sinh thường: Cơ sàn chậu – Hơi thở – Tư Thế - Tâm Lý</li>
-        <li>Tự luyện tập rướt sinh với video hướng dẫn</li>
-        <li>Thiền phá vỡ niềm tin giới hạn và vượt qua nỗi sợ sinh</li>
-        <li>Xây nền “Mindset đi đẻ” mạnh mẽ, vững vàng</li>
+        <li>10 tuần tập được thiết kế bài bản theo lộ trình dễ tiếp cận, 8 tuần trước sinh và 2 tuần sau sinh</li>
+        <li>Phân tích khoa học các cơ sàn chậu, cách em bé đi ra ngoài và các cơ khác liên quan</li>
+        <li>Hướng dẫn bài bản lý thuyết & kỹ thuật sinh thường: Cơ sàn chậu – Hơi thở – Tư Thế</li>
+        <li>Các bài tập chuyên sâu gồm động tác, thở trong lúc bầu, và lúc sinh cho mẹ bầu giai đoạn
+        giữa/cuối</li>
+        <li>Chỉnh sửa ảnh/video bài tập của bạn để đảm bảo tập đúng, an toàn</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
         <li>Toàn bộ quyền lợi trong gói "Cơ Bản"</li>
-        <li>Chỉnh sửa ảnh/video bài tập của bạn 1:1 – đảm bảo tập đúng, an toàn</li>
-        <li>Nhận phản hồi cá nhân hóa ngay trên video/ảnh bài tập bạn gửi</li>
+        <li>2 Buổi Zoom 1:1 (30') đánh giá cơ thể & tập rượt đi đẻ</li>
         <li>Hướng dẫn viết Birth Plan & Checklist sinh nở cá nhân hóa</li>
-        <li>Có thể linh hoạt điều chỉnh bài tập theo thời điểm thai kỳ, thể trạng hoặc thay đổi tâm lý</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
         <li>Toàn bộ quyền lợi <strong>Gói Toàn Diện</strong></li>
-        <li>4 buổi Zoom 1:1 kèm riêng – điều chỉnh bài tập trực tiếp theo thể trạng cá nhân</li>
+        <li>4 buổi Zoom 1:1 (45') kèm riêng – điều chỉnh bài tập trực tiếp theo thể trạng cá nhân</li>
         <li>Nhận phản hồi cá nhân hóa ngay trên video/ảnh bài tập bạn gửi</li>
         <li>Có thể linh hoạt điều chỉnh bài tập theo thời điểm thai kỳ, thể trạng hoặc thay đổi tâm lý</li>
       </ul>
@@ -201,13 +200,13 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
   <tr>
     <td style="vertical-align: top;">
       <ul>
-        <li>Không điều chỉnh bài tập cá nhân</li>
+        <li>Hỗ trợ trả lời câu hỏi/chỉnh sửa qua ảnh/video 1:1</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Điều chỉnh động tác, feedback qua chat riêng</li>
-        <li>1 buổi zoom 20' tuần 8-10 để tập rượt đi đẻ</li>
+        <li>Hỗ trợ trả lời câu hỏi/chỉnh sửa qua ảnh/video 1:1</li>
+        <li>2 buổi zoom 20' đầu lớp và trước khi đi đẻ</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
@@ -218,20 +217,13 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     </td>
   </tr>
   <tr>
-    <td>Phù hợp cho mẹ yêu thích sự chủ động, tự nghiên cứu và tự tin tập đúng</td>
-    <td>Phù hợp cho mẹ muốn được đồng hành, phản hồi cá nhân</td>
+    <td>Phù hợp cho mẹ yêu thích sự chủ động, tự tin tập đúng, không cần chỉnh sửa nhiều</td>
+    <td>Phù hợp cho mẹ muốn được đồng hành, được kiểm tra cơ thể trước và sau khi học</td>
     <td>Phù hợp cho mẹ cần sát sao, cần hỗ trợ nhiều hơn về sức khỏe, tinh thần hoặc thể trạng đặc biệt</td>
   </tr>
 </table>
 
-**_Ngoài ra, mẹ có thể chọn gói CÔ ĐỌNG - 7 Buổi-3 Tuần_**
-- Chuyên sâu – Cô đọng – Hiệu quả nhanh
-- 70% Lý Thuyết và 30% Thực Hành
-- Giúp mẹ hiểu cách thở, tập cơ sàn chậu, và các giai đoạn sinh nở.
-- Phù hợp cho mẹ muốn học cấp tốc hoặc đã tập Yoga chỗ khác rồi, chỉ cần bổ sung kỹ thuật chuẩn
-- Mức Đầu Tư: 1.100.000đ.
-- BONUS: Thực Hành Viết Journal Sau Sinh Giúp Mẹ Giải Toả Tâm Lý
-
+**_Ngoài ra, nếu mẹ không đủ thời gian học 10 tuần, hay có bất cứ tình trạng sức khoẻ gì có thể nhắn mình để được tư vấn thêm.
 **_Lưu Ý: Gói Toàn Diện & VIP : Nhận tối đa 10 mẹ bầu đăng ký mỗi tháng để đảm bảo chất lượng đồng hành 1:1!_**
 
 <div style="text-align: center;">
