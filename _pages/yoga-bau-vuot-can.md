@@ -232,6 +232,8 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
   
 **_Lưu Ý: Gói Toàn Diện & VIP : Nhận tối đa 10 mẹ bầu đăng ký mỗi tháng để đảm bảo chất lượng đồng hành 1:1!_**
 
+## Hãy nhớ, mỗi tuần bạn trì hoãn là một tuần sức khoẻ và sự chuẩn bị của bạn bị bỏ lỡ. Khả năng sinh thường được quyết định từ những gì bạn làm bây giờ, không phải khi vào phòng sinh.
+
 <div style="text-align: center;">
   <a href="https://forms.gle/hJuC49WYqPv39qcS7"
      style="display: inline-block; margin: 0.5em; padding: 0.6em 1.2em;
