@@ -70,7 +70,7 @@ core-reset-yoga-hoi-phuc-sau-sinh-loi-ich:
       📄 **Kết Quả Nhanh, Rõ Rệt**<br>
       Cảm nhận thay đổi ngay từ tuần tập thứ 2-3 khi được chỉnh sửa sát sao để đảm bảo bạn tập đúng kỹ thuật, đúng nhịp độ cho gói Kèm Sát & Chuyên Sâu.<br><br>
   - excerpt: >-
-    🙆‍♀️ **Tăng Kiến Thức Giải Phẫu Học Cơ Thể**<br>
+     🙆‍♀️ **Tăng Kiến Thức Giải Phẫu Học Cơ Thể**<br>
       Hiểu rõ giải phẫu cơ thể, vì sao cần tập từng động tác để có động lực tập.<br><br>
 - excerpt: >-
     🎧 **Có Cộng Đồng các mẹ ủn mông**<br>
