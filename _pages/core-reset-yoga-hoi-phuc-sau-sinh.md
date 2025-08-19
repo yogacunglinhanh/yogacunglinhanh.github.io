@@ -261,7 +261,10 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
   </a>
 </div>
 
-## Vẫn Còn Lưỡng Lự? Mình Mời Bạn Học Thử Ở Đây
+## Cảm Nhận Thay Đổi Cơ Thể Ngay Từ Tuần Thứ 2 Tập
+Cơ thể chúng ra rất kỳ diệu, chỉ cần mình bắt đầu yêu thương nó, nó sẽ yêu thương lại mình :)
+
+## Nếu Bạn Vẫn Còn Lưỡng Lự, Hãy Cho Bản Thân Mình Học Thử Tại Đây
 
 <div class="ml-embedded" data-form="xKc0oP"></div>
 
