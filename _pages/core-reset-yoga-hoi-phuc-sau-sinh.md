@@ -251,8 +251,6 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
 - Bắt đầu linh hoạt: Có thể bắt đầu muộn hơn nếu bạn cam kết tập đúng nhịp
 - Khoá học có thời hạn 1 năm từ ngày bắt đầu.
 - Yếu tố quan trọng nhất là bạn cần iữ guồng tập đều đặn
-- ## Cảm Nhận Thay Đổi Cơ Thể Ngay Từ Tuần Thứ 2 Tập
-Cơ thể chúng ra rất kỳ diệu, chỉ cần mình bắt đầu yêu thương nó, nó sẽ yêu thương lại mình :)
 
 > Cảm Nhận Thay Đổi Cơ Thể Ngay Từ Tuần Thứ 2 Tập
 >
