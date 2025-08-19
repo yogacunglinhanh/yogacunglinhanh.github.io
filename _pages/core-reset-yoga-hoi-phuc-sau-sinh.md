@@ -58,26 +58,23 @@ core-reset-yoga-hoi-phuc-sau-sinh-giai-doan3:
       </ul>
 core-reset-yoga-hoi-phuc-sau-sinh-loi-ich:
   - excerpt: >-
-      🤰 **Kết Nối Sâu Sắc Với Cơ Lõi**<br>
-      Cảm nhận rõ cơ bụng sâu (TVA), kiểm soát tiểu tiện tốt và biết cách thở điều hoà cơ thể😊<br><br>
-  - excerpt: >-
       ♥️ **Bụng khoẻ, hết đau lưng, hết són tiểu**<br>
       Chấm dứt những tai nạn són tiểu, lưng gãy làm đôi, bụng khoẻ thon gọn và quan trọng hơn là khoẻ hơn.<br><br>
   - excerpt: >-
-      🙆‍♀️ **Tập đúng nhóm cơ**<br>
+      🤰 **Giảm Thiểu Đau Mỏi, Cổ Vai Gáy**<br>
+      Hết đau cứng vai, tê tay<br><br>
+  - excerpt: >-
+      🗓️ **Tiết Kiệm Thời Gian & Công Sức**<br>
+      Biết chính xác từng tuần, ngày mình cần làm gì, thay vì phải tự mày mò 1 mình, có khi mất hàng tháng, năm mà bụng còn sồ hơn, càng són tiểu hơn.<br><br>
+  - excerpt: >-
+      📄 **Kết Quả Nhanh, Rõ Rệt**<br>
+      Cảm nhận thay đổi ngay từ tuần tập thứ 2-3 khi được chỉnh sửa sát sao để đảm bảo bạn tập đúng kỹ thuật, đúng nhịp độ cho gói Kèm Sát & Chuyên Sâu.<br><br>
+  - excerpt: >-
+    🙆‍♀️ **Tăng Kiến Thức Giải Phẫu Học Cơ Thể**<br>
       Hiểu rõ giải phẫu cơ thể, vì sao cần tập từng động tác để có động lực tập.<br><br>
-  - excerpt: >-
-      📄 **Phản Hồi 1:1 Sau mỗi bài tập**<br>
-      Được chỉnh sửa sát sao để đảm bảo bạn tập đúng, hiệu quả và tiến bộ nhanh.<br><br>
-  - excerpt: >-
-      🗓️ **Kế hoạch rõ ràng**<br>
-      Biết chính xác từng tuần mình cần làm gì, thay vì mò mẫm một mình trên Youtube giữa bao nhiêu thông tin trái chiều.<br><br>
-  - excerpt: >-
-      🎧 **Hỗ trợ facebook nhóm kín**<br>
-      Nơi các mẹ chia sẻ kinh nghiệm hỗ trợ lẫn nhau.<br><br>
-  - excerpt: >-
-      🎧 **Giáo viên được đào tạo bài bản**<br>
-      Giáo viên được đào tạo tại Úc và Ấn Độ – kết hợp giữa chuyên môn hiện đại & chiều sâu truyền thống<br><br>
+- excerpt: >-
+    🎧 **Có Cộng Đồng các mẹ ủn mông**<br>
+      Tham Gia nhóm Facebook kín nơi các mẹ cổ vũ, chia sẻ kinh nghiệm luyện tập cho nhau để không mẹ nào bị thụt lùi.<br><br>
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -250,7 +247,7 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
 
 - Bắt đầu linh hoạt: Có thể bắt đầu muộn hơn nếu bạn cam kết tập đúng nhịp
 - Khoá học có thời hạn 1 năm từ ngày bắt đầu.
-- Yếu tố quan trọng nhất là bạn cần iữ guồng tập đều đặn
+- Yếu tố quan trọng nhất là bạn cần giữ guồng tập đều đặn
 
 > Cảm Nhận Thay Đổi Cơ Thể Ngay Từ Tuần Thứ 2 Tập
 >
