@@ -232,6 +232,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 - Mức Đầu Tư: 1.100,000đ
   
 **_Lưu Ý: Gói Toàn Diện & VIP : Nhận tối đa 10 mẹ bầu đăng ký mỗi tháng để đảm bảo chất lượng đồng hành 1:1!_**
+Tất cả các gói có thời hạn 1 năm từ ngày bắt đầu.
 
 ## 🌟 ⏳ Hãy nhớ, mỗi tuần bạn trì hoãn là một tuần sức khoẻ và sự chuẩn bị của bạn bị bỏ lỡ. 
 Khả năng sinh thường được quyết định từ những gì bạn làm bây giờ, không phải khi vào phòng sinh.
