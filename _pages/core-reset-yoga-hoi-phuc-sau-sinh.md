@@ -72,7 +72,7 @@ core-reset-yoga-hoi-phuc-sau-sinh-loi-ich:
   - excerpt: >-
      🙆‍♀️ **Tăng Kiến Thức Giải Phẫu Học Cơ Thể**<br>
       Hiểu rõ giải phẫu cơ thể, vì sao cần tập từng động tác để có động lực tập.<br><br>
-- excerpt: >-
+  - excerpt: >-
     🎧 **Có Cộng Đồng các mẹ ủn mông**<br>
       Tham Gia nhóm Facebook kín nơi các mẹ cổ vũ, chia sẻ kinh nghiệm luyện tập cho nhau để không mẹ nào bị thụt lùi.<br><br>
 ---
