@@ -187,16 +187,17 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
     <th style="text-align: center;">Gói Chuyên Sâu</th>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong style="color: green;">1.650.000đ</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">1.700.000đ</strong></td>
     <td style="text-align: center;"><strong style="color: green;">2.700.000đ</strong></td>
     <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong></td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
       <ul>
-        <li>Tài liệu hướng dẫn lý thuyết & giải phẫu cơ hoành, cơ sàn chậu, cơ bụng</li>
+        <li>Tài liệu hướng dẫn lý thuyết & giải phẫu học cơ hoành, cơ sàn chậu, cơ bụng</li>
         <li>Video luyện tập các cơ lõi</li>
-        <li>Trọn bộ video của 6 level</li>
+        <li>Trọn bộ video của 7 level</li>
+        <li>Thiết lập thói quen sinh hoạt phù hợp từng giai đoạn</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
@@ -204,7 +205,6 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
         <li>Toàn bộ quyền lợi <strong>Gói Tự Tập</strong></li>
         <li>Gửi bài tập qua video trong 3+ tháng, nhận phản hồi 1:1</li>
         <li>Hướng dẫn điều chỉnh tư thế, cảm nhận đúng vùng cơ</li>
-        <li>Gợi ý thói quen sống phù hợp từng giai đoạn</li>
         <li><strong style="color: red;">Giai Đoạn 3</strong>: <a href="/khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/">Khoá 21 ngày kết nối với cơ thể</a> (trị giá 999.000đ)</li>
         <li><strong style="color: red;">BONUS</strong>: Podcast 5 ngày viết và thở sau sinh</li>
       </ul>
@@ -248,11 +248,9 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
 
 ## ⏰ Thông Tin Đăng Ký
 
-- Bắt đầu: Tháng 8/2025
-- Giá hiện giờ là 10% ưu đãi, đến hết 31/7/2025, giá sẽ thay đổi.
-- Linh hoạt: Có thể bắt đầu muộn hơn nếu bạn cam kết tập đúng nhịp
+- Bắt đầu linh hoạt: Có thể bắt đầu muộn hơn nếu bạn cam kết tập đúng nhịp
 - Khoá học có thời hạn 1 năm từ ngày bắt đầu.
-- Yếu tố quan trọng: Giữ guồng tập đều đặn
+- Yếu tố quan trọng nhất là bạn cần iữ guồng tập đều đặn
 
 <div style="text-align: center;">
   <a href="https://forms.gle/DtpJifpigkyj5HUU7"
@@ -263,7 +261,7 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
   </a>
 </div>
 
-## Vẫn Còn Lưỡng Lự Học Thử Ở Đây
+## Vẫn Còn Lưỡng Lự? Mình Mời Bạn Học Thử Ở Đây
 
 <div class="ml-embedded" data-form="xKc0oP"></div>
 
