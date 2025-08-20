@@ -45,18 +45,22 @@ Hiện mình chia sẻ hàng ngày trên những kênh [Facebook cá nhân](http
 
 ----
 ## Hành Trình của Yoga cùng Linh Anh
-Năm 2020, mình sáng lập ra Yoga cùng Linh Anh với chị sinh đôi cùng những khoá Yoga Nền Tảng cho người muốn thực hiểu Yoga là gì. 
+Năm 2020, mình sáng lập ra Yoga cùng Linh Anh với chị sinh đôi cùng những khoá **_Yoga Nền Tảng_** cho người muốn tập và thực hành Yoga nghiêm túc. 
 
-Năm 2023, mình sinh thường bé đầu lòng một cách nhẹ nhàng nhờ rất nhiều kiến thức Yoga thế nên mình bắt đầu có những khoá Yoga Tiền Sản. 
+Năm 2023, mình sinh thường bé đầu lòng một cách nhẹ nhàng nhờ rất nhiều kiến thức Yoga thế nên mình bắt đầu có những khoá **_Yoga Tiền Sản_**. 
 
 Thế rồi, quá hồi phục sau sinh không “nhẹ nhàng” như mình nghĩ. Nó là 1 hành trình, có lẽ phải mất gần 2 năm mới gọi là hồi phục như cũ, cả mặt thể chất lẫn tinh thần. Hành trình hồi phục của mình không nhanh, NHƯNG MÌNH MUỐN GIÚP LÀM NHANH hành trình này cho mọi người!
 
-Chính vì thế, Yoga cùng Linh Anh ngoài những lớp Yoga Cơ Bản, Bầu còn có nhiều khoá học Hồi Phục Sau Sinh cả về mặt thể chất lẫn tinh thần. 
+Chính vì thế, Yoga cùng Linh Anh ngoài những lớp Yoga Cơ Bản, Bầu còn có nhiều khoá học **_Yoga Hồi Phục Sau Sinh cả về mặt thể chất lẫn tinh thần_**. 
+
+## Mọi người nhận xét gì về Yoga cùng Linh Anh?
+Mình đã đồng hành với hơn 100 con người, và luôn nhận được những phản hồi tích cực vì kết quả họ nhìn thấy hơn mong đợi. 
+{% include testimonial_slider.html images=page.testimonial_images %}
+
+## Bạn đang tìm kiếm 1 giải pháp cho sức khoẻ của bạn?
+Hãy tham khảo những khoá học mình có nhé. 
 
 [Xem Thêm Các Khoá Học](/khoa-hoc/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
 _"Nếu muốn đi nhanh hãy đi một mình, nhưng muốn đi xa hãy đi cùng nhau"_ là thế mà.
 
-## Mọi người nhận xét gì về Yoga cùng Linh Anh
-
-{% include testimonial_slider.html images=page.testimonial_images %}
