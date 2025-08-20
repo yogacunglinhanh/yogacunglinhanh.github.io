@@ -61,7 +61,7 @@ Hơn 100 học viên đã đồng hành cùng mình trong suốt hành trình ch
 ## Bạn có đang tìm kiếm 1 giải pháp cho sức khoẻ của mình?
 Hãy thử tham khảo các khoá học tại Yoga cùng Linh Anh, đôi khi kết quả có thể nhìn thấy chỉ sau 2 tuần :) 
 
-[Xem Thêm Các Khoá Học](/khoa-hoc/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+[Xem Thêm Các Khoá Học](/khoa-hoc/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:##5fad8e;color:white;border-radius:0;text-decoration:none;"}
 
 ## Câu Hỏi Thường Hỏi (FAQ)
 
@@ -110,7 +110,7 @@ Mỗi tháng mình dành chút thời gian để nói chuyện với 2-3 mẹ th
 
 Nếu đó là bạn, hãy đặt lịch chia sẻ qua 1-2 vấn đề bạn đang muốn gỡ rối, mình sẽ dành 20' để giúp bạn gỡ rối vấn đề và gợi ý lộ trình tiếp theo.
 
-<div style="text-align: center;">
+<div style="text-align: left;">
   <a href="https://calendly.com/yogacunglinhanh/yogabaubim"
      style="display: inline-block; margin: 0.5em; padding: 0.6em 1.2em;
             background-color: #5fad8e; color:white; border-radius: 0;
