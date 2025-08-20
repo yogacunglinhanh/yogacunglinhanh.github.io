@@ -104,4 +104,16 @@ Hãy thử tham khảo các khoá học tại Yoga cùng Linh Anh, đôi khi k�
   <p>Bạn có thể bắt đầu bất cứ lúc nào bạn sẵn sàng! Tuy nhiên nếu bạn là mẹ bầu, sau sinh hay có bất cứ chấn thương nào, hãy nhắn tin cho mình để được tư vấn lộ trình chỉnh sửa riêng cho bạn nhé</p>
 </details>
 
+## Đặt Lịch 20' Để Nhận Tư Vấn?
+
+Mỗi tháng mình dành chút thời gian để nói chuyện với 2-3 mẹ thực sự cần giúp đỡ. Nếu đó là bạn, hãy đặt lịch chia sẻ kỹ 1-2 vấn đề bạn đang muốn gỡ rối qua email, mình sẽ dành 20' gỡ rối cùng bạn với tư cách là 1 giáo viên Yoga, chuyên sâu về Tiền và Hậu Sản tại Úc nhé.
+
+<div style="text-align: center;">
+  <a href="https://forms.gle/hJuC49WYqPv39qcS7"
+     style="display: inline-block; margin: 0.5em; padding: 0.6em 1.2em;
+            background-color: #5fad8e; color:white; border-radius: 0;
+            text-decoration: none; font-weight: bold;">
+    Đặt Lịch Tại Đây
+  </a>
+</div>
 
