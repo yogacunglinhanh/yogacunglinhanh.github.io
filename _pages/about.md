@@ -54,13 +54,11 @@ Thế rồi, quá hồi phục sau sinh không “nhẹ nhàng” như mình ngh
 Chính vì thế, Yoga cùng Linh Anh ngoài những lớp Yoga Cơ Bản, Bầu còn có nhiều khoá học **_Yoga Hồi Phục Sau Sinh cả về mặt thể chất lẫn tinh thần_**. 
 
 ## Mọi người nhận xét gì về Yoga cùng Linh Anh?
-Mình đã đồng hành với hơn 100 con người, và luôn nhận được những phản hồi tích cực vì kết quả họ nhìn thấy hơn mong đợi. 
+Hơn 100 học viên đã đồng hành cùng mình trong suốt hành trình chăm sóc sức khoẻ, rất nhiều học viên đã đạt được kết quả và thấy sự thay đổi vượt xa kỳ vọng ban đầu.
 {% include testimonial_slider.html images=page.testimonial_images %}
 
-## Bạn đang tìm kiếm 1 giải pháp cho sức khoẻ của bạn?
-Hãy tham khảo những khoá học mình có nhé. 
+## Bạn có đang tìm kiếm 1 giải pháp cho sức khoẻ của mình?
+Hãy thử tham khảo các khoá học tại Yoga cùng Linh Anh, đôi khi kết quả có thể nhìn thấy chỉ sau 2 tuần :) 
 
 [Xem Thêm Các Khoá Học](/khoa-hoc/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
-
-_"Nếu muốn đi nhanh hãy đi một mình, nhưng muốn đi xa hãy đi cùng nhau"_ là thế mà.
 
