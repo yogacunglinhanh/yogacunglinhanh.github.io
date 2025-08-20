@@ -88,7 +88,7 @@ Hãy thử tham khảo các khoá học tại Yoga cùng Linh Anh, đôi khi k�
 
 <details>
   <summary><strong>Mình sẽ học online đúng không?</strong></summary>
-  <p>Đúng vậy!! Bạn, máy tính yêu thương của bạn, và Yoga ☺️</p>
+  <p>Đúng vậy!! Bạn, máy tính yêu thương của bạn, và Yoga ☺️. Phần lớn các khoá học đã được quay trước, bạn có thể học sắp xếp theo lịch của bạn, và quay/chụp ảnh để được nhận chỉnh sửa 1:1 </p>
 </details>
 
 <details>
