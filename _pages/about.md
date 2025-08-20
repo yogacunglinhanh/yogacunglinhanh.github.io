@@ -106,10 +106,12 @@ Hãy thử tham khảo các khoá học tại Yoga cùng Linh Anh, đôi khi k�
 
 ## Đặt Lịch 20' Để Nhận Tư Vấn?
 
-Mỗi tháng mình dành chút thời gian để nói chuyện với 2-3 mẹ thực sự cần giúp đỡ. Nếu đó là bạn, hãy đặt lịch chia sẻ qua 1-2 vấn đề bạn đang muốn gỡ rối, mình sẽ dành 20' để giúp bạn gỡ rối vấn đề và gợi ý lộ trình tiếp theo với tư cách là 1 giáo viên Yoga, chuyên sâu về Tiền và Hậu Sản tại Úc nhé.
+Mỗi tháng mình dành chút thời gian để nói chuyện với 2-3 mẹ thực sự cần giúp đỡ. 
+
+Nếu đó là bạn, hãy đặt lịch chia sẻ qua 1-2 vấn đề bạn đang muốn gỡ rối, mình sẽ dành 20' để giúp bạn gỡ rối vấn đề và gợi ý lộ trình tiếp theo.
 
 <div style="text-align: center;">
-  <a href="https://forms.gle/hJuC49WYqPv39qcS7"
+  <a href="https://calendly.com/yogacunglinhanh/yogabaubim"
      style="display: inline-block; margin: 0.5em; padding: 0.6em 1.2em;
             background-color: #5fad8e; color:white; border-radius: 0;
             text-decoration: none; font-weight: bold;">
