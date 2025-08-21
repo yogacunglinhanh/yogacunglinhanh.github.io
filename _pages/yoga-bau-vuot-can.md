@@ -176,8 +176,6 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
         <li>10 tuần tập trước sinh, lộ trình khoa học dễ tiếp cận</li>
         <li>Hiểu và thực hành đúng các nhóm bài tập quan trọng: Cơ sàn chậu – Hơi thở – Tư thế</li>
         <li>Các bài tập chuyên sâu giúp giảm đau lưng, cải thiện lưu thông máu, hỗ trợ bé thuận lợi xoay xuống khi sinh.</li>
-        <li>Các bài tập chuyên sâu gồm động tác, thở trong lúc bầu, và lúc sinh cho mẹ bầu giai đoạn giữa/cuối</li>
-        <li>Được chỉnh sửa ảnh/video bài tập để đảm bảo bạn tập an toàn, đúng kỹ thuật.</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
@@ -203,10 +201,8 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <td style="vertical-align: top;">
       <ul>
         <li>Lý thuyết & Thực hành Tâm lý Trước & Sau Sinh:</li>
-        <li>Hiểu tâm lý ảnh hưởng sinh nở như thế nào</li>
-        <li>Kỹ thuật giảm sợ hãi & lo âu</li>
-        <li>Tăng khả năng sinh thường</li>
-        <li>Giảm nguy cơ trầm cảm sau sinh</li>
+        <li>Hiểu tâm lý ảnh hưởng sinh nở như thế nào để tăng khả năng sinh thường</li>
+        <li>Kỹ thuật giảm sợ hãi & lo âu để giảm nguy cơ trầm cảm sau sinh</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
