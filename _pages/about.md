@@ -61,7 +61,7 @@ Hơn 100 học viên đã đồng hành cùng mình trong suốt hành trình ch
 ## Bạn có đang tìm kiếm 1 giải pháp cho sức khoẻ của mình?
 Hãy thử tham khảo các khoá học tại Yoga cùng Linh Anh, đôi khi kết quả có thể nhìn thấy chỉ sau 2 tuần :) 
 
-[Xem Thêm Các Khoá Học](/khoa-hoc/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#5fad8e;color:white;border-radius:0;text-decoration:none;"}
+[Xem Thêm Các Khoá Học](/khoa-hoc/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
 ## Câu Hỏi Thường Hỏi (FAQ)
 
