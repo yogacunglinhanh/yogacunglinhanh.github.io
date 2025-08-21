@@ -187,7 +187,6 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
         <li>3 tuần Kiến thức & bài tập chăm sóc cơ thể sau sinh để tránh các vấn nạn đau lưng, đau cổ vai gáy</li>
         <li>Lý Thuyết Tâm Lý & Thực Hành Trước và Sau Sinh giúp tăng khả năng sinh thường, giảm căng thẳng & tránh trầm cảm sau sinh</li>
         <li>1 buổi zoom 1:1 tập rượt đi đẻ những tuần cuối</li>
-        
       </ul>
     </td>
     <td style="vertical-align: top;">
