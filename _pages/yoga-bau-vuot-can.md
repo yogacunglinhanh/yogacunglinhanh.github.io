@@ -170,7 +170,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 5.000.000đ)</strong></td>
   </tr>
   <tr>
-    <td> Thời Lượng </td>
+    <td> Thời Gian Học + Các Bài Tập Chính </td>
     <td style="vertical-align: top;">
       <ul>   
         <li>10 tuần tập trước sinh, lộ trình khoa học dễ tiếp cận</li>
@@ -182,23 +182,41 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Toàn bộ quyền lợi trong gói "Cơ Bản"</li>
-        <li>3 tuần Kiến thức & bài tập chăm sóc cơ thể sau sinh để tránh các vấn nạn đau lưng, vai gáy và phục hồi nhanh hơn</li>
+        <li>12 Tuần: gồm 10 tuần "Cơ Bản"</li>
+        <li>3 tuần Kiến thức & Bài tập chăm sau sinh để tránh các vấn nạn đau lưng, vai gáy và phục hồi nhanh hơn</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
         <li>Toàn bộ quyền lợi <strong>Gói Toàn Diện</strong></li>
-        <li>4 buổi Zoom kèm sát 1:1 (45'), điều chỉnh bài tập trực tiếp theo thể trạng cá nhân</li>
+        <li>Cộng thêm 4 buổi Zoom kèm sát 1:1 (45'), điều chỉnh bài tập trực tiếp theo thể trạng cá nhân</li>
+      </ul>
+    </td>
+  </tr>
+   <tr>
+    <td> Tâm Lý Đi Sinh </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Không bao gồm </li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Lý thuyết & Thực hành Tâm lý Trước & Sau Sinh:</li>
+        <li>Hiểu tâm lý ảnh hưởng sinh nở như thế nào</li>
+        <li>Kỹ thuật giảm sợ hãi & lo âu</li>
+        <li>Tăng khả năng sinh thường</li>
+        <li>Giảm nguy cơ trầm cảm sau sinh</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Linh hoạt điều chỉnh bài tập cả thể chất & tâm lý theo từng giai đoạn</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>Hỗ trợ 1:1</li>
-      </ul>
-    </td>
+    <td> Hỗ trợ 1:1 </td>
     <td style="vertical-align: top;">
       <ul>
         <li>Được chỉnh sửa ảnh/video bài tập để đảm bảo bạn tập an toàn, đúng kỹ thuật.</li>
