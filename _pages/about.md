@@ -113,7 +113,7 @@ Nếu đó là bạn, hãy đặt lịch chia sẻ qua 1-2 vấn đề bạn đa
 <div style="text-align: left;">
   <a href="https://calendly.com/yogacunglinhanh/yogabaubim"
      style="display: inline-block; margin: 0.5em; padding: 0.6em 1.2em;
-            background-color: #5fad8e; color:white; border-radius: 0;
+            background-color: #301D10; color:white; border-radius: 0;
             text-decoration: none; font-weight: bold;">
     Đặt Lịch Tại Đây
   </a>
@@ -121,4 +121,4 @@ Nếu đó là bạn, hãy đặt lịch chia sẻ qua 1-2 vấn đề bạn đa
 
 ## Xem thêm các bài chia sẻ chuyên sâu của mình
 
-[Xem Thêm Chia Sẻ](/blog/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#5fad8e;color:white;border-radius:0;text-decoration:none;"}
+[Xem Thêm Chia Sẻ](/blog/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
