@@ -59,10 +59,6 @@ yoga-bau-vuot-can-loi-ich:
       📄 **Hiểu và được hỗ trợ cách chăm sóc bản thân mình sau sinh**<br>
       Tự trang bị cho bản thân kiến thức "chăm" mình trong giai đoạn "đau khổ" nhất.<br><br>
   - excerpt: >-
-      🎁 **BONUS**<br>
-      Podcast 5 ngày "Thở & Viết Sau Sinh", giúp mẹ giải toả tâm lý khi bước vào giai đoạn mới.
-yoga-bau-vuot-can-danh-cho-ai:
-  - excerpt: >-
       🤰 Mẹ bầu từ tuần 20 trở đi đặc biệt là các mẹ đang mang thai lần đầu và muốn chuẩn bị một cách bài bản<br><br>
   - excerpt: >-
       😔 Đang gặp các triệu chứng thai kỳ như đau lưng, phù nề, chuột rút, khó ngủ...<br><br>
@@ -162,65 +158,73 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 
 <table>
   <tr>
+    <th style="text-align: center;">--</th>
     <th style="text-align: center;">Gói Cơ Bản</th>
     <th style="text-align: center;">Gói Toàn Diện</th>
     <th style="text-align: center;">Gói VIP Kèm Riêng</th>
   </tr>
   <tr>
+    <td style="text-align: center;"><strong style="color: green;">--</strong>
     <td style="text-align: center;"><strong style="color: green;">1.800.000đ</strong><strong style="color: red;"> (Trị Giá: 2.300.000đ)</strong></td>
     <td style="text-align: center;"><strong style="color: green;">2.500.000đ</strong><strong style="color: red;"> (Trị Giá: 3.000.000đ)</strong></td>
     <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 5.000.000đ)</strong></td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <ul>
-        <li>10 tuần tập trước sinh được thiết kế bài bản theo lộ trình dễ tiếp cận</li>
-        <li>Phân tích khoa học các cơ sàn chậu, cách em bé đi ra ngoài và các cơ khác liên quan</li>
-        <li>Hướng dẫn bài bản lý thuyết & kỹ thuật sinh thường: Cơ sàn chậu – Hơi thở – Tư Thế</li>
+      <ul>   
+        <li>Thời Lượng.</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>   
+        <li>10 tuần tập trước sinh, lộ trình khoa học dễ tiếp cận</li>
+        <li>Hiểu và thực hành đúng các nhóm bài tập quan trọng: Cơ sàn chậu – Hơi thở – Tư thế</li>
+        <li>Các bài tập chuyên sâu giúp giảm đau lưng, cải thiện lưu thông máu, hỗ trợ bé thuận lợi xoay xuống khi sinh.</li>
         <li>Các bài tập chuyên sâu gồm động tác, thở trong lúc bầu, và lúc sinh cho mẹ bầu giai đoạn giữa/cuối</li>
-        <li>Chỉnh sửa ảnh/video bài tập của bạn để đảm bảo tập đúng, an toàn</li>
+        <li>Được chỉnh sửa ảnh/video bài tập để đảm bảo bạn tập an toàn, đúng kỹ thuật.</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
         <li>Toàn bộ quyền lợi trong gói "Cơ Bản"</li>
-        <li>3 tuần Kiến thức & bài tập chăm sóc cơ thể sau sinh để tránh các vấn nạn đau lưng, đau cổ vai gáy</li>
-        <li>Lý Thuyết Tâm Lý & Thực Hành Trước và Sau Sinh giúp tăng khả năng sinh thường, giảm căng thẳng & tránh trầm cảm sau sinh</li>
-        <li>1 buổi zoom 1:1 tập rượt đi đẻ những tuần cuối</li>
+        <li>3 tuần Kiến thức & bài tập chăm sóc cơ thể sau sinh để tránh các vấn nạn đau lưng, vai gáy và phục hồi nhanh hơn</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
         <li>Toàn bộ quyền lợi <strong>Gói Toàn Diện</strong></li>
-        <li>4 buổi Zoom 1:1 (45') kèm riêng – điều chỉnh bài tập trực tiếp theo thể trạng cá nhân</li>
-        <li>Nhận phản hồi cá nhân hóa ngay trên video/ảnh bài tập bạn gửi</li>
-        <li>Có thể linh hoạt điều chỉnh bài tập theo thời điểm thai kỳ, thể trạng hoặc thay đổi tâm lý</li>
+        <li>4 buổi Zoom kèm sát 1:1 (45'), điều chỉnh bài tập trực tiếp theo thể trạng cá nhân</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
       <ul>
-        <li>Hỗ trợ trả lời câu hỏi/chỉnh sửa qua ảnh/video 1:1</li>
+        <li>Hỗ trợ 1:1</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Hỗ trợ trả lời câu hỏi/chỉnh sửa qua ảnh/video 1:1</li>
-        <li>1 buổi zoom 30' trước khi đi đẻ để tập rượt đi đẻ</li>
+        <li>Được chỉnh sửa ảnh/video bài tập để đảm bảo bạn tập an toàn, đúng kỹ thuật.</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Điều chỉnh bài tập theo cơ thể qua các buổi live trực tiếp/chat</li>
-        <li>Hỗ trợ chỉnh sửa bài tập 1:1</li>
+        <li>Được chỉnh sửa ảnh/video bài tập để đảm bảo bạn tập an toàn</li>
+        <li>1 buổi zoom 30' 1:1 tập rượt đi đẻ</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>4 buổi Zoom 1:1 (45’) kèm riêng + phản hồi ngay trên video/ảnh</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>Phù hợp cho mẹ chỉ muốn tập trung vào giai đoạn bầu</td>
-    <td>Phù hợp cho mẹ muốn được chăm lo toàn diện, bầu và sau sinh</td>
-    <td>Phù hợp cho mẹ cần sát sao, cần hỗ trợ nhiều hơn về sức khỏe, tinh thần hoặc thể trạng đặc biệt</td>
+    <td>Phù hợp cho</td>
+    <td>Mẹ muốn tập trung vào giai đoạn bầu</td>
+    <td>Mẹ muốn được chăm lo toàn diện cả thể chất & tinh thần từ bầu đến sau sinh</td>
+    <td>Mẹ cần kèm sát đặc biệt vì sức khoẻ, tinh thần hoặc thể trạng riêng biệt</td>
   </tr>
 </table>
 
