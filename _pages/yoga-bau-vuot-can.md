@@ -170,11 +170,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 5.000.000đ)</strong></td>
   </tr>
   <tr>
-    <td style="vertical-align: top;">
-      <ul>   
-        <li>Thời Lượng.</li>
-      </ul>
-    </td>
+    <td> Thời Lượng </td>
     <td style="vertical-align: top;">
       <ul>   
         <li>10 tuần tập trước sinh, lộ trình khoa học dễ tiếp cận</li>
