@@ -104,9 +104,9 @@ Hãy thử tham khảo các khoá học tại Yoga cùng Linh Anh, đôi khi k�
   <p>Bạn có thể bắt đầu bất cứ lúc nào bạn sẵn sàng! Tuy nhiên nếu bạn là mẹ bầu, sau sinh hay có bất cứ chấn thương nào, hãy nhắn tin cho mình để được tư vấn lộ trình chỉnh sửa riêng cho bạn nhé</p>
 </details>
 
-## Đặt Lịch 20' Để Nhận Tư Vấn?
+## Đặt Lịch 30' Để Nhận Tư Vấn?
 
-Mỗi tháng mình dành chút thời gian để nói chuyện với 2-3 mẹ thực sự cần giúp đỡ. 
+Mỗi tháng mình dành chút thời gian để nói chuyện với 2-3 mẹ thực sự cần giúp đỡ, với giá hạt dẻ, 250,000đ. 
 
 Nếu đó là bạn, hãy đặt lịch chia sẻ qua 1-2 vấn đề bạn đang muốn gỡ rối, mình sẽ dành 20' để giúp bạn gỡ rối vấn đề và gợi ý lộ trình tiếp theo.
 
