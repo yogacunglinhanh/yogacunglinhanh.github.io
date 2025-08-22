@@ -164,44 +164,34 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <th style="text-align: center;">Gói VIP Kèm Riêng - Cầm Tay Chỉ Đẻ</th>
   </tr>
   <tr>
-    <td> Thời Gian Học + Các Bài Tập Chính </td>
+    <td>Thời Lượng Học</td>
+    <td>10 Tuần Tập Luyện Trước Sinh</td>
+    <td>10 Tuần Tập Luyện Trước Sinh & 2 Tuần Kiến Thức Sau Sinh (để mẹ xem trước khi sinh)</td>
+    <td>10 Tuần Tập Luyện Trước Sinh & 2 Tuần Kiến Thức Sau Sinh (để mẹ xem trước khi sinh) + 4 buổi live kèm riêng</td>
+  </tr>
+  <tr>
+    <td>Nội Dung Chính </td>
     <td style="vertical-align: top;">
       <ul>   
-        <li>10 tuần tập trước sinh, lộ trình khoa học dễ tiếp cận</li>
         <li>Hiểu và thực hành đúng các nhóm bài tập quan trọng: Cơ sàn chậu – Hơi thở – Tư thế</li>
         <li>Các bài tập chuyên sâu giúp giảm đau lưng, cải thiện lưu thông máu, hỗ trợ bé thuận lợi xoay xuống khi sinh.</li>
+        <li>Kiến thức giải phẫu học cơ thể lúc sinh</li>
+        <li>Bài tập rượt đi đẻ</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>12 Tuần: Toàn bộ quyền lợi <strong>Gói Cơ Bản</strong></li> (10 tuần)
-        <li> Cộng thêm 2-3 tuần Kiến thức & Bài tập chăm sau sinh để tránh các vấn nạn đau lưng, vai gáy và phục hồi nhanh hơn</li>
+        <li>Toàn bộ nội dung trong <strong>Gói Cơ Bản</strong></li>
+        <li>Thêm 2-3 tuần Kiến thức & Bài tập chăm sau sinh để tránh các vấn nạn đau lưng, vai gáy và phục hồi nhanh hơn</li>
+        <li>Thêm chương tâm lý đi đẻ & hồi phục sau sinh</li>
+        <li>Giúp mẹ hiểu tâm lý ảnh hưởng sinh nở như thế nào để tăng khả năng sinh thường</li>
+        <li>Kỹ thuật & bài tập thực hành giảm sợ hãi lúc sinh & lo âu để giảm nguy cơ trầm cảm sau sinh</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
         <li>Toàn bộ quyền lợi <strong>Gói Toàn Diện</strong></li>
-        <li>Cộng thêm 4 buổi Zoom kèm sát 1:1 (45'), điều chỉnh bài tập trực tiếp theo thể trạng cá nhân</li>
-      </ul>
-    </td>
-  </tr>
-   <tr>
-    <td> Tâm Lý Đi Sinh </td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>Không bao gồm </li>
-      </ul>
-    </td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>Lý thuyết & Thực hành Tâm lý Trước & Sau Sinh:</li>
-        <li>Hiểu tâm lý ảnh hưởng sinh nở như thế nào để tăng khả năng sinh thường</li>
-        <li>Kỹ thuật giảm sợ hãi & lo âu để giảm nguy cơ trầm cảm sau sinh</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>Linh hoạt điều chỉnh bài tập cả thể chất & tâm lý theo từng giai đoạn</li>
+        <li>Điều chỉnh bài tập trực tiếp theo thể trạng cá nhân, cả thể chất lẫn tâm lý</li>
       </ul>
     </td>
   </tr>
