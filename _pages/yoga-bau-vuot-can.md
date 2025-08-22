@@ -170,10 +170,23 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <td>Cầm Tay Chỉ Đẻ</td>
   </tr>
   <tr>
-    <td>Thời Lượng Học</td>
-    <td>10 Tuần Tập Luyện Trước Sinh</td>
-    <td>10 Tuần Trước Sinh + 2 Tuần Sau Sinh (để mẹ xem trước khi sinh) + 1 buổi zoom 30' Tập rượt trước khi sinh</td>
-    <td>10 Tuần Trước Sinh + 2 Tuần Sau Sinh + 4 buổi live kèm riêng</td>
+    <td>Thời Lượng Học </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>10 Tuần Tập Luyện Trước Sinh/li>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>10 Tuần Tập Luyện Trước Sinh</li>
+        <li>2 Tuần Sau Sinh (để mẹ xem trước khi sinh)</li>
+        <li>1 buổi zoom 30' Tập rượt trước khi sinh</li>
+    </td>
+      <td style="vertical-align: top;">
+      <ul>
+        <li>10 Tuần Tập Luyện Trước Sinh</li>
+        <li>2 Tuần Sau Sinh</li>
+        <li>4 buổi live kèm riêng</li>
+    </td>
   </tr>
   <tr>
     <td>Nội Dung Chính </td>
