@@ -208,7 +208,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Được chỉnh sửa ảnh/video bài tập để đảm bảo bạn tập an toàn</li>
+        <li>Được chỉnh sửa ảnh/video</li>
         <li>1 buổi zoom 30' 1:1 tập rượt đi đẻ</li>
       </ul>
     </td>
