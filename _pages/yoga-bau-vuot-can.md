@@ -158,13 +158,13 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 
 <table>
   <tr>
-    <th style="text-align: center;">Gói Học</th>
+    <th style="text-align: center;"></th>
     <th style="text-align: center;">Gói Cơ Bản</th>
     <th style="text-align: center;">Gói Toàn Diện</th>
     <th style="text-align: center;">Gói VIP Kèm Riêng</th>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong style="color: green;">Mức Đầu Tư</strong></td>
+    <td style="text-align: center;"><strong style="color: green;"></strong></td>
     <td style="text-align: center;"><strong style="color: green;">1.800.000đ</strong><strong style="color: red;"> (Trị Giá: 2.300.000đ)</strong></td>
     <td style="text-align: center;"><strong style="color: green;">2.500.000đ</strong><strong style="color: red;"> (Trị Giá: 3.000.000đ)</strong></td>
     <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 5.000.000đ)</strong></td>
@@ -180,8 +180,8 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>12 Tuần: gồm 10 tuần "Cơ Bản"</li>
-        <li>3 tuần Kiến thức & Bài tập chăm sau sinh để tránh các vấn nạn đau lưng, vai gáy và phục hồi nhanh hơn</li>
+        <li>12 Tuần: Toàn bộ quyền lợi <strong>Gói Cơ Bản</strong></li> (10 tuần)
+        <li> Cộng thêm 2-3 tuần Kiến thức & Bài tập chăm sau sinh để tránh các vấn nạn đau lưng, vai gáy và phục hồi nhanh hơn</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
