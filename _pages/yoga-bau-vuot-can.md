@@ -158,13 +158,13 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 
 <table>
   <tr>
-    <th style="text-align: center;">--</th>
+    <th style="text-align: center;">Gói Học</th>
     <th style="text-align: center;">Gói Cơ Bản</th>
     <th style="text-align: center;">Gói Toàn Diện</th>
     <th style="text-align: center;">Gói VIP Kèm Riêng</th>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong style="color: green;">--</strong>
+    <td style="text-align: center;"><strong style="color: green;">Mức Đầu Tư</strong></td>
     <td style="text-align: center;"><strong style="color: green;">1.800.000đ</strong><strong style="color: red;"> (Trị Giá: 2.300.000đ)</strong></td>
     <td style="text-align: center;"><strong style="color: green;">2.500.000đ</strong><strong style="color: red;"> (Trị Giá: 3.000.000đ)</strong></td>
     <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 5.000.000đ)</strong></td>
@@ -273,7 +273,7 @@ Chào bạn, mình là Linh Đặng, là giáo viên Yoga chuyên sâu về thai
 
 🏥 140+ giờ đào tạo về Yoga trị liệu đau lưng, cổ, vai gáy với giáo viên Ấn Độ/Úc
 
-👩‍👧 Mẹ của bé Chanh, đã sinh thường nhanh chóng chỉ trong 3 tiếng hơn và trải qua hành trình hồi phục sau sinh thành công
+👩‍👧 Mẹ của bé Chanh, đã sinh thường nhanh chóng chỉ trong 3 tiếng hơn và trải qua hành trình hồi phục sau sinh thành công, và đã giúp rất nhiều mẹ Việt trên toàn thế giới, đặc biệt là mẹ bầu lần đầu có trải nghiệm sinh nở "bớt đau" hơn, "tự tin" hơn. 
 
 Lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương khớp hoặc hạn chế vận động qua những chỉnh sửa của Linh.​ Bạn có thể theo dõi [YouTube Yoga cùng Linh Anh](https://www.youtube.com/@yogacunglinhanh-noibanketn8829) để hiểu hơn cách mình dạy.
 
