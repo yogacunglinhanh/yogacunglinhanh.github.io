@@ -173,7 +173,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <td>Thời Lượng Học </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>10 Tuần Tập Luyện Trước Sinh/li>
+        <li>10 Tuần Tập Luyện Trước Sinh</li>
     </td>
     <td style="vertical-align: top;">
       <ul>
