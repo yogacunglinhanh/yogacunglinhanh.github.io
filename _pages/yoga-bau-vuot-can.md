@@ -165,12 +165,14 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
   </tr>
   <tr>
     <td></td>
+    <td style="vertical-align: top;">
     <td>10 Tuần Đồng Hành Trước Sinh - Nền Tảng Vững Chắc</td>
     <td>12 Tuần Đồng Hành Vững Vàng Trước & Sau Sinh</td>
     <td>Cầm Tay Chỉ Đẻ</td>
   </tr>
   <tr>
     <td>Thời Lượng Học</td>
+    <td style="vertical-align: top;">
     <td>10 Tuần Tập Luyện Trước Sinh</td>
     <td>10 Tuần Trước Sinh + 2 Tuần Sau Sinh (để mẹ xem trước khi sinh) + 1 buổi zoom 30' Tập rượt trước khi sinh</td>
     <td>10 Tuần Trước Sinh + 2 Tuần Sau Sinh + 4 buổi live kèm riêng</td>
@@ -187,8 +189,8 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <td style="vertical-align: top;">
       <ul>
         <li>Toàn bộ nội dung trong <strong>Gói Cơ Bản</strong></li>
-        <li>2-3 tuần Kiến thức & Bài tập chăm sau sinh</li>
-        <li>Chương tâm lý đi đẻ & hồi phục sau sinh</li>
+        <li>Kiến thức & bài tập chăm mẹ sau sinh</li>
+        <li>Chương <strong>Tâm Lý Đi Đẻ & Tâm Lý Sau Sinh<strong></li>
         <li>Tăng khả năng sinh thường & giảm nguy cơ trầm cảm sau sinh</li>
       </ul>
     </td>
