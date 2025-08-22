@@ -164,8 +164,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <th style="text-align: center;">Gói VIP Kèm Riêng</th>
   </tr>
   <tr>
-    <td></td>
-    <td style="vertical-align: top;">
+    <td>Mục Tiêu</td>
     <td>10 Tuần Đồng Hành Trước Sinh - Nền Tảng Vững Chắc</td>
     <td>12 Tuần Đồng Hành Vững Vàng Trước & Sau Sinh</td>
     <td>Cầm Tay Chỉ Đẻ</td>
