@@ -159,15 +159,15 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 <table>
   <tr>
     <th style="text-align: center;"></th>
-    <th style="text-align: center;">Gói Cơ Bản - 10 Tuần Đồng Hành Trước Sinh</th>
+    <th style="text-align: center;">Gói Cơ Bản - 10 Tuần Đồng Hành Trước Sinh - Nền Tảng Vững Chắc</th>
     <th style="text-align: center;">Gói Toàn Diện - 12 Tuần Đồng Hành Vững Vàng Trước & Sau Sinh</th>
     <th style="text-align: center;">Gói VIP Kèm Riêng - Cầm Tay Chỉ Đẻ</th>
   </tr>
   <tr>
     <td>Thời Lượng Học</td>
     <td>10 Tuần Tập Luyện Trước Sinh</td>
-    <td>10 Tuần Tập Luyện Trước Sinh & 2 Tuần Kiến Thức Sau Sinh (để mẹ xem trước khi sinh)</td>
-    <td>10 Tuần Tập Luyện Trước Sinh & 2 Tuần Kiến Thức Sau Sinh (để mẹ xem trước khi sinh) + 4 buổi live kèm riêng</td>
+    <td>10 Tuần Trước Sinh & 2 Tuần Sau Sinh (để mẹ xem trước khi sinh) + 1 buổi zoom 30' Tập rượt trước khi sinh</td>
+    <td>10 Tuần Trước Sinh & 2 Tuần Sau Sinh + 4 buổi live kèm riêng</td>
   </tr>
   <tr>
     <td>Nội Dung Chính </td>
@@ -176,16 +176,14 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
         <li>Hiểu và thực hành đúng các nhóm bài tập quan trọng: Cơ sàn chậu – Hơi thở – Tư thế</li>
         <li>Các bài tập chuyên sâu giúp giảm đau lưng, cải thiện lưu thông máu, hỗ trợ bé thuận lợi xoay xuống khi sinh.</li>
         <li>Kiến thức giải phẫu học cơ thể lúc sinh</li>
-        <li>Bài tập rượt đi đẻ</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
         <li>Toàn bộ nội dung trong <strong>Gói Cơ Bản</strong></li>
-        <li>Thêm 2-3 tuần Kiến thức & Bài tập chăm sau sinh để tránh các vấn nạn đau lưng, vai gáy và phục hồi nhanh hơn</li>
-        <li>Thêm chương tâm lý đi đẻ & hồi phục sau sinh</li>
-        <li>Giúp mẹ hiểu tâm lý ảnh hưởng sinh nở như thế nào để tăng khả năng sinh thường</li>
-        <li>Kỹ thuật & bài tập thực hành giảm sợ hãi lúc sinh & lo âu để giảm nguy cơ trầm cảm sau sinh</li>
+        <li>2-3 tuần Kiến thức & Bài tập chăm sau sinh</li>
+        <li>Chương tâm lý đi đẻ & hồi phục sau sinh</li>
+        <li>Tăng khả năng sinh thường & giảm nguy cơ trầm cảm sau sinh</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
