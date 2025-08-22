@@ -172,7 +172,6 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
   </tr>
   <tr>
     <td>Thời Lượng Học</td>
-    <td style="vertical-align: top;">
     <td>10 Tuần Tập Luyện Trước Sinh</td>
     <td>10 Tuần Trước Sinh + 2 Tuần Sau Sinh (để mẹ xem trước khi sinh) + 1 buổi zoom 30' Tập rượt trước khi sinh</td>
     <td>10 Tuần Trước Sinh + 2 Tuần Sau Sinh + 4 buổi live kèm riêng</td>
