@@ -253,8 +253,10 @@ Tất cả các gói có thời hạn 1 năm từ ngày bắt đầu.
 </div>
 
 Mỗi tuần mẹ tập là thêm một tuần cơ thể khỏe hơn, tinh thần vững vàng hơn.
+
 Mỗi tuần trì hoãn là 1 tuần bỏ lỡ cơ hội cảm nhận rõ ràng sức mạnh bên trong mình.
-Khả năng sinh thường được quyết định từ những gì bạn làm bây giờ, không phải khi vào phòng sinh.
+
+Hãy nhớ, khả năng sinh thường được quyết định từ những gì bạn làm bây giờ, không phải khi vào phòng sinh.
 
 ## Chia Sẻ Từ Các Học Viên Cũ
 
