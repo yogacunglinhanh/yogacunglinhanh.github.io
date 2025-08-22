@@ -159,15 +159,21 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 <table>
   <tr>
     <th style="text-align: center;"></th>
-    <th style="text-align: center;">Gói Cơ Bản - 10 Tuần Đồng Hành Trước Sinh - Nền Tảng Vững Chắc</th>
-    <th style="text-align: center;">Gói Toàn Diện - 12 Tuần Đồng Hành Vững Vàng Trước & Sau Sinh</th>
-    <th style="text-align: center;">Gói VIP Kèm Riêng - Cầm Tay Chỉ Đẻ</th>
+    <th style="text-align: center;">Gói Cơ Bản</th>
+    <th style="text-align: center;">Gói Toàn Diện</th>
+    <th style="text-align: center;">Gói VIP Kèm Riêng</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>10 Tuần Đồng Hành Trước Sinh - Nền Tảng Vững Chắc</td>
+    <td>12 Tuần Đồng Hành Vững Vàng Trước & Sau Sinh</td>
+    <td>Cầm Tay Chỉ Đẻ</td>
   </tr>
   <tr>
     <td>Thời Lượng Học</td>
     <td>10 Tuần Tập Luyện Trước Sinh</td>
-    <td>10 Tuần Trước Sinh & 2 Tuần Sau Sinh (để mẹ xem trước khi sinh) + 1 buổi zoom 30' Tập rượt trước khi sinh</td>
-    <td>10 Tuần Trước Sinh & 2 Tuần Sau Sinh + 4 buổi live kèm riêng</td>
+    <td>10 Tuần Trước Sinh + 2 Tuần Sau Sinh (để mẹ xem trước khi sinh) + 1 buổi zoom 30' Tập rượt trước khi sinh</td>
+    <td>10 Tuần Trước Sinh + 2 Tuần Sau Sinh + 4 buổi live kèm riêng</td>
   </tr>
   <tr>
     <td>Nội Dung Chính </td>
