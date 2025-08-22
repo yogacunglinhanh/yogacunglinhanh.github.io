@@ -159,15 +159,9 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 <table>
   <tr>
     <th style="text-align: center;"></th>
-    <th style="text-align: center;">Gói Cơ Bản</th>
-    <th style="text-align: center;">Gói Toàn Diện</th>
-    <th style="text-align: center;">Gói VIP Kèm Riêng</th>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><strong style="color: green;"></strong></td>
-    <td style="text-align: center;"><strong style="color: green;">1.800.000đ</strong><strong style="color: red;"> (Trị Giá: 2.300.000đ)</strong></td>
-    <td style="text-align: center;"><strong style="color: green;">2.500.000đ</strong><strong style="color: red;"> (Trị Giá: 3.000.000đ)</strong></td>
-    <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 5.000.000đ)</strong></td>
+    <th style="text-align: center;">Gói Cơ Bản - 10 Tuần Đồng Hành Trước Sinh</th>
+    <th style="text-align: center;">Gói Toàn Diện - 12 Tuần Đồng Hành Vững Vàng Trước & Sau Sinh</th>
+    <th style="text-align: center;">Gói VIP Kèm Riêng - Cầm Tay Chỉ Đẻ</th>
   </tr>
   <tr>
     <td> Thời Gian Học + Các Bài Tập Chính </td>
@@ -230,6 +224,12 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
       </ul>
     </td>
   </tr>
+   <tr>
+    <td style="text-align: center;"><strong style="color: green;"></strong>Mức Đầu Tư</td>
+    <td style="text-align: center;"><strong style="color: green;">1.800.000đ</strong><strong style="color: red;"> (Trị Giá: 2.300.000đ)</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">2.500.000đ</strong><strong style="color: red;"> (Trị Giá: 3.000.000đ)</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 5.000.000đ)</strong></td>
+  </tr>
   <tr>
     <td>Phù hợp cho</td>
     <td>Mẹ muốn tập trung vào giai đoạn bầu</td>
@@ -238,10 +238,10 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
   </tr>
 </table>
 
-**_Ngoài ra, nếu mẹ không đủ thời gian học 10 tuần, có thể lựa chọn gói CẤP TỐC_**
+**_Ngoài ra, nếu mẹ không đủ thời gian học 10 tuần, có thể lựa chọn gói CẤP TỐC - Chuẩn Bị Sinh Thường 14 Ngày_**
 - 70% Lý Thuyết, 30% Thực Hành
 - Giúp mẹ nắm qua những kĩ năng cơ bản để sinh thường
-- Phù hợp cho mẹ từ tuần 35 trở đi, mẹ đã tập Yoga ở chỗ khác và chỉ cần bổ sung kỹ thuật chuẩn
+- Phù hợp cho mẹ từ tuần 35 trở đi, hoặc mẹ đã tập Yoga ở chỗ khác và chỉ cần bổ sung kỹ thuật chuẩn
 - Mức Đầu Tư: 1.100,000đ
   
 **_Lưu Ý: Gói Toàn Diện & VIP : Nhận tối đa 10 mẹ bầu đăng ký mỗi tháng để đảm bảo chất lượng đồng hành 1:1!_**
