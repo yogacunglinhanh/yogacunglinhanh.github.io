@@ -127,9 +127,9 @@ testimonial_images:
 
 Ví dụ điển hình:
 
-- Một mẹ bầu 32 tuổi, đang ở tuần 24, làm việc văn phòng, ngồi nhiều và mất ngủ về đêm
-- Một mẹ lần đầu, từng phải dưỡng thai ở 3 tháng đầu, đang muốn phục hồi thể lực & học thở để sinh thường
-- Một mẹ sống xa gia đình, chưa có kinh nghiệm sinh đẻ, cần nơi để tâm sự và được hướng dẫn bài bản
+- Mẹ bầu hiện đại, muốn hiểu cặn kẽ cơ chế hoạt động của cơ thể & cách để luyện tập, giúp sinh thường tốt nhất
+- Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở
+- Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu
 
 ## Lộ Trình Học Tập
 
@@ -181,7 +181,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
         <li>2 Tuần Sau Sinh (để mẹ xem trước khi sinh)</li>
         <li>1 buổi zoom 30' Tập rượt trước khi sinh</li>
     </td>
-      <td style="vertical-align: top;">
+    <td style="vertical-align: top;">
       <ul>
         <li>10 Tuần Tập Luyện Trước Sinh</li>
         <li>2 Tuần Sau Sinh</li>
