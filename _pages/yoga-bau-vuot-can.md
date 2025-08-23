@@ -174,18 +174,21 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <td style="vertical-align: top;">
       <ul>
         <li>10 Tuần Tập Luyện Trước Sinh</li>
+      </ul> 
     </td>
     <td style="vertical-align: top;">
       <ul>
         <li>10 Tuần Tập Luyện Trước Sinh</li>
         <li>2 Tuần Sau Sinh (để mẹ xem trước khi sinh)</li>
         <li>1 buổi zoom 30' Tập rượt trước khi sinh</li>
+      </ul> 
     </td>
     <td style="vertical-align: top;">
       <ul>
         <li>10 Tuần Tập Luyện Trước Sinh</li>
         <li>2 Tuần Sau Sinh</li>
         <li>4 buổi live kèm riêng</li>
+      </ul> 
     </td>
   </tr>
   <tr>
@@ -201,7 +204,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
       <ul>
         <li>Toàn bộ nội dung trong <strong>Gói Cơ Bản</strong></li>
         <li>Kiến thức & bài tập chăm mẹ sau sinh</li>
-        <li>Chương <strong>Tâm Lý Đi Đẻ & Tâm Lý Sau Sinh<strong></li>
+        <li>Chương <strong>Tâm Lý Đi Đẻ & Tâm Lý Sau Sinh</strong>strong></li>
         <li>Tăng khả năng sinh thường & giảm nguy cơ trầm cảm sau sinh</li>
       </ul>
     </td>
