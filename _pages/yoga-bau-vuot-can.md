@@ -215,6 +215,24 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
       </ul>
     </td>
   </tr>
+  tr>
+    <td>Chương Tâm Lý Đi Đẻ </td>
+    <td style="vertical-align: top;">
+      <ul>   
+        <li>Không bao gồm</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Tặng Kèm Kiến Thức & Bài Tập giúp gỉai mã tâm lý đi đẻ hiện giờ & thiết lập tâm lý mới vững chắc hơn. Trị Giá (500,000đ)</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Tặng Kèm Kiến Thức & Bài Tập giúp gỉai mã tâm lý đi đẻ hiện giờ & thiết lập tâm lý mới vững chắc hơn. Trị Giá (500,000đ)</li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td> Hỗ trợ 1:1 </td>
     <td style="vertical-align: top;">
