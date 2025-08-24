@@ -204,8 +204,6 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
       <ul>
         <li>Toàn bộ nội dung trong <strong>Gói Cơ Bản</strong></li>
         <li>Kiến thức & bài tập chăm mẹ sau sinh</li>
-        <li>Chương <strong>Tâm Lý Đi Đẻ & Tâm Lý Sau Sinh</strong>strong></li>
-        <li>Tăng khả năng sinh thường & giảm nguy cơ trầm cảm sau sinh</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
@@ -216,7 +214,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     </td>
   </tr>
   tr>
-    <td>Chương Tâm Lý Đi Đẻ </td>
+    <td>Chương Tâm Lý Đi Đẻ & Sau Sinh</td>
     <td style="vertical-align: top;">
       <ul>   
         <li>Không bao gồm</li>
@@ -224,12 +222,14 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Tặng Kèm Kiến Thức & Bài Tập giúp gỉai mã tâm lý đi đẻ hiện giờ & thiết lập tâm lý mới vững chắc hơn. Trị Giá (500,000đ)</li>
+        <li>Tặng Kèm: Bài tập giúp gỉai mã tâm lý đi đẻ hiện giờ & thiết lập tâm lý mới, tăng khả năng sinh thường. Trị Giá (500,000đ)</li>
+        <li>Tặng Kèm: Bài tập thực hành 5 Ngày, giảm trầm cảm cho mẹ sau sinh. Trị Giá (500,000đ)</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Tặng Kèm Kiến Thức & Bài Tập giúp gỉai mã tâm lý đi đẻ hiện giờ & thiết lập tâm lý mới vững chắc hơn. Trị Giá (500,000đ)</li>
+        <li>Tặng Kèm: Bài tập giúp gỉai mã tâm lý đi đẻ hiện giờ & thiết lập tâm lý mới vững chắc hơn. Trị Giá (500,000đ)</li>
+        <li>Tặng Kèm: Bài tập thực hành 5 Ngày, giảm trầm cảm cho mẹ sau sinh. Trị Giá (500,000đ)</li>
       </ul>
     </td>
   </tr>
