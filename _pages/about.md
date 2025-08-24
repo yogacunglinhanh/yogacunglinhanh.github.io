@@ -43,23 +43,27 @@ Chào bạn, mình là Linh Đặng, là giáo viên Yoga chuyên sâu về thai
 
 Hiện mình chia sẻ hàng ngày trên những kênh [Facebook cá nhân](https://www.facebook.com/ngoclinhdnl/) và hàng tuần ở kênh [YouTube Yoga cùng Linh Anh](https://www.youtube.com/@yogacunglinhanh-noibanketn8829) 💛 Hy vọng được kết nối với các bạn.
 
-----
-## Hành Trình của Yoga cùng Linh Anh
-Năm 2020, mình sáng lập ra Yoga cùng Linh Anh với chị sinh đôi cùng những khoá **_Yoga Nền Tảng_** cho người muốn tập và thực hành Yoga nghiêm túc. 
+---
 
-Năm 2023, mình sinh thường bé đầu lòng một cách nhẹ nhàng nhờ rất nhiều kiến thức Yoga thế nên mình bắt đầu có những khoá **_Yoga Tiền Sản_**. 
+## Hành Trình của Yoga cùng Linh Anh
+
+Năm 2020, mình sáng lập ra Yoga cùng Linh Anh với chị sinh đôi cùng những khoá **_Yoga Nền Tảng_** cho người muốn tập và thực hành Yoga nghiêm túc.
+
+Năm 2023, mình sinh thường bé đầu lòng một cách nhẹ nhàng nhờ rất nhiều kiến thức Yoga thế nên mình bắt đầu có những khoá **_Yoga Tiền Sản_**.
 
 Thế rồi, quá hồi phục sau sinh không “nhẹ nhàng” như mình nghĩ. Nó là 1 hành trình, có lẽ phải mất gần 2 năm mới gọi là hồi phục như cũ, cả mặt thể chất lẫn tinh thần. Hành trình hồi phục của mình không nhanh, NHƯNG MÌNH MUỐN GIÚP LÀM NHANH hành trình này cho mọi người!
 
-Chính vì thế, Yoga cùng Linh Anh ngoài những lớp Yoga Cơ Bản, Bầu còn có nhiều khoá học **_Yoga Hồi Phục Sau Sinh cả về mặt thể chất lẫn tinh thần_**. 
+Chính vì thế, Yoga cùng Linh Anh ngoài những lớp Yoga Cơ Bản, Bầu còn có nhiều khoá học **_Yoga Hồi Phục Sau Sinh cả về mặt thể chất lẫn tinh thần_**.
 
 ## Mọi người nhận xét gì về Yoga cùng Linh Anh?
+
 Hơn 100 học viên đã đồng hành cùng mình trong suốt hành trình chăm sóc sức khoẻ, rất nhiều học viên đã đạt được kết quả và thấy sự thay đổi vượt xa kỳ vọng ban đầu.
 
 {% include testimonial_slider.html images=page.testimonial_images %}
 
 ## Bạn có đang tìm kiếm 1 giải pháp cho sức khoẻ của mình?
-Hãy thử tham khảo các khoá học tại Yoga cùng Linh Anh, đôi khi kết quả có thể nhìn thấy chỉ sau 2 tuần :) 
+
+Hãy thử tham khảo các khoá học tại Yoga cùng Linh Anh, đôi khi kết quả có thể nhìn thấy chỉ sau 2 tuần :)
 
 [Xem Thêm Các Khoá Học](/khoa-hoc/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
@@ -106,7 +110,7 @@ Hãy thử tham khảo các khoá học tại Yoga cùng Linh Anh, đôi khi k�
 
 ## Đặt Lịch 30' Để Nhận Tư Vấn?
 
-Mỗi tháng mình dành chút thời gian để nói chuyện với 2-3 mẹ thực sự cần giúp đỡ, với giá hạt dẻ, 250,000đ. 
+Mỗi tháng mình dành chút thời gian để nói chuyện với 2-3 mẹ thực sự cần giúp đỡ, với giá hạt dẻ, 250,000đ.
 
 Nếu đó là bạn, hãy đặt lịch chia sẻ qua 1-2 vấn đề bạn đang muốn gỡ rối, mình sẽ dành 20' để giúp bạn gỡ rối vấn đề và gợi ý lộ trình tiếp theo.
 

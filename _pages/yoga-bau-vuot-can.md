@@ -174,27 +174,27 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <td style="vertical-align: top;">
       <ul>
         <li>10 Tuần Tập Luyện Trước Sinh</li>
-      </ul> 
+      </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
         <li>10 Tuần Tập Luyện Trước Sinh</li>
         <li>2 Tuần Sau Sinh (để mẹ xem trước khi sinh)</li>
         <li>1 buổi zoom 30' Tập rượt trước khi sinh</li>
-      </ul> 
+      </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
         <li>10 Tuần Tập Luyện Trước Sinh</li>
         <li>2 Tuần Sau Sinh</li>
         <li>4 buổi live kèm riêng</li>
-      </ul> 
+      </ul>
     </td>
   </tr>
   <tr>
     <td>Nội Dung Chính </td>
     <td style="vertical-align: top;">
-      <ul>   
+      <ul>
         <li>Hiểu và thực hành đúng các nhóm bài tập quan trọng: Cơ sàn chậu – Hơi thở – Tư thế</li>
         <li>Các bài tập chuyên sâu giúp giảm đau lưng, cải thiện lưu thông máu, hỗ trợ bé thuận lợi xoay xuống khi sinh</li>
         <li>Kiến thức giải phẫu học cơ thể lúc sinh</li>
@@ -216,7 +216,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
   tr>
     <td>Chương Tâm Lý Đi Đẻ & Sau Sinh</td>
     <td style="vertical-align: top;">
-      <ul>   
+      <ul>
         <li>Không bao gồm</li>
       </ul>
     </td>
@@ -267,11 +267,12 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 </table>
 
 **_Ngoài ra, nếu mẹ không đủ thời gian học 10 tuần, có thể lựa chọn gói CẤP TỐC - Chuẩn Bị Sinh Thường 14 Ngày_**
+
 - 70% Lý Thuyết, 30% Thực Hành
 - Giúp mẹ nắm qua những kĩ năng cơ bản để sinh thường
 - Phù hợp cho mẹ từ tuần 35 trở đi, hoặc mẹ đã tập Yoga ở chỗ khác và chỉ cần bổ sung kỹ thuật chuẩn
 - Mức Đầu Tư: 1.100,000đ
-  
+
 **_Lưu Ý: Gói Toàn Diện & VIP : Nhận tối đa 10 mẹ bầu đăng ký mỗi tháng để đảm bảo chất lượng đồng hành 1:1!_**
 
 Tất cả các gói có thời hạn 1 năm từ ngày bắt đầu.
@@ -307,7 +308,7 @@ Chào bạn, mình là Linh Đặng, là giáo viên Yoga chuyên sâu về thai
 
 🏥 140+ giờ đào tạo về Yoga trị liệu đau lưng, cổ, vai gáy với giáo viên Ấn Độ/Úc
 
-👩‍👧 Mẹ của bé Chanh, đã sinh thường nhanh chóng chỉ trong 3 tiếng hơn và trải qua hành trình hồi phục sau sinh thành công, và đã giúp rất nhiều mẹ Việt trên toàn thế giới, đặc biệt là mẹ bầu lần đầu có trải nghiệm sinh nở "bớt đau" hơn, "tự tin" hơn. 
+👩‍👧 Mẹ của bé Chanh, đã sinh thường nhanh chóng chỉ trong 3 tiếng hơn và trải qua hành trình hồi phục sau sinh thành công, và đã giúp rất nhiều mẹ Việt trên toàn thế giới, đặc biệt là mẹ bầu lần đầu có trải nghiệm sinh nở "bớt đau" hơn, "tự tin" hơn.
 
 Lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương khớp hoặc hạn chế vận động qua những chỉnh sửa của Linh.​ Bạn có thể theo dõi [YouTube Yoga cùng Linh Anh](https://www.youtube.com/@yogacunglinhanh-noibanketn8829) để hiểu hơn cách mình dạy.
 

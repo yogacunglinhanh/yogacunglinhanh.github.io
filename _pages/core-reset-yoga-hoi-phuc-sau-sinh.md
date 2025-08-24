@@ -73,8 +73,8 @@ core-reset-yoga-hoi-phuc-sau-sinh-loi-ich:
       🙆‍♀️ **Tăng Kiến Thức Giải Phẫu Học Cơ Thể**<br>
       Hiểu rõ giải phẫu cơ thể, vì sao cần tập từng động tác để có động lực tập.<br><br>
   - excerpt: >-
-     🎧 **Có Cộng Đồng các mẹ ủn mông**<br>
-      Tham Gia nhóm Facebook kín nơi các mẹ cổ vũ, chia sẻ kinh nghiệm luyện tập cho nhau để không mẹ nào bị thụt lùi.<br><br>
+      🎧 **Có Cộng Đồng các mẹ ủn mông**<br>
+       Tham Gia nhóm Facebook kín nơi các mẹ cổ vũ, chia sẻ kinh nghiệm luyện tập cho nhau để không mẹ nào bị thụt lùi.<br><br>
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -250,7 +250,6 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
 - Yếu tố quan trọng nhất là bạn cần giữ guồng tập đều đặn
 
 > Cảm Nhận Thay Đổi Cơ Thể Ngay Từ Tuần Thứ 2 Tập
->
 
 <div style="text-align: center;">
   <a href="https://forms.gle/DtpJifpigkyj5HUU7"
@@ -260,7 +259,6 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
     Đăng Ký Ngay
   </a>
 </div>
-
 
 ## Nếu Bạn Vẫn Còn Lưỡng Lự, Hãy Cho Bản Thân Mình Học Thử Tại Đây
 

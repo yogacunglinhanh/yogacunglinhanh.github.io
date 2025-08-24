@@ -16,13 +16,16 @@ Mình đã từng như vậy — và hiểu cảm giác khi không biết bắt 
 Nên mình làm món quà nhỏ này, gửi tặng mẹ:
 
 ## Hành trình 4 ngày hồi phục nhẹ nhàng
+
 - ✅ Mỗi ngày 1 video chỉ 10 phút trong 3 ngày
 - ✅ Tập ngay lúc bé bú, ngủ, chơi
 - ✅ Không cần thảm – không cần thay đồ
 - ✅ Tập vai, cổ, bụng, sàn chậu – hiệu quả ngay từ lần đầu
 
 ## 💡 + KÈM Masterclass 20 phút vào ngày thứ 4
+
 Giải thích cho mẹ hiểu:
+
 - ✅ Vì sao cơ thể sau sinh yếu đi?
 - ✅ Cơ lõi là gì? Tập thế nào mới phục hồi đúng – không phản tác dụng?
 
@@ -33,8 +36,8 @@ Chúc mẹ một hành trình hồi phục thật dịu dàng nhé 🌿
 
 <div class="ml-embedded" data-form="xKc0oP"></div>
 
-
 ## 🎯 Khoá học Core Reset Hồi Phục Cơ Bụng & Cơ Sàn Chậu
+
 Hành trình 3 tháng hồi phục sâu từ trong ra ngoài.
 
 [Xem Thêm](https://yogacunglinhanh.com/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
