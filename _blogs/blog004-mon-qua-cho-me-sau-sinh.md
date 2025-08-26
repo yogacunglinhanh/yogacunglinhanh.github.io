@@ -29,17 +29,17 @@ Giải thích cho mẹ hiểu:
 - ✅ Vì sao cơ thể sau sinh yếu đi?
 - ✅ Cơ lõi là gì? Tập thế nào mới phục hồi đúng để bụng không xồ thêm, cơ sàn chậu không yếu đi hơn nữa.
 
-📩 Nhận trọn bộ quà dưới đây, chỉ với 300,000đ - bằng 1 bữa ăn sang chảnh ở ngoài nhưng hiệu quả vài tháng <br><br>
-Đây không phải “thử thách thể lực” từ mình mà để mẹ bắt đầu lắng nghe lại cơ thể mình, nhẹ nhàng nhưng đều đặn.<br>
+📩 Đầu tư 300,000đ hôm nay, mẹ nhận ngay trọn bộ quà hồi phục – mang lại hiệu quả trong nhiều tháng.
+Thay vì một bữa ăn sang chảnh, mẹ đang chọn cho mình một hành trình khỏe mạnh, tự tin và bền vững.
 
-Chúc mẹ một hành trình hồi phục thật dịu dàng nhé 🌿
+🌿 Chúc mẹ một hành trình hồi phục thật trọn vẹn và đầy năng lượng!
 
 <div style="text-align: center;">
   <a href="https://forms.gle/hVQwFrCvpAxXkVNu6"
      style="display: inline-block; margin: 0.5em; padding: 0.6em 1.2em;
             background-color: #5fad8e; color:white; border-radius: 0;
             text-decoration: none; font-weight: bold;">
-    Đăng Ký Ngay
+    Đăng Ký Ngay - Tôi Chọn Sức Khoẻ
   </a>
 </div>
 
