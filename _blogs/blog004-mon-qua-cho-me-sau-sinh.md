@@ -9,9 +9,9 @@ excerpt_separator: "<!--more-->"
 <!-- markdownlint-disable MD028 -->
 <!-- markdownlint-disable MD033 -->
 
-Nếu cơ thể mẹ sau sinh đang mỏi ê ẩm, khó thở, đau lưng hay són tiểu nhẹ.<br>
+Nếu cơ thể mẹ sau sinh đang mỏi đau lưng kinh khủng, són tiểu ướt quần hay xồ bụng như vẫn đang chưa.<br>
 Mẹ không một mình đâu.<br>
-Mình đã từng như vậy — và hiểu cảm giác khi không biết bắt đầu từ đâu trong những ngày lu bù.
+Mình đã từng như vậy, và hiểu cảm giác khi không biết bắt đầu từ đâu trong những ngày lu bù.
 
 Nên mình làm món quà nhỏ này, gửi tặng mẹ:
 
@@ -27,14 +27,14 @@ Nên mình làm món quà nhỏ này, gửi tặng mẹ:
 Giải thích cho mẹ hiểu:
 
 - ✅ Vì sao cơ thể sau sinh yếu đi?
-- ✅ Cơ lõi là gì? Tập thế nào mới phục hồi đúng – không phản tác dụng?
+- ✅ Cơ lõi là gì? Tập thế nào mới phục hồi đúng để bụng không xồ thêm, cơ sàn chậu không yếu đi hơn nữa.
 
-📩 Nhận trọn bộ quà dưới đây <br><br>
-Đây không phải “thử thách thể lực” từ mình mà để mẹ bắt đầu lắng nghe lại cơ thể mình, nhẹ nhàng nhưng đều đặn..<br>
+📩 Nhận trọn bộ quà dưới đây, chỉ với 300,000đ - bằng 1 bữa ăn sang chảnh ở ngoài nhưng hiệu quả vài tháng <br><br>
+Đây không phải “thử thách thể lực” từ mình mà để mẹ bắt đầu lắng nghe lại cơ thể mình, nhẹ nhàng nhưng đều đặn.<br>
 
 Chúc mẹ một hành trình hồi phục thật dịu dàng nhé 🌿
 
-<div class="ml-embedded" data-form="xKc0oP"></div>
+[<div class="ml-embedded" data-form="xKc0oP"></div>](https://forms.gle/hVQwFrCvpAxXkVNu6)
 
 ## 🎯 Khoá học Core Reset Hồi Phục Cơ Bụng & Cơ Sàn Chậu
 
