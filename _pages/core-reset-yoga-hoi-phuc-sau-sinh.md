@@ -260,10 +260,10 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
   </a>
 </div>
 
-## Nếu Bạn Vẫn Còn Lưỡng Lự, Hãy Cho Bản Thân Mình Học Thử Giai Đoạn 1 Tại Đây
+## Nếu Bạn Vẫn Còn Lưỡng Lự, Học Thử Giai Đoạn 1 Tại Đây
 
 <div style="text-align: center;">
-  <a href="https://yogacunglinhanh.com/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/"
+  <a href="https://yogacunglinhanh.com/blogs/mon-qua-cho-me-sau-sinh/"
      style="display: inline-block; margin: 0.5em; padding: 0.6em 1.2em;
             background-color: #5fad8e; color:white; border-radius: 0;
             text-decoration: none; font-weight: bold;">
