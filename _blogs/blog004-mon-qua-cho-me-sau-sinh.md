@@ -34,7 +34,14 @@ Giải thích cho mẹ hiểu:
 
 Chúc mẹ một hành trình hồi phục thật dịu dàng nhé 🌿
 
-[<div class="ml-embedded" data-form="xKc0oP"></div>](https://forms.gle/hVQwFrCvpAxXkVNu6)
+<div style="text-align: center;">
+  <a href="https://forms.gle/hVQwFrCvpAxXkVNu6"
+     style="display: inline-block; margin: 0.5em; padding: 0.6em 1.2em;
+            background-color: #5fad8e; color:white; border-radius: 0;
+            text-decoration: none; font-weight: bold;">
+    Đăng Ký Ngay
+  </a>
+</div>
 
 ## 🎯 Khoá học Core Reset Hồi Phục Cơ Bụng & Cơ Sàn Chậu
 
