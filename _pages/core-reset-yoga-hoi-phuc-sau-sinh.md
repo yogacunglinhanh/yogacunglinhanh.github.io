@@ -267,7 +267,7 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
      style="display: inline-block; margin: 0.5em; padding: 0.6em 1.2em;
             background-color: #5fad8e; color:white; border-radius: 0;
             text-decoration: none; font-weight: bold;">
-    Giải Toả Cơn Đau, Khó Chịu Ngay
+    Học Thử - Giải Toả Cơn Đau Tức Thì
   </a>
 </div>
 
