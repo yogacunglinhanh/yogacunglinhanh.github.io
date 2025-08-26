@@ -15,7 +15,7 @@ Mình đã từng như vậy, và hiểu cảm giác khi không biết bắt đ�
 
 Nên mình làm món quà nhỏ này, gửi tặng mẹ:
 
-## Hành trình 4 ngày hồi phục nhẹ nhàng
+## Hành trình 4 ngày hồi phục bền vững
 
 - ✅ Mỗi ngày 1 video chỉ 10 phút trong 3 ngày
 - ✅ Tập ngay lúc bé bú, ngủ, chơi
