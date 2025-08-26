@@ -45,7 +45,7 @@ Thay vì một bữa ăn sang chảnh, mẹ đang chọn cho mình một hành t
 
 ## 🎯 Khoá học Core Reset Hồi Phục Cơ Bụng & Cơ Sàn Chậu
 
-Hành trình 3 tháng hồi phục sâu từ trong ra ngoài. Nếu bạn quyết định đi tiếp với lớp hồi phục sau sinh Core Reset, số tiền đầu tư ở trên sẽ được trừ trực tiếp vào học phí gói học.
+Hành trình 3 tháng hồi phục sâu từ trong ra ngoài. Nếu bạn quyết định đi tiếp với lớp hồi phục sau sinh Core Reset sau khi hoàn thành hành trình 4 ngày, số tiền đầu tư ở trên sẽ được trừ trực tiếp vào học phí gói học.
 
 [Xem Thêm](https://yogacunglinhanh.com/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
