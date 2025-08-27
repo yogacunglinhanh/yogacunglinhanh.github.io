@@ -107,7 +107,11 @@ Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạ
 
 ## VẬY BƯỚC TIẾP THEO LÀ GÌ?
 
-Nếu bạn muốn chấm dứt ngay tình trạng đau lưng triền miên, thon gọn bụng hơn, và đặc biệt giúp bụng chắc khoẻ, và hết bị són tiểu (nếu mẹ bị), hãy thử tham gia Hành Trình 4 Ngày - Hồi Phục Sau Sinh Từ Gốc 4. 
+Tham Gia Hành Trình 4 Ngày - Hồi Phục Sau Sinh Từ Gốc. 
+- Chấm dứt ngay tình trạng đau lưng triền miên
+- Từ từ kết nối lại với cơ bụng bị lỏng lẻo sau sinh
+- Hiểu sự kết nối giữa cơ lưng, cơ bụng & cơ sàn chậu để biết cách hồi phục an toàn
+
 Hành trình sẽ giúp bạn "như sống lại" để là bản thân mình hơn, và tận hưởng những giây phút bên con tốt hơn. 
 
 [👉 Đăng Ký Ngay - Tôi Chọn Sức Khoẻ](https://yogacunglinhanh.com/blogs/mon-qua-cho-me-sau-sinh/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
