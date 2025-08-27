@@ -11,7 +11,9 @@ excerpt_separator: "<!--more-->"
 
 ## Bụng xổ, đau lưng là mối quan tâm của rất nhiều mẹ sau sinh, tuy nhiên các mẹ không được hướng dẫn kiểm tra tình trạng cơ thể
 
-Hôm nay hãy cùng mình xem qua 4 dấu hiệu bụng mẹ đang yếu nhé!
+Hôm nay hãy cùng mình xem qua 4 dấu hiệu để nhận ra bụng mẹ đang ở tình trạng nào. Đặc biệt dấu hiệu 3 và 4 là dấu hiệu của "xổ bụng", cần được hiểu rõ để được khắc phục đúng, tránh tình trạng xổ thêm. 
+
+Nào chúng ta cùng bắt đầu hiểu từng dấu hiệu và cách kiểm tra. Bạn sẽ cần tầm 15' để kiểm tra đó. 
 
 ### 1. Nhìn từ ngoài, bụng bạn có đang tròn mềm phía trước – như bầu 4–5 tháng?
 
@@ -29,13 +31,9 @@ Hôm nay hãy cùng mình xem qua 4 dấu hiệu bụng mẹ đang yếu nhé!
 
 - [ ] Không
 - [ ] Có đôi lúc
-- [ ] Có – gần như ngày nào cũng bị
+- [ ] Có – gần như ngày nào cũng bị, triền miên
 
 Ngoài 2 dấu hiệu này, bạn cũng cần kiểm tra mình có bị phân tách cơ thẳng bụng không?
-
-## MÓN QUÀ CHO MẸ SAU SINH: Hành Trình 4 Ngày Hồi Phục Cơ Thể
-
-[👉 Đăng Ký Nhận Quà](https://yogacunglinhanh.com/blogs/mon-qua-cho-me-sau-sinh/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
 ## Phân Tách cơ bụng là gì?
 
@@ -107,13 +105,18 @@ Phân tách cơ thẳng bụng có thể hồi phục được. Chỉ cần bạ
 - Khả năng cao bạn KHÔNG bị phân tách cơ thẳng bụng nhưng BỤNG YẾU!
 - Bụng vẫn yếu nên cơ lưng đang phải gánh thay, đâm đau lưng, gù lưng. Thế nên hãy ưu tiên tập các bài tập cho cơ lõi gồm cơ bụng sâu, cơ lưng, cơ 2 bên sườn, cơ sàn chậu và cơ hoành.
 
+## VẬY BƯỚC TIẾP THEO LÀ GÌ?
+
+Nếu bạn muốn chấm dứt ngay tình trạng đau lưng triền miên, thon gọn bụng hơn, và đặc biệt giúp bụng chắc khoẻ, và hết bị són tiểu (nếu mẹ bị), hãy thử tham gia Hành Trình 4 Ngày - Hồi Phục Sau Sinh Từ Gốc 4. 
+Hành trình sẽ giúp bạn "như sống lại" để là bản thân mình hơn, và tận hưởng những giây phút bên con tốt hơn. 
+
+[👉 Đăng Ký Ngay - Tôi Chọn Sức Khoẻ](https://yogacunglinhanh.com/blogs/mon-qua-cho-me-sau-sinh/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+
 ## 🎯 Khoá CORE RESET - HÀNH TRÌNH HỒI PHỤC SAU SINH 3 THÁNG có thể là cái mẹ đang cần
 
 PHÙ HỢP CHO MẸ SINH THƯỜNG & SINH MỔ.
 
 [Xem thêm thông tin khoá](https://yogacunglinhanh.com/khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
-
-THỬ THÁCH 3 NGÀY HỒI PHỤC SAU SINH NHẸ NHÀNG
 
 Tham Gia Nhóm Facebook
 
