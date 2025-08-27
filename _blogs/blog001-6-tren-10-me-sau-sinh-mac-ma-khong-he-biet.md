@@ -13,7 +13,7 @@ excerpt_separator: "<!--more-->"
 
 Hôm nay hãy cùng mình xem qua 4 dấu hiệu để nhận ra bụng mẹ đang ở tình trạng nào. Đặc biệt dấu hiệu 3 và 4 là dấu hiệu của "xổ bụng", cần được hiểu rõ để được khắc phục đúng, tránh tình trạng xổ thêm. 
 
-Nào chúng ta cùng bắt đầu hiểu từng dấu hiệu và cách kiểm tra. Bạn sẽ cần tầm 15' để kiểm tra đó. 
+Bạn sẽ cần khoảng 15' để kiểm tra. 
 
 ### 1. Nhìn từ ngoài, bụng bạn có đang tròn mềm phía trước – như bầu 4–5 tháng?
 
