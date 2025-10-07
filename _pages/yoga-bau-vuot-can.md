@@ -7,16 +7,14 @@ yoga-bau-vuot-can-intro:
     alt: "Khoá Yoga Bầu Vượt Cạn"
     title: "Khoá Yoga Bầu Vượt Cạn"
     excerpt: >-
-      Mẹ yêu ơi,<br><br>
-      Khoá học này không chỉ dạy mẹ những động tác yoga đâu, nó hơn thế nhiều<br>
-      Nó là 1 hành trình toàn diện từ cơ thể, tinh thần, hơi thở lẫn những cơ quan trọng cho sinh thường, giúp mẹ chuẩn bị từng bước cho 1 ca sinh chủ động, bình tĩnh và đầy yêu thương.<br><br>
-      Mỗi bài tập, mỗi kỹ thuật thở đều được thiết kế để<br>
-      • Giảm đau lưng, phù nề, mệt mỏi đặc biệt trong giai đoạn cuối bầu<br>
-      • Nắm vững những kĩ thuật thở, tư thế, kết nối cơ sàn chậu để vận dụng lúc sinh nở<br>
-      • Xoá bỏ những sự lăn tăn & lo lắng trước khi sinh <br><br>
-      • Nắm vững cách cơ thể vận hành trước, trong lúc sinh và sau sinh <br><br>
-      Nếu mẹ đang cần một ai đó đồng hành – mình ở đây.<br>
-      Cùng mẹ đi sâu trong hành trình này đầy sức mạnh.
+      Bạn là 1 trong những người thế này,<br><br>
+- Mẹ bầu từ tuần 20 trở đi muốn chủ động trong hành trình sinh nở.<br>
+- Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở<br>
+- Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu<br>
+- Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.<br>
+- Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br>
+ Bạn đã tìm đến đúng chỗ :)
+
     buttons:
       - label: "Đăng Ký Ngay"
         url: https://forms.gle/hJuC49WYqPv39qcS7
@@ -42,33 +40,36 @@ yoga-bau-vuot-can-thu-ngo:
     url: /khoa-hoc/yoga-bau-vuot-can/#v%E1%BB%81-linh
     btn_label: "Đọc Thêm Về Linh"
     btn_class: "btn--yoga"
+
+yoga-bau-vuot-can-intro:
+  - image_path: /assets/images/courses/yoga-bau-vuot-can-cover.jpg
+    alt: "Khoá Yoga Bầu Vượt Cạn"
+    title: "Khoá Yoga Bầu Vượt Cạn"
+    excerpt: >-
+Khoá học này không chỉ dạy mẹ những động tác yoga đâu, nó hơn thế nhiều<br>
+      Nó là 1 hành trình toàn diện từ cơ thể, tinh thần, hơi thở lẫn những cơ quan trọng cho sinh thường, giúp mẹ chuẩn bị từng bước cho 1 ca sinh chủ động, bình tĩnh và đầy yêu thương.<br><br>
+      Mỗi bài tập, mỗi kỹ thuật thở đều được thiết kế để<br>
+      • Giảm đau lưng, phù nề, mệt mỏi đặc biệt trong giai đoạn cuối bầu<br>
+      • Nắm vững những kĩ thuật thở, tư thế, kết nối cơ sàn chậu để vận dụng lúc sinh nở<br>
+      • Xoá bỏ những sự lăn tăn & lo lắng trước khi sinh <br><br>
+      • Nắm vững cách cơ thể vận hành trước, trong lúc sinh và sau sinh <br><br>
+      Nếu mẹ đang cần một ai đó đồng hành – mình ở đây.<br>
+      Cùng mẹ đi sâu trong hành trình này đầy sức mạnh.
+    
 yoga-bau-vuot-can-loi-ich:
   - excerpt: >-
-      🤰 **Thai kỳ khoẻ mạnh**<br>
-      Biết cách tránh và giảm các triệu chứng thai kỳ như chuột rút, khó thở, đau lưng ... giúp ngủ ngon, bớt phù nề 😊<br><br>
+      🤰 Biết cách tránh và giảm các triệu chứng thai kỳ như chuột rút, khó thở, đau lưng ... giúp ngủ ngon, bớt phù nề <br><br>
   - excerpt: >-
-      🤰 **Biết cách tập an toàn**<br>
-      Hiểu rõ giải phẫu cơ thể, vì sao cần tập những động tác đúng và hiệu quả chuẩn bị lâm bồn😊<br><br>
+      🤰 Hiểu rõ giải phẫu cơ thể, vì sao cần tập những động tác đúng và hiệu quả chuẩn bị lâm bồn😊<br><br>
   - excerpt: >-
-      🙆‍♀️ **Tập đúng cơ sinh nở dễ dàng**<br>
-      Biết cách tập rút ngắn thời gian rặn để, giảm thiếu các nguy cơ rách rạch tầng sinh môn.<br><br>
+      🙆‍♀️ Biết cách tập rút ngắn thời gian rặn để, giảm thiếu các nguy cơ rách rạch tầng sinh môn.<br><br>
   - excerpt: >-
-      🗓️ **Học 3 cách thở**<br>
-      Học 3 kiểu thở khác nhau để giảm "đau đẻ", tránh kiệt sức cho mẹ sinh thường.<br><br>
+      🗓️ Học 3 kiểu thở khác nhau để giảm "đau đẻ", tránh kiệt sức cho mẹ sinh thường.<br><br>
   - excerpt: >-
-      ♥️ **Giải mã và phá tan niềm tin giới hạn "sợ đẻ"**<br>
-      Xoá bỏ nỗi sợ đi đẻ, tự tin hơn đi khi đẻ và kết nối với con sâu sắc hơn.<br><br>
+      ♥️ Xoá bỏ nỗi sợ đi đẻ, tự tin hơn đi khi đẻ và kết nối với con sâu sắc hơn.<br><br>
   - excerpt: >-
-      📄 **Hiểu và được hỗ trợ cách chăm sóc bản thân mình sau sinh**<br>
-      Tự trang bị cho bản thân kiến thức "chăm" mình trong giai đoạn "đau khổ" nhất.<br><br>
-  - excerpt: >-
-      🤰 Mẹ bầu từ tuần 20 trở đi đặc biệt là các mẹ đang mang thai lần đầu và muốn chuẩn bị một cách bài bản<br><br>
-  - excerpt: >-
-      😔 Đang gặp các triệu chứng thai kỳ như đau lưng, phù nề, chuột rút, khó ngủ...<br><br>
-  - excerpt: >-
-      💚 Mong muốn sinh thường tự nhiên nhưng chưa đủ tự tin.<br><br>
-  - excerpt: >-
-      😨 Cảm thấy hoang mang với nhiều thông tin trái chiều và muốn có một lộ trình rõ ràng, bài bản<br><br>
+      📄 Kiến thức "chăm" mình trong giai đoạn "đau khổ" nhất.<br><br>
+
 yoga-bau-vuot-can-lo-trinh-week12:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week1.jpg
     alt: "Giai Đoạn 1: Chuẩn Bị Nền Tảng (2 tuần)"
