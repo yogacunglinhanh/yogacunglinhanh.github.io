@@ -14,7 +14,6 @@ yoga-bau-vuot-can-mebau-dienhinh:
 - Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.<br>
 - Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br>
  Bạn đã tìm đến đúng chỗ :)
-
     buttons:
       - label: "Đăng Ký Ngay"
         url: https://forms.gle/hJuC49WYqPv39qcS7
@@ -46,7 +45,7 @@ yoga-bau-vuot-can-intro:
     alt: "Khoá Yoga Bầu Vượt Cạn"
     title: "Khoá Yoga Bầu Vượt Cạn"
     excerpt: >-
-Khoá học này không chỉ dạy mẹ những động tác yoga đâu, nó hơn thế nhiều<br>
+      Khoá học này không chỉ dạy mẹ những động tác yoga đâu, nó hơn thế nhiều<br>
       Nó là 1 hành trình toàn diện từ cơ thể, tinh thần, hơi thở lẫn những cơ quan trọng cho sinh thường, giúp mẹ chuẩn bị từng bước cho 1 ca sinh chủ động, bình tĩnh và đầy yêu thương.<br><br>
       Mỗi bài tập, mỗi kỹ thuật thở đều được thiết kế để<br>
       • Giảm đau lưng, phù nề, mệt mỏi đặc biệt trong giai đoạn cuối bầu<br>
