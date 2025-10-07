@@ -2,7 +2,7 @@
 layout: splash
 title: "Yoga Bầu Vượt Cạn"
 permalink: /khoa-hoc/yoga-bau-vuot-can/
-yoga-bau-vuot-can-intro:
+yoga-bau-vuot-can-mebau-dienhinh:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-cover.jpg
     alt: "Khoá Yoga Bầu Vượt Cạn"
     title: "Khoá Yoga Bầu Vượt Cạn"
@@ -220,7 +220,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
       </ul>
     </td>
   </tr>
-  tr>
+  <tr>
     <td>Chương Tâm Lý Đi Đẻ & Sau Sinh</td>
     <td style="vertical-align: top;">
       <ul>
@@ -377,11 +377,13 @@ Lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương
 
 ### 3 Động Tác Yoga Bầu Giúp Mẹ Sinh Thường Nhanh & Nhẹ Hơn
 
-{% include youtube_embed.html id="v=r3JQpm1FVyQ" %}
+{% include youtube_embed.html id="r3JQpm1FVyQ" %}
 
 ### Cách Ngồi Của Mẹ Bầu Để Tránh Rặn Đẻ Kéo Dài
 
-{% include youtube_embed.html id="v=PdqnI9-HSHk" %}
+{% include youtube_embed.html id="PdqnI9-HSHk" %}
+
+### Lợi Ích Luyện Tập Yoga Bầu
 
 ## TEST nhanh 3 phút kiểm tra mức độ sinh thường
 
