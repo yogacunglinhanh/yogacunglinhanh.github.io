@@ -8,14 +8,15 @@ yoga-bau-vuot-can-intro:
     title: "Khoá Yoga Bầu Vượt Cạn"
     excerpt: >-
       Mẹ yêu ơi,<br><br>
-      Khoá học này không chỉ dạy mẹ những động tác yoga đâu.<br>
-      Mà là 1 hành trình từng bước giúp mẹ chuẩn bị cho 1 ca sinh chủ động, bình tĩnh và đầy yêu thương.<br><br>
+      Khoá học này không chỉ dạy mẹ những động tác yoga đâu. Nó hơn thế nhiều<br>
+      Mà là 1 hành trình toàn diện từ cơ thể, tinh thần, hơi thở lẫn những cơ quan trọng cho sinh thường, giúp mẹ chuẩn bị từng bước cho 1 ca sinh chủ động, bình tĩnh và đầy yêu thương.<br><br>
       Mỗi bài tập, mỗi kỹ thuật thở đều được thiết kế để<br>
-      • Giảm đau lưng, phù nề, mệt mỏi<br>
-      • Kết nối với con yêu và chính mình<br>
-      • Sẵn sàng vượt cạn bằng sự hiểu biết và tự tin.<br><br>
+      • Giảm đau lưng, phù nề, mệt mỏi đặc biệt trong giai đoạn cuối bầu<br>
+      • Nắm vững những kĩ thuật thở, tư thế, kết nối cơ sàn chậu để vận dụng lúc sinh nở<br>
+      • Xoá bỏ những sự lăn tăn & lo lắng trước khi sinh <br><br>
+      • Nắm vững cách cơ thể vận hành trước, trong lúc sinh và sau sinh <br><br>
       Nếu mẹ đang cần một ai đó đồng hành – mình ở đây.<br>
-      Cùng mẹ đi qua hành trình này, nhẹ nhàng mà đầy sức mạnh.
+      Cùng mẹ đi sâu trong hành trình này đầy sức mạnh.
     buttons:
       - label: "Đăng Ký Ngay"
         url: https://forms.gle/hJuC49WYqPv39qcS7
@@ -32,10 +33,12 @@ yoga-bau-vuot-can-thu-ngo:
     title: "Thư Ngỏ"
     excerpt: >-
       Chào bạn, mình là Linh.<br><br>
-      Mình vẫn nhớ như in những đêm cuối thai kỳ - khi trằn trọc vì đau bụng, khó thở, và có khi tự hỏi: "Liệu mình có làm được không?"<br><br>
-      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn** - không chỉ là những bài tập, mà là hành trình đồng hành thực sự. Một không gian an toàn nơi bạn được lắng nghe, được hướng dẫn, và được trao quyền để tin vào chính mình.<br><br>
-      Mình tin rằng mỗi người mẹ đều mang trong mình sức mạnh phi thường. Đôi khi, chúng ta chỉ cần một người nhắc nhở mình về điều đó.<br><br>
-      ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn.***
+      Mình vẫn nhớ như in những lúc mình luyện tập cơ sàn chậu khi mất ngủ đêm tam cá nguyệt 3, lúc vận hành hơi thở trong lúc rặn đẻ.
+      Rồi sinh xong không thuốc giảm đau chỉ sau 3.5 tiếng, mình trải qua hành trình hồi phục sau sinh rất hoang mang và chính hơi thở, thực hành luyện tập thiền, yoga đã giúp vực mình dậy.
+      Mình luôn tự hỏi: "Nếu những mẹ ngoài kia không biết những bài tập này thì sẽ đi đẻ ra sao, hồi phục sau sinh sẽ khó khăn đến thế nào?"<br><br>
+      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn** - không chỉ là những bài tập, mà là hành trình đồng hành thực sự trước, trong lúc sinh và  ngay sau sinh. Hành trình gồm những kĩ năng thực tế có thể áp dụng được luôn, hiệu quả tức thì để giúp mẹ được trao quyền sinh nở, hồi phục nhanh chóng để tin vào chính mình.<br><br>
+      Mình tin rằng mỗi người mẹ đều mang trong mình sức mạnh phi thường nhưng không phải ai cũng tận dụng được sức mạnh đó tối đa, nó thật là uổng phí<br><br>
+      ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn khơi dậy sức mạnh đấy.***
     url: /khoa-hoc/yoga-bau-vuot-can/#v%E1%BB%81-linh
     btn_label: "Đọc Thêm Về Linh"
     btn_class: "btn--yoga"
@@ -45,7 +48,7 @@ yoga-bau-vuot-can-loi-ich:
       Biết cách tránh và giảm các triệu chứng thai kỳ như chuột rút, khó thở, đau lưng ... giúp ngủ ngon, bớt phù nề 😊<br><br>
   - excerpt: >-
       🤰 **Biết cách tập an toàn**<br>
-      Hiểu rõ giải phẫu cơ thể, vì sao cần tập những động tác đúng và hiệu quả😊<br><br>
+      Hiểu rõ giải phẫu cơ thể, vì sao cần tập những động tác đúng và hiệu quả chuẩn bị lâm bồn😊<br><br>
   - excerpt: >-
       🙆‍♀️ **Tập đúng cơ sinh nở dễ dàng**<br>
       Biết cách tập rút ngắn thời gian rặn để, giảm thiếu các nguy cơ rách rạch tầng sinh môn.<br><br>
@@ -54,7 +57,7 @@ yoga-bau-vuot-can-loi-ich:
       Học 3 kiểu thở khác nhau để giảm "đau đẻ", tránh kiệt sức cho mẹ sinh thường.<br><br>
   - excerpt: >-
       ♥️ **Giải mã và phá tan niềm tin giới hạn "sợ đẻ"**<br>
-      Tự tin hơn đi khi đẻ và kết nối với con sâu sắc hơn.<br><br>
+      Xoá bỏ nỗi sợ đi đẻ, tự tin hơn đi khi đẻ và kết nối với con sâu sắc hơn.<br><br>
   - excerpt: >-
       📄 **Hiểu và được hỗ trợ cách chăm sóc bản thân mình sau sinh**<br>
       Tự trang bị cho bản thân kiến thức "chăm" mình trong giai đoạn "đau khổ" nhất.<br><br>
@@ -127,13 +130,16 @@ testimonial_images:
 
 Ví dụ điển hình:
 
-- Mẹ bầu hiện đại, muốn hiểu cặn kẽ cơ chế hoạt động của cơ thể & cách để luyện tập, giúp sinh thường tốt nhất
+- Mẹ bầu từ tuần 20 trở đi muốn chủ động trong hành trình sinh nở.
 - Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở
 - Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu
+- Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.
+- Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.
+- Và cuối cùng những ai muốn cảm thấy “Mình đã chuẩn bị đủ”, không chỉ thể chất mà cả tinh thần.
 
 ## Lộ Trình Học Tập
 
-👉 Mỗi tuần chỉ 2–3 video, tập lúc nào cũng được – miễn là đúng & đều 💛.
+👉 Mỗi tuần chỉ 2–3 bài tập lý thuyết & thực hành, tập lúc nào cũng được – miễn là đúng & đều 💛.
 
 {% include feature_row id="yoga-bau-vuot-can-lo-trinh-week12" type="left" %}
 
@@ -145,7 +151,7 @@ Ví dụ điển hình:
 
 ## 🌟 Hành trình không kết thúc ở ngày sinh 🌟
 
-**​Yoga Bầu Vượt Cạn** không chỉ đồng hành cùng bạn đến ngày sinh, mà còn để lại trong bạn:
+**​Yoga Bầu Vượt Cạn** không chỉ đồng hành cùng bạn đến ngày sinh, mà còn giúp bạn rèn luyện kĩ năng lâu dài:
 
 - Kỹ năng lắng nghe và kết nối với cơ thể - điều sẽ giúp bạn hồi phục nhanh chóng sau sinh.
 - Khả năng thở sâu và giữ bình tĩnh - công cụ vô giá trong những đêm dài chăm con.
@@ -222,14 +228,14 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Tặng Kèm: Bài tập giúp gỉai mã tâm lý đi đẻ hiện giờ & thiết lập tâm lý mới, tăng khả năng sinh thường. Trị Giá (500,000đ)</li>
-        <li>Tặng Kèm: Bài tập thực hành 5 Ngày, giảm trầm cảm cho mẹ sau sinh. Trị Giá (500,000đ)</li>
+        <li>Thực Hành gỉai mã tâm lý đi đẻ hiện giờ & thiết lập tâm lý mới, tăng khả năng sinh thường. Trị Giá (500,000đ)</li>
+        <li>Thực Hành Thiền & Journalling giảm trầm cảm cho mẹ ngay sau sinh. Trị Giá (500,000đ)</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Tặng Kèm: Bài tập giúp gỉai mã tâm lý đi đẻ hiện giờ & thiết lập tâm lý mới vững chắc hơn. Trị Giá (500,000đ)</li>
-        <li>Tặng Kèm: Bài tập thực hành 5 Ngày, giảm trầm cảm cho mẹ sau sinh. Trị Giá (500,000đ)</li>
+        <li>Thực Hành gỉai mã tâm lý đi đẻ hiện giờ & thiết lập tâm lý mới, tăng khả năng sinh thường. Trị Giá (500,000đ)</li>
+        <li>Thực Hành Thiền & Journalling giảm trầm cảm cho mẹ ngay sau sinh. Trị Giá (500,000đ)</li>
       </ul>
     </td>
   </tr>
@@ -254,8 +260,8 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
   </tr>
   <tr>
     <td> Mức Đầu Tư </td>
-    <td style="text-align: center;"><strong style="color: green;">1.800.000đ</strong><strong style="color: red;"> (Trị Giá: 2.300.000đ)</strong></td>
-    <td style="text-align: center;"><strong style="color: green;">2.500.000đ</strong><strong style="color: red;"> (Trị Giá: 3.000.000đ)</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">2.000.000đ</strong><strong style="color: red;"> (Trị Giá: 2.300.000đ)</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">2.700.000đ</strong><strong style="color: red;"> (Trị Giá: 3.000.000đ)</strong></td>
     <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong><strong style="color: red;"> (Trị Giá: 5.000.000đ)</strong></td>
   </tr>
   <tr>
@@ -271,7 +277,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
 - 70% Lý Thuyết, 30% Thực Hành
 - Giúp mẹ nắm qua những kĩ năng cơ bản để sinh thường
 - Phù hợp cho mẹ từ tuần 35 trở đi, hoặc mẹ đã tập Yoga ở chỗ khác và chỉ cần bổ sung kỹ thuật chuẩn
-- Mức Đầu Tư: 1.100,000đ
+- Mức Đầu Tư: 1.400,000đ
 
 **_Lưu Ý: Gói Toàn Diện & VIP : Nhận tối đa 10 mẹ bầu đăng ký mỗi tháng để đảm bảo chất lượng đồng hành 1:1!_**
 
@@ -366,26 +372,22 @@ Lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương
   <p>Cho mình được cùng bạn bước đi trên hành trình ấy.</p>
 </details>
 
-## Bạn Muốn Được Hỗ Trợ Thêm?
+## Ngoài Ra, Bạn Có Thể Học Thử Khoá Học Tại Đây
 
-Làm TEST nhanh 3 phút kiểm tra mức độ sinh thường (cho mẹ từ tuần 20 trở đi). Mình sẽ tư vấn cho bạn lộ trình 2 bước tiếp theo
+### 3 Động Tác Yoga Bầu Giúp Mẹ Sinh Thường Nhanh & Nhẹ Hơn
+
+{% include youtube_embed.html id="v=r3JQpm1FVyQ" %}
+
+### Cách Ngồi Của Mẹ Bầu Để Tránh Rặn Đẻ Kéo Dài
+
+{% include youtube_embed.html id="v=PdqnI9-HSHk" %}
+
+## TEST nhanh 3 phút kiểm tra mức độ sinh thường
+
+Làm TEST nhanh 3 phút kiểm tra mức độ sinh thường (cho mẹ từ tuần 20 trở đi). 
 [Làm Test Ngay](<[https://www.facebook.com/ngoclinhdnl/](https://yogacunglinhanh.com/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/)>){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
-## Ngoài Ra, Bạn Có Thể Học Thử 2 Video Bài Giảng Tại Đây
+## Nhóm Facebook Bầu & Sau Sinh
 
-### Vị Trí Tối Ưu Của Em Bé Là Gì?
-
-{% include youtube_embed.html id="PdqnI9-HSHk" %}
-
-### Cơ Sàn Chậu 101
-
-{% include youtube_embed.html id="XbR-RpYR0_w" %}
-
-### Đi Đẻ Nên Mang Gì Cho Bản Thân?
-
-{% include youtube_embed.html id="N6hogXUaD88" %}
-
-## Muốn Quan Sát/Học Hỏi Trước?
-
-Tham Gia Nhóm Yoga Trước & Sau Sinh bằng cách trả lời 3 câu hỏi ngắn.
+Mình giải đáp nhiều câu hỏi của các mẹ bầu & mẹ sau sinh trong nhóm, tham Gia Nhóm Yoga Trước & Sau Sinh bằng cách trả lời 3 câu hỏi ngắn.
 [Tham Gia Nhóm](https://www.facebook.com/groups/yogabau.linhanh){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
