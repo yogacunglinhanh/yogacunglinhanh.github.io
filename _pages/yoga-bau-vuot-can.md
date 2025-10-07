@@ -8,8 +8,8 @@ yoga-bau-vuot-can-intro:
     title: "Khoá Yoga Bầu Vượt Cạn"
     excerpt: >-
       Mẹ yêu ơi,<br><br>
-      Khoá học này không chỉ dạy mẹ những động tác yoga đâu. Nó hơn thế nhiều<br>
-      Mà là 1 hành trình toàn diện từ cơ thể, tinh thần, hơi thở lẫn những cơ quan trọng cho sinh thường, giúp mẹ chuẩn bị từng bước cho 1 ca sinh chủ động, bình tĩnh và đầy yêu thương.<br><br>
+      Khoá học này không chỉ dạy mẹ những động tác yoga đâu, nó hơn thế nhiều<br>
+      Nó là 1 hành trình toàn diện từ cơ thể, tinh thần, hơi thở lẫn những cơ quan trọng cho sinh thường, giúp mẹ chuẩn bị từng bước cho 1 ca sinh chủ động, bình tĩnh và đầy yêu thương.<br><br>
       Mỗi bài tập, mỗi kỹ thuật thở đều được thiết kế để<br>
       • Giảm đau lưng, phù nề, mệt mỏi đặc biệt trong giai đoạn cuối bầu<br>
       • Nắm vững những kĩ thuật thở, tư thế, kết nối cơ sàn chậu để vận dụng lúc sinh nở<br>
@@ -33,8 +33,8 @@ yoga-bau-vuot-can-thu-ngo:
     title: "Thư Ngỏ"
     excerpt: >-
       Chào bạn, mình là Linh.<br><br>
-      Mình vẫn nhớ như in những lúc mình luyện tập cơ sàn chậu khi mất ngủ đêm tam cá nguyệt 3, lúc vận hành hơi thở trong lúc rặn đẻ.
-      Rồi sinh xong không thuốc giảm đau chỉ sau 3.5 tiếng, mình trải qua hành trình hồi phục sau sinh rất hoang mang và chính hơi thở, thực hành luyện tập thiền, yoga đã giúp vực mình dậy.
+      Mình vẫn nhớ như in những lúc mình luyện tập cơ sàn chậu khi mất ngủ đêm tam cá nguyệt 3, lúc vận hành hơi thở trong lúc rặn đẻ.<br>
+      Rồi sinh xong không thuốc giảm đau chỉ sau 3.5 tiếng, mình trải qua hành trình hồi phục sau sinh rất hoang mang và chính hơi thở, thực hành luyện tập thiền, yoga đã giúp vực mình dậy.<br><br>
       Mình luôn tự hỏi: "Nếu những mẹ ngoài kia không biết những bài tập này thì sẽ đi đẻ ra sao, hồi phục sau sinh sẽ khó khăn đến thế nào?"<br><br>
       Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn** - không chỉ là những bài tập, mà là hành trình đồng hành thực sự trước, trong lúc sinh và  ngay sau sinh. Hành trình gồm những kĩ năng thực tế có thể áp dụng được luôn, hiệu quả tức thì để giúp mẹ được trao quyền sinh nở, hồi phục nhanh chóng để tin vào chính mình.<br><br>
       Mình tin rằng mỗi người mẹ đều mang trong mình sức mạnh phi thường nhưng không phải ai cũng tận dụng được sức mạnh đó tối đa, nó thật là uổng phí<br><br>
