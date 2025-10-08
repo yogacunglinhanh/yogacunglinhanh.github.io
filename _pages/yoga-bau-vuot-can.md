@@ -8,12 +8,12 @@ yoga-bau-vuot-can-mebau-dienhinh:
     title: "Khoá Yoga Bầu Vượt Cạn"
     excerpt: >-
       Bạn là 1 trong những người thế này,<br><br>
-- Mẹ bầu từ tuần 20 trở đi muốn chủ động trong hành trình sinh nở.<br>
-- Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở<br>
-- Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu<br>
-- Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.<br>
-- Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br>
- Bạn đã tìm đến đúng chỗ :)
+      * Mẹ bầu từ tuần 20 trở đi muốn chủ động trong hành trình sinh nở.<br>
+      * Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở<br>
+      * Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu<br>
+      * Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.<br>
+      * Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br>
+      Bạn đã tìm đến đúng chỗ :)
     buttons:
       - label: "Đăng Ký Ngay"
         url: https://forms.gle/hJuC49WYqPv39qcS7
