@@ -2,28 +2,7 @@
 layout: splash
 title: "Yoga Bầu Vượt Cạn"
 permalink: /khoa-hoc/yoga-bau-vuot-can/
-yoga-bau-vuot-can-mebau-dienhinh:
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-cover.jpg
-    alt: "Khoá Yoga Bầu Vượt Cạn"
-    title: "Khoá Yoga Bầu Vượt Cạn"
-    excerpt: >-
-      Bạn là 1 trong những người thế này,<br><br>
-      * Mẹ bầu từ tuần 20 trở đi muốn chủ động trong hành trình sinh nở.<br>
-      * Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở<br>
-      * Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu<br>
-      * Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.<br>
-      * Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br>
-      Bạn đã tìm đến đúng chỗ :)
-    buttons:
-      - label: "Đăng Ký Ngay"
-        url: https://forms.gle/hJuC49WYqPv39qcS7
-        class: "btn--yoga"
-      - label: "Xem Lộ Trình"
-        url: /khoa-hoc/yoga-bau-vuot-can/#l%E1%BB%99-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp
-        class: "btn--explore"
-      - label: "Xem Các Gói Học"
-        url: /khoa-hoc/yoga-bau-vuot-can/#m%E1%BB%A9c-%C4%91%E1%BA%A7u-t%C6%B0
-        class: "btn--buy"
+  
 yoga-bau-vuot-can-thu-ngo:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-thu-ngo.jpg
     alt: "Thư Ngỏ"
@@ -54,7 +33,18 @@ yoga-bau-vuot-can-intro:
       • Nắm vững cách cơ thể vận hành trước, trong lúc sinh và sau sinh <br><br>
       Nếu mẹ đang cần một ai đó đồng hành – mình ở đây.<br>
       Cùng mẹ đi sâu trong hành trình này đầy sức mạnh.
-    
+
+    buttons:
+      - label: "Đăng Ký Ngay"
+        url: https://forms.gle/hJuC49WYqPv39qcS7
+        class: "btn--yoga"
+      - label: "Xem Lộ Trình"
+        url: /khoa-hoc/yoga-bau-vuot-can/#l%E1%BB%99-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp
+        class: "btn--explore"
+      - label: "Xem Các Gói Học"
+        url: /khoa-hoc/yoga-bau-vuot-can/#m%E1%BB%A9c-%C4%91%E1%BA%A7u-t%C6%B0
+        class: "btn--buy"
+        
 yoga-bau-vuot-can-loi-ich:
   - excerpt: >-
       🤰 Biết cách tránh và giảm các triệu chứng thai kỳ như chuột rút, khó thở, đau lưng ... giúp ngủ ngon, bớt phù nề <br><br>
@@ -116,13 +106,15 @@ testimonial_images:
 
 <!-- markdownlint-disable MD033 -->
 
+## Bạn có phải là....
+
 {% include feature_row id="yoga-bau-vuot-can-danh-cho-ai" %}
 
   * Mẹ bầu từ tuần 20 trở đi muốn chủ động trong hành trình sinh nở.<br>
   * Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở<br>
   * Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu<br>
   * Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.<br>
-  * Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br>
+  * Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br><br>
   Bạn đã tìm đến đúng chỗ :)
 
 {% include feature_row id="yoga-bau-vuot-can-thu-ngo" type="left" %}
@@ -132,8 +124,6 @@ testimonial_images:
 ## Lợi Ích Khi Tham Gia Khoá Học
 
 {% include feature_row id="yoga-bau-vuot-can-loi-ich" %}
-
-## Khoá Học Này Dành Cho Ai
 
 ## Lộ Trình Học Tập
 
