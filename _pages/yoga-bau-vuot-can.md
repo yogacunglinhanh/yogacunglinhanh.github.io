@@ -374,7 +374,7 @@ Làm TEST nhanh 3 phút kiểm tra mức độ sinh thường (cho mẹ từ tu�
 Mình giải đáp nhiều câu hỏi của các mẹ bầu & mẹ sau sinh trong nhóm, tham Gia Nhóm Yoga Trước & Sau Sinh bằng cách trả lời 3 câu hỏi ngắn.
 [Tham Gia Nhóm](https://www.facebook.com/groups/yogabau.linhanh){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
-## Ngoài Ra, Bạn Có Thể Học Thử Khoá Học Tại Đây
+## Ngoài Ra, Bạn Có Thể Học Thử Khoá Học - Mình Trích 1 Số Bài Học Ở Dưới Đây
 
 ### 3 Động Tác Yoga Bầu Giúp Mẹ Sinh Thường Nhanh & Nhẹ Hơn
 
