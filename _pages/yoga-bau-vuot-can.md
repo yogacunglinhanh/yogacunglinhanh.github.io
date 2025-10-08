@@ -9,10 +9,11 @@ yoga-bau-vuot-can-thu-ngo:
     title: "Thư Ngỏ"
     excerpt: >-
       Chào bạn, mình là Linh.<br><br>
-      Mình vẫn nhớ như in những đêm mất ngủ, đi tiểu đêm nhiều nằm tập thở và cơ sàn chậu<br>
-      Rồi giây phút sinh bé không cần thuốc giảm đau và đẻ sau chỉ sau 3.5 tiếng <br>. Hay cả 3-4 tháng trời vật lộn làm quen với vai trò người mẹ nhưng nhìn cơ thể tiều tuỳ, kiệt sức.<br><br>
-      Mình luôn tự hỏi: "Nếu những mẹ ngoài kia không biết những bài tập thở, thiền, cơ sàn chậu thì sẽ đi đẻ ra sao, hồi phục sau sinh sẽ khó khăn đến thế nào?"<br><br>
-      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, đồng hành với mẹ trước, trong lúc sinh và  ngay sau sinh.<br><br>
+      Mình vẫn nhớ như in những đêm mất ngủ, đi tiểu đêm nhiều nằm tập thở và cơ sàn chậu. 
+      Rồi giây phút sinh bé không cần thuốc giảm đau và đẻ sau chỉ sau 3.5 tiếng. Hay cả 3-4 tháng trời vật lộn làm quen với vai trò người mẹ. Tuy đã thực hành rất nhiều Yoga, thở, thiền nhưng vẫn nhiều lúc cảm thấy kiệt sức, và bản thân oà khóc.<br><br>
+      Mình luôn tự hỏi: "Nếu những mẹ ngoài kia không biết những bài tập như mình thì sẽ đi đẻ ra sao, hồi phục sau sinh sẽ khó khăn đến thế nào?"<br><br>
+      Và tại sao Yoga bầu chỉ dừng lại ở những động tác, mà không thêm kiến thức tâm lý, sinh nở hay cả phục hồi sau sinh để cho nó thực tế hơn, để mẹ được chuẩn bị kỹ càng hơn.
+      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, đồng hành với mẹ TOÀN DIỆN, trước, trong lúc sinh và ngay sau sinh.<br><br>
       Mình tin rằng mỗi người mẹ đều mang trong mình sức mạnh phi thường nhưng không phải ai cũng tận dụng được sức mạnh đó tối đa, nó thật là uổng phí<br><br>
       ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn khơi dậy sức mạnh đấy.***
     url: /khoa-hoc/yoga-bau-vuot-can/#v%E1%BB%81-linh
@@ -28,8 +29,8 @@ yoga-bau-vuot-can-intro:
       Yoga Vượt Cạn là 1 hành trình toàn diện từ cơ thể, tinh thần, hơi thở .., từ trước, trong và ngay sau sinh, giúp mẹ chuẩn bị từng bước cho 1 ca sinh chủ động, bình tĩnh và nhẹ nhàng nhất có thể.<br><br>
       Mỗi kiến thức, mỗi kỹ thuật trong khoá đều được thiết kế để giúp mẹ bầu<br>
       • Giảm đau lưng, phù nề, mệt mỏi đặc biệt trong giai đoạn cuối bầu<br>
-      • Xoá bỏ những sự lăn tăn & lo lắng trước khi sinh <br><br>
-      • Sinh nhanh, dễ dàng và an toàn hơn <br><br>
+      • Xoá bỏ những sự lăn tăn & lo lắng trước khi sinh <br>
+      • Sinh nhanh, dễ dàng và an toàn hơn <br>
       • Và đích đến là hồi phục sau sinh nhanh chóng <br><br>
 
     buttons:
