@@ -9,10 +9,10 @@ yoga-bau-vuot-can-thu-ngo:
     title: "Thư Ngỏ"
     excerpt: >-
       Chào bạn, mình là Linh.<br><br>
-      Mình vẫn nhớ như in những lúc mình luyện tập cơ sàn chậu khi mất ngủ đêm tam cá nguyệt 3, lúc vận hành hơi thở trong lúc rặn đẻ.<br>
-      Rồi sinh xong không thuốc giảm đau chỉ sau 3.5 tiếng, mình trải qua hành trình hồi phục sau sinh rất hoang mang và chính hơi thở, thực hành luyện tập thiền, yoga đã giúp vực mình dậy.<br><br>
-      Mình luôn tự hỏi: "Nếu những mẹ ngoài kia không biết những bài tập này thì sẽ đi đẻ ra sao, hồi phục sau sinh sẽ khó khăn đến thế nào?"<br><br>
-      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn** - không chỉ là những bài tập, mà là hành trình đồng hành thực sự trước, trong lúc sinh và  ngay sau sinh. Hành trình gồm những kĩ năng thực tế có thể áp dụng được luôn, hiệu quả tức thì để giúp mẹ được trao quyền sinh nở, hồi phục nhanh chóng để tin vào chính mình.<br><br>
+      Mình vẫn nhớ như in những đêm mất ngủ, đi tiểu đêm nhiều nằm tập thở và cơ sàn chậu<br>
+      Rồi giây phút sinh bé không cần thuốc giảm đau và đẻ sau chỉ sau 3.5 tiếng <br>. Hay cả 3-4 tháng trời vật lộn làm quen với vai trò người mẹ nhưng nhìn cơ thể tiều tuỳ, kiệt sức.<br><br>
+      Mình luôn tự hỏi: "Nếu những mẹ ngoài kia không biết những bài tập thở, thiền, cơ sàn chậu thì sẽ đi đẻ ra sao, hồi phục sau sinh sẽ khó khăn đến thế nào?"<br><br>
+      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, đồng hành với mẹ trước, trong lúc sinh và  ngay sau sinh.<br><br>
       Mình tin rằng mỗi người mẹ đều mang trong mình sức mạnh phi thường nhưng không phải ai cũng tận dụng được sức mạnh đó tối đa, nó thật là uổng phí<br><br>
       ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn khơi dậy sức mạnh đấy.***
     url: /khoa-hoc/yoga-bau-vuot-can/#v%E1%BB%81-linh
@@ -24,15 +24,13 @@ yoga-bau-vuot-can-intro:
     alt: "Khoá Yoga Bầu Vượt Cạn"
     title: "Khoá Yoga Bầu Vượt Cạn"
     excerpt: >-
-      Khoá học này không chỉ dạy mẹ những động tác yoga đâu, nó hơn thế nhiều<br>
-      Nó là 1 hành trình toàn diện từ cơ thể, tinh thần, hơi thở lẫn những cơ quan trọng cho sinh thường, giúp mẹ chuẩn bị từng bước cho 1 ca sinh chủ động, bình tĩnh và đầy yêu thương.<br><br>
-      Mỗi bài tập, mỗi kỹ thuật thở đều được thiết kế để<br>
+      Yoga Vượt Cạn không phải là 1 khoá Yoga bầu, vì bạn biết không tập yoga bầu không thì không có đủ.<br>
+      Yoga Vượt Cạn là 1 hành trình toàn diện từ cơ thể, tinh thần, hơi thở .., từ trước, trong và ngay sau sinh, giúp mẹ chuẩn bị từng bước cho 1 ca sinh chủ động, bình tĩnh và nhẹ nhàng nhất có thể.<br><br>
+      Mỗi kiến thức, mỗi kỹ thuật trong khoá đều được thiết kế để giúp mẹ bầu<br>
       • Giảm đau lưng, phù nề, mệt mỏi đặc biệt trong giai đoạn cuối bầu<br>
-      • Nắm vững những kĩ thuật thở, tư thế, kết nối cơ sàn chậu để vận dụng lúc sinh nở<br>
       • Xoá bỏ những sự lăn tăn & lo lắng trước khi sinh <br><br>
-      • Nắm vững cách cơ thể vận hành trước, trong lúc sinh và sau sinh <br><br>
-      Nếu mẹ đang cần một ai đó đồng hành – mình ở đây.<br>
-      Cùng mẹ đi sâu trong hành trình này đầy sức mạnh.
+      • Sinh nhanh, dễ dàng và an toàn hơn <br><br>
+      • Và đích đến là hồi phục sau sinh nhanh chóng <br><br>
 
     buttons:
       - label: "Đăng Ký Ngay"
@@ -49,7 +47,7 @@ yoga-bau-vuot-can-loi-ich:
   - excerpt: >-
       🤰 Biết cách tránh và giảm các triệu chứng thai kỳ như chuột rút, khó thở, đau lưng ... giúp ngủ ngon, bớt phù nề <br><br>
   - excerpt: >-
-      🤰 Hiểu rõ giải phẫu cơ thể, vì sao cần tập những động tác đúng và hiệu quả chuẩn bị lâm bồn😊<br><br>
+      🤰 Hiểu rõ giải phẫu cơ thể, vì sao cần tập những động tác đúng và hiệu quả chuẩn bị giây phút linh thiêng - lâm bồn😊<br><br>
   - excerpt: >-
       🙆‍♀️ Biết cách tập rút ngắn thời gian rặn để, giảm thiếu các nguy cơ rách rạch tầng sinh môn.<br><br>
   - excerpt: >-
@@ -57,14 +55,15 @@ yoga-bau-vuot-can-loi-ich:
   - excerpt: >-
       ♥️ Xoá bỏ nỗi sợ đi đẻ, tự tin hơn đi khi đẻ và kết nối với con sâu sắc hơn.<br><br>
   - excerpt: >-
-      📄 Kiến thức "chăm" mình trong giai đoạn "đau khổ" nhất.<br><br>
+      📄 Kiến thức "chăm" bản cơ thể (cơ sàn chậu, bụng sau sinh) trong giai đoạn "đau khổ" nhất.<br><br>
 
 yoga-bau-vuot-can-lo-trinh-week12:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week1.jpg
     alt: "Giai Đoạn 1: Chuẩn Bị Nền Tảng (2 tuần)"
     title: "Giai Đoạn 1: Chuẩn Bị Nền Tảng (2 tuần)"
     excerpt: >-
-      <li>Giới thiệu về yoga bầu, lợi ích và các nguyên tắc vàng tập Yoga để đảm bảo an toàn cho mẹ và bé.</li>
+      <li>Giới thiệu về cách đi đứng ngồi của mẹ bầu, yoga bầu, và cách tập an toàn cho mẹ và bé.</li>
+      <li>Hiểu về 5 giai đoạn đi đẻ để biết nên tập gì trong những tuần tới.</li>
       <li>Tập trung hiểu & tập vùng đáy chậu → giảm rách tầng sinh môn, giảm són tiểu, phục hồi nhanh sau sinh.</li>
 yoga-bau-vuot-can-lo-trinh-week3456:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week345.jpg
@@ -72,8 +71,8 @@ yoga-bau-vuot-can-lo-trinh-week3456:
     title: "Giai Đoạn 2: Tập Trung Luyện Thân & Thở (4 tuần)"
     excerpt: >-
       <li>Các kỹ thuật thở & bài tập giúp mẹ đối mặt với việc đau lưng, phù nề, đau hông trong thai kỳ.</li>
-      <li>Học cách kết nối với em bé.</li>
       <li>Học cách thở để giảm đau lúc đẻ và rút ngắn giai đoạn "rặn đẻ".</li>
+      <li>Luyện tập thân thể để tăng cường sức khoẻ, chuẩn bị sức bền khi sinh.</li>
 yoga-bau-vuot-can-lo-trinh-week789:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week89.jpg
     alt: "Giai Đoạn 3: Chuẩn Bị Sinh & Về Đích (4 tuần)"
@@ -360,6 +359,16 @@ Lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương
   <p>Cho mình được cùng bạn bước đi trên hành trình ấy.</p>
 </details>
 
+## TEST nhanh 3 phút kiểm tra mức độ sinh thường
+
+Làm TEST nhanh 3 phút kiểm tra mức độ sinh thường (cho mẹ từ tuần 20 trở đi). 
+[Làm Test Ngay](<[https://www.facebook.com/ngoclinhdnl/](https://yogacunglinhanh.com/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/)>){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+
+## Nhóm Facebook Bầu & Sau Sinh
+
+Mình giải đáp nhiều câu hỏi của các mẹ bầu & mẹ sau sinh trong nhóm, tham Gia Nhóm Yoga Trước & Sau Sinh bằng cách trả lời 3 câu hỏi ngắn.
+[Tham Gia Nhóm](https://www.facebook.com/groups/yogabau.linhanh){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+
 ## Ngoài Ra, Bạn Có Thể Học Thử Khoá Học Tại Đây
 
 ### 3 Động Tác Yoga Bầu Giúp Mẹ Sinh Thường Nhanh & Nhẹ Hơn
@@ -370,14 +379,8 @@ Lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương
 
 {% include youtube_embed.html id="PdqnI9-HSHk" %}
 
+### 1 Thứ Mẹ Bầu Ước Đã Mang Theo Khi Đi Đẻ
+
+{% include youtube_embed.html id="N3oQ9w_OLeY" %}
+
 ### Lợi Ích Luyện Tập Yoga Bầu
-
-## TEST nhanh 3 phút kiểm tra mức độ sinh thường
-
-Làm TEST nhanh 3 phút kiểm tra mức độ sinh thường (cho mẹ từ tuần 20 trở đi). 
-[Làm Test Ngay](<[https://www.facebook.com/ngoclinhdnl/](https://yogacunglinhanh.com/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/)>){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
-
-## Nhóm Facebook Bầu & Sau Sinh
-
-Mình giải đáp nhiều câu hỏi của các mẹ bầu & mẹ sau sinh trong nhóm, tham Gia Nhóm Yoga Trước & Sau Sinh bằng cách trả lời 3 câu hỏi ngắn.
-[Tham Gia Nhóm](https://www.facebook.com/groups/yogabau.linhanh){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
