@@ -116,26 +116,24 @@ testimonial_images:
 
 <!-- markdownlint-disable MD033 -->
 
-{% include feature_row_custom.html id="yoga-bau-vuot-can-intro" type="right" %}
+{% include feature_row id="yoga-bau-vuot-can-danh-cho-ai" %}
+
+  * Mẹ bầu từ tuần 20 trở đi muốn chủ động trong hành trình sinh nở.<br>
+  * Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở<br>
+  * Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu<br>
+  * Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.<br>
+  * Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br>
+  Bạn đã tìm đến đúng chỗ :)
 
 {% include feature_row id="yoga-bau-vuot-can-thu-ngo" type="left" %}
+
+{% include feature_row_custom.html id="yoga-bau-vuot-can-intro" type="right" %}
 
 ## Lợi Ích Khi Tham Gia Khoá Học
 
 {% include feature_row id="yoga-bau-vuot-can-loi-ich" %}
 
 ## Khoá Học Này Dành Cho Ai
-
-{% include feature_row id="yoga-bau-vuot-can-danh-cho-ai" %}
-
-Ví dụ điển hình:
-
-- Mẹ bầu từ tuần 20 trở đi muốn chủ động trong hành trình sinh nở.
-- Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở
-- Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu
-- Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.
-- Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.
-- Và cuối cùng những ai muốn cảm thấy “Mình đã chuẩn bị đủ”, không chỉ thể chất mà cả tinh thần.
 
 ## Lộ Trình Học Tập
 
