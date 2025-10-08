@@ -178,7 +178,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
       <ul>
         <li>10 Tuần Tập Luyện Trước Sinh</li>
         <li>2 Tuần Sau Sinh (để mẹ xem trước khi sinh)</li>
-        <li>1 buổi zoom 30' Tập rượt trước khi sinh</li>
+        <li>1 buổi zoom 30' 1:1 theo nhu cầu</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
@@ -241,7 +241,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
     <td style="vertical-align: top;">
       <ul>
         <li>Được chỉnh sửa ảnh/video</li>
-        <li>1 buổi zoom 30' 1:1 tập rượt đi đẻ</li>
+        <li>1 buổi zoom 30' 1:1, để tập luyện/giải đáp thắc mắc hoặc chỉnh sửa theo yêu cầu</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
