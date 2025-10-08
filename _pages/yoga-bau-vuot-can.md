@@ -49,17 +49,17 @@ yoga-bau-vuot-can-intro:
         
 yoga-bau-vuot-can-loi-ich:
   - excerpt: >-
-      🤰 Biết cách tránh và giảm các triệu chứng thai kỳ như chuột rút, khó thở, đau lưng ... giúp ngủ ngon, bớt phù nề <br><br>
+      🤰 Biết cách đi đứng, ngồi hàng ngày ngay để giảm các triệu chứng thai kỳ như chuột rút, khó thở, đau lưng ... giúp ngủ ngon, bớt phù nề ngay trong 2 tuần học đầu tiên <br><br>
   - excerpt: >-
-      🤰 Hiểu rõ giải phẫu cơ thể, vì sao cần tập những động tác đúng và hiệu quả chuẩn bị giây phút linh thiêng - lâm bồn😊<br><br>
+      🤰 Hiểu rõ giải phẫu học cơ thể giúp mẹ biết mình cần tập gì, cho đúng, đủ tập trong thời gian có hạn😊<br><br>
   - excerpt: >-
-      🙆‍♀️ Biết cách tập rút ngắn thời gian rặn để, giảm thiếu các nguy cơ rách rạch tầng sinh môn.<br><br>
+      🗓️ Học 3 kiểu thở khác nhau để giảm "đau đẻ", giảm thiểu nguy cơ đẻ mổ hay có can thiệp y tế không cần thiết.<br><br>
   - excerpt: >-
-      🗓️ Học 3 kiểu thở khác nhau để giảm "đau đẻ", tránh kiệt sức cho mẹ sinh thường.<br><br>
+      🙆‍♀️ Biết cách tập rút ngắn thời gian rặn đẻ, giảm thiếu các nguy cơ rách rạch tầng sinh môn, giúp phục hồi cô bé nhanh hơn cho mẹ sinh thường.<br><br>
   - excerpt: >-
-      ♥️ Xoá bỏ nỗi sợ đi đẻ, tự tin hơn đi khi đẻ và kết nối với con sâu sắc hơn.<br><br>
+      ♥️ Xoá bỏ nỗi sợ đi đẻ, giúp mẹ tự tin đi đẻ, đặc biệt cần thiết cho mẹ bầu lần đầu hoặc mẹ đã có những trải nghiệm đi đẻ không tốt lần đầu.<br><br>
   - excerpt: >-
-      📄 Kiến thức "chăm" bản cơ thể (cơ sàn chậu, bụng sau sinh) trong giai đoạn "đau khổ" nhất.<br><br>
+      ♥️ Giáo viên đồng hành xuyên suốt trong vòng 1 năm để giúp trả lời câu, tư vấn khi cần bất cứ hỗ trợ gì.<br><br>
 
 yoga-bau-vuot-can-lo-trinh-week12:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week1.jpg
@@ -72,11 +72,12 @@ yoga-bau-vuot-can-lo-trinh-week12:
 yoga-bau-vuot-can-lo-trinh-week3456:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week345.jpg
     alt: "Giai Đoạn 2: Tập Trung Luyện Thân & Thở (4 tuần)"
-    title: "Giai Đoạn 2: Tập Trung Luyện Thân & Thở (4 tuần)"
+    title: "Giai Đoạn 2: Tập Trung Luyện Thân, Tâm lý & Thở (4 tuần)"
     excerpt: >-
       <li>Các kỹ thuật thở & bài tập giúp mẹ đối mặt với việc đau lưng, phù nề, đau hông trong thai kỳ.</li>
       <li>Học cách thở để giảm đau lúc đẻ và rút ngắn giai đoạn "rặn đẻ".</li>
       <li>Luyện tập thân thể để tăng cường sức khoẻ, chuẩn bị sức bền khi sinh.</li>
+      <li>Thực hành Thiền & Journalling.</li>
 yoga-bau-vuot-can-lo-trinh-week789:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week89.jpg
     alt: "Giai Đoạn 3: Chuẩn Bị Sinh & Về Đích (4 tuần)"
