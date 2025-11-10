@@ -388,4 +388,5 @@ Mình giải đáp nhiều câu hỏi của các mẹ bầu & mẹ sau sinh tron
 
 {% include youtube_embed.html id="N3oQ9w_OLeY" %}
 
-### Lợi Ích Luyện Tập Yoga Bầu
+### "Nhắc lại, đây không chỉ là khoá Yoga bầu. Bạn sẽ có được vô cùng nhiều kiến thức hữu ích khác ngoài Yoga. Mình gọi nó là khoá sinh nở thì đúng hơn :)" 
+- Mẹ Phương Hoàng, sinh lần đầu 35 Tuổi.  
