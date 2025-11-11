@@ -11,7 +11,6 @@ yoga-21-ngay-ket-noi-voi-co-the-intro:
       🧘‍♀️ Tập mỗi ngày 20–30 phút – nhẹ nhàng – đúng nhịp – không áp lực<br>
       ✨ Duy trì thói quen tập luyện sau khi hồi phục<br>
       📬 Mỗi ngày nhận 1 email dẫn dắt – không cần suy nghĩ phải bắt đầu từ đâu<br>
-      💬 Có nhóm kín đồng hành, động viên, hỏi – đáp<br>
     buttons:
       - label: "Chat Với Linh Ở Facebook Để Đăng Ký Ngay"
         url: https://www.facebook.com/ngoclinhdnl/
