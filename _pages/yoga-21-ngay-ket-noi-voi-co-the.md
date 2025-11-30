@@ -1,11 +1,11 @@
 ---
 layout: splash
-title: "Yoga Bầu Vượt Cạn"
+title: "Yoga 21 Ngày"
 permalink: /khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/
 yoga-21-ngay-ket-noi-voi-co-the-intro:
   - image_path: /assets/images/courses/yoga-21-ngay-ket-noi-voi-co-the-cover.png
-    alt: "21 Ngày Kết Nối Với Cơ Thể"
-    title: "21 Ngày Kết Nối Với Cơ Thể"
+    alt: "21 Ngày Kết Nối Với Cơ Thể Sau Sinh"
+    title: "21 Ngày Kết Nối Với Cơ Thể Sau Sinh"
     excerpt: >-
       **Dành cho mẹ sau sinh từ 6 tháng – đã phục hồi cơ bản – đang muốn quay lại với chính mình**<br><br>
       🧘‍♀️ Tập mỗi ngày 20–30 phút – nhẹ nhàng – đúng nhịp – không áp lực<br>
