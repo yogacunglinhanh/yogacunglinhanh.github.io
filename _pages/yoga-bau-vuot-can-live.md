@@ -64,7 +64,7 @@ yoga-bau-vuot-can-loi-ich:
       ♥️ Được chuẩn bị cả tâm lý sinh và giai đoạn sau sinh.<br><br>
   - excerpt: >-
       ♥️ Giáo viên đồng hành xuyên suốt trong vòng 1 năm để giúp trả lời câu, tư vấn khi cần bất cứ hỗ trợ gì.<br><br>
-- excerpt: >-
+  - excerpt: >-
       ♥️ Cộng đồng các mẹ trao đổi kiến thức, trải nghiệm bầu và nuôi con.<br><br>
 
 yoga-bau-vuot-can-lo-trinh-week12:
