@@ -3,7 +3,7 @@ layout: splash
 title: "Yoga Bầu Vượt Cạn"
 permalink: /khoa-hoc/yoga-bau-vuot-can-live/
 
-yoga-bau-vuot-can-thu-ngo:
+yoga-bau-vuot-can-live-thu-ngo:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-thu-ngo.jpg
     alt: "Thư Ngỏ"
     title: "Thư Ngỏ"
@@ -27,7 +27,7 @@ yoga-bau-vuot-can-thu-ngo:
     btn_label: "Đọc Thêm Về Linh"
     btn_class: "btn--yoga"
 
-yoga-bau-vuot-can-intro:
+yoga-bau-vuot-can-live-intro:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-cover.jpg
     alt: "Lớp Yoga Bầu Vượt Cạn"
     title: "Lớp Yoga Bầu Vượt Cạn"
@@ -45,7 +45,7 @@ yoga-bau-vuot-can-intro:
         url: https://forms.gle/hJuC49WYqPv39qcS7
         class: "btn--yoga"
       - label: "Xem Lộ Trình Đồng Hành"
-        url: /khoa-hoc/yoga-bau-vuot-can-live/#l%E1%BB%99-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp
+        url: /khoa-hoc/yoga-bau-vuot-can-live/#l%E1%BB%99-tr%C3%ACnh-t%E1%BA%ADp-luy%E1%BB%87n--%C4%91%E1%BB%93ng-h%C3%A0nh-12-tu%E1%BA%A7n
         class: "btn--explore"
       - label: "Xem Mức Đầu Tư"
         url: /khoa-hoc/yoga-bau-vuot-can-live/#m%E1%BB%A9c-%C4%91%E1%BA%A7u-t%C6%B0
@@ -119,7 +119,7 @@ testimonial_images:
 
 ## Bạn có phải là....
 
-{% include feature_row id="yoga-bau-vuot-can-danh-cho-ai" %}
+{% include feature_row id="yoga-bau-vuot-can-live-danh-cho-ai" %}
 
 - Mẹ bầu từ tuần 15 trở đi muốn chủ động trong hành trình sinh nở.<br>
 - Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở<br>
@@ -128,13 +128,13 @@ testimonial_images:
 - Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br><br>
   Bạn đã tìm đến đúng chỗ :)
 
-{% include feature_row id="yoga-bau-vuot-can-thu-ngo" type="left" %}
+{% include feature_row id="yoga-bau-vuot-can-live-thu-ngo" type="left" %}
 
-{% include feature_row_custom.html id="yoga-bau-vuot-can-intro" type="right" %}
+{% include feature_row_custom.html id="yoga-bau-vuot-can-live-intro" type="right" %}
 
 ## Lợi Ích Khi Tham Gia Khoá Học
 
-{% include feature_row id="yoga-bau-vuot-can-loi-ich" %}
+{% include feature_row id="yoga-bau-vuot-can-live-loi-ich" %}
 
 ## Hình Thức Học Hiện Tại
 
