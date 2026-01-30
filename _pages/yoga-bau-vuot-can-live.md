@@ -29,14 +29,12 @@ yoga-bau-vuot-can-live-intro:
     alt: "Lớp Yoga Bầu Vượt Cạn"
     title: "Lớp Yoga Bầu Vượt Cạn"
     excerpt: >-
-      Yoga Vượt Cạn không phải là 1 lớp học Yoga bầu, vì tập YOGA bầu không thì KHÔNG ĐỦ để sinh thường hoàn toàn đâu.<br>
-      Lớp Yoga Vượt Cạn là 1 hành trình toàn diện từ cơ thể, tinh thần, hơi thở .., từ trước, trong và ngay sau sinh, giúp mẹ chuẩn bị từng bước cho 1 ca sinh chủ động, bình tĩnh và nhẹ nhàng nhất có thể.<br><br>
-      Mỗi kiến thức, mỗi kỹ thuật trong khoá đều được thiết kế để giúp mẹ bầu<br>
+      Tập Yoga Bầu không là không đủ, bạn cần 1 hành trình toàn diện trước và sau sinh, thân thể và tinh thần. Đó chính là Yoga Vượt Cạn. Lớp được thiết kế để giúp mẹ bầu<br>
       • Tận hưởng những giây phút bầu thiêng liêng thay vì đau đớn vì đau lưng, phù nề<br>
       • Sinh nhanh, dễ dàng và an toàn hơn, thay vì phải có những can thiệp y tế không cần thiết và thiếu hiểu biết <br>
       • Và đích đến cuối cùng là hồi phục sau sinh nhanh chóng, để có thể dành trọn thời gian với con yêu mới sinh hoặc các bé lớn cho các mẹ sinh lần 2,3 <br><br>
 
-      Yoga Bầu Vượt Cạn giờ đây có thêm lớp LIVE nhóm nhỏ hàng tuần và sự đồng hành trực tiếp cùng Linh trong suốt hành trình chuẩn bị sinh.
+      Yoga Bầu Vượt Cạn giờ đây có thêm lớp LIVE nhóm nhỏ hàng tuần và sự đồng hành trực tiếp cùng Linh trong suốt hành trình chuẩn bị sinh.<br>
       Mẹ không chỉ học qua video, mà còn được tập cùng Linh, được chỉnh sửa trực tiếp và thêm các mẹ đồng hành.
 
     buttons:
@@ -142,67 +140,46 @@ testimonial_images:
 
 {% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week101112" type="left" %}
 
-## 🌟 Hành trình không kết thúc ở ngày sinh 🌟
-
-**​Yoga Bầu Vượt Cạn** không chỉ đồng hành cùng bạn đến ngày sinh, mà còn giúp bạn rèn luyện kĩ năng lâu dài:
-
-- Kỹ năng lắng nghe và kết nối với cơ thể - điều sẽ giúp bạn hồi phục nhanh chóng sau sinh.
-- Khả năng thở sâu và giữ bình tĩnh - công cụ vô giá trong những đêm dài chăm con.
-- Kiến thức để mẹ có thể "chăm" bản thân trong những tuần đầu sau sinh, cực kỳ quan trọng vì đến lúc đó mới tìm sự trợ giúp thì hơi muộn :)
-- Một cộng đồng những người mẹ đồng hành - nơi bạn có thể chia sẻ, học hỏi và trưởng thành cùng nhau.
-
-Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SINH RA một người mẹ mới - mạnh mẽ, tự tin và tràn đầy yêu thương.
-
-## 🌟 ⏳ Khi mẹ biết, mình có thể sinh thường, tự tin, mạnh mẽ và kết nối trọn vẹn với con hơn, đó là khi hành trình sinh nở này không chỉ sinh ra con, mà còn sinh ra mẹ, 1 người mẹ tràn đầy sức mạnh
-
-Mỗi tuần mẹ tập là thêm một tuần cơ thể khỏe hơn, tinh thần vững vàng hơn.
-
-Mỗi tuần trì hoãn là 1 tuần bỏ lỡ cơ hội cảm nhận rõ ràng sức mạnh bên trong mình.
-
-Hãy nhớ, khả năng sinh thường được quyết định từ những gì bạn làm bây giờ, không phải khi vào phòng sinh.
-
 ## Mức Đầu Tư
 
 4.500.000 VND - Gói Đồng Hành Toàn Diện Trọn Gói (FULL)
 
 Tóm tắt những gì mẹ sẽ nhận được:
 
-🎥 Toàn bộ khóa học video 12 tuần (học & luyện tập trong vòng 1 năm)
-• 10 tuần tập luyện trước sinh theo lộ trình rõ ràng
-• 2 tuần kiến thức và định hướng phục hồi sau sinh
-Mẹ có thể xem lại bất cứ lúc nào trong suốt nửa sau thai kỳ và cả giai đoạn đầu sau sinh, khi cơ thể cần được chăm sóc nhiều hơn.
+🎥 Toàn bộ khóa học video 12 tuần (học & luyện tập trong vòng 1 năm)<br>
+• 10 tuần tập luyện trước sinh theo lộ trình rõ ràng<br>
+• 2 tuần kiến thức và định hướng phục hồi sau sinh<br>
+Mẹ có thể xem lại bất cứ lúc nào trong suốt nửa sau thai kỳ và cả giai đoạn đầu sau sinh, khi cơ thể cần được chăm sóc nhiều hơn.<br>
 
-💛 Phần Chuẩn Bị Cho Ngày Sinh & Những Tuần Đầu Sau Sinh
-Giúp mẹ:
-• Biết cách thở và thư giãn để cơ thể không căng cứng khi chuyển dạ
-• Hiểu điều gì đang diễn ra trong các giai đoạn sinh để bớt hoảng sợ
-• Thực hành thiền giúp hệ thần kinh ổn định hơn — yếu tố ảnh hưởng trực tiếp đến cảm nhận đau khi sinh
-• Biết cách vận động cực nhẹ và kết nối lại với cơ thể trong những tuần đầu sau sinh
+💛 Phần Chuẩn Bị Cho Ngày Sinh & Những Tuần Đầu Sau Sinh<br>
+• Biết cách thở và thư giãn để cơ thể không căng cứng khi chuyển dạ<br>
+• Hiểu điều gì đang diễn ra trong các giai đoạn sinh để bớt hoảng sợ<br>
+• Thực hành thiền giúp hệ thần kinh ổn định hơn — yếu tố ảnh hưởng trực tiếp đến cảm nhận đau khi sinh<br>
+• Biết cách vận động cực nhẹ và kết nối lại với cơ thể trong những tuần đầu sau sinh<br><br>
 
-🧘‍♀️ 12 tuần đồng hành trực tiếp nhóm nhỏ cùng Linh
-• Chỉnh sửa động tác trực tiếp theo từng giai đoạn bụng lớn dần
-• Hỗ trợ các khó chịu thường gặp cuối thai kỳ như đau lưng, nặng bụng, mất ngủ
-• Không gian tập nhẹ nhàng giúp mẹ vừa vận động vừa thư giãn
-Đây là giai đoạn Linh "cầm tay" nhiều nhất. Hết 3 tháng, mẹ có thể tiếp tục đăng ký học live thôi tuỳ theo nhu cầu và số tuần còn lại của mẹ. 
+🧘‍♀️ 12 tuần đồng hành trực tiếp nhóm nhỏ cùng Linh<br>
+• Chỉnh sửa động tác trực tiếp theo từng giai đoạn bụng lớn dần<br>
+• Hỗ trợ các khó chịu thường gặp cuối thai kỳ như đau lưng, nặng bụng, mất ngủ<br>
+• Không gian tập nhẹ nhàng giúp mẹ vừa vận động vừa thư giãn<br>
+Đây là giai đoạn Linh "cầm tay" nhiều nhất. Hết 3 tháng, mẹ có thể tiếp tục đăng ký học live thôi tuỳ theo nhu cầu và số tuần còn lại của mẹ.<br> 
 
-💬 Hỗ trợ và tư vấn xuyên suốt trong quá trình tập (1 năm)
+💬 Hỗ trợ và tư vấn xuyên suốt trong quá trình tập (1 năm)<br>
 Khi cơ thể có thay đổi hoặc mẹ có băn khoăn, mẹ có thể nhắn cho Linh để được hướng dẫn điều chỉnh phù hợp hơn với tình trạng của mình. Và trên hết, Linh sẽ đồng hành tận cùng cho đến khi bạn hồi phục sau sinh. Giây phút sau sinh thực sự ít người quan tâm nhưng lúc đó là lúc mẹ "mỏng manh, dễ vỡ" nhất. Nếu có người đồng hành để hỏi han, chia sẻ, mình tin hành trình làm mẹ sẽ nhẹ nhàng hơn. 
 
 Mẹ được truy cập toàn bộ nội dung khóa học trong vòng 1 năm, để có thể xem lại trong suốt 6 tháng cuối thai kỳ và cả giai đoạn đầu sau sinh — khi việc chăm sóc bản thân trở nên quan trọng nhưng cũng khó sắp xếp nhất.
 
-Nếu mẹ còn 3 tháng là dự sinh, thì tính ra, chưa đến 900,000đ mỗi tháng để mẹ được chuẩn bị cả về cơ thể lẫn tinh thần cho hành trình sinh và những tháng đầu làm mẹ.
-Nếu mẹ còn 6 tháng là dự sinh, thì tính ra, chỉ tầm 550,000đ mỗi tháng để mẹ được chuẩn bị cả về cơ thể lẫn tinh thần cho hành trình sinh và những tháng đầu làm mẹ thui. Thế nên, càng học sớm càng có thể áp dụng kiến thức và được hỗ trợ nhiều, càng lời :) 
+Nếu mẹ còn 3 tháng là dự sinh, thì tính ra, chưa đến 900,000đ mỗi tháng để mẹ được chuẩn bị cả về cơ thể lẫn tinh thần cho hành trình sinh và những tháng đầu làm mẹ.<br>
+Nếu mẹ còn 6 tháng là dự sinh, thì tính ra, chỉ tầm 550,000đ mỗi tháng để mẹ được chuẩn bị cả về cơ thể lẫn tinh thần cho hành trình sinh và những tháng đầu làm mẹ thui.<br> Thế nên, càng học sớm càng có thể áp dụng kiến thức và được hỗ trợ nhiều, càng lời :) 
 
 
 ## Nếu mẹ đang tìm lựa chọn nhẹ hơn hoặc chuyên sâu hơn…
 
 🌿 Gói Nhẹ – Tập & Kiến Thức Cơ Bản
-
 (Phù hợp với mẹ chỉ muốn tập vận động và tìm hiểu phần nền tảng trước sinh)
 
-Bao gồm:
-• 12 buổi tập live nhóm nhỏ ở mức độ cơ bản
-• Lý thuyết cơ bản về cơ thể và nguyên tắc tập an toàn khi mang thai
+Bao gồm:<br>
+• 12 buổi tập live nhóm nhỏ<br>
+• Lý thuyết cơ bản về cơ thể và nguyên tắc tập an toàn khi mang thai<br>
 
 Không bao gồm phần chuẩn bị tâm lý sinh, thiền trước & sau sinh, và định hướng phục hồi sau sinh.
 
@@ -211,14 +188,15 @@ Mức đầu tư: 3.700.000đ
 
 🌟 Gói Kèm Riêng 1:1
 (Dành cho mẹ cần được theo sát hơn do thể trạng, sức khỏe hoặc mong muốn riêng)
-Bao gồm toàn bộ nội dung của chương trình Đồng Hành Vượt Cạn Toàn Diện, kèm thêm các buổi tập riêng 1:1 với Linh để điều chỉnh bài tập theo tình trạng cá nhân.
+
+Bao gồm:<br>
+• Toàn bộ nội dung của chương trình Đồng Hành Vượt Cạn Toàn Diện
+• Kèm thêm các buổi tập riêng 1:1, để điều chỉnh bài tập theo tình trạng cá nhân.
 👉 Phù hợp với mẹ cần sự theo sát đặc biệt về thể chất hoặc tinh thần.
 
 Mức đầu tư: 6.000.000đ
 
-**\_Ngoài ra, nếu mẹ không đủ thời gian tập lâu, hay không có tham gia được thời gian cố định, Linh cũng vẫn có lựa chọn học CẤP TỐC kiến thức và tập online để mẹ tập linh hoạt tại nhà.**
-
-Tất cả các gói có thời hạn 1 năm từ ngày bắt đầu.
+**Ngoài ra, nếu mẹ không đủ thời gian tập lâu, hay không có tham gia được thời gian cố định, Linh cũng vẫn có lựa chọn học CẤP TỐC kiến thức và tập online để mẹ tập linh hoạt tại nhà.**
 
 <div style="text-align: center;">
   <a href="https://forms.gle/hJuC49WYqPv39qcS7"
@@ -228,6 +206,15 @@ Tất cả các gói có thời hạn 1 năm từ ngày bắt đầu.
     Đăng Ký Ngay
   </a>
 </div>
+
+## 🌟 ⏳ Khi mẹ biết, mình có thể sinh thường, tự tin, mạnh mẽ và kết nối trọn vẹn với con hơn, đó là khi hành trình sinh nở này không chỉ sinh ra con, mà còn sinh ra mẹ, 1 người mẹ tràn đầy sức mạnh
+
+Mỗi tuần mẹ tập là thêm một tuần cơ thể khỏe hơn, tinh thần vững vàng hơn.
+
+Mỗi tuần trì hoãn là 1 tuần bỏ lỡ cơ hội cảm nhận rõ ràng sức mạnh bên trong mình.
+
+Hãy nhớ, khả năng sinh thường được quyết định từ những gì bạn làm bây giờ, không phải khi vào phòng sinh.
+
 
 ## Chia Sẻ Từ Các Học Viên Cũ
 
