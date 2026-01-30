@@ -135,6 +135,37 @@ testimonial_images:
 
 {% include feature_row id="yoga-bau-vuot-can-live-loi-ich" %}
 
+## Lộ Trình Tập Luyện & Đồng Hành 12 Tuần Video Quay Sẵn
+
+👉 Mỗi tuần chỉ 2–3 bài tập lý thuyết & thực hành, tập lúc nào cũng được – miễn là đúng & đều 💛. Ngoài các video học theo lộ trình dưới đây, mẹ còn tham gia các buổi LIVE nhóm nhỏ hàng tuần để được hướng dẫn và chỉnh sửa trực tiếp.
+
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week12" type="left" %}
+
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week3456" type="left" %}
+
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week789" type="left" %}
+
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week101112" type="left" %}
+
+## 🌟 Hành trình không kết thúc ở ngày sinh 🌟
+
+**​Yoga Bầu Vượt Cạn** không chỉ đồng hành cùng bạn đến ngày sinh, mà còn giúp bạn rèn luyện kĩ năng lâu dài:
+
+- Kỹ năng lắng nghe và kết nối với cơ thể - điều sẽ giúp bạn hồi phục nhanh chóng sau sinh.
+- Khả năng thở sâu và giữ bình tĩnh - công cụ vô giá trong những đêm dài chăm con.
+- Kiến thức để mẹ có thể "chăm" bản thân trong những tuần đầu sau sinh, cực kỳ quan trọng vì đến lúc đó mới tìm sự trợ giúp thì hơi muộn :)
+- Một cộng đồng những người mẹ đồng hành - nơi bạn có thể chia sẻ, học hỏi và trưởng thành cùng nhau.
+
+Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SINH RA một người mẹ mới - mạnh mẽ, tự tin và tràn đầy yêu thương.
+
+## 🌟 ⏳ Khi mẹ biết, mình có thể sinh thường, tự tin, mạnh mẽ và kết nối trọn vẹn với con hơn, đó là khi hành trình sinh nở này không chỉ sinh ra con, mà còn sinh ra mẹ, 1 người mẹ tràn đầy sức mạnh
+
+Mỗi tuần mẹ tập là thêm một tuần cơ thể khỏe hơn, tinh thần vững vàng hơn.
+
+Mỗi tuần trì hoãn là 1 tuần bỏ lỡ cơ hội cảm nhận rõ ràng sức mạnh bên trong mình.
+
+Hãy nhớ, khả năng sinh thường được quyết định từ những gì bạn làm bây giờ, không phải khi vào phòng sinh.
+
 ## Mức Đầu Tư
 
 4.500.000 VND
@@ -285,37 +316,6 @@ Tất cả các gói có thời hạn 1 năm từ ngày bắt đầu.
     Đăng Ký Ngay
   </a>
 </div>
-
-## Lộ Trình Tập Luyện & Đồng Hành 12 Tuần Video Quay Sẵn
-
-👉 Mỗi tuần chỉ 2–3 bài tập lý thuyết & thực hành, tập lúc nào cũng được – miễn là đúng & đều 💛. Ngoài các video học theo lộ trình dưới đây, mẹ còn tham gia các buổi LIVE nhóm nhỏ hàng tuần để được hướng dẫn và chỉnh sửa trực tiếp.
-
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week12" type="left" %}
-
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week3456" type="left" %}
-
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week789" type="left" %}
-
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week101112" type="left" %}
-
-## 🌟 Hành trình không kết thúc ở ngày sinh 🌟
-
-**​Yoga Bầu Vượt Cạn** không chỉ đồng hành cùng bạn đến ngày sinh, mà còn giúp bạn rèn luyện kĩ năng lâu dài:
-
-- Kỹ năng lắng nghe và kết nối với cơ thể - điều sẽ giúp bạn hồi phục nhanh chóng sau sinh.
-- Khả năng thở sâu và giữ bình tĩnh - công cụ vô giá trong những đêm dài chăm con.
-- Kiến thức để mẹ có thể "chăm" bản thân trong những tuần đầu sau sinh, cực kỳ quan trọng vì đến lúc đó mới tìm sự trợ giúp thì hơi muộn :)
-- Một cộng đồng những người mẹ đồng hành - nơi bạn có thể chia sẻ, học hỏi và trưởng thành cùng nhau.
-
-Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SINH RA một người mẹ mới - mạnh mẽ, tự tin và tràn đầy yêu thương.
-
-## 🌟 ⏳ Khi mẹ biết, mình có thể sinh thường, tự tin, mạnh mẽ và kết nối trọn vẹn với con hơn, đó là khi hành trình sinh nở này không chỉ sinh ra con, mà còn sinh ra mẹ, 1 người mẹ tràn đầy sức mạnh
-
-Mỗi tuần mẹ tập là thêm một tuần cơ thể khỏe hơn, tinh thần vững vàng hơn.
-
-Mỗi tuần trì hoãn là 1 tuần bỏ lỡ cơ hội cảm nhận rõ ràng sức mạnh bên trong mình.
-
-Hãy nhớ, khả năng sinh thường được quyết định từ những gì bạn làm bây giờ, không phải khi vào phòng sinh.
 
 ## Chia Sẻ Từ Các Học Viên Cũ
 
