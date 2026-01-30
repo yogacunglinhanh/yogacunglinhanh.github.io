@@ -29,7 +29,7 @@ yoga-bau-vuot-can:
       ✔️ Hoàn tiền nếu không hài lòng<br>
       ✔️ Tư vấn miễn phí qua tin nhắn<br><br>
       Đang chuẩn bị mang thai? Hãy bắt đầu với khoá Yoga Nền Tảng nhé.
-    url: /khoa-hoc/yoga-bau-vuot-can/
+    url: /khoa-hoc/yoga-bau-vuot-can-live/
     btn_label: "Xem Thêm"
     btn_class: "btn--yoga"
 core-reset-yoga-hoi-phuc-sau-sinh:
