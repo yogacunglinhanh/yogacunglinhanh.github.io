@@ -53,7 +53,7 @@ yoga-bau-vuot-can-live-loi-ich:
       🎥 Toàn bộ khóa học video 12 tuần học & luyện tập trong vòng 1 năm<br>
       • 10 tuần tập luyện trước sinh theo lộ trình rõ ràng<br>
       • 2 tuần kiến thức và định hướng phục hồi sau sinh<br>
-Mẹ có thể xem lại bất cứ lúc nào trong suốt nửa sau thai kỳ và cả giai đoạn đầu sau sinh, khi cơ thể cần được chăm sóc nhiều hơn.<br><br>
+      Mẹ có thể xem lại bất cứ lúc nào trong suốt nửa sau thai kỳ và cả giai đoạn đầu sau sinh, khi cơ thể cần được chăm sóc nhiều hơn.<br><br>
   - excerpt: >-
       ♥️ Đồng hành trọn vẹn xuyên suốt từ khi bạn mang thai, trong lúc sinh và sau sinh giúp mẹ làm quen với bước thay đổi lớn của cuộc đời dễ dàng hơn.<br><br>
   - excerpt: >-
