@@ -16,7 +16,7 @@ yoga-bau-vuot-can-live-thu-ngo:
       • *Tại sao Yoga bầu chỉ dừng lại ở những động tác, mà không thêm kiến thức tâm lý, sinh nở?<br>*
       • *Tại sao Yoga bầu không bao gồm cả Yoga phục hồi sau sinh vì để mẹ chuẩn bị kiến thức trước khi đẻ? Sau sinh đâu có thời gian đâu mà cho bản thân<br><br>*
 
-      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, đồng hành với mẹ TOÀN DIỆN, trước, trong lúc sinh và ngay sau sinh.<br><br>
+      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, đồng hành với mẹ TOÀN DIỆN, trước, trong lúc sinh và 3 tháng đầu sau sinh.<br><br>
       Mình tin rằng mỗi người mẹ đều mang trong mình sức mạnh phi thường nhưng không phải ai cũng tận dụng được sức mạnh đó tối đa, nó thật là uổng phí<br><br>
       ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn khơi dậy sức mạnh đấy.***<br><br>
       
@@ -50,18 +50,27 @@ yoga-bau-vuot-can-live-intro:
 
 yoga-bau-vuot-can-live-loi-ich:
   - excerpt: >-
-      🎥 Toàn bộ khóa học video 12 tuần học & luyện tập trong vòng 1 năm<br>
-      • 10 tuần tập luyện trước sinh theo lộ trình rõ ràng<br>
-      • 2 tuần kiến thức và định hướng phục hồi sau sinh<br>
+      🎥 Toàn bộ khóa học video quay sẵn học & luyện tập trong vòng 6 tháng <br>
+      • Kiến Thức & luyện tập trước sinh theo lộ trình rõ ràng trong tam cá nguyệt 2 & 3<br>
+      • Kiến thức và định hướng phục hồi sau sinh trong 3 tháng đầu<br>
       Mẹ có thể xem lại bất cứ lúc nào trong suốt nửa sau thai kỳ và cả giai đoạn đầu sau sinh, khi cơ thể cần được chăm sóc nhiều hơn.<br><br>
   - excerpt: >-
-      ♥️ Đồng hành trọn vẹn xuyên suốt từ khi bạn mang thai, trong lúc sinh và sau sinh giúp mẹ làm quen với bước thay đổi lớn của cuộc đời dễ dàng hơn.<br><br>
+      ♥️ 12 tuần đồng hành trực tiếp nhóm nhỏ cùng Linh<br>
+      • Chỉnh sửa động tác trực tiếp theo từng giai đoạn bụng lớn dần<br>
+      • Hỗ trợ các khó chịu thường gặp cuối thai kỳ như đau lưng, nặng bụng, mất ngủ<br>
+      • Không gian tập nhẹ nhàng giúp mẹ vừa vận động vừa thư giãn<br>
+      Hết 3 tháng, mẹ có thể tiếp tục đăng ký học live thôi tuỳ theo nhu cầu và số tuần còn lại của mẹ<br><br>
+
   - excerpt: >-
-      🗓️ Học các kiểu thở, tư thể khác nhau để giảm "đau đẻ", giảm thiểu nguy cơ đẻ mổ hay rách rạch tầng sinh môn, hay bất cứ can thiệp y tế gì để mẹ hồi phục nhanh hơn, bé sinh khoẻ hơn.<br><br>
+      🗓️ Chuẩn Bị Cơ Thể & Tinh Thần Cho Ngày Sinh & Những Tuần Đầu Sau Sinh<br>
+      • Biết cách thở và thư giãn để cơ thể không căng cứng khi chuyển dạ<br>
+      • Hiểu điều gì đang diễn ra trong các giai đoạn sinh để bớt hoảng sợ<br>
+      • Thực hành thiền giúp hệ thần kinh ổn định hơn — yếu tố ảnh hưởng trực tiếp đến cảm nhận đau khi sinh<br>
+      • Biết cách vận động cực nhẹ và kết nối lại với cơ thể trong những tuần đầu sau sinh<br><br>
   - excerpt: >-
       🙆‍♀️ Học cách làm mẹ 1 cách tỉnh thức hơn, để cả mẹ và con được yêu thương 1 cách tối đa nhất.<br><br>
   - excerpt: >-
-      ♥️ Cộng đồng các mẹ trao đổi kiến thức, trải nghiệm bầu và nuôi con.<br><br>
+      ♥️ Đồng hành trọn vẹn xuyên suốt từ khi bạn mang thai, trong lúc sinh và sau sinh từ Linh và cộng đồng các mẹ<br><br>
 
 yoga-bau-vuot-can-live-lo-trinh-week12:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week1.jpg
@@ -145,34 +154,12 @@ testimonial_images:
 
 ## Mức Đầu Tư
 
-4.500.000 VND - Gói Đồng Hành Toàn Diện Trọn Gói (FULL)
-
-Tóm tắt những gì mẹ sẽ nhận được:
-
-🎥 Toàn bộ khóa học video 12 tuần (học & luyện tập trong vòng 1 năm)<br>
-• 10 tuần tập luyện trước sinh theo lộ trình rõ ràng<br>
-• 2 tuần kiến thức và định hướng phục hồi sau sinh<br>
-Mẹ có thể xem lại bất cứ lúc nào trong suốt nửa sau thai kỳ và cả giai đoạn đầu sau sinh, khi cơ thể cần được chăm sóc nhiều hơn.<br>
-
-💛 Phần Chuẩn Bị Cho Ngày Sinh & Những Tuần Đầu Sau Sinh<br>
-• Biết cách thở và thư giãn để cơ thể không căng cứng khi chuyển dạ<br>
-• Hiểu điều gì đang diễn ra trong các giai đoạn sinh để bớt hoảng sợ<br>
-• Thực hành thiền giúp hệ thần kinh ổn định hơn — yếu tố ảnh hưởng trực tiếp đến cảm nhận đau khi sinh<br>
-• Biết cách vận động cực nhẹ và kết nối lại với cơ thể trong những tuần đầu sau sinh<br><br>
-
-🧘‍♀️ 12 tuần đồng hành trực tiếp nhóm nhỏ cùng Linh<br>
-• Chỉnh sửa động tác trực tiếp theo từng giai đoạn bụng lớn dần<br>
-• Hỗ trợ các khó chịu thường gặp cuối thai kỳ như đau lưng, nặng bụng, mất ngủ<br>
-• Không gian tập nhẹ nhàng giúp mẹ vừa vận động vừa thư giãn<br>
-Đây là giai đoạn Linh "cầm tay" nhiều nhất. Hết 3 tháng, mẹ có thể tiếp tục đăng ký học live thôi tuỳ theo nhu cầu và số tuần còn lại của mẹ.<br> 
-
-💬 Hỗ trợ và tư vấn xuyên suốt trong quá trình tập (1 năm)<br>
-Khi cơ thể có thay đổi hoặc mẹ có băn khoăn, mẹ có thể nhắn cho Linh để được hướng dẫn điều chỉnh phù hợp hơn với tình trạng của mình. Và trên hết, Linh sẽ đồng hành tận cùng cho đến khi bạn hồi phục sau sinh. Giây phút sau sinh thực sự ít người quan tâm nhưng lúc đó là lúc mẹ "mỏng manh, dễ vỡ" nhất. Nếu có người đồng hành để hỏi han, chia sẻ, mình tin hành trình làm mẹ sẽ nhẹ nhàng hơn. 
+4.500.000 VND - Gói Đồng Hành Toàn Diện Trọn Gói Đồng Hành 6 Tháng Trước & Sau Sinh (FULL)
 
 Mẹ được truy cập toàn bộ nội dung khóa học trong vòng 1 năm, để có thể xem lại trong suốt 6 tháng cuối thai kỳ và cả giai đoạn đầu sau sinh — khi việc chăm sóc bản thân trở nên quan trọng nhưng cũng khó sắp xếp nhất.
 
-Nếu mẹ còn 3 tháng là dự sinh, thì tính ra, chưa đến 900,000đ mỗi tháng để mẹ được chuẩn bị cả về cơ thể lẫn tinh thần cho hành trình sinh và những tháng đầu làm mẹ.<br>
-Nếu mẹ còn 6 tháng là dự sinh, thì tính ra, chỉ tầm 550,000đ mỗi tháng để mẹ được chuẩn bị cả về cơ thể lẫn tinh thần cho hành trình sinh và những tháng đầu làm mẹ thui.<br> Thế nên, càng học sớm càng có thể áp dụng kiến thức và được hỗ trợ nhiều, càng lời :) 
+Nếu mẹ còn 3 tháng là dự sinh, thì tính ra, chưa đến 750,000đ mỗi tháng để mẹ được chuẩn bị cả về cơ thể lẫn tinh thần cho hành trình sinh và những tháng đầu làm mẹ.<br>
+Nếu mẹ còn 6 tháng là dự sinh, thì tính ra, chỉ tầm 500,000đ mỗi tháng để mẹ được chuẩn bị cả về cơ thể lẫn tinh thần cho hành trình sinh và những tháng đầu làm mẹ thui.<br> Thế nên, càng học sớm càng có thể áp dụng kiến thức và được hỗ trợ nhiều, càng lời :) 
 
 
 ## Nếu mẹ đang tìm lựa chọn nhẹ hơn hoặc chuyên sâu hơn…
