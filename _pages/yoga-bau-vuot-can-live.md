@@ -1,29 +1,29 @@
 ---
 layout: splash
 title: "Yoga Bầu Vượt Cạn"
-permalink: /khoa-hoc/yoga-bau-vuot-can/
-  
+permalink: /khoa-hoc/yoga-bau-vuot-can-live/
+
 yoga-bau-vuot-can-thu-ngo:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-thu-ngo.jpg
     alt: "Thư Ngỏ"
     title: "Thư Ngỏ"
     excerpt: >-
       Chào bạn, mình là Linh.<br><br>
-      Mình vẫn nhớ như in những đêm mất ngủ, đi tiểu đêm nhiều nằm tập thở và cơ sàn chậu. 
+      Mình vẫn nhớ như in những đêm mất ngủ, đi tiểu đêm nhiều nằm tập thở và cơ sàn chậu.
       Rồi giây phút sinh bé không cần thuốc giảm đau và đẻ sau chỉ sau 3.5 tiếng. Hay cả 3-4 tháng trời vật lộn làm quen với vai trò người mẹ. Tuy đã thực hành rất nhiều Yoga, thở, thiền nhưng vẫn nhiều lúc cảm thấy kiệt sức, và bản thân oà khóc.<br><br>
       Mình luôn tự hỏi: <br>
       • *Nếu những mẹ ngoài kia không biết những bài tập như mình thì sẽ đi đẻ ra sao, hồi phục sau sinh sẽ khó khăn đến thế nào?<br>*
       • *Tại sao Yoga bầu chỉ dừng lại ở những động tác, mà không thêm kiến thức tâm lý, sinh nở?<br>*
       • *Tại sao Yoga bầu không bao gồm cả Yoga phục hồi sau sinh vì để mẹ chuẩn bị kiến thức trước khi đẻ? Sau sinh đâu có thời gian đâu mà cho bản thân<br><br>*
-      
+
       Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, đồng hành với mẹ TOÀN DIỆN, trước, trong lúc sinh và ngay sau sinh.<br><br>
       Mình tin rằng mỗi người mẹ đều mang trong mình sức mạnh phi thường nhưng không phải ai cũng tận dụng được sức mạnh đó tối đa, nó thật là uổng phí<br><br>
       ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn khơi dậy sức mạnh đấy.***
 
       Yoga Bầu Vượt Cạn giờ đây có thêm lớp LIVE nhóm nhỏ hàng tuần và sự đồng hành trực tiếp cùng Linh trong suốt hành trình chuẩn bị sinh.
-      Mẹ không chỉ học qua video, mà còn được tập cùng Linh, được chỉnh sửa trực tiếp và thêm các mẹ đồng hành. 
+      Mẹ không chỉ học qua video, mà còn được tập cùng Linh, được chỉnh sửa trực tiếp và thêm các mẹ đồng hành.
 
-    url: /khoa-hoc/yoga-bau-vuot-can/#v%E1%BB%81-linh
+    url: /khoa-hoc/yoga-bau-vuot-can-live/#v%E1%BB%81-linh
     btn_label: "Đọc Thêm Về Linh"
     btn_class: "btn--yoga"
 
@@ -45,13 +45,13 @@ yoga-bau-vuot-can-intro:
         url: https://forms.gle/hJuC49WYqPv39qcS7
         class: "btn--yoga"
       - label: "Xem Lộ Trình Đồng Hành"
-        url: /khoa-hoc/yoga-bau-vuot-can/#l%E1%BB%99-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp
+        url: /khoa-hoc/yoga-bau-vuot-can-live/#l%E1%BB%99-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp
         class: "btn--explore"
       - label: "Xem Mức Đầu Tư"
-        url: /khoa-hoc/yoga-bau-vuot-can/#m%E1%BB%A9c-%C4%91%E1%BA%A7u-t%C6%B0
+        url: /khoa-hoc/yoga-bau-vuot-can-live/#m%E1%BB%A9c-%C4%91%E1%BA%A7u-t%C6%B0
         class: "btn--buy"
-        
-yoga-bau-vuot-can-loi-ich:
+
+yoga-bau-vuot-can-live-loi-ich:
   - excerpt: >-
       🤰 Có lịch tập live hàng tuần cùng Linh và các mẹ <br><br>
   - excerpt: >-
@@ -67,7 +67,7 @@ yoga-bau-vuot-can-loi-ich:
   - excerpt: >-
       ♥️ Cộng đồng các mẹ trao đổi kiến thức, trải nghiệm bầu và nuôi con.<br><br>
 
-yoga-bau-vuot-can-lo-trinh-week12:
+yoga-bau-vuot-can-live-lo-trinh-week12:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week1.jpg
     alt: "Giai Đoạn 1: Chuẩn Bị Nền Tảng (2 tuần)"
     title: "Giai Đoạn 1: Chuẩn Bị Nền Tảng (2 tuần)"
@@ -75,7 +75,7 @@ yoga-bau-vuot-can-lo-trinh-week12:
       <li>Giới thiệu về cách đi đứng ngồi của mẹ bầu, yoga bầu, và cách tập an toàn cho mẹ và bé.</li>
       <li>Hiểu về 5 giai đoạn đi đẻ để biết nên tập gì trong những tuần tới.</li>
       <li>Tập trung hiểu & tập vùng đáy chậu → giảm rách tầng sinh môn, giảm són tiểu, phục hồi nhanh sau sinh.</li>
-yoga-bau-vuot-can-lo-trinh-week3456:
+yoga-bau-vuot-can-live-lo-trinh-week3456:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week345.jpg
     alt: "Giai Đoạn 2: Tập Trung Luyện Thân & Thở (4 tuần)"
     title: "Giai Đoạn 2: Tập Trung Luyện Thân, Tâm lý & Thở (4 tuần)"
@@ -84,7 +84,7 @@ yoga-bau-vuot-can-lo-trinh-week3456:
       <li>Học cách thở để giảm đau lúc đẻ và rút ngắn giai đoạn "rặn đẻ".</li>
       <li>Luyện tập thân thể để tăng cường sức khoẻ, chuẩn bị sức bền khi sinh.</li>
       <li>Thực hành Thiền & Journalling.</li>
-yoga-bau-vuot-can-lo-trinh-week789:
+yoga-bau-vuot-can-live-lo-trinh-week789:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week89.jpg
     alt: "Giai Đoạn 3: Chuẩn Bị Sinh & Về Đích (4 tuần)"
     title: "Giai Đoạn 3: Chuẩn Bị Sinh & Về Đích (4 tuần)"
@@ -92,7 +92,7 @@ yoga-bau-vuot-can-lo-trinh-week789:
       <li>Tư thế sinh, kỹ thuật thở khi chuyển dạ, và cách đối phó với cơn đau. Thực hành "giả đi đẻ", giúp bạn hiểu bạn cần đối phó cái gì.</li>
       <li>Xây dựng Action Birth Plan cá nhân, chuẩn bị tâm lý và checklist trước khi đi sinh.</li>
       <li>Các bài tập thư giãn cho cơ thể & củng cố niềm sự vững vàng trước sinh.</li>
-yoga-bau-vuot-can-lo-trinh-week101112:
+yoga-bau-vuot-can-live-lo-trinh-week101112:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week10.jpg
     alt: "Giai Đoạn 4: Học Cách Chăm Sau Sinh (2-3 tuần)"
     title: "Giai Đoạn 4: Học Cách Chăm Sau Sinh (2-3 tuần)"
@@ -115,16 +115,17 @@ testimonial_images:
 ---
 
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD026 -->
 
 ## Bạn có phải là....
 
 {% include feature_row id="yoga-bau-vuot-can-danh-cho-ai" %}
 
-  * Mẹ bầu từ tuần 15 trở đi muốn chủ động trong hành trình sinh nở.<br>
-  * Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở<br>
-  * Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu<br>
-  * Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.<br>
-  * Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br><br>
+- Mẹ bầu từ tuần 15 trở đi muốn chủ động trong hành trình sinh nở.<br>
+- Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở<br>
+- Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu<br>
+- Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.<br>
+- Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br><br>
   Bạn đã tìm đến đúng chỗ :)
 
 {% include feature_row id="yoga-bau-vuot-can-thu-ngo" type="left" %}
@@ -135,7 +136,8 @@ testimonial_images:
 
 {% include feature_row id="yoga-bau-vuot-can-loi-ich" %}
 
-## Hình Thức Học Hiện Tại 
+## Hình Thức Học Hiện Tại
+
 - Học theo video tại nhà
 - Tập LIVE nhóm nhỏ cùng Linh mỗi tuần
 - Hỗ trợ & tư vấn xuyên suốt theo tình trạng cơ thể
@@ -144,13 +146,13 @@ testimonial_images:
 
 👉 Mỗi tuần chỉ 2–3 bài tập lý thuyết & thực hành, tập lúc nào cũng được – miễn là đúng & đều 💛. Ngoài các video học theo lộ trình dưới đây, mẹ còn tham gia các buổi LIVE nhóm nhỏ hàng tuần để được hướng dẫn và chỉnh sửa trực tiếp.
 
-{% include feature_row id="yoga-bau-vuot-can-lo-trinh-week12" type="left" %}
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week12" type="left" %}
 
-{% include feature_row id="yoga-bau-vuot-can-lo-trinh-week3456" type="left" %}
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week3456" type="left" %}
 
-{% include feature_row id="yoga-bau-vuot-can-lo-trinh-week789" type="left" %}
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week789" type="left" %}
 
-{% include feature_row id="yoga-bau-vuot-can-lo-trinh-week101112" type="left" %}
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week101112" type="left" %}
 
 ## 🌟 Hành trình không kết thúc ở ngày sinh 🌟
 
@@ -269,7 +271,7 @@ Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SIN
   </tr>
 </table>
 
-**_Ngoài ra, nếu mẹ không đủ thời gian tập lâu, hay không có tham gia được thời gian cố định, Linh cũng vẫn có lựa chọn học CẤP TỐC kiến thức và tập online để mẹ tập linh hoạt tại nhà.**
+**\_Ngoài ra, nếu mẹ không đủ thời gian tập lâu, hay không có tham gia được thời gian cố định, Linh cũng vẫn có lựa chọn học CẤP TỐC kiến thức và tập online để mẹ tập linh hoạt tại nhà.**
 
 Tất cả các gói có thời hạn 1 năm từ ngày bắt đầu.
 
@@ -364,7 +366,7 @@ Lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương
 
 ## TEST nhanh 3 phút kiểm tra mức độ sinh thường
 
-Làm TEST nhanh 3 phút kiểm tra mức độ sinh thường (cho mẹ từ tuần 20 trở đi). 
+Làm TEST nhanh 3 phút kiểm tra mức độ sinh thường (cho mẹ từ tuần 20 trở đi).
 [Làm Test Ngay](<[https://www.facebook.com/ngoclinhdnl/](https://yogacunglinhanh.com/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/)>){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
 ## Nhóm Facebook Bầu & Sau Sinh
@@ -386,5 +388,6 @@ Mình giải đáp nhiều câu hỏi của các mẹ bầu & mẹ sau sinh tron
 
 {% include youtube_embed.html id="N3oQ9w_OLeY" %}
 
-### "Nhắc lại, đây không chỉ là khoá Yoga bầu. Bạn sẽ có được vô cùng nhiều kiến thức hữu ích khác ngoài Yoga. Mình gọi nó là khoá sinh nở thì đúng hơn :)" 
-- Mẹ Phương Hoàng, sinh lần đầu 35 Tuổi.  
+### "Nhắc lại, đây không chỉ là khoá Yoga bầu. Bạn sẽ có được vô cùng nhiều kiến thức hữu ích khác ngoài Yoga. Mình gọi nó là khoá sinh nở thì đúng hơn :)"
+
+- Mẹ Phương Hoàng, sinh lần đầu 35 Tuổi.

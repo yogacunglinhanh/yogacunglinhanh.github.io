@@ -2,20 +2,20 @@
 layout: splash
 title: "Yoga Bầu Vượt Cạn"
 permalink: /khoa-hoc/yoga-bau-vuot-can/
-  
+
 yoga-bau-vuot-can-thu-ngo:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-thu-ngo.jpg
     alt: "Thư Ngỏ"
     title: "Thư Ngỏ"
     excerpt: >-
       Chào bạn, mình là Linh.<br><br>
-      Mình vẫn nhớ như in những đêm mất ngủ, đi tiểu đêm nhiều nằm tập thở và cơ sàn chậu. 
+      Mình vẫn nhớ như in những đêm mất ngủ, đi tiểu đêm nhiều nằm tập thở và cơ sàn chậu.
       Rồi giây phút sinh bé không cần thuốc giảm đau và đẻ sau chỉ sau 3.5 tiếng. Hay cả 3-4 tháng trời vật lộn làm quen với vai trò người mẹ. Tuy đã thực hành rất nhiều Yoga, thở, thiền nhưng vẫn nhiều lúc cảm thấy kiệt sức, và bản thân oà khóc.<br><br>
       Mình luôn tự hỏi: <br>
       • *Nếu những mẹ ngoài kia không biết những bài tập như mình thì sẽ đi đẻ ra sao, hồi phục sau sinh sẽ khó khăn đến thế nào?<br>*
       • *Tại sao Yoga bầu chỉ dừng lại ở những động tác, mà không thêm kiến thức tâm lý, sinh nở?<br>*
       • *Tại sao Yoga bầu không bao gồm cả Yoga phục hồi sau sinh vì để mẹ chuẩn bị kiến thức trước khi đẻ? Sau sinh đâu có thời gian đâu mà cho bản thân<br><br>*
-      
+
       Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, đồng hành với mẹ TOÀN DIỆN, trước, trong lúc sinh và ngay sau sinh.<br><br>
       Mình tin rằng mỗi người mẹ đều mang trong mình sức mạnh phi thường nhưng không phải ai cũng tận dụng được sức mạnh đó tối đa, nó thật là uổng phí<br><br>
       ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn khơi dậy sức mạnh đấy.***
@@ -46,7 +46,7 @@ yoga-bau-vuot-can-intro:
       - label: "Xem Các Gói Học"
         url: /khoa-hoc/yoga-bau-vuot-can/#m%E1%BB%A9c-%C4%91%E1%BA%A7u-t%C6%B0
         class: "btn--buy"
-        
+
 yoga-bau-vuot-can-loi-ich:
   - excerpt: >-
       🤰 Biết cách đi đứng, ngồi hàng ngày ngay để giảm các triệu chứng thai kỳ như chuột rút, khó thở, đau lưng ... giúp ngủ ngon, bớt phù nề ngay trong 2 tuần học đầu tiên <br><br>
@@ -109,16 +109,17 @@ testimonial_images:
 ---
 
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD026 -->
 
 ## Bạn có phải là....
 
 {% include feature_row id="yoga-bau-vuot-can-danh-cho-ai" %}
 
-  * Mẹ bầu từ tuần 20 trở đi muốn chủ động trong hành trình sinh nở.<br>
-  * Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở<br>
-  * Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu<br>
-  * Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.<br>
-  * Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br><br>
+- Mẹ bầu từ tuần 20 trở đi muốn chủ động trong hành trình sinh nở.<br>
+- Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở<br>
+- Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu<br>
+- Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.<br>
+- Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br><br>
   Bạn đã tìm đến đúng chỗ :)
 
 {% include feature_row id="yoga-bau-vuot-can-thu-ngo" type="left" %}
@@ -366,7 +367,7 @@ Lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương
 
 ## TEST nhanh 3 phút kiểm tra mức độ sinh thường
 
-Làm TEST nhanh 3 phút kiểm tra mức độ sinh thường (cho mẹ từ tuần 20 trở đi). 
+Làm TEST nhanh 3 phút kiểm tra mức độ sinh thường (cho mẹ từ tuần 20 trở đi).
 [Làm Test Ngay](<[https://www.facebook.com/ngoclinhdnl/](https://yogacunglinhanh.com/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/)>){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
 ## Nhóm Facebook Bầu & Sau Sinh
@@ -388,5 +389,6 @@ Mình giải đáp nhiều câu hỏi của các mẹ bầu & mẹ sau sinh tron
 
 {% include youtube_embed.html id="N3oQ9w_OLeY" %}
 
-### "Nhắc lại, đây không chỉ là khoá Yoga bầu. Bạn sẽ có được vô cùng nhiều kiến thức hữu ích khác ngoài Yoga. Mình gọi nó là khoá sinh nở thì đúng hơn :)" 
-- Mẹ Phương Hoàng, sinh lần đầu 35 Tuổi.  
+### "Nhắc lại, đây không chỉ là khoá Yoga bầu. Bạn sẽ có được vô cùng nhiều kiến thức hữu ích khác ngoài Yoga. Mình gọi nó là khoá sinh nở thì đúng hơn :)"
+
+- Mẹ Phương Hoàng, sinh lần đầu 35 Tuổi.
