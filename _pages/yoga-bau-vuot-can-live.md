@@ -18,7 +18,7 @@ yoga-bau-vuot-can-live-thu-ngo:
 
       Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, đồng hành với mẹ TOÀN DIỆN, trước, trong lúc sinh và ngay sau sinh.<br><br>
       Mình tin rằng mỗi người mẹ đều mang trong mình sức mạnh phi thường nhưng không phải ai cũng tận dụng được sức mạnh đó tối đa, nó thật là uổng phí<br><br>
-      ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn khơi dậy sức mạnh đấy.***
+      ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn khơi dậy sức mạnh đấy.***<br><br>
 
       Yoga Bầu Vượt Cạn giờ đây có thêm lớp LIVE nhóm nhỏ hàng tuần và sự đồng hành trực tiếp cùng Linh trong suốt hành trình chuẩn bị sinh.
       Mẹ không chỉ học qua video, mà còn được tập cùng Linh, được chỉnh sửa trực tiếp và thêm các mẹ đồng hành.
@@ -80,10 +80,10 @@ yoga-bau-vuot-can-live-lo-trinh-week3456:
     alt: "Giai Đoạn 2: Tập Trung Luyện Thân & Thở (4 tuần)"
     title: "Giai Đoạn 2: Tập Trung Luyện Thân, Tâm lý & Thở (4 tuần)"
     excerpt: >-
-      <li>Các kỹ thuật thở & bài tập giúp mẹ đối mặt với việc đau lưng, phù nề, đau hông trong thai kỳ.</li>
+      <li>Các kỹ thuật thở & bài tập an toàn giúp mẹ đối mặt với việc đau lưng, phù nề, đau hông trong thai kỳ.</li>
       <li>Học cách thở để giảm đau lúc đẻ và rút ngắn giai đoạn "rặn đẻ".</li>
       <li>Luyện tập thân thể để tăng cường sức khoẻ, chuẩn bị sức bền khi sinh.</li>
-      <li>Thực hành Thiền & Journalling.</li>
+      <li>Thực hành đào sâu những suy nghĩ khiến bạn có thể sinh nở khó khăn.</li>
 yoga-bau-vuot-can-live-lo-trinh-week789:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week89.jpg
     alt: "Giai Đoạn 3: Chuẩn Bị Sinh & Về Đích (4 tuần)"
@@ -99,8 +99,7 @@ yoga-bau-vuot-can-live-lo-trinh-week101112:
     excerpt: >-
       <li>Kiến thức tập cơ sàn chậu "đúng, an toàn" ngay sau khi sinh, giúp cơ hồi phục nhanh nhất.</li>
       <li>Các bài tập thư giãn, nhẹ nhàng tránh đau mỏi cổ, vai gáy, đau lưng cho mẹ mới sinh.</li>
-      <li>Thực Hành Viết Journal Giải Toả Tập Lý Sau Sinh Cho mẹ sau sinh.</li>
-      <li>Cho các mẹ chọn học Gói Toàn Diện & VIP.</li>
+      <li>Thực hành đào sâu não bộ, giúp giảm stress, căng thẳng và trầm cảm sau sinh</li>
 testimonial_images:
   - src: "/assets/images/testimonials/yoga-bau-vuot-can-feedback1.jpg"
     alt: "Yoga Bau Vuot Can Feedback 1"
@@ -136,36 +135,39 @@ testimonial_images:
 
 {% include feature_row id="yoga-bau-vuot-can-live-loi-ich" %}
 
-## Hình Thức Học Hiện Tại
-
-- Học theo video tại nhà
-- Tập LIVE nhóm nhỏ cùng Linh mỗi tuần
-- Hỗ trợ & tư vấn xuyên suốt theo tình trạng cơ thể
-
-## Lộ Trình Tập Luyện & Đồng Hành 12 Tuần
-
-👉 Mỗi tuần chỉ 2–3 bài tập lý thuyết & thực hành, tập lúc nào cũng được – miễn là đúng & đều 💛. Ngoài các video học theo lộ trình dưới đây, mẹ còn tham gia các buổi LIVE nhóm nhỏ hàng tuần để được hướng dẫn và chỉnh sửa trực tiếp.
-
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week12" type="left" %}
-
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week3456" type="left" %}
-
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week789" type="left" %}
-
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week101112" type="left" %}
-
-## 🌟 Hành trình không kết thúc ở ngày sinh 🌟
-
-**​Yoga Bầu Vượt Cạn** không chỉ đồng hành cùng bạn đến ngày sinh, mà còn giúp bạn rèn luyện kĩ năng lâu dài:
-
-- Kỹ năng lắng nghe và kết nối với cơ thể - điều sẽ giúp bạn hồi phục nhanh chóng sau sinh.
-- Khả năng thở sâu và giữ bình tĩnh - công cụ vô giá trong những đêm dài chăm con.
-- Kiến thức để mẹ có thể "chăm" bản thân trong những tuần đầu sau sinh, cực kỳ quan trọng vì đến lúc đó mới tìm sự trợ giúp thì hơi muộn :)
-- Một cộng đồng những người mẹ đồng hành - nơi bạn có thể chia sẻ, học hỏi và trưởng thành cùng nhau.
-
-Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SINH RA một người mẹ mới - mạnh mẽ, tự tin và tràn đầy yêu thương.
-
 ## Mức Đầu Tư
+
+4.500.000 VND
+Với mức đầu tư này, mẹ không chỉ tập luyện trong thai kỳ, mà còn được chuẩn bị cả về tinh thần trước sinh và những tuần đầu sau sinh. Gói này là hành trình đồng hành cùng mẹ từ nửa sau thai kỳ cho đến khi mẹ bắt đầu làm quen với cơ thể mới sau sinh.
+
+Mẹ sẽ nhận được:
+
+🎥 Toàn bộ khóa học video 12 tuần (xem trong vòng 1 năm)
+• 10 tuần tập luyện trước sinh theo lộ trình rõ ràng
+• 2 tuần kiến thức và định hướng phục hồi sau sinh
+Mẹ có thể xem lại bất cứ lúc nào trong suốt nửa sau thai kỳ và cả giai đoạn đầu sau sinh, khi cơ thể cần được chăm sóc nhiều hơn.
+
+💛 Phần Chuẩn Bị Cho Ngày Sinh & Những Tuần Đầu Sau Sinh
+Giúp mẹ:
+• Biết cách thở và thư giãn để cơ thể không căng cứng khi chuyển dạ
+• Hiểu điều gì đang diễn ra trong các giai đoạn sinh để bớt hoảng sợ
+• Thực hành thiền giúp hệ thần kinh ổn định hơn — yếu tố ảnh hưởng trực tiếp đến cảm nhận đau khi sinh
+• Biết cách vận động cực nhẹ và kết nối lại với cơ thể trong những tuần đầu sau sinh
+
+🧘‍♀️ 12 tuần đồng hành trực tiếp nhóm nhỏ cùng Linh
+• Chỉnh sửa động tác trực tiếp theo từng giai đoạn bụng lớn dần
+• Hỗ trợ các khó chịu thường gặp cuối thai kỳ như đau lưng, nặng bụng, mất ngủ
+• Không gian tập nhẹ nhàng giúp mẹ vừa vận động vừa thư giãn
+Đây là giai đoạn Linh "cầm tay" nhiều nhất. Hết 3 tháng, mẹ có thể tiếp tục đăng ký học live thôi tuỳ theo nhu cầu và số tuần còn lại của mẹ. 
+
+💬 Hỗ trợ và tư vấn xuyên suốt trong quá trình tập
+Khi cơ thể có thay đổi hoặc mẹ có băn khoăn, mẹ có thể nhắn cho Linh để được hướng dẫn điều chỉnh phù hợp hơn với tình trạng của mình.
+
+Mẹ được truy cập toàn bộ nội dung khóa học trong vòng 1 năm, để có thể xem lại trong suốt 6 tháng cuối thai kỳ và cả giai đoạn đầu sau sinh — khi việc chăm sóc bản thân trở nên quan trọng nhưng cũng khó sắp xếp nhất.
+
+Nếu mẹ còn 3 tháng là dự sinh, thì tính ra, chưa đến 900,000đ mỗi tháng để mẹ được chuẩn bị cả về cơ thể lẫn tinh thần cho hành trình sinh và những tháng đầu làm mẹ.
+Nếu mẹ còn 6 tháng là dự sinh, thì tính ra, chỉ tầm 550,000đ mỗi tháng để mẹ được chuẩn bị cả về cơ thể lẫn tinh thần cho hành trình sinh và những tháng đầu làm mẹ thui. Thế nên, càng học sớm càng có thể áp dụng kiến thức và được hỗ trợ nhiều, càng lời :) 
+
 
 <table>
   <tr>
@@ -283,6 +285,29 @@ Tất cả các gói có thời hạn 1 năm từ ngày bắt đầu.
     Đăng Ký Ngay
   </a>
 </div>
+
+## Lộ Trình Tập Luyện & Đồng Hành 12 Tuần Video Quay Sẵn
+
+👉 Mỗi tuần chỉ 2–3 bài tập lý thuyết & thực hành, tập lúc nào cũng được – miễn là đúng & đều 💛. Ngoài các video học theo lộ trình dưới đây, mẹ còn tham gia các buổi LIVE nhóm nhỏ hàng tuần để được hướng dẫn và chỉnh sửa trực tiếp.
+
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week12" type="left" %}
+
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week3456" type="left" %}
+
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week789" type="left" %}
+
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week101112" type="left" %}
+
+## 🌟 Hành trình không kết thúc ở ngày sinh 🌟
+
+**​Yoga Bầu Vượt Cạn** không chỉ đồng hành cùng bạn đến ngày sinh, mà còn giúp bạn rèn luyện kĩ năng lâu dài:
+
+- Kỹ năng lắng nghe và kết nối với cơ thể - điều sẽ giúp bạn hồi phục nhanh chóng sau sinh.
+- Khả năng thở sâu và giữ bình tĩnh - công cụ vô giá trong những đêm dài chăm con.
+- Kiến thức để mẹ có thể "chăm" bản thân trong những tuần đầu sau sinh, cực kỳ quan trọng vì đến lúc đó mới tìm sự trợ giúp thì hơi muộn :)
+- Một cộng đồng những người mẹ đồng hành - nơi bạn có thể chia sẻ, học hỏi và trưởng thành cùng nhau.
+
+Vì khoá học này không chỉ giúp bạn sinh con. Mà còn giúp bạn SINH RA một người mẹ mới - mạnh mẽ, tự tin và tràn đầy yêu thương.
 
 ## 🌟 ⏳ Khi mẹ biết, mình có thể sinh thường, tự tin, mạnh mẽ và kết nối trọn vẹn với con hơn, đó là khi hành trình sinh nở này không chỉ sinh ra con, mà còn sinh ra mẹ, 1 người mẹ tràn đầy sức mạnh
 
