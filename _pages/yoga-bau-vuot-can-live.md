@@ -11,12 +11,13 @@ yoga-bau-vuot-can-live-thu-ngo:
       Chào bạn, mình là Linh.<br><br>
       Mình vẫn nhớ như in những đêm mất ngủ, đi tiểu đêm nhiều nằm tập thở và cơ sàn chậu.
       Rồi giây phút sinh bé không cần thuốc giảm đau và đẻ sau chỉ sau 3.5 tiếng. Hay cả 3-4 tháng trời vật lộn làm quen với vai trò người mẹ. Tuy đã thực hành rất nhiều Yoga, thở, thiền nhưng vẫn nhiều lúc cảm thấy kiệt sức, và bản thân oà khóc.<br><br>
-      Mình luôn tự hỏi: <br>
-      • *Nếu những mẹ ngoài kia không biết những bài tập như mình thì sẽ đi đẻ ra sao, hồi phục sau sinh sẽ khó khăn đến thế nào?<br>*
-      • *Tại sao Yoga bầu chỉ dừng lại ở những động tác, mà không thêm kiến thức tâm lý, sinh nở?<br>*
-      • *Tại sao Yoga bầu không bao gồm cả Yoga phục hồi sau sinh vì để mẹ chuẩn bị kiến thức trước khi đẻ? Sau sinh đâu có thời gian đâu mà cho bản thân<br><br>*
+       Mình luôn tự hỏi: <br>
+      • *Tại sao các lớp chuẩn bị sinh nở kiến thức lại hời hợt, phức tạp khó áp dụng thế?<br>*
+      • *Tại sao ít người biết là cơ thể mình thực sự được "xây dựng" để đẻ nhẹ nhàng đến thế?<br>*
+      • *Tại sao các lớp sinh nở chỉ dừng lại ở những động tác, mà không thêm kiến thức tâm lý, mindset cho mẹ, và cả người thân?<br>*
+      • *Tại sao các lớp sinh nở, Yoga bầu không bao gồm cả kiến thức phục hồi sau sinh? Sau sinh đâu có thời gian đâu mà cho bản thân đâu?<br><br>*
 
-      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, đồng hành với mẹ TOÀN DIỆN, trước, trong lúc sinh và 3 tháng đầu sau sinh.<br><br>
+      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, đồng hành với mẹ TOÀN DIỆN, trước, trong lúc sinh và ngay sau sinh, cả mặt thể chất lẫn tinh thần.<br><br>
       Mình tin rằng mỗi người mẹ đều mang trong mình sức mạnh phi thường nhưng không phải ai cũng tận dụng được sức mạnh đó tối đa, nó thật là uổng phí<br><br>
       ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn khơi dậy sức mạnh đấy.***<br><br>
       
@@ -29,13 +30,11 @@ yoga-bau-vuot-can-live-intro:
     alt: "Lớp Yoga Bầu Vượt Cạn"
     title: "Lớp Yoga Bầu Vượt Cạn"
     excerpt: >-
-      Tập Yoga Bầu không là không đủ, bạn cần 1 hành trình toàn diện trước và sau sinh, thân thể và tinh thần. Đó chính là Yoga Vượt Cạn. Lớp được thiết kế để giúp mẹ bầu<br>
-      • Tận hưởng những giây phút bầu thiêng liêng thay vì đau đớn vì đau lưng, phù nề<br>
-      • Sinh nhanh, dễ dàng và an toàn hơn, thay vì phải có những can thiệp y tế không cần thiết và thiếu hiểu biết <br>
-      • Và đích đến cuối cùng là hồi phục sau sinh nhanh chóng, để có thể dành trọn thời gian với con yêu mới sinh hoặc các bé lớn cho các mẹ sinh lần 2,3 <br><br>
-
-      Yoga Bầu Vượt Cạn giờ đây có thêm lớp LIVE nhóm nhỏ hàng tuần và sự đồng hành trực tiếp cùng Linh trong suốt hành trình chuẩn bị sinh.<br>
-      Mẹ không chỉ học qua video, mà còn được tập cùng Linh, được chỉnh sửa trực tiếp và thêm các mẹ đồng hành.
+      Tập Yoga Bầu không là không đủ, bạn cần 1 hành trình toàn diện trước và sau sinh, thân thể và tinh thần. Đó chính là Yoga Bầu Vượt Cạn. Lớp được thiết kế để với 3 Trụ Cột Chính<br>
+      • 12+ buổi tập Live trực tiếp với Linh để được hướng dẫn tập an toàn<br>
+      • Khoá Sinh Nở 101 giải thích chi tiết cơ chế hoạt động của cơ thể trong thai kỳ, trong lúc sinh và sau sinh<br>
+      • Thư Viện Tập Thêm gồm những bài tập ngắn phục vụ cho những triệu chứng bầu phổ biến, cũng như những video dài giúp mẹ khoẻ, dẻo dai suốt thai kỳ <br>
+      Đích đến cuối cùng là hồi phục sau sinh nhanh chóng, để có thể dành trọn thời gian với con yêu mới sinh hoặc các bé lớn cho các mẹ sinh lần 2,3 <br><br>
 
     buttons:
       - label: "Đăng Ký Ngay"
@@ -71,6 +70,10 @@ yoga-bau-vuot-can-live-loi-ich:
       🙆‍♀️ Học cách làm mẹ 1 cách tỉnh thức hơn, để cả mẹ và con được yêu thương 1 cách tối đa nhất.<br><br>
   - excerpt: >-
       ♥️ Đồng hành trọn vẹn xuyên suốt từ khi bạn mang thai, trong lúc sinh và sau sinh từ Linh và cộng đồng các mẹ<br><br>
+
+## Chia Sẻ Từ Các Học Viên Cũ
+
+{% include testimonial_slider.html images=page.testimonial_images %}
 
 yoga-bau-vuot-can-live-lo-trinh-week12:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week1.jpg
