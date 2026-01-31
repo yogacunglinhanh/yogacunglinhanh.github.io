@@ -72,7 +72,6 @@ yoga-bau-vuot-can-live-loi-ich:
       ♥️ Đồng hành trọn vẹn xuyên suốt từ khi bạn mang thai, trong lúc sinh và sau sinh từ Linh và cộng đồng các mẹ<br><br>
 
 ## Chia Sẻ Từ Các Học Viên Cũ
-
 {% include testimonial_slider.html images=page.testimonial_images %}
 
 yoga-bau-vuot-can-live-lo-trinh-week12:
