@@ -12,10 +12,10 @@ yoga-bau-vuot-can-live-thu-ngo:
       Mình vẫn nhớ như in những đêm mất ngủ, đi tiểu đêm nhiều nằm tập thở và cơ sàn chậu.
       Rồi giây phút sinh bé không cần thuốc giảm đau và đẻ sau chỉ sau 3.5 tiếng. Hay cả 3-4 tháng trời vật lộn làm quen với vai trò người mẹ. Tuy đã thực hành rất nhiều Yoga, thở, thiền nhưng vẫn nhiều lúc cảm thấy kiệt sức, và bản thân oà khóc.<br><br>
        Mình luôn tự hỏi: <br>
-      • *Tại sao các lớp chuẩn bị sinh nở kiến thức lại hời hợt, phức tạp khó áp dụng thế?<br>*
-      • *Tại sao ít người biết là cơ thể mình thực sự được "xây dựng" để đẻ nhẹ nhàng đến thế?<br>*
-      • *Tại sao các lớp sinh nở chỉ dừng lại ở những động tác, mà không thêm kiến thức tâm lý, mindset cho mẹ, và cả người thân?<br>*
-      • *Tại sao các lớp sinh nở, Yoga bầu không bao gồm cả kiến thức phục hồi sau sinh? Sau sinh đâu có thời gian đâu mà cho bản thân đâu?<br><br>*
+      <li>*Tại sao các lớp chuẩn bị sinh nở kiến thức lại hời hợt, phức tạp khó áp dụng thế?*</li><br>
+      <li>*Tại sao ít người biết là cơ thể mình thực sự được "xây dựng" để đẻ nhẹ nhàng đến thế?*</li><br>
+      <li>*Tại sao các lớp sinh nở chỉ dừng lại ở những động tác, mà không thêm kiến thức tâm lý, mindset cho mẹ, và cả người thân?*</li><br>
+      <li>*Tại sao các lớp sinh nở, Yoga bầu không bao gồm cả kiến thức phục hồi sau sinh? Sau sinh đâu có thời gian đâu mà cho bản thân đâu?*</li><br><br>
 
       Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, đồng hành với mẹ TOÀN DIỆN, trước, trong lúc sinh và ngay sau sinh, cả mặt thể chất lẫn tinh thần.<br><br>
       Mình tin rằng mỗi người mẹ đều mang trong mình sức mạnh phi thường nhưng không phải ai cũng tận dụng được sức mạnh đó tối đa, nó thật là uổng phí<br><br>
@@ -132,7 +132,7 @@ testimonial_images:
 - Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu<br>
 - Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.<br>
 - Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br><br>
-  Bạn đã tìm đến đúng chỗ :)
+Bạn đã tìm đến đúng chỗ :)
 
 {% include feature_row id="yoga-bau-vuot-can-live-thu-ngo" type="left" %}
 
