@@ -14,7 +14,7 @@ yoga-bau-vuot-can-live-thu-ngo:
        Mình luôn tự hỏi: <br>
       • *Tại sao các lớp chuẩn bị sinh nở kiến thức lại hời hợt, phức tạp khó áp dụng thế?*<br>
       • *Tại sao các lớp sinh nở, Yoga bầu không bao gồm cả kiến thức phục hồi sau sinh? Sau sinh đâu có thời gian đâu mà cho bản thân đâu?*<br><br>
-      • *Và hàng ngàn hàng vạn những câu hỏi khác từ chính trải nghiệm bản thân*<br>
+      • *Và hàng ngàn hàng vạn những câu hỏi khác từ chính trải nghiệm bản thân*<br><br>
 
       Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, để chia sẻ những kiến thức cơ bản đến nâng cao, từ trước sinh đến trong lúc sinh và ngay sau sinh, từ thể chất lẫn tinh thần, để mẹ không bị bỡ ngỡ và có thể vượt cạn nhẹ nhàng hơn bao giờ hết.<br><br>
       ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn.***<br><br>
@@ -28,9 +28,9 @@ yoga-bau-vuot-can-live-intro:
     title: "Lớp Yoga Bầu Vượt Cạn"
     excerpt: >-
       Tập Yoga Bầu không là không đủ, bạn cần 1 hành trình toàn diện trước và sau sinh, thân thể và tinh thần. Đó chính là Yoga Bầu Vượt Cạn. Lớp được thiết kế để với 3 Trụ Cột Chính<br>
-      • 12+ buổi tập Live trực tiếp với Linh để được hướng dẫn tập an toàn<br>
-      • Khoá Sinh Nở 101 giải thích chi tiết cơ chế hoạt động của cơ thể trong thai kỳ, trong lúc sinh và sau sinh<br>
-      • Thư Viện Tập thêm gồm những bài tập ngắn phục vụ cho những triệu chứng bầu phổ biến, cũng như những video dài giúp mẹ khoẻ, dẻo dai suốt thai kỳ <br>
+      • **12+ buổi tập Live** trực tiếp với Linh để được hướng dẫn tập an toàn<br>
+      • **Khoá Sinh Nở 101** giải thích chi tiết cơ chế hoạt động của cơ thể trong thai kỳ, trong lúc sinh và sau sinh<br>
+      • **Thư Viện Tập Thêm** gồm những bài tập ngắn phục vụ cho những triệu chứng bầu phổ biến, cũng như những video dài giúp mẹ khoẻ, dẻo dai suốt thai kỳ <br><br>
       Đích đến cuối cùng là hồi phục sau sinh nhanh chóng, để có thể dành trọn thời gian với con yêu mới sinh hoặc các bé lớn cho các mẹ sinh lần 2,3.<br>
       Tuỳ nhu cầu của mỗi mẹ mà có thể chọn 1 hoặc cả 3 trụ cột để hỗ trợ quá trình sinh nở<br><br>
 
@@ -55,6 +55,8 @@ yoga-bau-vuot-can-live-loi-ich:
       🙆‍♀️ Học cách làm mẹ 1 cách tỉnh thức hơn, để cả mẹ và con được yêu thương 1 cách tối đa nhất.<br><br>
   - excerpt: >-
       ♥️ Đồng hành trọn vẹn xuyên suốt từ khi bạn mang thai, trong lúc sinh và sau sinh từ Linh và cộng đồng các mẹ<br><br>
+  - excerpt: >-
+      ♥️ Và nhiều lợi ích khác mà các mẹ có thể đọc chia sẻ của các bạn học viên đi trước ở dưới<br><br>
 yoga-bau-vuot-can-live-lo-trinh-week12:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week1.jpg
     alt: "Module 1: Chuẩn Bị Nền Tảng Cơ Thể"
@@ -135,9 +137,9 @@ Bạn đã tìm đến đúng chỗ :)
 
 {% include testimonial_slider.html images=page.testimonial_images %}
 
-## Lộ Trình Tập Luyện & Đồng Hành 12 Tuần Video Quay Sẵn
+## Lộ Trình Tổng Quan Khoá Sinh Nở 101
 
-👉 Mỗi tuần chỉ 2–3 bài tập lý thuyết & thực hành, tập lúc nào cũng được – miễn là đúng & đều 💛. Ngoài các video học theo lộ trình dưới đây, mẹ còn tham gia các buổi LIVE nhóm nhỏ hàng tuần để được hướng dẫn và chỉnh sửa trực tiếp.
+👉 5 Module Chi Tiết Hỗ Trợ chặt chẽ các buổi tập live hàng tuần. Nếu mẹ nào không học được live, cũng có phương án tập online theo video quay sẵn để mẹ linh hoạt 💛
 
 {% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week12" type="left" %}
 
@@ -153,14 +155,14 @@ Bạn đã tìm đến đúng chỗ :)
   <tr>
     <th style="text-align: center;"></th>
     <th style="text-align: center;">12 Buổi Tập Live</th>
-    <th style="text-align: center;">Cẩm Nang Sinh Nở 101 </th>
+    <th style="text-align: center;">Khoá Sinh Nở 101 </th>
     <th style="text-align: center;">Thư Viện Tập Thêm</th>
   </tr>
   <tr>
     <td>Mục Tiêu</td>
     <td>Tập trực tiếp với Linh — được hướng dẫn và điều chỉnh theo thời gian thực</td>
     <td>Hiểu quá trình sinh nở từ A đến Z — từ thai kỳ đến phục hồi sau sinh</td>
-    <td></td>Video tập bổ sung để luyện thêm ngoài giờ live — tăng hiệu quả tối đa</td>
+    <td>Video tập bổ sung để luyện thêm ngoài giờ live — tăng hiệu quả tối đa</td>
   </tr>
   <tr>
     <td>Nội Dung Chính </td>
@@ -199,59 +201,39 @@ Bạn đã tìm đến đúng chỗ :)
     <td>Mức Đầu Tư </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>3,000,000đ</li>
+        <li>style="text-align: center;"><strong style="color: green;">2.900.000đ</li>
         <li>Giá ưu đãi sau 12 buổi tập</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>2,500,000đ</li>
-        <li>Truy cập 1 năm</li>
+        <li>style="text-align: center;"><strong style="color: green;">2.000.000đ</strong></li>
+        <li>Truy cập trong 1 năm</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>800,000đ</li>
-        <li>Truy cập 1 năm</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>Phù Hợp Với</td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>Các mẹ cần kỉ luật để giữ cơ thể tập đều dẻo dai</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>Các mẹ cần </li>
-      </ul>
-    </td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>Có bao gồm & tư vấn xuyên suốt dựa vào thực hành luyện tập của mẹ</li>
+        <li><li>style="text-align: center;"><strong style="color: green;">800.000đ</strong></li>
+        <li>Truy cập trong 1 năm</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td> Hỗ trợ 1:1 </td>
+    <td> Hỗ trợ</td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Được chỉnh sửa trực tiếp động tác trong lớp</li>
+        <li>Được chỉnh sửa trực tiếp động tác trong lớp & trong nhóm</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Được chỉnh sửa trực tiếp động tác trong lớp</li>
-        <li>Chỉnh sửa video/ảnh theo các bài tập thực hành ngoài lớp</li>
+        <li>Được chỉnh sửa trực tiếp động tác trong lớp & trong nhóm</li>
+        <li>Trả lời các câu hỏi 1:1 về khoá học</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Được chỉnh sửa trực tiếp động tác trong lớp</li>
         <li>Chỉnh sửa video/ảnh theo các bài tập thực hành ngoài lớp</li>
-        <li>Ưu tiên hỗ trợ xuyên suốt trước & sau sinh</li>
       </ul>
     </td>
   </tr>
@@ -264,8 +246,8 @@ Bạn đã tìm đến đúng chỗ :)
   <tr>
     <td>Phù hợp cho</td>
     <td>Đã biết về khá rõ về giai đoạn sinh nở, chắc tinh thần, chỉ cần vận động, duy trì tập luyện nhẹ nhàng mỗi tuần</td>
-    <td>Chưa có nền tảng sinh nở, muốn được hiểu cơ thể & cơ chế sinh nở để thực hành tốt hơn</td>
-    <td>Mẹ muốn tập thêm ngoài lớp live để giúp cơ thể dẻo dai, bớt ì ạch hơn</td>
+    <td>Chưa có nền tảng sinh nở, muốn được hiểu cơ thể & cơ chế sinh nở để kết hợp thực hành tốt hơn</td>
+    <td>Mẹ muốn tập thêm ngoài lớp live để giúp cơ thể dẻo dai, bớt ì ạch và chuẩn bị cơ thể 1 cách tối ưu nhất cho việc sinh & hồi phục sau sinh</td>
   </tr>
 </table>
 
