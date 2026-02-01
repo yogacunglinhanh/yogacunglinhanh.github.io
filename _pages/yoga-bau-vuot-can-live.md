@@ -201,7 +201,7 @@ testimonial_images:
     <td>Mức Đầu Tư</td>
     <td style="vertical-align: top;">
       <ul>
-        <li style="text-align: center;"><strong style="color: green;">2.900.000đ</li>
+        <li style="text-align: center;"><strong style="color: green;">2.900.000đ</strong></li>
         <li>Giá ưu đãi sau 12 buổi tập</li>
       </ul>
     </td>
@@ -236,12 +236,6 @@ testimonial_images:
         <li>Chỉnh sửa video/ảnh theo các bài tập thực hành ngoài lớp</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td>Mức Đầu Tư</td>
-    <td style="text-align: center;"><strong style="color: green;">2.900.000đ</strong></td>
-    <td style="text-align: center;"><strong style="color: green;">2.000.000đ</strong></td>
-    <td style="text-align: center;"><strong style="color: green;">800.000đ</strong></td>
   </tr>
   <tr>
     <td>Phù hợp cho</td>
