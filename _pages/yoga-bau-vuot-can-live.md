@@ -13,13 +13,11 @@ yoga-bau-vuot-can-live-thu-ngo:
       Rồi giây phút sinh bé không cần thuốc giảm đau và đẻ sau chỉ sau 3.5 tiếng. Hay cả 3-4 tháng trời vật lộn làm quen với vai trò người mẹ. Tuy đã thực hành rất nhiều Yoga, thở, thiền nhưng vẫn nhiều lúc cảm thấy kiệt sức, và bản thân oà khóc.<br><br>
        Mình luôn tự hỏi: <br>
       • *Tại sao các lớp chuẩn bị sinh nở kiến thức lại hời hợt, phức tạp khó áp dụng thế?*<br>
-      • *Tại sao ít người biết là cơ thể mình thực sự được "xây dựng" để đẻ nhẹ nhàng đến thế?*<br>
-      • *Tại sao các lớp sinh nở chỉ dừng lại ở những động tác, mà không thêm kiến thức tâm lý, mindset cho mẹ, và cả người thân?*<br>
       • *Tại sao các lớp sinh nở, Yoga bầu không bao gồm cả kiến thức phục hồi sau sinh? Sau sinh đâu có thời gian đâu mà cho bản thân đâu?*<br><br>
+      • *Và hàng ngàn hàng vạn những câu hỏi khác từ chính trải nghiệm bản thân*<br>
 
-      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, đồng hành với mẹ TOÀN DIỆN, trước, trong lúc sinh và ngay sau sinh, cả mặt thể chất lẫn tinh thần.<br><br>
-      Mình tin rằng mỗi người mẹ đều mang trong mình sức mạnh phi thường nhưng không phải ai cũng tận dụng được sức mạnh đó tối đa, nó thật là uổng phí<br><br>
-      ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn khơi dậy sức mạnh đấy.***<br><br>
+      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, để chia sẻ những kiến thức cơ bản đến nâng cao, từ trước sinh đến trong lúc sinh và ngay sau sinh, từ thể chất lẫn tinh thần, để mẹ không bị bỡ ngỡ và có thể vượt cạn nhẹ nhàng hơn bao giờ hết.<br><br>
+      ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn.***<br><br>
       
     url: /khoa-hoc/yoga-bau-vuot-can-live/#v%E1%BB%81-linh
     btn_label: "Đọc Thêm Về Linh"
@@ -48,20 +46,11 @@ yoga-bau-vuot-can-live-intro:
         class: "btn--buy"
 yoga-bau-vuot-can-live-loi-ich:
   - excerpt: >-
-      🎥 Toàn bộ khóa học video quay sẵn học & luyện tập (truy cập 1 năm) <br>
-      • Kiến Thức Sinh Nở Cơ Bản ai cũng cần biết nhưng không ai nói<br>
-      Mẹ có thể xem lại bất cứ lúc nào trong suốt nửa sau thai kỳ và cả giai đoạn đầu sau sinh, khi cơ thể cần được chăm sóc nhiều hơn.<br><br>
+      ♥️ Giảm Đau Mỏi, Khó Chịu lúc bụng to và sau sinh, tăng cường sức khoẻ của mẹ
   - excerpt: >-
-      ♥️ Các buổi tập ồng hành trực tiếp nhóm nhỏ cùng Linh<br>
-      • Chỉnh sửa động tác trực tiếp theo từng giai đoạn bụng lớn dần<br>
-      • Hỗ trợ các khó chịu thường gặp cuối thai kỳ như đau lưng, nặng bụng, mất ngủ<br>
-      • Không gian tập nhẹ nhàng giúp mẹ vừa vận động vừa thư giãn<br>
-      Hết 12 tuần, mẹ có thể tiếp tục đăng ký học live thôi tuỳ theo nhu cầu và số tuần còn lại của mẹ<br><br>
+      🗓️ Giảm thiếu tối đa những can thiệp y tế, tăng khả năng sinh thường cao nhất<br>
   - excerpt: >-
-      🗓️ Chuẩn Bị Cơ Thể & Tinh Thần Cho Ngày Sinh & Những Tuần Đầu Sau Sinh<br>
-      • Biết cách thở và thư giãn để cơ thể không căng cứng khi chuyển dạ<br>
-      • Thực hành thiền giúp hệ thần kinh ổn định hơn — yếu tố ảnh hưởng trực tiếp đến cảm nhận đau khi sinh<br>
-      • Biết cách vận động cực nhẹ và kết nối lại với cơ thể trong những tuần đầu sau sinh<br><br>
+      🗓️ Hồi phục sau sinh nhanh chóng<br>
   - excerpt: >-
       🙆‍♀️ Học cách làm mẹ 1 cách tỉnh thức hơn, để cả mẹ và con được yêu thương 1 cách tối đa nhất.<br><br>
   - excerpt: >-
