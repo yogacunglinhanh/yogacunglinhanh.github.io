@@ -33,8 +33,9 @@ yoga-bau-vuot-can-live-intro:
       Tập Yoga Bầu không là không đủ, bạn cần 1 hành trình toàn diện trước và sau sinh, thân thể và tinh thần. Đó chính là Yoga Bầu Vượt Cạn. Lớp được thiết kế để với 3 Trụ Cột Chính<br>
       • 12+ buổi tập Live trực tiếp với Linh để được hướng dẫn tập an toàn<br>
       • Khoá Sinh Nở 101 giải thích chi tiết cơ chế hoạt động của cơ thể trong thai kỳ, trong lúc sinh và sau sinh<br>
-      • Thư Viện Tập Thêm gồm những bài tập ngắn phục vụ cho những triệu chứng bầu phổ biến, cũng như những video dài giúp mẹ khoẻ, dẻo dai suốt thai kỳ <br>
-      Đích đến cuối cùng là hồi phục sau sinh nhanh chóng, để có thể dành trọn thời gian với con yêu mới sinh hoặc các bé lớn cho các mẹ sinh lần 2,3 <br><br>
+      • Thư Viện Tập thêm gồm những bài tập ngắn phục vụ cho những triệu chứng bầu phổ biến, cũng như những video dài giúp mẹ khoẻ, dẻo dai suốt thai kỳ <br>
+      Đích đến cuối cùng là hồi phục sau sinh nhanh chóng, để có thể dành trọn thời gian với con yêu mới sinh hoặc các bé lớn cho các mẹ sinh lần 2,3.<br>
+      Tuỳ nhu cầu của mỗi mẹ mà có thể chọn 1 hoặc cả 3 trụ cột để hỗ trợ quá trình sinh nở<br><br>
 
     buttons:
       - label: "Đăng Ký Ngay"
@@ -49,21 +50,19 @@ yoga-bau-vuot-can-live-intro:
 
 yoga-bau-vuot-can-live-loi-ich:
   - excerpt: >-
-      🎥 Toàn bộ khóa học video quay sẵn học & luyện tập trong vòng 6 tháng <br>
-      • Kiến Thức & luyện tập trước sinh theo lộ trình rõ ràng trong tam cá nguyệt 2 & 3<br>
-      • Kiến thức và định hướng phục hồi sau sinh trong 3 tháng đầu<br>
+      🎥 Toàn bộ khóa học video quay sẵn học & luyện tập (truy cập 1 năm) <br>
+      • Kiến Thức Sinh Nở Cơ Bản ai cũng cần biết nhưng không ai nói<br>
       Mẹ có thể xem lại bất cứ lúc nào trong suốt nửa sau thai kỳ và cả giai đoạn đầu sau sinh, khi cơ thể cần được chăm sóc nhiều hơn.<br><br>
   - excerpt: >-
-      ♥️ 12 tuần đồng hành trực tiếp nhóm nhỏ cùng Linh<br>
+      ♥️ Các buổi tập ồng hành trực tiếp nhóm nhỏ cùng Linh<br>
       • Chỉnh sửa động tác trực tiếp theo từng giai đoạn bụng lớn dần<br>
       • Hỗ trợ các khó chịu thường gặp cuối thai kỳ như đau lưng, nặng bụng, mất ngủ<br>
       • Không gian tập nhẹ nhàng giúp mẹ vừa vận động vừa thư giãn<br>
-      Hết 3 tháng, mẹ có thể tiếp tục đăng ký học live thôi tuỳ theo nhu cầu và số tuần còn lại của mẹ<br><br>
+      Hết 12 tuần, mẹ có thể tiếp tục đăng ký học live thôi tuỳ theo nhu cầu và số tuần còn lại của mẹ<br><br>
 
   - excerpt: >-
       🗓️ Chuẩn Bị Cơ Thể & Tinh Thần Cho Ngày Sinh & Những Tuần Đầu Sau Sinh<br>
       • Biết cách thở và thư giãn để cơ thể không căng cứng khi chuyển dạ<br>
-      • Hiểu điều gì đang diễn ra trong các giai đoạn sinh để bớt hoảng sợ<br>
       • Thực hành thiền giúp hệ thần kinh ổn định hơn — yếu tố ảnh hưởng trực tiếp đến cảm nhận đau khi sinh<br>
       • Biết cách vận động cực nhẹ và kết nối lại với cơ thể trong những tuần đầu sau sinh<br><br>
   - excerpt: >-
@@ -77,37 +76,45 @@ yoga-bau-vuot-can-live-loi-ich:
 
 yoga-bau-vuot-can-live-lo-trinh-week12:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week1.jpg
-    alt: "Giai Đoạn 1: Chuẩn Bị Nền Tảng (2 tuần)"
-    title: "Giai Đoạn 1: Chuẩn Bị Nền Tảng (2 tuần)"
+    alt: "Module 1: Chuẩn Bị Nền Tảng Cơ Thể"
+    title: "Module 1: Chuẩn Bị Nền Tảng Cơ Thể"
     excerpt: >-
-      <li>Giới thiệu về cách đi đứng ngồi của mẹ bầu, yoga bầu, và cách tập an toàn cho mẹ và bé.</li>
-      <li>Hiểu về 5 giai đoạn đi đẻ để biết nên tập gì trong những tuần tới.</li>
-      <li>Tập trung hiểu & tập vùng đáy chậu → giảm rách tầng sinh môn, giảm són tiểu, phục hồi nhanh sau sinh.</li>
+      <li>Cách tập Yoga an toàn theo từng giai đoạn</li>
+      <li>Lưu ý sinh hoạt hàng ngày giúp thai kỳ khoẻ mạnh</li>
+      <li>Cơ sàn chậu 101 & Tư Thế Tối Ưu để sinh thường dễ</li>
 yoga-bau-vuot-can-live-lo-trinh-week3456:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week345.jpg
-    alt: "Giai Đoạn 2: Tập Trung Luyện Thân & Thở (4 tuần)"
-    title: "Giai Đoạn 2: Tập Trung Luyện Thân, Tâm lý & Thở (4 tuần)"
+    alt: "Module 2: Hiểu Quá Trình Sinh Nở"
+    title: "Module 2: Hiểu Quá Trình Sinh Nở"
     excerpt: >-
-      <li>Các kỹ thuật thở & bài tập an toàn giúp mẹ đối mặt với việc đau lưng, phù nề, đau hông trong thai kỳ.</li>
-      <li>Học cách thở để giảm đau lúc đẻ và rút ngắn giai đoạn "rặn đẻ".</li>
-      <li>Luyện tập thân thể để tăng cường sức khoẻ, chuẩn bị sức bền khi sinh.</li>
-      <li>Thực hành đào sâu những suy nghĩ khiến bạn có thể sinh nở khó khăn.</li>
+      <li>Các giai đoạn khi đi sinh & Kỹ Thuật Yoga trong phòng sinh cơ bản</li>
+      <li>Trải nghiệm đi đẻ thật của bản thân</li>
+      <li>Khi nào nên đến bệnh viện</li>
+      <li>Cách chọn bác sĩ & bệnh viện tốt từ trải nghiệm bản thân</li>
 yoga-bau-vuot-can-live-lo-trinh-week789:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week89.jpg
-    alt: "Giai Đoạn 3: Chuẩn Bị Sinh & Về Đích (4 tuần)"
-    title: "Giai Đoạn 3: Chuẩn Bị Sinh & Về Đích (4 tuần)"
+    alt: "Module 3: Vũ Khi Yoga Trong Phòng Sinh"
+    title: "Module 3: Vũ Khi Yoga Trong Phòng Sinh"
     excerpt: >-
-      <li>Tư thế sinh, kỹ thuật thở khi chuyển dạ, và cách đối phó với cơn đau. Thực hành "giả đi đẻ", giúp bạn hiểu bạn cần đối phó cái gì.</li>
-      <li>Xây dựng Action Birth Plan cá nhân, chuẩn bị tâm lý và checklist trước khi đi sinh.</li>
-      <li>Các bài tập thư giãn cho cơ thể & củng cố niềm sự vững vàng trước sinh.</li>
+      <li>Xin Giữ Bí Mật Để Tránh Bị "Copy" :D </li>
 yoga-bau-vuot-can-live-lo-trinh-week101112:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week10.jpg
-    alt: "Giai Đoạn 4: Học Cách Chăm Sau Sinh (2-3 tuần)"
-    title: "Giai Đoạn 4: Học Cách Chăm Sau Sinh (2-3 tuần)"
+    alt: "Module 4: Chuẩn Bị Thực Tế"
+    title: "Module 4: Chuẩn Bị Thực Tế"
     excerpt: >-
-      <li>Kiến thức tập cơ sàn chậu "đúng, an toàn" ngay sau khi sinh, giúp cơ hồi phục nhanh nhất.</li>
+      <li>Đồ Chuẩn Bị Đi Sinh Cho Mẹ </li>
+      <li>Người Thân Có Thể Giúp Gì (Đang cập nhật)</li>
+      <li>Trải Nghiệm Đi Đẻ Của Người Khác</li>
+      <li>Birth Action Plan & bản PDF template </li>
+yoga-bau-vuot-can-live-lo-trinh-week101112:
+  - image_path: /assets/images/courses/yoga-bau-vuot-can-week10.jpg
+    alt: "Module 5: Định Hướng Sau Sinh"
+    title: "Module 5: Định Hướng Sau Sinh"
+    excerpt: >-
+      <li>Kiến thức tập cơ sàn chậu, cơ bụng "đúng, an toàn" ngay sau khi sinh, giúp cơ hồi phục nhanh nhất.</li>
       <li>Các bài tập thư giãn, nhẹ nhàng tránh đau mỏi cổ, vai gáy, đau lưng cho mẹ mới sinh.</li>
       <li>Thực hành đào sâu não bộ, giúp giảm stress, căng thẳng và trầm cảm sau sinh</li>
+      <li>Cách chăm sóc nếu mẹ đẻ mổ, chuẩn bị cho mọi trường hợp</li>
 testimonial_images:
   - src: "/assets/images/testimonials/yoga-bau-vuot-can-feedback1.jpg"
     alt: "Yoga Bau Vuot Can Feedback 1"
@@ -157,37 +164,125 @@ testimonial_images:
 
 ## Mức Đầu Tư
 
-4.500.000 VND - Gói Đồng Hành Toàn Diện Trọn Gói Đồng Hành 6 Tháng Trước & Sau Sinh (FULL)
-
-Mẹ được truy cập toàn bộ nội dung khóa học trong vòng 1 năm, để có thể xem lại trong suốt 6 tháng cuối thai kỳ và cả giai đoạn đầu sau sinh — khi việc chăm sóc bản thân trở nên quan trọng nhưng cũng khó sắp xếp nhất.
-
-Nếu mẹ còn 3 tháng là dự sinh, thì tính ra, chưa đến 750,000đ mỗi tháng để mẹ được chuẩn bị cả về cơ thể lẫn tinh thần cho hành trình sinh và những tháng đầu làm mẹ.<br>
-Nếu mẹ còn 6 tháng là dự sinh, thì tính ra, chỉ tầm 500,000đ mỗi tháng để mẹ được chuẩn bị cả về cơ thể lẫn tinh thần cho hành trình sinh và những tháng đầu làm mẹ thui.<br> Thế nên, càng học sớm càng có thể áp dụng kiến thức và được hỗ trợ nhiều, càng lời :) 
-
-
-## Nếu mẹ đang tìm lựa chọn nhẹ hơn hoặc chuyên sâu hơn…
-
-🌿 Gói Nhẹ – Tập & Kiến Thức Cơ Bản
-(Phù hợp với mẹ chỉ muốn tập vận động và tìm hiểu phần nền tảng trước sinh)
-
-Bao gồm:<br>
-• 12 buổi tập live nhóm nhỏ<br>
-• Lý thuyết cơ bản về cơ thể và nguyên tắc tập an toàn khi mang thai<br>
-
-Không bao gồm phần chuẩn bị tâm lý sinh, thiền trước & sau sinh, và định hướng phục hồi sau sinh.
-
-👉 Phù hợp với mẹ đã có kế hoạch chuẩn bị sinh riêng và chỉ cần lớp tập luyện nhẹ nhàng.
-Mức đầu tư: 3.700.000đ
-
-🌟 Gói Kèm Riêng 1:1
-(Dành cho mẹ cần được theo sát hơn do thể trạng, sức khỏe hoặc mong muốn riêng)
-
-Bao gồm:<br>
-• Toàn bộ nội dung của chương trình Đồng Hành Vượt Cạn Toàn Diện
-• Kèm thêm các buổi tập riêng 1:1, để điều chỉnh bài tập theo tình trạng cá nhân.
-👉 Phù hợp với mẹ cần sự theo sát đặc biệt về thể chất hoặc tinh thần.
-
-Mức đầu tư: 6.000.000đ
+<table>
+  <tr>
+    <th style="text-align: center;"></th>
+    <th style="text-align: center;">12 Buổi Tập Live</th>
+    <th style="text-align: center;">Cẩm Nang Sinh Nở 101 </th>
+    <th style="text-align: center;">Thư Viện Tập Thêm</th>
+  </tr>
+  <tr>
+    <td>Mục Tiêu</td>
+    <td>Tập trực tiếp với Linh — được hướng dẫn và điều chỉnh theo thời gian thực</td>
+    <td>Hiểu quá trình sinh nở từ A đến Z — từ thai kỳ đến phục hồi sau sinh</td>
+    <td></td>Video tập bổ sung để luyện thêm ngoài giờ live — tăng hiệu quả tối đa</td>
+  </tr>
+  <tr>
+    <td>Nội Dung Chính </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>12 buổi tập live (1 buổi/tuần)</li>
+        <li>Hướng dẫn tập an toàn cho bà bầu</li>
+        <li>Điều chỉnh theo từng giai đoạn thai kỳ</li>
+        <li>Tài liệu học tập kèm theo từng buổi</li>
+        <li>Xem lại buổi tập nếu bận</li>
+        <li>Cộng đồng các mẹ đồng hành</li>
+        <li>Hỗ trợ giải đáp trong group</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>5 modules bài giảng chi tiết</li>
+        <li>Hiểu cơ thể & quá trình sinh nở</li>
+        <li>Kỹ thuật yoga trong phòng sinh</li>
+        <li>Mindset & chuẩn bị tâm lý sinh và sau sinh</li>
+        <li>Định hướng phục hồi sau sinh</li>
+        <li>PDF tài liệu tải về</li>
+        <li>Xem thêm chi tiết ở lộ trình Khoá Sinh Nở 101</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Hơn 20 Video Tập Theo Từng Giai Đoạn Thai Kỳ</li>
+        <li>5 Video cho triệu chứng phổ biến nhất của thai kỳ</li>
+        <li>Tập bất cứ giờ nào, ở đâu</li>
+        <li>Phù hợp tập 1-2 lần/tuần bên ngoài live</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Mức Đầu Tư </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>3,000,000đ</li>
+        <li>Giá ưu đãi sau 12 buổi tập</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>2,500,000đ</li>
+        <li>Truy cập 1 năm</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>800,000đ</li>
+        <li>Truy cập 1 năm</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Phù Hợp Với</td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Các mẹ cần kỉ luật để giữ cơ thể tập đều dẻo dai</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Các mẹ cần </li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Có bao gồm & tư vấn xuyên suốt dựa vào thực hành luyện tập của mẹ</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td> Hỗ trợ 1:1 </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Được chỉnh sửa trực tiếp động tác trong lớp</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Được chỉnh sửa trực tiếp động tác trong lớp</li>
+        <li>Chỉnh sửa video/ảnh theo các bài tập thực hành ngoài lớp</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Được chỉnh sửa trực tiếp động tác trong lớp</li>
+        <li>Chỉnh sửa video/ảnh theo các bài tập thực hành ngoài lớp</li>
+        <li>Ưu tiên hỗ trợ xuyên suốt trước & sau sinh</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td> Mức Đầu Tư </td>
+    <td style="text-align: center;"><strong style="color: green;">2.900.000đ</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">2.000.000đ</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">800.000đ</strong></td>
+  </tr>
+  <tr>
+    <td>Phù hợp cho</td>
+    <td>Đã biết về khá rõ về giai đoạn sinh nở, chắc tinh thần, chỉ cần vận động, duy trì tập luyện nhẹ nhàng mỗi tuần</td>
+    <td>Chưa có nền tảng sinh nở, muốn được hiểu cơ thể & cơ chế sinh nở để thực hành tốt hơn</td>
+    <td>Mẹ muốn tập thêm ngoài lớp live để giúp cơ thể dẻo dai, bớt ì ạch hơn</td>
+  </tr>
+</table>
 
 **Ngoài ra, nếu mẹ không đủ thời gian tập lâu, hay không có tham gia được thời gian cố định, Linh cũng vẫn có lựa chọn học CẤP TỐC kiến thức và tập online để mẹ tập linh hoạt tại nhà.**
 
@@ -207,11 +302,6 @@ Mỗi tuần mẹ tập là thêm một tuần cơ thể khỏe hơn, tinh thầ
 Mỗi tuần trì hoãn là 1 tuần bỏ lỡ cơ hội cảm nhận rõ ràng sức mạnh bên trong mình.
 
 Hãy nhớ, khả năng sinh thường được quyết định từ những gì bạn làm bây giờ, không phải khi vào phòng sinh.
-
-
-## Chia Sẻ Từ Các Học Viên Cũ
-
-{% include testimonial_slider.html images=page.testimonial_images %}
 
 ## Về Linh
 
