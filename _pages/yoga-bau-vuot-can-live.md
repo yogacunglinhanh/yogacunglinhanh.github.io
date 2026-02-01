@@ -18,7 +18,7 @@ yoga-bau-vuot-can-live-thu-ngo:
 
       Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, để chia sẻ những kiến thức cơ bản đến nâng cao, từ trước sinh đến trong lúc sinh và ngay sau sinh, từ thể chất lẫn tinh thần, để mẹ không bị bỡ ngỡ và có thể vượt cạn nhẹ nhàng hơn bao giờ hết.<br><br>
       ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn.***<br><br>
-      
+
     url: /khoa-hoc/yoga-bau-vuot-can-live/#v%E1%BB%81-linh
     btn_label: "Đọc Thêm Về Linh"
     btn_class: "btn--yoga"
@@ -123,7 +123,7 @@ testimonial_images:
 - Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu<br>
 - Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.<br>
 - Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br><br>
-Bạn đã tìm đến đúng chỗ :)
+  Bạn đã tìm đến đúng chỗ :)
 
 {% include feature_row id="yoga-bau-vuot-can-live-thu-ngo" type="left" %}
 
@@ -165,7 +165,7 @@ Bạn đã tìm đến đúng chỗ :)
     <td>Video tập bổ sung để luyện thêm ngoài giờ live — tăng hiệu quả tối đa</td>
   </tr>
   <tr>
-    <td>Nội Dung Chính </td>
+    <td>Nội Dung Chính</td>
     <td style="vertical-align: top;">
       <ul>
         <li>12 buổi tập live (1 buổi/tuần)</li>
@@ -198,28 +198,28 @@ Bạn đã tìm đến đúng chỗ :)
     </td>
   </tr>
   <tr>
-    <td>Mức Đầu Tư </td>
+    <td>Mức Đầu Tư</td>
     <td style="vertical-align: top;">
       <ul>
-        <li>style="text-align: center;"><strong style="color: green;">2.900.000đ</li>
+        <li style="text-align: center;"><strong style="color: green;">2.900.000đ</li>
         <li>Giá ưu đãi sau 12 buổi tập</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>style="text-align: center;"><strong style="color: green;">2.000.000đ</strong></li>
+        <li style="text-align: center;"><strong style="color: green;">2.000.000đ</strong></li>
         <li>Truy cập trong 1 năm</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li><li>style="text-align: center;"><strong style="color: green;">800.000đ</strong></li>
+        <li style="text-align: center;"><strong style="color: green;">800.000đ</strong></li>
         <li>Truy cập trong 1 năm</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td> Hỗ trợ</td>
+    <td>Hỗ trợ</td>
     <td style="vertical-align: top;">
       <ul>
         <li>Được chỉnh sửa trực tiếp động tác trong lớp & trong nhóm</li>
@@ -238,7 +238,7 @@ Bạn đã tìm đến đúng chỗ :)
     </td>
   </tr>
   <tr>
-    <td> Mức Đầu Tư </td>
+    <td>Mức Đầu Tư</td>
     <td style="text-align: center;"><strong style="color: green;">2.900.000đ</strong></td>
     <td style="text-align: center;"><strong style="color: green;">2.000.000đ</strong></td>
     <td style="text-align: center;"><strong style="color: green;">800.000đ</strong></td>
