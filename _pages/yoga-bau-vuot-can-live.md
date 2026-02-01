@@ -24,7 +24,6 @@ yoga-bau-vuot-can-live-thu-ngo:
     url: /khoa-hoc/yoga-bau-vuot-can-live/#v%E1%BB%81-linh
     btn_label: "Đọc Thêm Về Linh"
     btn_class: "btn--yoga"
-
 yoga-bau-vuot-can-live-intro:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-cover.jpg
     alt: "Lớp Yoga Bầu Vượt Cạn"
@@ -47,7 +46,6 @@ yoga-bau-vuot-can-live-intro:
       - label: "Xem Mức Đầu Tư"
         url: /khoa-hoc/yoga-bau-vuot-can-live/#m%E1%BB%A9c-%C4%91%E1%BA%A7u-t%C6%B0
         class: "btn--buy"
-
 yoga-bau-vuot-can-live-loi-ich:
   - excerpt: >-
       🎥 Toàn bộ khóa học video quay sẵn học & luyện tập (truy cập 1 năm) <br>
@@ -59,7 +57,6 @@ yoga-bau-vuot-can-live-loi-ich:
       • Hỗ trợ các khó chịu thường gặp cuối thai kỳ như đau lưng, nặng bụng, mất ngủ<br>
       • Không gian tập nhẹ nhàng giúp mẹ vừa vận động vừa thư giãn<br>
       Hết 12 tuần, mẹ có thể tiếp tục đăng ký học live thôi tuỳ theo nhu cầu và số tuần còn lại của mẹ<br><br>
-
   - excerpt: >-
       🗓️ Chuẩn Bị Cơ Thể & Tinh Thần Cho Ngày Sinh & Những Tuần Đầu Sau Sinh<br>
       • Biết cách thở và thư giãn để cơ thể không căng cứng khi chuyển dạ<br>
@@ -69,11 +66,6 @@ yoga-bau-vuot-can-live-loi-ich:
       🙆‍♀️ Học cách làm mẹ 1 cách tỉnh thức hơn, để cả mẹ và con được yêu thương 1 cách tối đa nhất.<br><br>
   - excerpt: >-
       ♥️ Đồng hành trọn vẹn xuyên suốt từ khi bạn mang thai, trong lúc sinh và sau sinh từ Linh và cộng đồng các mẹ<br><br>
-
-## Chia Sẻ Từ Các Học Viên Cũ
-
-{% include testimonial_slider.html images=page.testimonial_images %}
-
 yoga-bau-vuot-can-live-lo-trinh-week12:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week1.jpg
     alt: "Module 1: Chuẩn Bị Nền Tảng Cơ Thể"
@@ -149,6 +141,10 @@ testimonial_images:
 ## Lợi Ích Khi Tham Gia Khoá Học
 
 {% include feature_row id="yoga-bau-vuot-can-live-loi-ich" %}
+
+## Chia Sẻ Từ Các Học Viên Cũ
+
+{% include testimonial_slider.html images=page.testimonial_images %}
 
 ## Lộ Trình Tập Luyện & Đồng Hành 12 Tuần Video Quay Sẵn
 
