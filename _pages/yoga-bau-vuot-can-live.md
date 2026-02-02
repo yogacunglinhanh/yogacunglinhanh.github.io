@@ -85,7 +85,7 @@ yoga-bau-vuot-can-live-lo-trinh-week789:
     excerpt: >-
       <li>Khám phá bí mật các nhóm cơ vàng trong sinh nở </li>
       <li>Lý thuyết & thực hành các nhóm cơ </li>
-yoga-bau-vuot-can-live-lo-trinh-week101112:
+yoga-bau-vuot-can-live-lo-trinh-week12:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week10.jpg
     alt: "Module 4: Vũ Khí Yoga & Thiền Trong Phòng Sinh"
     title: "Module 4: Vũ Khí Yoga & Thiền Trong Phòng Sinh"
@@ -144,6 +144,8 @@ testimonial_images:
 {% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week3456" type="left" %}
 
 {% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week789" type="left" %}
+
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week12" type="left" %}
 
 {% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week101112" type="left" %}
 
