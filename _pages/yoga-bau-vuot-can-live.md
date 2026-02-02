@@ -270,41 +270,20 @@ Khi mẹ chọn Hành trình Trọn vẹn, Linh không chỉ là người dạy 
   </tr>
   <tr>
     <td>Video luyện tập tại nhà mọi lúc</td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>Chỉ có trong Thư viện</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>✅ Có</li>
-      </ul>
+    <td style="vertical-align: top;">Chỉ có trong Thư viện</td>
+    <td style="vertical-align: top;">✅ Có
   </tr>
   <tr>
     <td>Sửa video/ảnh thực hành ngoài giờ</td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>❌ Không</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>✅ Đặc Quyền Riêng</li>
-      </ul>
+    <td style="vertical-align: top;">❌ Không</td>
+    <td style="vertical-align: top;">✅ Đặc Quyền Riêng
     </td>
   </tr>
   <tr>
     <td>Tư Vấn Tổng Thể</td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>Ít Hiệu Quả Vì Linh không có đủ thông tin, quá trình thực tập của mẹ để đồng hành chuyên sâu</li>
-      </ul>
+    <td style="vertical-align: top;">Ít Hiệu Quả Vì Linh không có đủ thông tin, quá trình thực tập của mẹ để đồng hành chuyên sâu
     </td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>✅ Hiệu quả tối đa vì Linh có thể gợi ý các bài tập phù hợp trong gói cho từng thắc mắc</li>
-      </ul>
-    </td>
+    <td style="vertical-align: top;">✅ Hiệu quả tối đa vì Linh có thể gợi ý các bài tập phù hợp trong gói cho từng thắc mắc</li></td>
   </tr>
   <tr>
     <td>Mức Đầu Tư</td>
@@ -312,11 +291,6 @@ Khi mẹ chọn Hành trình Trọn vẹn, Linh không chỉ là người dạy 
     <td>Chỉ 4.500.000đ</td>
   </tr>
 </table>
-
-
-80% các mẹ chọn Gói Toàn Diện để được Linh Anh đồng hành trọn vẹn từ A-Z với mức ưu đãi tiết kiệm hơn 1.800.000đ
-
-
 
 **Ngoài ra, nếu mẹ không đủ thời gian tập lâu, hay không có tham gia được thời gian cố định, Linh cũng vẫn có lựa chọn học CẤP TỐC kiến thức và tập online để mẹ tập linh hoạt tại nhà.**
 
