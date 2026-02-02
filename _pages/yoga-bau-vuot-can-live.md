@@ -244,12 +244,12 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
   </tr>
 </table>
 
-🗓️ Lịch Lớp Live: Thứ 7, 2h Chiều Sydney, Dự kiến bắt đầu 7.2.2026
+🗓️ Lịch Lớp Live: Thứ 7, 2h Chiều Sydney, Dự kiến bắt đầu 7.2.2026<br>
 Nghỉ 2 tuần Tết (21 & 28/2), rất phù hợp để các mẹ dành thời gian xem lý thuyết khoá Sinh Nở 101. 
 
 ## Mẹ Nên Chọn Trụ Cột Nào?
 
-🌸 Hành trình trọn vẹn và toàn diện nhất là khi mẹ thực hành trọn bộ 3 Trụ Cột. Mẹ được kết nối Thân – Tâm – Trí - Con Yêu. 
+🌸 Hành trình trọn vẹn và toàn diện nhất là khi mẹ thực hành trọn bộ 3 Trụ Cột. Mẹ được kết nối Thân – Tâm – Trí - Con Yêu.<br>
 Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí sáng nhờ kiến thức học và kết nối với con yêu khi mẹ có thể dành thời gian với con qua những giây phút thực hành. 
 - Nếu chỉ tập Live: Mẹ khỏe mạnh nhưng dễ hoang mang khi bước vào phòng sinh vì thiếu kiến thức nền tảng sinh nở & thực tế.
 - Nếu chỉ học Khóa 101: Mẹ hiểu lý thuyết nhưng thiếu vận động giúp cơ thể dẻo dai
@@ -298,7 +298,8 @@ Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
   </tr>
 </table>
 
-Mẹ hãy hình dung đây là lộ trình đồng hành xuyên suốt 6 tháng quan trọng nhất (3 tháng cuối thai kỳ giúp mẹ vượt cạn bình an + 3 tháng đầu sau sinh giúp mẹ phục hồi nền tảng). Mức đầu tư trung bình: Chỉ 750.000đ/tháng — tương đương với một vài bữa cafe, nhưng đổi lại là sự tự tin làm chủ cuộc sinh và sức khỏe lâu dài của mẹ.
+Mẹ hãy hình dung đây là lộ trình đồng hành xuyên suốt 6 tháng quan trọng nhất (3 tháng cuối thai kỳ giúp mẹ vượt cạn bình an + 3 tháng đầu sau sinh giúp mẹ phục hồi nền tảng).<br> 
+Mức đầu tư trung bình: Chỉ 750.000đ/tháng — tương đương với một vài bữa cafe, nhưng đổi lại là sự tự tin làm chủ cuộc sinh và sức khỏe lâu dài của mẹ.
 
 <div style="text-align: center;">
   <a href="https://forms.gle/dcJXD3HFETQFSc5H7"
