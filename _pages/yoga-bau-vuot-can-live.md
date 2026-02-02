@@ -347,7 +347,16 @@ Lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương
     <li>Tâm trí vẫn thoải mái để tiếp thu thông tin mới.</li>
   </ul>
   <p>Ngoài ra, khi tập với mình, bạn sẽ nhận được tư vấn chỉnh sửa các bài để phù hợp với tình trạng cơ thể.</p>
-  <p>Mỗi tháng mình chỉ nhận tối đa 10 mẹ bầu đăng ký mỗi tháng để đảm bảo chất lượng đồng hành 1:1, nên các mẹ cũng cân nhắc đăng ký sớm ạ.</p>
+</details>
+
+<details>
+  <summary><strong>Mình đang ở tuần 30+, có quá muộn để tập không?</strong></summary>
+  <p>3 Không lúc nào muộn hết, vì những gì bạn tập bây giờ không chỉ có lợi cho lúc sinh nở, mà còn để chuẩn bị sức khoẻ cho hồi phục sau sinh. Hãy nhắn Facebook mình để được tư vấn lộ trình phù hợp</p>
+</details>
+
+<details>
+  <summary><strong>Nếu sau 12 buổi tập, mình muốn tập thêm lớp Live thì sao?</strong></summary>
+  <p>Linh khuyến khích các mẹ tập xuyên suốt thai kỳ để giữ cơ thể dẻo dai, tránh phù nề những ngày cuối kỳ. Nếu bạn đã học live 12 buổi, bạn sẽ được giá ưu đãi 10% cho những buổi tiếp theo. Nhắn tin mình để được thông tin giá chính xác </p>
 </details>
 
 <details>
@@ -382,9 +391,10 @@ Lớp học phù hợp cho cả những mẹ bầu gặp vấn đề cơ xương
     <li>Điều chỉnh bài tập phù hợp với cơ thể bạn.</li>
     <li>Luôn sẵn sàng khi bạn cần – dù là câu hỏi nhỏ hay nỗi sợ lớn.</li>
     <li>Tôn trọng lựa chọn của bạn và giúp bạn tự tin với quyết định đó</li>
+    <li>Hoàn tiền nếu không cảm thấy không phù hợp sau 7 ngày cho Khoá Sinh Nở, & Thư Viện, Sau 1 buổi Live</li>
   </ul>
   <p>Vì mình tin vào bạn, vào sức mạnh kỳ diệu bên trong mỗi người mẹ – sức mạnh đôi khi chỉ cần một ai đó nhắc nhẹ để được đánh thức.</p>
-  <p>Cho mình được cùng bạn bước đi trên hành trình ấy.</p>
+  <p>Hãy để mình được cùng bạn bước đi trên hành trình ấy.</p>
 </details>
 
 ## TEST nhanh 3 phút kiểm tra mức độ sinh thường
