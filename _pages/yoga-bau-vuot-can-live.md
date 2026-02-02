@@ -14,7 +14,7 @@ yoga-bau-vuot-can-live-thu-ngo:
       Những lúc đó mình luôn tự hỏi: <br>
       • *Mình sẽ sinh nở thế nào nếu không có những tháng năm thực hành Yoga?*<br>
       • *Mình sẽ có những cuộc cãi vã với chồng với con thế nào nếu không tự biết kiểm soát cảm xúc tinh thần của mình?*<br>
-      • *Tại sao các lớp sinh nở, Yoga bầu không bao gồm cả kiến thức phục hồi sau sinh vì sự thực là mấy tháng đầu sau sinh, ngủ còn không đủ huống chi tập Yoga?*<br><br>
+      • *Tại sao các lớp sinh nở, Yoga bầu không bao gồm cả kiến thức phục hồi sau sinh vì sự thực là mấy tháng đầu sau sinh, ngủ còn không đủ huống chi tập Yoga?*<br>
       • *Và hàng ngàn hàng vạn những câu hỏi khác*<br><br>
 
       Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, để chia sẻ những kiến thức cơ bản đến nâng cao, từ trước sinh đến trong lúc sinh và ngay sau sinh, từ thể chất lẫn tinh thần, để mẹ không bị bỡ ngỡ và có thể vượt cạn vững vàng từng bước từng bước một.<br><br>
