@@ -298,10 +298,6 @@ Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
   </tr>
 </table>
 
-
-Cam kết hoàn tiền 100% sau 7 ngày nếu mẹ cảm thấy không phù hợp. 
-
-**Đầu tư cho sức khỏe và kiến thức chỉ với 25.000đ/ngày.**
 Mẹ hãy hình dung đây là lộ trình đồng hành xuyên suốt 6 tháng quan trọng nhất (3 tháng cuối thai kỳ giúp mẹ vượt cạn bình an + 3 tháng đầu sau sinh giúp mẹ phục hồi nền tảng). Mức đầu tư trung bình: Chỉ 750.000đ/tháng — tương đương với một vài bữa cafe, nhưng đổi lại là sự tự tin làm chủ cuộc sinh và sức khỏe lâu dài của mẹ.
 
 <div style="text-align: center;">
