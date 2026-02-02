@@ -232,7 +232,6 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li></li>
       </ul>
     </td>
   </tr>
