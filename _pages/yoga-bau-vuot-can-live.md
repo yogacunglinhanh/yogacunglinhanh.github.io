@@ -198,13 +198,13 @@ testimonial_images:
     <td>Mức Đầu Tư</td>
     <td style="vertical-align: top;">
       <ul>
-        <li style="text-align: center;"><strong style="color: green;">2.900.000đ</strong></li>
+        <li style="text-align: center;"><strong style="color: green;">3.200.000đ</strong></li>
         <li>Giá ưu đãi sau 12 buổi tập</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li style="text-align: center;"><strong style="color: green;">2.000.000đ</strong></li>
+        <li style="text-align: center;"><strong style="color: green;">2.200.000đ</strong></li>
         <li>Truy cập trong 1 năm</li>
       </ul>
     </td>
