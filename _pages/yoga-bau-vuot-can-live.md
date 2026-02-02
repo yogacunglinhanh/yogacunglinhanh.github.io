@@ -145,8 +145,6 @@ testimonial_images:
 
 {% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week789" type="left" %}
 
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week12" type="left" %}
-
 {% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week101112" type="left" %}
 
 ## Mức Đầu Tư
