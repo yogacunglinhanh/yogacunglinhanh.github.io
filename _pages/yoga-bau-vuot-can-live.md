@@ -124,7 +124,7 @@ testimonial_images:
 - Mẹ bầu hơi lớn tuổi - 30+ tuổi trở đi, lo lắng cho sức khoẻ của mình<br>
 - Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi<br>
 - Mẹ bầu nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn nhưng không biết bắt đầu từ đâu<br>
-- Và đặc biệt mẹ bầu lần đầu, không có nhiều kinh nghiệm, kiến thức sinh nở<br><br>
+- Và đặc biệt mẹ bầu lần đầu, hoang mang không biết chuẩn bị như thế nào<br><br>
   Bạn đã tìm đến đúng chỗ :)
 
 {% include feature_row id="yoga-bau-vuot-can-live-thu-ngo" type="left" %}
@@ -251,9 +251,9 @@ Nghỉ 2 tuần Tết (21 & 28/2), rất phù hợp để các mẹ dành thời
 
 🌸 Hành trình trọn vẹn và toàn diện nhất là khi mẹ thực hành trọn bộ 3 Trụ Cột. Mẹ được kết nối Thân – Tâm – Trí - Con Yêu. 
 Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí sáng nhờ kiến thức học và kết nối với con yêu khi mẹ có thể dành thời gian với con qua những giây phút thực hành. 
-- Nếu chỉ tập Live: Mẹ khỏe mạnh nhưng dễ hoang mang khi bước vào phòng sinh vì thiếu kiến thức thực tế.
-- Nếu chỉ học Khóa 101: Mẹ hiểu lý thuyết nhưng cơ thể chưa đủ dẻo dai và sức bền để thực hành rặn đẻ.
-- Nếu chỉ có Thư viện: Mẹ dễ bỏ cuộc vì thiếu sự dẫn dắt và chỉnh sửa động tác trực tiếp từ chuyên gia.
+- Nếu chỉ tập Live: Mẹ khỏe mạnh nhưng dễ hoang mang khi bước vào phòng sinh vì thiếu kiến thức nền tảng sinh nở & thực tế.
+- Nếu chỉ học Khóa 101: Mẹ hiểu lý thuyết nhưng thiếu vận động giúp cơ thể dẻo dai
+- Nếu chỉ có Thư viện: Mẹ dễ bỏ cuộc vì thiếu kỉ luật & động lực hàng tuần.
 
 🌸 Khi mẹ chọn Hành trình Trọn vẹn, Linh không chỉ là người dạy Yoga mà trở thành một **'người bạn đồng hành'** hiểu rõ cả sức khỏe thể chất lẫn những nỗi lo về kiến thức sinh nở của mẹ. Sự hỗ trợ lúc này mang tính tổng thể và nhất quán, giúp mẹ không bị mâu thuẫn giữa việc tập và học.
 
