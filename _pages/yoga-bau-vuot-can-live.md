@@ -281,7 +281,7 @@ Khi mẹ chọn Hành trình Trọn vẹn, Linh không chỉ là người dạy 
   </tr>
   <tr>
     <td>Tư Vấn Tổng Thể</td>
-    <td style="vertical-align: top;">Ít Hiệu Quả Vì Linh không có đủ thông tin, quá trình thực tập của mẹ để đồng hành chuyên sâu</td>
+    <td style="vertical-align: top;">❌ Ít hiệu quả Vì Linh không có đủ thông tin, quá trình thực tập của mẹ để đồng hành chuyên sâu</td>
     <td style="vertical-align: top;">✅ Hiệu quả tối đa vì Linh có thể gợi ý các bài tập phù hợp trong gói cho từng thắc mắc</li></td>
   </tr>
   <tr>
