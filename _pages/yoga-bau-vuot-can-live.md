@@ -322,6 +322,8 @@ Mỗi tuần trì hoãn là 1 tuần bỏ lỡ cơ hội cảm nhận rõ ràng 
 
 Hãy nhớ, khả năng sinh thường được quyết định từ những gì bạn làm bây giờ, không phải khi vào phòng sinh.
 
+Mình đã có những trải nghiệm rất tích cực trong những lần sinh nở, và mình cũng muốn bạn có những trải nghiệm như tích cực như thế. 
+
 ## Về Linh
 
 Chào bạn, mình là Linh Đặng, là giáo viên Yoga chuyên sâu về thai sản và hồi phục sau sinh. Mình được chứng nhận Prenatal & Post Natal ở 2 trung tâm nổi tiếng ở Úc, [Bliss Baby Yoga](https://blissbabyyoga.com/) và [Body Mind Life](https://www.bodymindlife.com/about) với
