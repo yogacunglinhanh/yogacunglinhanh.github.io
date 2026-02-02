@@ -66,7 +66,6 @@ yoga-bau-vuot-can-live-lo-trinh-week12:
       <li>Cách tập Yoga an toàn theo từng giai đoạn</li>
       <li>Lưu ý sinh hoạt hàng ngày giúp thai kỳ khoẻ mạnh</li>
       <li>Lợi ích của Yoga với mẹ bầu</li>
-      <li>Cơ sàn chậu 101 & Tư Thế Tối Ưu để sinh thường dễ</li>
 yoga-bau-vuot-can-live-lo-trinh-week3456:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week345.jpg
     alt: "Module 2: Bản Đồ Vượt Cạn - Hiểu Để Tự Tin"
@@ -84,14 +83,15 @@ yoga-bau-vuot-can-live-lo-trinh-week789:
     alt: "Module 3: Làm Chủ Nhóm Cơ Vàng cho ngày vượt cạn"
     title: "Module 3: Làm Chủ Nhóm Cơ Vàng cho ngày vượt cạn"
     excerpt: >-
-      <li>Khám phá bí mật các nhóm cơ vàng </li>
-      <li>Lý thuyết & thực hành cơ bản </li>
+      <li>Khám phá bí mật các nhóm cơ vàng trong sinh nở </li>
+      <li>Lý thuyết & thực hành các nhóm cơ </li>
 yoga-bau-vuot-can-live-lo-trinh-week101112:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week10.jpg
     alt: "Module 4: Vũ Khí Yoga & Thiền Trong Phòng Sinh"
     title: "Module 4: Vũ Khí Yoga & Thiền Trong Phòng Sinh"
     excerpt: >-
       <li>Xin Giữ Bí Mật Để Tránh Bị "Copy" :D </li>
+      <li>Những chia sẻ chuyên sâu giúp mẹ vững tin và có những kỹ thuật tối ưu nhất để vượt cạn thuận lợi nhất </li>
 yoga-bau-vuot-can-live-lo-trinh-week101112:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week10.jpg
     alt: "Module 5: Định Hướng Sau Sinh"
