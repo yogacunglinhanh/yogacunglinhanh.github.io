@@ -171,7 +171,7 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
         <li>Thứ 7, 2h Chiều Sydney, dự kiến bắt đầu 7.2.2026</li>
         <li>Hướng dẫn tập an toàn cho bà bầu</li>
         <li>Điều chỉnh theo từng giai đoạn thai kỳ</li>
-        <li>Tài liệu học tập kèm theo từng buổi</li>
+        <li>Lớp Nhỏ <6 Người </li>
         <li>Xem lại buổi tập nếu bận</li>
         <li>Cộng đồng các mẹ đồng hành</li>
         <li>Hỗ trợ giải đáp trong group</li>
