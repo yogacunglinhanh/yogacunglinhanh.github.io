@@ -206,13 +206,13 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Mua Riêng<strong style="color: green;">2.200.000đ</strong></li>
+        <li>Mua Riêng <strong style="color: green;">2.200.000đ</strong></li>
         <li>Truy cập trong 1 năm</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Mua Riêng<strong style="color: green;">800.000đ</strong></li>
+        <li>Mua Riêng <strong style="color: green;">800.000đ</strong></li>
         <li>Truy cập trong 1 năm</li>
       </ul>
     </td>
@@ -289,7 +289,7 @@ Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
   <tr>
     <td>Mức Đầu Tư</td>
     <td strong style="color: green;">Tổng 6.200.000đ</td>
-    <td strong style="color: green;">Chỉ 4.500.000đ</td>
+    <td strong style="color: green;">Chỉ 4.500.000đ, giảm 1.800.000đ </td>
   </tr>
 </table>
 
