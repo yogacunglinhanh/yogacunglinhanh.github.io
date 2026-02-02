@@ -168,6 +168,7 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     <td style="vertical-align: top;">
       <ul>
         <li>12 buổi tập live (1 buổi/tuần)</li>
+        <li>Thứ 7, 2h Chiều Sydney, dự kiến bắt đầu 7.2.2026</li>
         <li>Hướng dẫn tập an toàn cho bà bầu</li>
         <li>Điều chỉnh theo từng giai đoạn thai kỳ</li>
         <li>Tài liệu học tập kèm theo từng buổi</li>
@@ -258,8 +259,8 @@ Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
 <table>
   <tr>
     <th style="text-align: center;">Đặc Quyền</th>
-    <th style="text-align: center;">Mua lẻ từng phần</th>
-    <th style="text-align: center;">Gói Trọn Vẹn (FULL)</th>
+    <th style="text-align: center;">Mua Riêng Từng Trụ Cột</th>
+    <th style="text-align: center;">Hành Trình Trọn Vẹn (FULL)</th>
   </tr>
   <tr>
     <td>12 buổi Live sửa tư thế trực tiếp</td>
@@ -284,7 +285,7 @@ Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
   <tr>
     <td>Tư Vấn Tổng Thể</td>
     <td style="vertical-align: top;">❌ Ít hiệu quả Vì Linh không có đủ thông tin, quá trình thực tập của mẹ để đồng hành chuyên sâu</td>
-    <td style="vertical-align: top;">✅ Hiệu quả tối đa vì Linh có thể gợi ý các bài tập phù hợp trong gói cho từng thắc mắc</li></td>
+    <td style="vertical-align: top;">✅ Hiệu quả tối đa vì Linh có thể gợi ý các bài tập phù hợp trong gói cho từng thắc mắc</td>
   </tr>
   <tr>
     <td>Mức Đầu Tư</td>
@@ -294,7 +295,7 @@ Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
 </table>
 Cam kết hoàn tiền 100% sau 7 ngày nếu mẹ cảm thấy không phù hợp. 
 
-**Ngoài ra, nếu mẹ không đủ thời gian tập lâu, hay không có tham gia được thời gian cố định, Linh cũng vẫn có lựa chọn học CẤP TỐC kiến thức và tập online để mẹ tập linh hoạt tại nhà.**
+**Ngoài ra, nếu mẹ không tham gia được thời gian cố định, hoặc đang ở tuần 35+, Linh cũng vẫn có lựa chọn học tập online để mẹ tập linh hoạt tại nhà.**
 
 <div style="text-align: center;">
   <a href="https://forms.gle/hJuC49WYqPv39qcS7"
