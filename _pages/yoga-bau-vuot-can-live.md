@@ -265,16 +265,8 @@ Khi mẹ chọn Hành trình Trọn vẹn, Linh không chỉ là người dạy 
   </tr>
   <tr>
     <td>Kiến thức sinh nở từ A-Z</td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>Chỉ có trong Khóa Sinh Nở 101</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>✅ Có</li>
-      </ul>
-    </td>
+    <td style="vertical-align: top;">Chỉ có trong Khóa Sinh Nở 101</td>
+    <td style="vertical-align: top;">✅ Có</td>
   </tr>
   <tr>
     <td>Video luyện tập tại nhà mọi lúc</td>
