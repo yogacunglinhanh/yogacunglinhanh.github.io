@@ -37,7 +37,7 @@ yoga-bau-vuot-can-live-intro:
 
     buttons:
       - label: "Đăng Ký Ngay"
-        url: https://forms.gle/hJuC49WYqPv39qcS7
+        url: https://forms.gle/dcJXD3HFETQFSc5H7
         class: "btn--yoga"
       - label: "Xem Lộ Trình Đồng Hành"
         url: /khoa-hoc/yoga-bau-vuot-can-live/#l%E1%BB%99-tr%C3%ACnh-t%E1%BA%ADp-luy%E1%BB%87n--%C4%91%E1%BB%93ng-h%C3%A0nh-12-tu%E1%BA%A7n
@@ -300,7 +300,7 @@ Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
 Mẹ hãy hình dung đây là lộ trình đồng hành xuyên suốt 6 tháng quan trọng nhất (3 tháng cuối thai kỳ giúp mẹ vượt cạn bình an + 3 tháng đầu sau sinh giúp mẹ phục hồi nền tảng). Mức đầu tư trung bình: Chỉ 750.000đ/tháng — tương đương với một vài bữa cafe, nhưng đổi lại là sự tự tin làm chủ cuộc sinh và sức khỏe lâu dài của mẹ.
 
 <div style="text-align: center;">
-  <a href="https://forms.gle/hJuC49WYqPv39qcS7"
+  <a href="https://forms.gle/dcJXD3HFETQFSc5H7"
      style="display: inline-block; margin: 0.5em; padding: 0.6em 1.2em;
             background-color: #5fad8e; color:white; border-radius: 0;
             text-decoration: none; font-weight: bold;">
