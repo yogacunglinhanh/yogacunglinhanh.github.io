@@ -200,19 +200,19 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     <td>Mức Đầu Tư</td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Giá Lẻ <strong style="color: green;">3.200.000đ</strong></li>
+        <li>Mua Riêng <strong style="color: green;">3.200.000đ</strong></li>
         <li>Giá ưu đãi sau 12 buổi tập</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li><strong style="color: green;">2.200.000đ</strong></li>
+        <li>Mua Riêng<strong style="color: green;">2.200.000đ</strong></li>
         <li>Truy cập trong 1 năm</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li><strong style="color: green;">800.000đ</strong></li>
+        <li>Mua Riêng<strong style="color: green;">800.000đ</strong></li>
         <li>Truy cập trong 1 năm</li>
       </ul>
     </td>
@@ -228,11 +228,12 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     <td style="vertical-align: top;">
       <ul>
         <li>Được chỉnh sửa trực tiếp động tác trong lớp & trong nhóm</li>
-        <li>Trả lời các câu hỏi 1:1 về khoá học</li>
+        <li>Trả lời các câu về khoá học</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
+        <li>Trả lời các câu hỏi về khoá học</li>
       </ul>
     </td>
   </tr>
@@ -246,12 +247,13 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
 
 ## Mẹ Nên Chọn Trụ Cột Nào?
 
-Hành trình trọn vẹn và toàn diện nhất là khi mẹ thực hành trọn bộ 3 Trụ Cột. Mẹ được kết nối Thân – Tâm – Trí - Con Yêu :). Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí sáng nhờ kiến thức học và kết nối với con yêu khi mẹ có thể dành thời gian với con qua những giây phút thực hành. 
+🌸 Hành trình trọn vẹn và toàn diện nhất là khi mẹ thực hành trọn bộ 3 Trụ Cột. Mẹ được kết nối Thân – Tâm – Trí - Con Yêu. 
+Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí sáng nhờ kiến thức học và kết nối với con yêu khi mẹ có thể dành thời gian với con qua những giây phút thực hành. 
 - Nếu chỉ tập Live: Mẹ khỏe mạnh nhưng dễ hoang mang khi bước vào phòng sinh vì thiếu kiến thức thực tế.
 - Nếu chỉ học Khóa 101: Mẹ hiểu lý thuyết nhưng cơ thể chưa đủ dẻo dai và sức bền để thực hành rặn đẻ.
 - Nếu chỉ có Thư viện: Mẹ dễ bỏ cuộc vì thiếu sự dẫn dắt và chỉnh sửa động tác trực tiếp từ chuyên gia.
 
-Khi mẹ chọn Hành trình Trọn vẹn, Linh không chỉ là người dạy Yoga mà trở thành một 'người bạn đồng hành' hiểu rõ cả sức khỏe thể chất lẫn những nỗi lo về kiến thức sinh nở của mẹ. Sự hỗ trợ lúc này mang tính tổng thể và nhất quán, giúp mẹ không bị mâu thuẫn giữa việc tập và học.
+🌸 Khi mẹ chọn Hành trình Trọn vẹn, Linh không chỉ là người dạy Yoga mà trở thành một **'người bạn đồng hành'** hiểu rõ cả sức khỏe thể chất lẫn những nỗi lo về kiến thức sinh nở của mẹ. Sự hỗ trợ lúc này mang tính tổng thể và nhất quán, giúp mẹ không bị mâu thuẫn giữa việc tập và học.
 
 <table>
   <tr>
