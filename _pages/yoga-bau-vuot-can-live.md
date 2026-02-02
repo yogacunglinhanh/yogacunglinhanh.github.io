@@ -81,8 +81,8 @@ yoga-bau-vuot-can-live-lo-trinh-week3456:
       <li>Người Thân Có Thể Giúp Gì (Đang cập nhật)</li>
 yoga-bau-vuot-can-live-lo-trinh-week789:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week89.jpg
-    alt: "Module 3: Làm Chủ "Nhóm Cơ Vàng" cho ngày vượt cạn"
-    title: "Module 3: Làm Chủ "Nhóm Cơ Vàng" cho ngày vượt cạn"
+    alt: "Module 3: Làm Chủ Nhóm Cơ Vàng cho ngày vượt cạn"
+    title: "Module 3: Làm Chủ Nhóm Cơ Vàng cho ngày vượt cạn"
     excerpt: >-
       <li>Khám phá bí mật các nhóm cơ vàng </li>
       <li>Lý thuyết & thực hành cơ bản </li>
