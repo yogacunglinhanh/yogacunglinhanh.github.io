@@ -120,10 +120,11 @@ testimonial_images:
 
 {% include feature_row id="yoga-bau-vuot-can-live-danh-cho-ai" %}
 
-- Mẹ bầu từ tuần 15 trở đi muốn chủ động trong hành trình sinh nở.<br>
-- Mẹ bầu hơi lớn tuổi - 30+ tuổi, ngồi văn phòng ngồi nhiều<br>
+- Mẹ bầu làm văn phòng, có thói quen ngồi nhiều, ít vận động<br>
+- Mẹ bầu hơi lớn tuổi - 30+ tuổi trở đi, lo lắng cho sức khoẻ của mình<br>
 - Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi<br>
-- Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn nhưng không biết bắt đầu từ đâu<br><br>
+- Mẹ bầu nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn nhưng không biết bắt đầu từ đâu<br>
+- Và đặc biệt mẹ bầu lần đầu, không có nhiều kinh nghiệm, kiến thức sinh nở<br><br>
   Bạn đã tìm đến đúng chỗ :)
 
 {% include feature_row id="yoga-bau-vuot-can-live-thu-ngo" type="left" %}
