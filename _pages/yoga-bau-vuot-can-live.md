@@ -293,9 +293,12 @@ Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
     <td>
       <ul>Chỉ <strong style="color: green;">4.500.000đ, giảm 1.800.000đ</strong></ul>
       <ul>👉 Hỗ trợ chia 2 đợt thanh toán – Chỉ từ 750k/tháng cho 6 tháng đồng hành. Nhắn tin cho Linh để nhận lộ trình</ul>
-      </ul>  
+      </ul>
+    </td>
   </tr>
 </table>
+
+
 Cam kết hoàn tiền 100% sau 7 ngày nếu mẹ cảm thấy không phù hợp. 
 
 **Đầu tư cho sức khỏe và kiến thức chỉ với 25.000đ/ngày.**
