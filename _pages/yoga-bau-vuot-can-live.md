@@ -147,6 +147,7 @@ testimonial_images:
 {% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week101112" type="left" %}
 
 ## Mức Đầu Tư
+Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu riêng. Mẹ có thể chọn giải pháp riêng lẻ hoặc 1 Hành Trình Full Vượt Cạn Trọn Vẹn gồm cả 3 Trụ Cột. 
 
 <table>
   <tr>
@@ -198,7 +199,7 @@ testimonial_images:
     <td>Mức Đầu Tư</td>
     <td style="vertical-align: top;">
       <ul>
-        <li style="text-align: center;"><strong style="color: green;">3.200.000đ</strong></li>
+        <li style="text-align: center;">Giá Lẻ <strong style="color: green;">3.200.000đ</strong></li>
         <li>Giá ưu đãi sau 12 buổi tập</li>
       </ul>
     </td>
@@ -230,17 +231,114 @@ testimonial_images:
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Chỉnh sửa video/ảnh theo các bài tập thực hành ngoài lớp</li>
+        <li></li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>Phù hợp cho</td>
     <td>Đã biết về khá rõ về giai đoạn sinh nở, chắc tinh thần, chỉ cần vận động, duy trì tập luyện nhẹ nhàng mỗi tuần</td>
-    <td>Chưa có nền tảng sinh nở, muốn được hiểu cơ thể & cơ chế sinh nở để kết hợp thực hành tốt hơn</td>
+    <td>Dành cho mẹ muốn hiểu lý thuyết để có nền tảng tập luyện hiệu quả và hiểu cách áp dụng Yoga trong phòng sinh</td>
     <td>Mẹ muốn tập thêm ngoài lớp live để giúp cơ thể dẻo dai, bớt ì ạch và chuẩn bị cơ thể 1 cách tối ưu nhất cho việc sinh & hồi phục sau sinh</td>
   </tr>
 </table>
+
+**Hành Trình Toàn Diện Khi Tham Gia Cả 3 Trụ Cột**
+Hành trình trọn vẹn và toàn diện nhất là khi mẹ thực hành trọn bộ 3 Trụ Cột. Mẹ được kết nối Thân – Tâm – Trí - Con Yêu :). Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí sáng nhờ kiến thức học và kết nối với con yêu khi mẹ có thể dành thời gian với con qua những giây phút thực hành. 
+- Nếu chỉ tập Live: Mẹ khỏe mạnh nhưng dễ hoang mang khi bước vào phòng sinh vì thiếu kiến thức thực tế.
+- Nếu chỉ học Khóa 101: Mẹ hiểu lý thuyết nhưng cơ thể chưa đủ dẻo dai và sức bền để thực hành rặn đẻ.
+- Nếu chỉ có Thư viện: Mẹ dễ bỏ cuộc vì thiếu sự dẫn dắt và chỉnh sửa động tác trực tiếp từ chuyên gia.
+
+<table>
+  <tr>
+    <th style="text-align: center;">Đặc Quyền</th>
+    <th style="text-align: center;">Mua lẻ từng phần</th>
+    <th style="text-align: center;">Gói Trọn Vẹn (FULL) </th>
+  </tr>
+  <tr>
+    <td>12 buổi Live sửa tư thế trực tiếp</td>
+    <td>Chỉ có trong lớp Live</td>
+    <td>✅ Có</td>
+  </tr>
+  <tr>
+    <td>Kiến thức sinh nở từ A-Z</td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Chỉ có trong Khóa Sinh Nở 101</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>5 modules bài giảng chi tiết</li>
+        <li>Hiểu cơ thể & quá trình sinh nở</li>
+        <li>Kỹ thuật yoga trong phòng sinh</li>
+        <li>Mindset & chuẩn bị tâm lý sinh và sau sinh</li>
+        <li>Định hướng phục hồi sau sinh</li>
+        <li>PDF tài liệu tải về</li>
+        <li>Xem thêm chi tiết ở lộ trình Khoá Sinh Nở 101</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Hơn 20 Video Tập Theo Từng Giai Đoạn Thai Kỳ</li>
+        <li>5 Video cho triệu chứng phổ biến nhất của thai kỳ</li>
+        <li>Tập bất cứ giờ nào, ở đâu</li>
+        <li>Phù hợp tập 1-2 lần/tuần bên ngoài live</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Mức Đầu Tư</td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li style="text-align: center;">Giá Lẻ <strong style="color: green;">3.200.000đ</strong></li>
+        <li>Giá ưu đãi sau 12 buổi tập</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li style="text-align: center;"><strong style="color: green;">2.200.000đ</strong></li>
+        <li>Truy cập trong 1 năm</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li style="text-align: center;"><strong style="color: green;">800.000đ</strong></li>
+        <li>Truy cập trong 1 năm</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Hỗ trợ</td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Được chỉnh sửa trực tiếp động tác trong lớp & trong nhóm</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>Được chỉnh sửa trực tiếp động tác trong lớp & trong nhóm</li>
+        <li>Trả lời các câu hỏi 1:1 về khoá học</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Phù hợp cho</td>
+    <td>Đã biết về khá rõ về giai đoạn sinh nở, chắc tinh thần, chỉ cần vận động, duy trì tập luyện nhẹ nhàng mỗi tuần</td>
+    <td>Dành cho mẹ muốn hiểu lý thuyết để có nền tảng tập luyện hiệu quả và hiểu cách áp dụng Yoga trong phòng sinh</td>
+    <td>Mẹ muốn tập thêm ngoài lớp live để giúp cơ thể dẻo dai, bớt ì ạch và chuẩn bị cơ thể 1 cách tối ưu nhất cho việc sinh & hồi phục sau sinh</td>
+  </tr>
+</table>
+
+
+80% các mẹ chọn Gói Toàn Diện để được Linh Anh đồng hành trọn vẹn từ A-Z với mức ưu đãi tiết kiệm hơn 1.800.000đ
+
+
 
 **Ngoài ra, nếu mẹ không đủ thời gian tập lâu, hay không có tham gia được thời gian cố định, Linh cũng vẫn có lựa chọn học CẤP TỐC kiến thức và tập online để mẹ tập linh hoạt tại nhà.**
 
