@@ -69,8 +69,8 @@ yoga-bau-vuot-can-live-lo-trinh-week12:
       <li>Cơ sàn chậu 101 & Tư Thế Tối Ưu để sinh thường dễ</li>
 yoga-bau-vuot-can-live-lo-trinh-week3456:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week345.jpg
-    alt: "Module 2: Hiểu Quá Trình Sinh Nở"
-    title: "Module 2: Hiểu Quá Trình Sinh Nở"
+    alt: "Module 2: Bản Đồ Vượt Cạn - Hiểu Để Tự Tin"
+    title: "Module 2: Bản Đồ Vượt Cạn - Hiểu Để Tự Tin"
     excerpt: >-
       <li>Các giai đoạn khi đi sinh & Kỹ Thuật Yoga trong phòng sinh cơ bản</li>
       <li>Khi nào nên đến bệnh viện</li>
@@ -81,10 +81,11 @@ yoga-bau-vuot-can-live-lo-trinh-week3456:
       <li>Người Thân Có Thể Giúp Gì (Đang cập nhật)</li>
 yoga-bau-vuot-can-live-lo-trinh-week789:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week89.jpg
-    alt: "Module 3: Vũ Khi Yoga Trong Phòng Sinh"
-    title: "Module 3: Vũ Khi Yoga Trong Phòng Sinh"
+    alt: "Module 3: Làm Chủ "Nhóm Cơ Vàng" cho ngày vượt cạn"
+    title: "Module 3: Làm Chủ "Nhóm Cơ Vàng" cho ngày vượt cạn"
     excerpt: >-
-      <li>Xin Giữ Bí Mật Để Tránh Bị "Copy" :D </li>
+      <li>Khám phá bí mật các nhóm cơ vàng </li>
+      <li>Lý thuyết & thực hành cơ bản </li>
 yoga-bau-vuot-can-live-lo-trinh-week101112:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week10.jpg
     alt: "Module 4: Vũ Khí Yoga & Thiền Trong Phòng Sinh"
