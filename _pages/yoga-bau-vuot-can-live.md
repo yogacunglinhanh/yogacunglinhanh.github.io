@@ -292,6 +292,7 @@ Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
     <td strong style="color: green;">Chỉ 4.500.000đ, giảm 1.800.000đ </td>
   </tr>
 </table>
+Cam kết hoàn tiền 100% sau 7 ngày nếu mẹ cảm thấy không phù hợp. 
 
 **Ngoài ra, nếu mẹ không đủ thời gian tập lâu, hay không có tham gia được thời gian cố định, Linh cũng vẫn có lựa chọn học CẤP TỐC kiến thức và tập online để mẹ tập linh hoạt tại nhà.**
 
