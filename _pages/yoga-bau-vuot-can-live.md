@@ -168,13 +168,11 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     <td style="vertical-align: top;">
       <ul>
         <li>12 buổi tập live (1 buổi/tuần)</li>
-        <li>Thứ 7, 2h Chiều Sydney, dự kiến bắt đầu 7.2.2026</li>
         <li>Hướng dẫn tập an toàn cho bà bầu</li>
         <li>Điều chỉnh theo từng giai đoạn thai kỳ</li>
         <li>Lớp Nhỏ <6 Người </li>
         <li>Xem lại buổi tập nếu bận</li>
         <li>Cộng đồng các mẹ đồng hành</li>
-        <li>Hỗ trợ giải đáp trong group</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
@@ -245,6 +243,9 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     <td>Mẹ muốn tập thêm ngoài lớp live để giúp cơ thể dẻo dai, bớt ì ạch và chuẩn bị cơ thể 1 cách tối ưu nhất cho việc sinh & hồi phục sau sinh</td>
   </tr>
 </table>
+
+🗓️ Lịch Lớp Live: Thứ 7, 2h Chiều Sydney, nghỉ 2 tuần Tết (21 & 28/2), rất phù hợp để các mẹ dành thời gian xem lý thuyết khoá Sinh Nở 101. 
+Dự kiến bắt đầu 7.2.2026
 
 ## Mẹ Nên Chọn Trụ Cột Nào?
 
