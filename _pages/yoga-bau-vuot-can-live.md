@@ -9,14 +9,15 @@ yoga-bau-vuot-can-live-thu-ngo:
     title: "Thư Ngỏ"
     excerpt: >-
       Chào bạn, mình là Linh.<br><br>
-      Mình vẫn nhớ như in những đêm mất ngủ, đi tiểu đêm nhiều nằm tập thở và cơ sàn chậu.
-      Rồi giây phút sinh bé không cần thuốc giảm đau và đẻ sau chỉ sau 3.5 tiếng. Hay cả 3-4 tháng trời vật lộn làm quen với vai trò người mẹ. Tuy đã thực hành rất nhiều Yoga, thở, thiền nhưng vẫn nhiều lúc cảm thấy kiệt sức, và bản thân oà khóc.<br><br>
-       Mình luôn tự hỏi: <br>
-      • *Tại sao các lớp chuẩn bị sinh nở kiến thức lại hời hợt, phức tạp khó áp dụng thế?*<br>
-      • *Tại sao các lớp sinh nở, Yoga bầu không bao gồm cả kiến thức phục hồi sau sinh? Sau sinh đâu có thời gian đâu mà cho bản thân đâu?*<br><br>
-      • *Và hàng ngàn hàng vạn những câu hỏi khác từ chính trải nghiệm bản thân*<br><br>
+      Mình vẫn nhớ như in những năm 33 tuổi mất ngủ, khó thở, phù chân lúc mang thai ở những tháng cuối.
+      Rồi giây phút ngỡ ngàng của chính bản thân khi sinh bé không cần thuốc giảm đau và đẻ sau chỉ sau 3.5 tiếng. Hay cả 3-4 tháng trời vật lộn làm quen với vai trò người mẹ. Tuy đã thực hành Yoga gần 7 năm, đôi lúc mình vẫn cảm thấy bí tắc, và kiệt sức.<br><br>
+      Những lúc đó mình luôn tự hỏi: <br>
+      • *Mình sẽ sinh nở thế nào nếu không có những tháng năm thực hành Yoga?*<br>
+      • *Mình sẽ có những cuộc cãi vã với chồng với con thế nào nếu không tự biết kiểm soát cảm xúc tinh thần của mình?*<br>
+      • *Tại sao các lớp sinh nở, Yoga bầu không bao gồm cả kiến thức phục hồi sau sinh vì sự thực là mấy tháng đầu sau sinh, ngủ còn không đủ huống chi tập Yoga?*<br><br>
+      • *Và hàng ngàn hàng vạn những câu hỏi khác*<br><br>
 
-      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, để chia sẻ những kiến thức cơ bản đến nâng cao, từ trước sinh đến trong lúc sinh và ngay sau sinh, từ thể chất lẫn tinh thần, để mẹ không bị bỡ ngỡ và có thể vượt cạn nhẹ nhàng hơn bao giờ hết.<br><br>
+      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**, để chia sẻ những kiến thức cơ bản đến nâng cao, từ trước sinh đến trong lúc sinh và ngay sau sinh, từ thể chất lẫn tinh thần, để mẹ không bị bỡ ngỡ và có thể vượt cạn vững vàng từng bước từng bước một.<br><br>
       ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn.***<br><br>
 
     url: /khoa-hoc/yoga-bau-vuot-can-live/#v%E1%BB%81-linh
@@ -27,12 +28,12 @@ yoga-bau-vuot-can-live-intro:
     alt: "Lớp Yoga Bầu Vượt Cạn"
     title: "Lớp Yoga Bầu Vượt Cạn"
     excerpt: >-
-      Tập Yoga Bầu không là không đủ, bạn cần 1 hành trình toàn diện trước và sau sinh, thân thể và tinh thần. Đó chính là Yoga Bầu Vượt Cạn. Lớp được thiết kế để với 3 Trụ Cột Chính<br>
+      Nghiên cứu quốc tế cho thấy mẹ bầu cần tập Yoga ít nhất 2 lần 1 tuần, và trong vòng ít nhất 12 tuần để có thể cảm nhận được sự thay đổi cơ thể và có tác dụng tích cực đến quá trình sinh nở. Thế nên, Lớp Yoga Bầu Vượt Cạn được thiết kế với 3 Trụ Cột Chính<br>
       • **12+ buổi tập Live** trực tiếp với Linh để được hướng dẫn tập an toàn<br>
-      • **Khoá Sinh Nở 101** giải thích chi tiết cơ chế hoạt động của cơ thể trong thai kỳ, trong lúc sinh và sau sinh<br>
-      • **Thư Viện Tập Thêm** gồm những bài tập ngắn phục vụ cho những triệu chứng bầu phổ biến, cũng như những video dài giúp mẹ khoẻ, dẻo dai suốt thai kỳ <br><br>
-      Đích đến cuối cùng là hồi phục sau sinh nhanh chóng, để có thể dành trọn thời gian với con yêu mới sinh hoặc các bé lớn cho các mẹ sinh lần 2,3.<br>
-      Tuỳ nhu cầu của mỗi mẹ mà có thể chọn 1 hoặc cả 3 trụ cột để hỗ trợ quá trình sinh nở<br><br>
+      • **Khoá Sinh Nở 101** giải thích chi tiết cơ chế hoạt động của cơ thể trong thai kỳ, trong lúc sinh và sau sinh để các buổi live có thể tập trung vào thực hành thay vì giải thích lý thuyết<br>
+      • **Thư Viện Tập Thêm** gồm những bài tập ngắn/dài khác nhau để mẹ tập thêm ngoài lớp live, và có thể tập ít nhất 2 lần/tuần<br><br>
+      Đích đến cuối cùng là tăng khả năng sinh thường, hồi phục sau sinh nhanh chóng, để có thể dành trọn thời gian với gia đình nhỏ của bạn.<br>
+      Tuỳ nhu cầu của mỗi mẹ, mẹ có thể chọn 1 hoặc cả 3 trụ cột để hỗ trợ quá trình sinh nở<br><br>
 
     buttons:
       - label: "Đăng Ký Ngay"
