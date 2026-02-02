@@ -65,6 +65,7 @@ yoga-bau-vuot-can-live-lo-trinh-week12:
     excerpt: >-
       <li>Cách tập Yoga an toàn theo từng giai đoạn</li>
       <li>Lưu ý sinh hoạt hàng ngày giúp thai kỳ khoẻ mạnh</li>
+      <li>Lợi ích của Yoga với mẹ bầu</li>
       <li>Cơ sàn chậu 101 & Tư Thế Tối Ưu để sinh thường dễ</li>
 yoga-bau-vuot-can-live-lo-trinh-week3456:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week345.jpg
@@ -72,9 +73,12 @@ yoga-bau-vuot-can-live-lo-trinh-week3456:
     title: "Module 2: Hiểu Quá Trình Sinh Nở"
     excerpt: >-
       <li>Các giai đoạn khi đi sinh & Kỹ Thuật Yoga trong phòng sinh cơ bản</li>
-      <li>Trải nghiệm đi đẻ thật của bản thân</li>
       <li>Khi nào nên đến bệnh viện</li>
+      <li>Trải nghiệm đi đẻ thật</li>
+      <li>Birth Action Plan & bản PDF template </li>
       <li>Cách chọn bác sĩ & bệnh viện tốt từ trải nghiệm bản thân</li>
+      <li>Đồ Chuẩn Bị Đi Sinh Cho Mẹ </li>
+      <li>Người Thân Có Thể Giúp Gì (Đang cập nhật)</li>
 yoga-bau-vuot-can-live-lo-trinh-week789:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week89.jpg
     alt: "Module 3: Vũ Khi Yoga Trong Phòng Sinh"
@@ -83,13 +87,10 @@ yoga-bau-vuot-can-live-lo-trinh-week789:
       <li>Xin Giữ Bí Mật Để Tránh Bị "Copy" :D </li>
 yoga-bau-vuot-can-live-lo-trinh-week101112:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week10.jpg
-    alt: "Module 4: Chuẩn Bị Thực Tế"
-    title: "Module 4: Chuẩn Bị Thực Tế"
+    alt: "Module 4: Vũ Khí Yoga & Thiền Trong Phòng Sinh"
+    title: "Module 4: Vũ Khí Yoga & Thiền Trong Phòng Sinh"
     excerpt: >-
-      <li>Đồ Chuẩn Bị Đi Sinh Cho Mẹ </li>
-      <li>Người Thân Có Thể Giúp Gì (Đang cập nhật)</li>
-      <li>Trải Nghiệm Đi Đẻ Của Người Khác</li>
-      <li>Birth Action Plan & bản PDF template </li>
+      <li>Xin Giữ Bí Mật Để Tránh Bị "Copy" :D </li>
 yoga-bau-vuot-can-live-lo-trinh-week101112:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week10.jpg
     alt: "Module 5: Định Hướng Sau Sinh"
@@ -120,10 +121,9 @@ testimonial_images:
 {% include feature_row id="yoga-bau-vuot-can-live-danh-cho-ai" %}
 
 - Mẹ bầu từ tuần 15 trở đi muốn chủ động trong hành trình sinh nở.<br>
-- Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở<br>
-- Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu<br>
-- Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.<br>
-- Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br><br>
+- Mẹ bầu hơi lớn tuổi - 30+ tuổi, ngồi văn phòng ngồi nhiều<br>
+- Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi<br>
+- Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn nhưng không biết bắt đầu từ đâu<br><br>
   Bạn đã tìm đến đúng chỗ :)
 
 {% include feature_row id="yoga-bau-vuot-can-live-thu-ngo" type="left" %}
@@ -133,10 +133,6 @@ testimonial_images:
 ## Lợi Ích Khi Tham Gia Khoá Học
 
 {% include feature_row id="yoga-bau-vuot-can-live-loi-ich" %}
-
-## Chia Sẻ Từ Các Học Viên Cũ
-
-{% include testimonial_slider.html images=page.testimonial_images %}
 
 ## Lộ Trình Tổng Quan Khoá Sinh Nở 101
 
@@ -256,6 +252,10 @@ testimonial_images:
     Đăng Ký Ngay
   </a>
 </div>
+
+## Chia Sẻ Từ Các Học Viên Cũ
+
+{% include testimonial_slider.html images=page.testimonial_images %}
 
 ## 🌟 ⏳ Khi mẹ biết, mình có thể sinh thường, tự tin, mạnh mẽ và kết nối trọn vẹn với con hơn, đó là khi hành trình sinh nở này không chỉ sinh ra con, mà còn sinh ra mẹ, 1 người mẹ tràn đầy sức mạnh
 
