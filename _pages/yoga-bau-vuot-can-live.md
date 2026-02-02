@@ -200,19 +200,19 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     <td>Mức Đầu Tư</td>
     <td style="vertical-align: top;">
       <ul>
-        <li style="text-align: center;">Giá Lẻ <strong style="color: green;">3.200.000đ</strong></li>
+        <li>Giá Lẻ <strong style="color: green;">3.200.000đ</strong></li>
         <li>Giá ưu đãi sau 12 buổi tập</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li style="text-align: center;"><strong style="color: green;">2.200.000đ</strong></li>
+        <li><strong style="color: green;">2.200.000đ</strong></li>
         <li>Truy cập trong 1 năm</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li style="text-align: center;"><strong style="color: green;">800.000đ</strong></li>
+        <li><strong style="color: green;">800.000đ</strong></li>
         <li>Truy cập trong 1 năm</li>
       </ul>
     </td>
@@ -286,8 +286,8 @@ Khi mẹ chọn Hành trình Trọn vẹn, Linh không chỉ là người dạy 
   </tr>
   <tr>
     <td>Mức Đầu Tư</td>
-    <td>Tổng 6.200.000đ</td>
-    <td>Chỉ 4.500.000đ</td>
+    <td strong style="color: green;">Tổng 6.200.000đ</td>
+    <td strong style="color: green;">Chỉ 4.500.000đ</td>
   </tr>
 </table>
 
