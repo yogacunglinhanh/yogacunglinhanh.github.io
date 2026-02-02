@@ -31,7 +31,7 @@ yoga-bau-vuot-can-live-intro:
       Nghiên cứu quốc tế cho thấy mẹ bầu cần tập Yoga ít nhất 2 lần 1 tuần, và trong vòng ít nhất 12 tuần để có thể cảm nhận được sự thay đổi cơ thể và có tác dụng tích cực đến quá trình sinh nở. Thế nên, Lớp Yoga Bầu Vượt Cạn được thiết kế với 3 Trụ Cột Chính<br>
       • **12+ buổi tập Live** trực tiếp với Linh để được hướng dẫn tập an toàn<br>
       • **Khoá Sinh Nở 101** giải thích chi tiết cơ chế hoạt động của cơ thể trong thai kỳ, trong lúc sinh và sau sinh để các buổi live có thể tập trung vào thực hành thay vì giải thích lý thuyết<br>
-      • **Thư Viện Tập Thêm** gồm những bài tập ngắn/dài khác nhau để mẹ tập thêm ngoài lớp live, và có thể tập ít nhất 2 lần/tuần<br><br>
+      • **Thư Viện Tập Thêm** gồm những bài tập ngắn/dài khác nhau để mẹ tập thêm ngoài lớp live lúc bầu và sau sinh<br><br>
       Đích đến cuối cùng là tăng khả năng sinh thường, hồi phục sau sinh nhanh chóng, để có thể dành trọn thời gian với gia đình nhỏ của bạn.<br>
       Tuỳ nhu cầu của mỗi mẹ, mẹ có thể chọn 1 hoặc cả 3 trụ cột để hỗ trợ quá trình sinh nở<br><br>
 
@@ -98,7 +98,6 @@ yoga-bau-vuot-can-live-lo-trinh-week101112:
     title: "Module 5: Định Hướng Sau Sinh"
     excerpt: >-
       <li>Kiến thức tập cơ sàn chậu, cơ bụng "đúng, an toàn" ngay sau khi sinh, giúp cơ hồi phục nhanh nhất.</li>
-      <li>Các bài tập thư giãn, nhẹ nhàng tránh đau mỏi cổ, vai gáy, đau lưng cho mẹ mới sinh.</li>
       <li>Thực hành đào sâu não bộ, giúp giảm stress, căng thẳng và trầm cảm sau sinh</li>
       <li>Cách chăm sóc nếu mẹ đẻ mổ, chuẩn bị cho mọi trường hợp</li>
 testimonial_images:
@@ -161,7 +160,7 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     <td>Mục Tiêu</td>
     <td>Tập trực tiếp với Linh — được hướng dẫn và điều chỉnh theo thời gian thực</td>
     <td>Hiểu quá trình sinh nở từ A đến Z — từ thai kỳ đến phục hồi sau sinh</td>
-    <td>Video tập bổ sung để luyện thêm ngoài giờ live — tăng hiệu quả tối đa</td>
+    <td>Video tập bổ sung để luyện thêm ngoài giờ live trước & sau sinh — tăng hiệu quả tối đa</td>
   </tr>
   <tr>
     <td>Nội Dung Chính</td>
@@ -188,7 +187,7 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Hơn 20 Video Tập Theo Từng Giai Đoạn Thai Kỳ</li>
+        <li>Hơn 20 Video Tập Trước & Sau Sinh</li>
         <li>5 Video cho triệu chứng phổ biến nhất của thai kỳ</li>
         <li>Tập bất cứ giờ nào, ở đâu</li>
         <li>Phù hợp tập 1-2 lần/tuần bên ngoài live</li>
@@ -274,7 +273,7 @@ Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
     <td style="vertical-align: top;">✅ Có</td>
   </tr>
   <tr>
-    <td>Video luyện tập tại nhà mọi lúc</td>
+    <td>Video luyện tập tại nhà trước & 3 tháng sau sinh</td>
     <td style="vertical-align: top;">Chỉ có trong Thư viện</td>
     <td style="vertical-align: top;">✅ Có</td>
   </tr>
@@ -291,12 +290,18 @@ Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
   <tr>
     <td>Mức Đầu Tư</td>
     <td strong style="color: green;">Tổng 6.200.000đ</td>
-    <td strong style="color: green;">Chỉ 4.500.000đ, giảm 1.800.000đ </td>
+    <td>
+      <ul>
+        <li>Chỉ <strong style="color: green;">4.500.000đ, giảm 1.800.000đ</strong></li>
+        <li>Truy cập trong 1 năm</li>
+      <ul>Hỗ trợ chia 2 đợt thanh toán – Chỉ từ 750k/tháng cho 6 tháng đồng hành. Nhắn tin cho Linh để nhận lộ trình</ul>
+      </ul>  
   </tr>
 </table>
 Cam kết hoàn tiền 100% sau 7 ngày nếu mẹ cảm thấy không phù hợp. 
 
-**Ngoài ra, nếu mẹ không tham gia được thời gian cố định, hoặc đang ở tuần 35+, Linh cũng vẫn có lựa chọn học tập online để mẹ tập linh hoạt tại nhà.**
+**Đầu tư cho sức khỏe và kiến thức chỉ với 25.000đ/ngày.**
+Mẹ hãy hình dung đây là lộ trình đồng hành xuyên suốt 6 tháng quan trọng nhất (3 tháng cuối thai kỳ giúp mẹ vượt cạn bình an + 3 tháng đầu sau sinh giúp mẹ phục hồi nền tảng). Mức đầu tư trung bình: Chỉ 750.000đ/tháng — tương đương với một vài bữa cafe, nhưng đổi lại là sự tự tin làm chủ cuộc sinh và sức khỏe lâu dài của mẹ.
 
 <div style="text-align: center;">
   <a href="https://forms.gle/hJuC49WYqPv39qcS7"
