@@ -243,7 +243,7 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
   </tr>
 </table>
 
-## Hành Trình Toàn Diện Khi Tham Gia Cả 3 Trụ Cột
+## Mẹ Nên Chọn Trụ Cột Nào?
 
 Hành trình trọn vẹn và toàn diện nhất là khi mẹ thực hành trọn bộ 3 Trụ Cột. Mẹ được kết nối Thân – Tâm – Trí - Con Yêu :). Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí sáng nhờ kiến thức học và kết nối với con yêu khi mẹ có thể dành thời gian với con qua những giây phút thực hành. 
 - Nếu chỉ tập Live: Mẹ khỏe mạnh nhưng dễ hoang mang khi bước vào phòng sinh vì thiếu kiến thức thực tế.
@@ -256,7 +256,7 @@ Khi mẹ chọn Hành trình Trọn vẹn, Linh không chỉ là người dạy 
   <tr>
     <th style="text-align: center;">Đặc Quyền</th>
     <th style="text-align: center;">Mua lẻ từng phần</th>
-    <th style="text-align: center;">Gói Trọn Vẹn (FULL) </th>
+    <th style="text-align: center;">Gói Trọn Vẹn (FULL)</th>
   </tr>
   <tr>
     <td>12 buổi Live sửa tư thế trực tiếp</td>
@@ -271,18 +271,16 @@ Khi mẹ chọn Hành trình Trọn vẹn, Linh không chỉ là người dạy 
   <tr>
     <td>Video luyện tập tại nhà mọi lúc</td>
     <td style="vertical-align: top;">Chỉ có trong Thư viện</td>
-    <td style="vertical-align: top;">✅ Có
+    <td style="vertical-align: top;">✅ Có</td>
   </tr>
   <tr>
     <td>Sửa video/ảnh thực hành ngoài giờ</td>
     <td style="vertical-align: top;">❌ Không</td>
-    <td style="vertical-align: top;">✅ Đặc Quyền Riêng
-    </td>
+    <td style="vertical-align: top;">✅ Đặc Quyền Riêng</td>
   </tr>
   <tr>
     <td>Tư Vấn Tổng Thể</td>
-    <td style="vertical-align: top;">Ít Hiệu Quả Vì Linh không có đủ thông tin, quá trình thực tập của mẹ để đồng hành chuyên sâu
-    </td>
+    <td style="vertical-align: top;">Ít Hiệu Quả Vì Linh không có đủ thông tin, quá trình thực tập của mẹ để đồng hành chuyên sâu</td>
     <td style="vertical-align: top;">✅ Hiệu quả tối đa vì Linh có thể gợi ý các bài tập phù hợp trong gói cho từng thắc mắc</li></td>
   </tr>
   <tr>
