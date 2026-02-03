@@ -139,15 +139,15 @@ testimonial_images:
 
 👉 5 Module Chi Tiết Hỗ Trợ chặt chẽ các buổi tập live hàng tuần. Nếu mẹ nào không học được live, cũng có phương án tập online theo video quay sẵn để mẹ linh hoạt 💛
 
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-module1" type="center" %}
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-module1" type="left" %}
 
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-module2" type="center" %}
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-module2" type="left" %}
 
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-module3" type="center" %}
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-module3" type="left" %}
 
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-module4" type="center" %}
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-module4" type="left" %}
 
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-module5" type="center" %}
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-module5" type="left" %}
 
 ## Mức Đầu Tư
 
