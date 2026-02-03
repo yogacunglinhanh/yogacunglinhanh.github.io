@@ -40,7 +40,7 @@ yoga-bau-vuot-can-live-intro:
         url: https://forms.gle/dcJXD3HFETQFSc5H7
         class: "btn--yoga"
       - label: "Xem Lộ Trình Đồng Hành"
-        url: /khoa-hoc/yoga-bau-vuot-can-live/#l%E1%BB%99-tr%C3%ACnh-t%E1%BA%ADp-luy%E1%BB%87n--%C4%91%E1%BB%93ng-h%C3%A0nh-12-tu%E1%BA%A7n
+        url: /khoa-hoc/yoga-bau-vuot-can-live/#l%E1%BB%99-tr%C3%ACnh-t%E1%BB%95ng-quan-kho%C3%A1-sinh-n%E1%BB%9F-101
         class: "btn--explore"
       - label: "Xem Mức Đầu Tư"
         url: /khoa-hoc/yoga-bau-vuot-can-live/#m%E1%BB%A9c-%C4%91%E1%BA%A7u-t%C6%B0
