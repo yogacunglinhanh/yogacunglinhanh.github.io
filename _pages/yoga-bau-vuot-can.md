@@ -287,7 +287,7 @@ Tất cả các gói có thời hạn 1 năm từ ngày bắt đầu.
 
 ## 🌟 ⏳ Khi mẹ biết, mình có thể sinh thường, tự tin, mạnh mẽ và kết nối trọn vẹn với con hơn, đó là khi hành trình sinh nở này không chỉ sinh ra con, mà còn sinh ra mẹ, 1 người mẹ tràn đầy sức mạnh
 
-Mỗi tuần mẹ tập là thêm một tuần cơ thể khỏe hơn, tinh thần vững vàng hơn.
+Mỗi tuần mẹ tập là thêm một tuần cơ thể khoẻ hơn, tinh thần vững vàng hơn.
 
 Mỗi tuần trì hoãn là 1 tuần bỏ lỡ cơ hội cảm nhận rõ ràng sức mạnh bên trong mình.
 

@@ -67,7 +67,7 @@ yoga-bau-vuot-can-live-lo-trinh-week12:
       <li>Lưu ý sinh hoạt hàng ngày giúp thai kỳ khoẻ mạnh</li>
       <li>Lợi ích của Yoga với mẹ bầu</li>
 yoga-bau-vuot-can-live-lo-trinh-week3456:
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-week345.jpg
+  - image_path: /assets/images/courses/yoga-bau-vuot-can-module2.png
     alt: "Module 2: Bản Đồ Vượt Cạn - Hiểu Để Tự Tin"
     title: "Module 2: Bản Đồ Vượt Cạn - Hiểu Để Tự Tin"
     excerpt: >-
@@ -79,7 +79,7 @@ yoga-bau-vuot-can-live-lo-trinh-week3456:
       <li>Đồ Chuẩn Bị Đi Sinh Cho Mẹ </li>
       <li>Người Thân Có Thể Giúp Gì (Đang cập nhật)</li>
 yoga-bau-vuot-can-live-lo-trinh-week789:
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-week89.jpg
+  - image_path: /assets/images/courses/yoga-bau-vuot-can-module3.png
     alt: "Module 3: Làm Chủ Nhóm Cơ Vàng cho ngày vượt cạn"
     title: "Module 3: Làm Chủ Nhóm Cơ Vàng cho ngày vượt cạn"
     excerpt: >-
@@ -93,7 +93,7 @@ yoga-bau-vuot-can-live-lo-trinh-week789:
       <li>Xin Giữ Bí Mật Để Tránh Bị "Copy" :D </li>
       <li>Những chia sẻ chuyên sâu giúp mẹ vững tin và có những kỹ thuật tối ưu nhất để vượt cạn thuận lợi nhất </li>
 yoga-bau-vuot-can-live-lo-trinh-week101112:
-  - image_path: /assets/images/courses/yoga-bau-vuot-can-week10.jpg
+  - image_path: /assets/images/courses/yoga-bau-vuot-can-module5.jpeg
     alt: "Module 5: Định Hướng Sau Sinh"
     title: "Module 5: Định Hướng Sau Sinh"
     excerpt: >-
@@ -148,7 +148,8 @@ testimonial_images:
 {% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week101112" type="left" %}
 
 ## Mức Đầu Tư
-Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu riêng. Mẹ có thể chọn giải pháp riêng lẻ hoặc 1 Hành Trình Full Vượt Cạn Trọn Vẹn gồm cả 3 Trụ Cột. 
+
+Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu riêng. Mẹ có thể chọn giải pháp riêng lẻ hoặc 1 Hành Trình Full Vượt Cạn Trọn Vẹn gồm cả 3 Trụ Cột.
 
 <table>
   <tr>
@@ -245,17 +246,18 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
 </table>
 
 🗓️ Lịch Lớp Live: Thứ 7, 2h Chiều Sydney, Dự kiến bắt đầu 7.2.2026<br>
-Nghỉ 2 tuần Tết (21 & 28/2), rất phù hợp để các mẹ dành thời gian xem lý thuyết khoá Sinh Nở 101. 
+Nghỉ 2 tuần Tết (21 & 28/2), rất phù hợp để các mẹ dành thời gian xem lý thuyết khoá Sinh Nở 101.
 
 ## Mẹ Nên Chọn Trụ Cột Nào?
 
 🌸 Hành trình trọn vẹn và toàn diện nhất là khi mẹ thực hành trọn bộ 3 Trụ Cột. Mẹ được kết nối Thân – Tâm – Trí - Con Yêu.<br>
-Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí sáng nhờ kiến thức học và kết nối với con yêu khi mẹ có thể dành thời gian với con qua những giây phút thực hành. 
-- Nếu chỉ tập Live: Mẹ khỏe mạnh nhưng dễ hoang mang khi bước vào phòng sinh vì thiếu kiến thức nền tảng sinh nở & thực tế.
+Thân khoẻ nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí sáng nhờ kiến thức học và kết nối với con yêu khi mẹ có thể dành thời gian với con qua những giây phút thực hành.
+
+- Nếu chỉ tập Live: Mẹ khoẻ mạnh nhưng dễ hoang mang khi bước vào phòng sinh vì thiếu kiến thức nền tảng sinh nở & thực tế.
 - Nếu chỉ học Khóa 101: Mẹ hiểu lý thuyết nhưng thiếu vận động giúp cơ thể dẻo dai
 - Nếu chỉ có Thư viện: Mẹ dễ bỏ cuộc vì thiếu kỉ luật & động lực hàng tuần.
 
-🌸 Khi mẹ chọn Hành trình Trọn vẹn, Linh không chỉ là người dạy Yoga mà trở thành một **'người bạn đồng hành'** hiểu rõ cả sức khỏe thể chất lẫn những nỗi lo về kiến thức sinh nở của mẹ. Sự hỗ trợ lúc này mang tính tổng thể và nhất quán, giúp mẹ không bị mâu thuẫn giữa việc tập và học.
+🌸 Khi mẹ chọn Hành trình Trọn vẹn, Linh không chỉ là người dạy Yoga mà trở thành một **'người bạn đồng hành'** hiểu rõ cả sức khoẻ thể chất lẫn những nỗi lo về kiến thức sinh nở của mẹ. Sự hỗ trợ lúc này mang tính tổng thể và nhất quán, giúp mẹ không bị mâu thuẫn giữa việc tập và học.
 
 <table>
   <tr>
@@ -298,8 +300,8 @@ Thân khỏe nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
   </tr>
 </table>
 
-Mẹ hãy hình dung đây là lộ trình đồng hành xuyên suốt 6 tháng quan trọng nhất (3 tháng cuối thai kỳ giúp mẹ vượt cạn bình an + 3 tháng đầu sau sinh giúp mẹ phục hồi nền tảng).<br> 
-Mức đầu tư trung bình: Chỉ 750.000đ/tháng — tương đương với một vài bữa cafe, nhưng đổi lại là sự tự tin làm chủ cuộc sinh và sức khỏe lâu dài của mẹ.
+Mẹ hãy hình dung đây là lộ trình đồng hành xuyên suốt 6 tháng quan trọng nhất (3 tháng cuối thai kỳ giúp mẹ vượt cạn bình an + 3 tháng đầu sau sinh giúp mẹ phục hồi nền tảng).<br>
+Mức đầu tư trung bình: Chỉ 750.000đ/tháng — tương đương với một vài bữa cafe, nhưng đổi lại là sự tự tin làm chủ cuộc sinh và sức khoẻ lâu dài của mẹ.
 
 <div style="text-align: center;">
   <a href="https://forms.gle/dcJXD3HFETQFSc5H7"
@@ -316,13 +318,13 @@ Mức đầu tư trung bình: Chỉ 750.000đ/tháng — tương đương với 
 
 ## 🌟 ⏳ Khi mẹ biết, mình có thể sinh thường, tự tin, mạnh mẽ và kết nối trọn vẹn với con hơn, đó là khi hành trình sinh nở này không chỉ sinh ra con, mà còn sinh ra mẹ, 1 người mẹ tràn đầy sức mạnh
 
-Mỗi tuần mẹ tập là thêm một tuần cơ thể khỏe hơn, tinh thần vững vàng hơn.
+Mỗi tuần mẹ tập là thêm một tuần cơ thể khoẻ hơn, tinh thần vững vàng hơn.
 
 Mỗi tuần trì hoãn là 1 tuần bỏ lỡ cơ hội cảm nhận rõ ràng sức mạnh bên trong mình.
 
 Hãy nhớ, khả năng sinh thường được quyết định từ những gì bạn làm bây giờ, không phải khi vào phòng sinh.
 
-Mình đã có những trải nghiệm rất tích cực trong những lần sinh nở, và mình cũng muốn bạn có những trải nghiệm như tích cực như thế. 
+Mình đã có những trải nghiệm rất tích cực trong những lần sinh nở, và mình cũng muốn bạn có những trải nghiệm như tích cực như thế.
 
 ## Về Linh
 

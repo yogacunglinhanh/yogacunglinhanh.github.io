@@ -30,7 +30,7 @@ Giải thích cho mẹ hiểu:
 - ✅ Cơ lõi là gì? Tập thế nào mới phục hồi đúng để bụng không xồ thêm, cơ sàn chậu không yếu đi hơn nữa.
 
 📩 Đầu tư 300,000đ hôm nay, mẹ nhận ngay trọn bộ quà hồi phục – mang lại hiệu quả trong nhiều tháng.
-Thay vì một bữa ăn sang chảnh, mẹ đang chọn cho mình một hành trình khỏe mạnh, tự tin và bền vững.
+Thay vì một bữa ăn sang chảnh, mẹ đang chọn cho mình một hành trình khoẻ mạnh, tự tin và bền vững.
 
 🌿 Chúc mẹ một hành trình hồi phục thật trọn vẹn và đầy năng lượng!
 
