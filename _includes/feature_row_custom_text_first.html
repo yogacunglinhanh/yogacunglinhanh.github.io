@@ -9,12 +9,11 @@
   {% for f in feature_row %}
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
-
-        {% if f.title %}
-          <div class="archive__item-body">
+        <div class="archive__item-body">
+          {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
-          </div>
-        {% endif %}
+          {% endif %}
+        </div>
 
         {% if f.image_path %}
           <div class="archive__item-teaser">
@@ -45,7 +44,6 @@
             </p>
           {% endif %}
         </div>
-
       </div>
     </div>
   {% endfor %}
