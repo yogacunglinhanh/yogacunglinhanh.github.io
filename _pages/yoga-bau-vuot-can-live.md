@@ -247,7 +247,7 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
   </tr>
 </table>
 
-🗓️ Lịch Lớp Live: Thứ 7, 2h Chiều Sydney, Dự kiến bắt đầu 7.2.2026<br>
+🗓️ Lịch Lớp Live: Buổi Sáng T7 Hoặc Chủ Nhật, giờ học chính thức đang được chốt theo nhu cầu của các mẹ. Nếu bạn quan tâm, nhắn tin mình ngay để có thể chốt giờ học phù hợp với bạn. Lớp bắt đầu 7.2.2026<br>
 Nghỉ 2 tuần Tết (21 & 28/2), rất phù hợp để các mẹ dành thời gian xem lý thuyết khoá Sinh Nở 101.
 
 ## Mẹ Nên Chọn Trụ Cột Nào?
