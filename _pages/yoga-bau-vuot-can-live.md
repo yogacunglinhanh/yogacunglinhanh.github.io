@@ -58,7 +58,7 @@ yoga-bau-vuot-can-live-loi-ich:
       ♥️ Đồng hành trọn vẹn xuyên suốt từ khi bạn mang thai, trong lúc sinh và sau sinh từ Linh và cộng đồng các mẹ<br><br>
   - excerpt: >-
       ♥️ Và nhiều lợi ích khác mà các mẹ có thể đọc chia sẻ của các bạn học viên đi trước ở dưới<br><br>
-yoga-bau-vuot-can-live-lo-trinh-week12:
+yoga-bau-vuot-can-live-lo-trinh-module1:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week1.jpg
     alt: "Module 1: Chuẩn Bị Nền Tảng Cơ Thể"
     title: "Module 1: Chuẩn Bị Nền Tảng Cơ Thể"
@@ -66,7 +66,7 @@ yoga-bau-vuot-can-live-lo-trinh-week12:
       <li>Cách tập Yoga an toàn theo từng giai đoạn</li>
       <li>Lưu ý sinh hoạt hàng ngày giúp thai kỳ khoẻ mạnh</li>
       <li>Lợi ích của Yoga với mẹ bầu</li>
-yoga-bau-vuot-can-live-lo-trinh-week3456:
+yoga-bau-vuot-can-live-lo-trinh-module2:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-module2.png
     alt: "Module 2: Bản Đồ Vượt Cạn - Hiểu Để Tự Tin"
     title: "Module 2: Bản Đồ Vượt Cạn - Hiểu Để Tự Tin"
@@ -78,21 +78,21 @@ yoga-bau-vuot-can-live-lo-trinh-week3456:
       <li>Cách chọn bác sĩ & bệnh viện tốt từ trải nghiệm bản thân</li>
       <li>Đồ Chuẩn Bị Đi Sinh Cho Mẹ </li>
       <li>Người Thân Có Thể Giúp Gì (Đang cập nhật)</li>
-yoga-bau-vuot-can-live-lo-trinh-week789:
+yoga-bau-vuot-can-live-lo-trinh-module3:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-module3.png
     alt: "Module 3: Làm Chủ Nhóm Cơ Vàng cho ngày vượt cạn"
     title: "Module 3: Làm Chủ Nhóm Cơ Vàng cho ngày vượt cạn"
     excerpt: >-
       <li>Khám phá bí mật các nhóm cơ vàng trong sinh nở </li>
       <li>Lý thuyết & thực hành các nhóm cơ </li>
-yoga-bau-vuot-can-live-lo-trinh-week789:
+yoga-bau-vuot-can-live-lo-trinh-module4:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week10.jpg
     alt: "Module 4: Vũ Khí Yoga & Thiền Trong Phòng Sinh"
     title: "Module 4: Vũ Khí Yoga & Thiền Trong Phòng Sinh"
     excerpt: >-
       <li>Xin Giữ Bí Mật Để Tránh Bị "Copy" :D </li>
       <li>Những chia sẻ chuyên sâu giúp mẹ vững tin và có những kỹ thuật tối ưu nhất để vượt cạn thuận lợi nhất </li>
-yoga-bau-vuot-can-live-lo-trinh-week101112:
+yoga-bau-vuot-can-live-lo-trinh-module5:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-module5.jpeg
     alt: "Module 5: Định Hướng Sau Sinh"
     title: "Module 5: Định Hướng Sau Sinh"
@@ -139,13 +139,15 @@ testimonial_images:
 
 👉 5 Module Chi Tiết Hỗ Trợ chặt chẽ các buổi tập live hàng tuần. Nếu mẹ nào không học được live, cũng có phương án tập online theo video quay sẵn để mẹ linh hoạt 💛
 
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week12" type="left" %}
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-module1" type="left" %}
 
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week3456" type="left" %}
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-module2" type="left" %}
 
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week789" type="left" %}
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-module3" type="left" %}
 
-{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-week101112" type="left" %}
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-module4" type="left" %}
+
+{% include feature_row id="yoga-bau-vuot-can-live-lo-trinh-module5" type="left" %}
 
 ## Mức Đầu Tư
 
@@ -292,7 +294,7 @@ Thân khoẻ nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
   </tr>
   <tr>
     <td>Mức Đầu Tư</td>
-    <td strong style="color: green;">Tổng 6.200.000đ</td>
+    <td><strong style="color: green;">Tổng 6.200.000đ</strong></td>
     <td>
       <ul>Chỉ <strong style="color: green;">4.500.000đ, giảm 1.800.000đ</strong></ul>
       <ul>👉 Hỗ trợ chia 2 đợt thanh toán. Nhắn tin cho Linh để nhận lộ trình</ul>
