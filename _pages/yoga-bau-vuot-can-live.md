@@ -248,7 +248,7 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
 </table>
 
 🗓️ Lịch Lớp Live: Sáng Chủ Nhật, 11.30 Sáng Sydney, 7h.30 Sáng Việt Nam.<br>
-Nghỉ 2 tuần Tết (21 & 28/2), rất phù hợp để các mẹ dành thời gian xem lý thuyết khoá Sinh Nở 101.
+Mẹ có thể bắt đầu học bất cứ lúc nào. 
 
 ## Mẹ Nên Chọn Trụ Cột Nào?
 
