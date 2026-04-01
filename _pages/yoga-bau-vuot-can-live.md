@@ -1,6 +1,7 @@
 ---
 layout: splash
-title: "Yoga Bầu Vượt Cạn"
+title: "Yoga Bầu Vượt Cạn Online | Khóa Học Live Cùng HLV Linh Anh"
+excerpt: "Khóa học yoga bầu trực tuyến giúp mẹ khỏe, bé an yên, và chuẩn bị thể lực tốt nhất cho ngày vượt cạn. Đăng ký tập live cùng giáo viên Yoga quốc tế Linh Anh ngay!"
 permalink: /khoa-hoc/yoga-bau-vuot-can-live/
 
 yoga-bau-vuot-can-live-thu-ngo:
