@@ -1,12 +1,12 @@
 ---
 layout: splash
-title: "Yoga Bầu Vượt Cạn Online | Khóa Học Live Cùng HLV Linh Anh"
-excerpt: "Khóa học yoga bầu trực tuyến giúp mẹ khỏe, bé an yên, và chuẩn bị thể lực tốt nhất cho ngày vượt cạn. Đăng ký tập live cùng giáo viên Yoga quốc tế Linh Anh ngay!"
+title: "Yoga Bầu Vượt Cạn Online | Khóa Học Live Cùng HLV Yoga Quốc Tế Linh Anh"
+excerpt: "Khóa học yoga bầu trực tuyến giúp mẹ khỏe, bé an yên, và chuẩn bị thể lực tốt nhất cho ngày vượt cạn. Đăng ký tập live cùng giáo viên Yoga cùng Linh Anh ngay!"
 permalink: /khoa-hoc/yoga-bau-vuot-can-live/
 
 yoga-bau-vuot-can-live-thu-ngo:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-thu-ngo.jpg
-    alt: "Thư Ngỏ"
+    alt: "HLV Linh Anh chia sẻ về hành trình Yoga Bầu Vượt Cạn"
     title: "Thư Ngỏ"
     excerpt: >-
       Chào bạn, mình là Linh.<br><br>
@@ -26,7 +26,7 @@ yoga-bau-vuot-can-live-thu-ngo:
     btn_class: "btn--yoga"
 yoga-bau-vuot-can-live-intro:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-cover.jpg
-    alt: "Lớp Yoga Bầu Vượt Cạn"
+    alt: "Lớp Yoga Bầu Vượt Cạn Cho Mẹ Bầu"
     title: "Lớp Yoga Bầu Vượt Cạn"
     excerpt: >-
       Nghiên cứu quốc tế cho thấy mẹ bầu cần tập Yoga ít nhất 2 lần 1 tuần, và trong vòng ít nhất 12 tuần để có thể cảm nhận được sự thay đổi cơ thể và có tác dụng tích cực đến quá trình sinh nở. Thế nên, Lớp Yoga Bầu Vượt Cạn được thiết kế với 3 Trụ Cột Chính<br>
@@ -69,7 +69,7 @@ yoga-bau-vuot-can-live-lo-trinh-module1:
       <li>Lợi ích của Yoga với mẹ bầu</li>
 yoga-bau-vuot-can-live-lo-trinh-module2:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-module2.png
-    alt: "Module 2: Bản Đồ Vượt Cạn - Hiểu Để Tự Tin"
+    alt: "Module 2: Bản Đồ Vượt Cạn Sinh Nở - Hiểu Để Tự Tin"
     title: "Module 2: Bản Đồ Vượt Cạn - Hiểu Để Tự Tin"
     excerpt: >-
       <li>Các giai đoạn khi đi sinh & Kỹ Thuật Yoga trong phòng sinh cơ bản</li>
@@ -81,7 +81,7 @@ yoga-bau-vuot-can-live-lo-trinh-module2:
       <li>Người Thân Có Thể Giúp Gì (Đang cập nhật)</li>
 yoga-bau-vuot-can-live-lo-trinh-module3:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-module3.png
-    alt: "Module 3: Làm Chủ Nhóm Cơ Vàng cho ngày vượt cạn"
+    alt: "Module 3: Làm Chủ Nhóm Cơ Vàng cho ngày vượt cạn, sinh nở"
     title: "Module 3: Làm Chủ Nhóm Cơ Vàng cho ngày vượt cạn"
     excerpt: >-
       <li>Khám phá bí mật các nhóm cơ vàng trong sinh nở </li>
@@ -95,7 +95,7 @@ yoga-bau-vuot-can-live-lo-trinh-module4:
       <li>Những chia sẻ chuyên sâu giúp mẹ vững tin và có những kỹ thuật tối ưu nhất để vượt cạn thuận lợi nhất </li>
 yoga-bau-vuot-can-live-lo-trinh-module5:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-module5.jpeg
-    alt: "Module 5: Định Hướng Sau Sinh"
+    alt: "Module 5: Định Hướng Cho Mẹ Sau Sinh"
     title: "Module 5: Định Hướng Sau Sinh"
     excerpt: >-
       <li>Kiến thức tập cơ sàn chậu, cơ bụng "đúng, an toàn" ngay sau khi sinh, giúp cơ hồi phục nhanh nhất.</li>
@@ -132,11 +132,11 @@ testimonial_images:
 
 {% include feature_row_custom.html id="yoga-bau-vuot-can-live-intro" type="right" %}
 
-## Lợi Ích Khi Tham Gia Khoá Học
+## Lợi Ích Khi Tham Gia Khoá Học Yoga Bầu
 
 {% include feature_row id="yoga-bau-vuot-can-live-loi-ich" %}
 
-## Lộ Trình Tổng Quan Khoá Sinh Nở 101
+## Lộ Trình Tổng Quan Khoá Sinh Nở 101 cho mẹ bầu
 
 👉 5 Module Chi Tiết Hỗ Trợ chặt chẽ các buổi tập live hàng tuần. Nếu mẹ nào không học được live, cũng có phương án tập online theo video quay sẵn để mẹ linh hoạt 💛
 
