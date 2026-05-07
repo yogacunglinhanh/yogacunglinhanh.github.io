@@ -82,7 +82,7 @@ testimonial_images:
   - src: "/assets/images/testimonials/testimonial_005.png"
     alt: "Testimonial 5"
 ---
-Yoga cùng Linh Anh cung cấp các lớp yoga bầu, hồi phuc sau sinh online bằng tiếng Việt, phù hợp cho mẹ bầu/sau sinh ở mọi giai đoạn thai kỳ. Vietnamese pregnancy yoga classes online — safe, gentle, and guided in Vietnamese for expecting mothers worldwide
+Yoga cùng Linh Anh cung cấp các lớp yoga bầu, hồi phục sau sinh online bằng tiếng Việt, phù hợp cho mẹ bầu/sau sinh ở mọi giai đoạn thai kỳ. Vietnamese pregnancy yoga classes online — safe, gentle, and guided in Vietnamese for expecting mothers worldwide
 
 {% include feature_row id="yoga-bau-vuot-can" type="left" %}
 
