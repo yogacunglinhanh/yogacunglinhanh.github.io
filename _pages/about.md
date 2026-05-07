@@ -31,7 +31,7 @@ testimonial_images:
 
 ## Giới Thiệu
 
-Chào bạn, mình là Linh Đặng, là giáo viên Yoga chuyên sâu về thai sản và hồi phục sau sinh. Mình được chứng nhận Prenatal & Post Natal ở 2 trung tâm nổi tiếng ở Úc, Bliss Baby Yoga và Body Mind Life với
+Chào bạn, mình là Linh Đặng, là giáo viên Yoga chuyên sâu về thai sản/bầu và hồi phục sau sinh. Mình được chứng nhận Prenatal & Post Natal ở 2 trung tâm nổi tiếng ở Úc, Bliss Baby Yoga và Body Mind Life với
 
 🎓 360+ đào tạo nền tảng về yoga nền tảng, giải phẫu học & năng lượng
 
@@ -43,13 +43,15 @@ Chào bạn, mình là Linh Đặng, là giáo viên Yoga chuyên sâu về thai
 
 Hiện mình chia sẻ hàng ngày trên những kênh [Facebook cá nhân](https://www.facebook.com/ngoclinhdnl/) và hàng tuần ở kênh [YouTube Yoga cùng Linh Anh](https://www.youtube.com/@yogacunglinhanh-noibanketn8829) 💛 Hy vọng được kết nối với các bạn.
 
+Yoga cùng Linh Anh cung cấp các lớp yoga bầu online bằng tiếng Việt, phù hợp cho mẹ bầu ở mọi giai đoạn thai kỳ. Vietnamese pregnancy yoga classes online — safe, gentle, and guided in Vietnamese for expecting mothers worldwide
+
 ---
 
 ## Hành Trình của Yoga cùng Linh Anh
 
 Năm 2020, mình sáng lập ra Yoga cùng Linh Anh với chị sinh đôi cùng những khoá **_Yoga Nền Tảng_** cho người muốn tập và thực hành Yoga nghiêm túc.
 
-Năm 2023, mình sinh thường bé đầu lòng một cách nhẹ nhàng nhờ rất nhiều kiến thức Yoga thế nên mình bắt đầu có những khoá **_Yoga Tiền Sản_**.
+Năm 2023, mình sinh thường bé đầu lòng một cách nhẹ nhàng nhờ rất nhiều kiến thức Yoga thế nên mình bắt đầu có những khoá **_Yoga Bầu_**.
 
 Thế rồi, quá hồi phục sau sinh không “nhẹ nhàng” như mình nghĩ. Nó là 1 hành trình, có lẽ phải mất gần 2 năm mới gọi là hồi phục như cũ, cả mặt thể chất lẫn tinh thần. Hành trình hồi phục của mình không nhanh, NHƯNG MÌNH MUỐN GIÚP LÀM NHANH hành trình này cho mọi người!
 
