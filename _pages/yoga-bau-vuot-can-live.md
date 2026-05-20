@@ -209,13 +209,13 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Mua Riêng <strong style="color: green;">2.800.000đ</strong></li>
+        <li>Mua Riêng <strong style="color: green;">2.500.000đ</strong></li>
         <li>Truy cập trong 1 năm</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Mua Riêng <strong style="color: green;">800.000đ</strong></li>
+        <li>Mua Riêng <strong style="color: green;">900.000đ</strong></li>
         <li>Truy cập trong 1 năm</li>
       </ul>
     </td>
@@ -224,27 +224,26 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     <td>Hỗ trợ</td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Được chỉnh sửa trực tiếp động tác trong lớp & trong nhóm</li>
-        <li>Giải đáp các câu hỏi trong nhóm</li>
+        <li>Được chỉnh sửa trực tiếp động tác trong lớp & ngoài giờ</li>
+        <li>Đưa ra lời khuyên riêng cá nhân riêng cho từng mẹ</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Được chỉnh sửa trực tiếp động tác trong lớp & trong nhóm</li>
-        <li>Trả lời các câu về khoá học</li>
+        <li>Trả lời cá câu hỏi về khoá học, lý thuyết</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Trả lời các câu hỏi về khoá học</li>
+        <li>Khoá tự tập</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>Phù hợp cho</td>
-    <td>Đã biết về khá rõ về giai đoạn sinh nở, chắc tinh thần, chỉ cần vận động, duy trì tập luyện nhẹ nhàng mỗi tuần</td>
+    <td>Mẹ có nhiều vấn đề sức khoẻ thai kỳ, cần được hỗ trợ sát sao trong lớp học live</td>
     <td>Dành cho mẹ muốn hiểu lý thuyết để có nền tảng tập luyện hiệu quả và hiểu cách áp dụng Yoga trong phòng sinh</td>
-    <td>Mẹ muốn tập thêm ngoài lớp live để giúp cơ thể dẻo dai, bớt ì ạch và chuẩn bị cơ thể 1 cách tối ưu nhất cho việc sinh & hồi phục sau sinh</td>
+    <td>Các mẹ muốn tập thêm ngoài lớp live để giúp cơ thể dẻo dai, bớt ì ạch và chuẩn bị cơ thể 1 cách tối ưu nhất cho việc sinh & hồi phục sau sinh. Không khuyến khích mua riêng gói Thư Viện nếu không mua Khoá Sinh Nở 101</td>
   </tr>
 </table>
 
@@ -258,7 +257,7 @@ Thân khoẻ nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
 
 - Nếu chỉ tập Live: Mẹ khoẻ mạnh nhưng dễ hoang mang khi bước vào phòng sinh vì thiếu kiến thức nền tảng sinh nở & thực tế.
 - Nếu chỉ học Khóa 101: Mẹ hiểu lý thuyết nhưng thiếu vận động giúp cơ thể dẻo dai
-- Nếu chỉ có Thư viện: Mẹ dễ bỏ cuộc vì thiếu kỉ luật & động lực hàng tuần.
+- Nếu chỉ có Thư viện: Mẹ thiếu hoàn toàn kiến thức nền tảng để tập đúng, hiệu quả, và hiểu cơ chế sinh nở. 
 
 🌸 Khi mẹ chọn Hành trình Trọn vẹn, Linh không chỉ là người dạy Yoga mà trở thành một **'người bạn đồng hành'** hiểu rõ cả sức khoẻ thể chất lẫn những nỗi lo về kiến thức sinh nở của mẹ. Sự hỗ trợ lúc này mang tính tổng thể và nhất quán, giúp mẹ không bị mâu thuẫn giữa việc tập và học.
 
@@ -295,9 +294,9 @@ Thân khoẻ nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
   </tr>
   <tr>
     <td>Mức Đầu Tư</td>
-    <td><strong style="color: green;">Tổng 7.100.000đ</strong></td>
+    <td><strong style="color: green;">Tổng 6.900.000đ</strong></td>
     <td>
-      <ul>Chỉ <strong style="color: green;">4.500.000đ, giảm 2.600.000đ</strong></ul>
+      <ul>Chỉ <strong style="color: green;">4.700.000đ, giảm 2.200.000đ</strong></ul>
       <ul>👉 Hỗ trợ chia 2 đợt thanh toán. Nhắn tin cho Linh để nhận lộ trình</ul>
     </td>
   </tr>
