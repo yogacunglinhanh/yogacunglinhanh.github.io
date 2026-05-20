@@ -171,9 +171,9 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     <td>Nội Dung Chính</td>
     <td style="vertical-align: top;">
       <ul>
-        <li>12 buổi tập live (1 buổi/tuần)</li>
+        <li>3 tháng (12 buổi) tập live (1 buổi/tuần)</li>
         <li>Hướng dẫn tập an toàn cho bà bầu</li>
-        <li>Điều chỉnh theo từng giai đoạn thai kỳ</li>
+        <li>Điều chỉnh theo từng giai đoạn thai kỳ cho từng mẹ</li>
         <li>Lớp Nhỏ <6 Người </li>
         <li>Xem lại buổi tập nếu bận</li>
         <li>Cộng đồng các mẹ đồng hành</li>
@@ -181,7 +181,7 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>5 modules bài giảng chi tiết</li>
+        <li>Modules bài giảng chi tiết, khoa học nhằm giúp các mẹ hiểu cơ chế hoạt động của cơ thể</li>
         <li>Hiểu cơ thể & quá trình sinh nở</li>
         <li>Kỹ thuật yoga trong phòng sinh</li>
         <li>Mindset & chuẩn bị tâm lý sinh và sau sinh</li>
@@ -192,8 +192,8 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Hơn 20 Video Tập Trước & Sau Sinh</li>
-        <li>5 Video cho triệu chứng phổ biến nhất của thai kỳ</li>
+        <li>Các bài luyện tập Trước & Sau Sinh</li>
+        <li>Các cách hiệu quả để chữa trị những triệu chứng phổ biến nhất của thai kỳ</li>
         <li>Tập bất cứ giờ nào, ở đâu</li>
         <li>Phù hợp tập 1-2 lần/tuần bên ngoài live</li>
       </ul>
@@ -203,13 +203,13 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     <td>Mức Đầu Tư</td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Mua Riêng <strong style="color: green;">3.200.000đ</strong></li>
+        <li>Mua Riêng <strong style="color: green;">3.500.000đ</strong></li>
         <li>Giá ưu đãi sau 12 buổi tập</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Mua Riêng <strong style="color: green;">2.200.000đ</strong></li>
+        <li>Mua Riêng <strong style="color: green;">2.800.000đ</strong></li>
         <li>Truy cập trong 1 năm</li>
       </ul>
     </td>
@@ -248,8 +248,8 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
   </tr>
 </table>
 
-🗓️ Lịch Lớp Live: Sáng Chủ Nhật, 11.30 Sáng Sydney, 7h.30 Sáng Việt Nam.<br>
-Mẹ có thể bắt đầu học bất cứ lúc nào. 
+🗓️ Lịch Lớp Live: Sáng Chủ Nhật,10.30 Sáng Sydney, 7h.30 Sáng Việt Nam.<br>
+Mẹ có thể bắt đầu học bất cứ lúc nào, lớp đang mở tuyển sinh
 
 ## Mẹ Nên Chọn Trụ Cột Nào?
 
@@ -295,9 +295,9 @@ Thân khoẻ nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
   </tr>
   <tr>
     <td>Mức Đầu Tư</td>
-    <td><strong style="color: green;">Tổng 6.200.000đ</strong></td>
+    <td><strong style="color: green;">Tổng 7.100.000đ</strong></td>
     <td>
-      <ul>Chỉ <strong style="color: green;">4.500.000đ, giảm 1.800.000đ</strong></ul>
+      <ul>Chỉ <strong style="color: green;">4.500.000đ, giảm 2.600.000đ</strong></ul>
       <ul>👉 Hỗ trợ chia 2 đợt thanh toán. Nhắn tin cho Linh để nhận lộ trình</ul>
     </td>
   </tr>
