@@ -165,7 +165,7 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     <td>Mục Tiêu</td>
     <td>Tập trực tiếp với Linh — được hướng dẫn và điều chỉnh theo thời gian thực</td>
     <td>Hiểu quá trình sinh nở từ A đến Z — từ thai kỳ đến phục hồi sau sinh</td>
-    <td>Video tập bổ sung để luyện thêm ngoài giờ live trước & sau sinh — tăng hiệu quả tối đa</td>
+    <td>Video luyện tập bổ sung thêm ngoài giờ live trước & sau sinh, hoặc cho mẹ không tham gia được khoá live — tăng hiệu quả tối đa</td>
   </tr>
   <tr>
     <td>Nội Dung Chính</td>
@@ -203,19 +203,19 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     <td>Mức Đầu Tư</td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Mua Riêng <strong style="color: green;">3.500.000đ</strong></li>
+        <li>Mua Riêng <strong style="color: green;">3.300.000đ</strong></li>
         <li>Giá ưu đãi sau 12 buổi tập</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Mua Riêng <strong style="color: green;">2.500.000đ</strong></li>
+        <li>Mua Riêng <strong style="color: green;">2.300.000đ</strong></li>
         <li>Truy cập trong 1 năm</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Mua Riêng <strong style="color: green;">900.000đ</strong></li>
+        <li>Mua Riêng <strong style="color: green;">1.100.000đ</strong></li>
         <li>Truy cập trong 1 năm</li>
       </ul>
     </td>
