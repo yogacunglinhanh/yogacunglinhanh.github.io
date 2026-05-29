@@ -159,7 +159,7 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     <th style="text-align: center;"></th>
     <th style="text-align: center;">12 Buổi Tập Live</th>
     <th style="text-align: center;">Khoá Sinh Nở 101 </th>
-    <th style="text-align: center;">Thư Viện Tập Thêm</th>
+    <th style="text-align: center;">Thư Viện Luyện Tập </th>
   </tr>
   <tr>
     <td>Mục Tiêu</td>
@@ -195,7 +195,7 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
         <li>Các bài luyện tập Trước & Sau Sinh</li>
         <li>Các cách hiệu quả để chữa trị những triệu chứng phổ biến nhất của thai kỳ</li>
         <li>Tập bất cứ giờ nào, ở đâu</li>
-        <li>Phù hợp tập 1-2 lần/tuần bên ngoài live</li>
+        <li>Phù hợp tập 1-2 lần/tuần bên ngoài live, hoặc tập riêng nếu không tham gia live được</li>
       </ul>
     </td>
   </tr>
@@ -243,7 +243,7 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     <td>Phù hợp cho</td>
     <td>Mẹ có nhiều vấn đề sức khoẻ thai kỳ, cần được hỗ trợ sát sao trong lớp học live</td>
     <td>Dành cho mẹ muốn hiểu lý thuyết để có nền tảng tập luyện hiệu quả và hiểu cách áp dụng Yoga trong phòng sinh</td>
-    <td>Các mẹ muốn tập thêm ngoài lớp live để giúp cơ thể dẻo dai, bớt ì ạch và chuẩn bị cơ thể 1 cách tối ưu nhất cho việc sinh & hồi phục sau sinh. Không khuyến khích mua riêng gói Thư Viện nếu không mua Khoá Sinh Nở 101</td>
+    <td>Các mẹ muốn tập thêm ngoài lớp live, hoặc mẹ không tham gia được lớp live, giảm bớt ì ạch và chuẩn bị cơ thể 1 cách tối ưu nhất cho việc sinh & hồi phục sau sinh. Không khuyến khích mua riêng gói Thư Viện nếu không mua Khoá Sinh Nở 101</td>
   </tr>
 </table>
 
