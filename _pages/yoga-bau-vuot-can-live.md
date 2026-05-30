@@ -294,9 +294,9 @@ Thân khoẻ nhờ tập luyện, Tâm an nhờ thực hành Thiền Thở, Trí
   </tr>
   <tr>
     <td>Mức Đầu Tư</td>
-    <td><strong style="color: green;">Tổng 6.900.000đ</strong></td>
+    <td><strong style="color: green;">Tổng 6.700.000đ</strong></td>
     <td>
-      <ul>Chỉ <strong style="color: green;">4.700.000đ, giảm 2.200.000đ</strong></ul>
+      <ul>Chỉ <strong style="color: green;">4.700.000đ, giảm 2.000.000đ</strong></ul>
       <ul>👉 Hỗ trợ chia 2 đợt thanh toán. Nhắn tin cho Linh để nhận lộ trình</ul>
     </td>
   </tr>
