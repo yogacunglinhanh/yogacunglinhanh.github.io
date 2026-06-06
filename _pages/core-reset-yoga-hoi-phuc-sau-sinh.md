@@ -194,7 +194,7 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
     <td style="vertical-align: top;">
       <ul>
         <li>Toàn bộ quyền lợi <strong>Gói Cơ Bản</strong></li>
-        <li>Giá ưu đãi </strong>: <a href="/khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/">Khoá 21 ngày kết nối với cơ thể</a> (trị giá 999.000đ), còn 500,000đ</li>
+        <li>Giá ưu đãi <a href="/khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/">Khoá 21 ngày kết nối với cơ thể</a> (trị giá 999.000đ), còn 500,000đ</li>
         <li><strong style="color: red;">Tặng Thêm</strong>: Thực Hành Viết Journaling & Chiêm Nghiệm Sau Sinh</li>
       </ul>
     </td>
