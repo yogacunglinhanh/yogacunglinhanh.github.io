@@ -9,9 +9,9 @@ core-reset-yoga-hoi-phuc-sau-sinh:
     excerpt: >-
       *Dành cho mẹ sau sinh muốn thiết lập lại kết nối với cơ lõi*<br><br>
       ✨ Hiểu rõ về mặt giải phẫu các cơ lõi kết nối làm việc với nhau thế nào<br>
-      🧘‍♀️ Tập mỗi ngày 10-15 phút – không gồng ép cơ thể – tập đúng, đủ<br>
+      🧘‍♀️ Tập mỗi ngày 10-15 phút, không gồng ép cơ thể, tập đúng, đủ<br>
       💬 Phản hồi, chỉnh sửa 1:1 của giáo viên qua những bài tập<br>
-      📬 7 Level từ dễ đến khó, phải hoành thành từng level, nộp bài và qua thì mới được tập bài mới<br>
+      📬 7 Level từ dễ đến khó, mỗi level từ 1-2 tuần<br>
     buttons:
       - label: "Đăng Ký Ngay"
         url: https://forms.gle/DtpJifpigkyj5HUU7
@@ -24,57 +24,51 @@ core-reset-yoga-hoi-phuc-sau-sinh:
         class: "btn--buy"
 core-reset-yoga-hoi-phuc-sau-sinh-giai-doan1:
   - image_path: /assets/images/courses/yoga-core-reset-giai-doan1.png
-    alt: "Giai đoạn 1: Nền tảng (2-3 tuần)"
-    title: "Giai đoạn 1: Nền tảng (2-3 tuần)"
+    alt: "Nền Tảng Tập Sau Sinh(1-2 tuần)"
+    title: "Nền Tảng Tập Sau Sinh (1-2 tuần)"
     excerpt: >-
       <ul>
         <li>Hiểu về cơ thể sau sinh & quá trình phục hồi</li>
         <li>Kiểm tra tình trạng cơ bụng, cơ sàn chậu, cột sống</li>
-        <li>Chỉnh sửa tư thế trong sinh hoạt hàng ngày</li>
-        <li>Bài tập ngắn giải quyết các vấn nạn của mẹ sau sinh</li>
         <li>Thiết lập mindset đúng cho hành trình</li>
       </ul>
 core-reset-yoga-hoi-phuc-sau-sinh-giai-doan2:
   - image_path: /assets/images/courses/yoga-core-reset-giai-doan2.png
-    alt: "Giai đoạn 2: Tu Sửa Chuyên Sâu (9-11 tuần)"
-    title: "Giai đoạn 2: Tu Sửa Chuyên Sâu (9-11 tuần)"
+    alt: "Giai Đoạn Luyện Tập Phục Hồi  (9-11 tuần)"
+    title: "Giai Đoạn Luyện Tập Phục Hồi (9-11 tuần)"
     excerpt: >-
       <ul>
-        <li>6 level nâng cao từ dễ đến khó: Nằm → Ngồi → Đứng</li>
+        <li>7 level nâng cao từ dễ đến khó: Nằm → Ngồi → Đứng</li>
         <li>Kết nối & tập luyện chuyên sâu cho cơ bụng sâu, cơ sàn chậu</li>
         <li>Mỗi level sẽ cần 1-2 tuần tập, tuỳ theo tiến độ của mẹ</li>
-        <li>Có bài kiểm tra ở mỗi level - chỉ đạt chất lượng video level tiếp theo mới được mở ra</li>
       </ul>
 core-reset-yoga-hoi-phuc-sau-sinh-giai-doan3:
   - image_path: /assets/images/courses/yoga-core-reset-giai-doan3.png
-    alt: "Giai đoạn 3: 21 Ngày Kết Nối Toàn Thân"
-    title: "Giai đoạn 3: 21 Ngày Kết Nối Toàn Thân"
+    alt: "Giai Đoạn Kết Nối Toàn Thân: 21 Ngày"
+    title: "Giai Đoạn Kết Nối Toàn Thân: 21 Ngày"
     excerpt: >-
       <ul>
         <li>Tập 20-30 phút/ngày cho toàn bộ cơ thể vì sau giai đoạn 2, bạn sẽ hiểu, cơ thể chúng ta là 1 khối, không thể tách rời</li>
         <li>Kết nối mặt cảm xúc & tinh thần</li>
         <li>Tạo thói quen luyện tập bền vững sau khi đã phục hồi</li>
-        <li>Nếu bạn chọn gói "Tự Tập", chuỗi 21 ngày này sẽ không trong giáo trình</li>
+        <li>Phù hợp tiếp diễn tập để tăng năng lượng cho mẹ</li>
       </ul>
 core-reset-yoga-hoi-phuc-sau-sinh-loi-ich:
   - excerpt: >-
       ♥️ **Bụng khoẻ, hết đau lưng, hết són tiểu**<br>
       Chấm dứt những tai nạn són tiểu, lưng gãy làm đôi, bụng khoẻ thon gọn và quan trọng hơn là khoẻ hơn.<br><br>
   - excerpt: >-
-      🤰 **Giảm Thiểu Đau Mỏi, Cổ Vai Gáy**<br>
-      Hết đau cứng vai, tê tay<br><br>
-  - excerpt: >-
       🗓️ **Tiết Kiệm Thời Gian & Công Sức**<br>
       Biết chính xác từng tuần, ngày mình cần làm gì, thay vì phải tự mày mò 1 mình, có khi mất hàng tháng, năm mà bụng còn sồ hơn, càng són tiểu hơn.<br><br>
   - excerpt: >-
-      📄 **Kết Quả Nhanh, Rõ Rệt**<br>
-      Cảm nhận thay đổi ngay từ tuần tập thứ 2-3 khi được chỉnh sửa sát sao để đảm bảo bạn tập đúng kỹ thuật, đúng nhịp độ cho gói Kèm Sát & Chuyên Sâu.<br><br>
+      🤰 **Giảm Thiểu Đau Mỏi, Cổ Vai Gáy**<br>
+      Hết đau cứng vai, tê tay<br><br>
   - excerpt: >-
       🙆‍♀️ **Tăng Kiến Thức Giải Phẫu Học Cơ Thể**<br>
       Hiểu rõ giải phẫu cơ thể, vì sao cần tập từng động tác để có động lực tập.<br><br>
   - excerpt: >-
-      🎧 **Có Cộng Đồng các mẹ ủn mông**<br>
-       Tham Gia nhóm Facebook kín nơi các mẹ cổ vũ, chia sẻ kinh nghiệm luyện tập cho nhau để không mẹ nào bị thụt lùi.<br><br>
+      🎧 **Có Đồng Hành Giáo Viên**<br>
+
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -107,7 +101,7 @@ cô Hồng (60+ tuổi):
 
 Linh (Người tạo ra Core Reset):
 
-> "Sau 2 năm nghiên cứu và thực hành, mình đã hồi phục khỏi són tiểu dù sinh thường, hết sổ bụng dù sau sinh 6 tháng bụng vẫn to. Giờ mình có thể tự tin đi chơi, bế con và tự tin sinh bé tiếp theo."
+> "Sau 3 năm nghiên cứu và thực hành, mình đã hồi phục khỏi són tiểu dù sinh thường, hết sổ bụng dù sau sinh 6 tháng bụng vẫn to. Giờ mình có thể tự tin đi chơi, bế con và tự tin sinh bé tiếp theo."
 
 ## 👩‍🏫 Về Linh
 
@@ -155,7 +149,7 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
   </tr>
   <tr>
     <td>Thời Lượng</td>
-    <td>3 tháng (6 level x 2 tuần)</td>
+    <td>3 tháng (7 level)</td>
   </tr>
   <tr>
     <td>Hình Thức</td>
@@ -179,49 +173,37 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
 
 <table>
   <tr>
-    <th style="text-align: center;">Gói Tự Tập</th>
-    <th style="text-align: center;">Gói Kèm Sát</th>
-    <th style="text-align: center;">Gói Chuyên Sâu</th>
+    <th style="text-align: center;">Gói Cơ Bản</th>
+    <th style="text-align: center;">Gói Toàn Diện</th>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong style="color: green;">1.700.000đ</strong></td>
-    <td style="text-align: center;"><strong style="color: green;">2.700.000đ</strong></td>
-    <td style="text-align: center;"><strong style="color: green;">4.500.000đ</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">2.500.000đ</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">3.000.000đ</strong></td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
       <ul>
-        <li>Tài liệu hướng dẫn lý thuyết & giải phẫu học cơ hoành, cơ sàn chậu, cơ bụng</li>
+        <li>Tài liệu hướng dẫn lý thuyết & giải phẫu học</li>
         <li>Video luyện tập các cơ lõi</li>
+        <li>Gửi bài tập qua video trong 3+ tháng, nhận phản hồi 1:1</li>
+        <li>Hướng dẫn điều chỉnh tư thế, cảm nhận đúng vùng cơ</li>
         <li>Trọn bộ video của 7 level</li>
         <li>Thiết lập thói quen sinh hoạt phù hợp từng giai đoạn</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Toàn bộ quyền lợi <strong>Gói Tự Tập</strong></li>
-        <li>Gửi bài tập qua video trong 3+ tháng, nhận phản hồi 1:1</li>
-        <li>Hướng dẫn điều chỉnh tư thế, cảm nhận đúng vùng cơ</li>
-        <li><strong style="color: red;">Giai Đoạn 3</strong>: <a href="/khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/">Khoá 21 ngày kết nối với cơ thể</a> (trị giá 999.000đ)</li>
-        <li><strong style="color: red;">BONUS</strong>: Podcast 5 ngày viết và thở sau sinh</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>Toàn bộ quyền lợi <strong>Gói Kèm Sát</strong></li>
-        <li>Tập live trực tiếp qua Zoom 1:1 - 3 buổi (30 phút mỗi buổi)</li>
-        <li>Điều chỉnh động tác chi tiết hơn theo từng cơ địa</li>
-        <li><strong style="color: red;">Giai Đoạn 3</strong>: <a href="/khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/">Khoá 21 ngày kết nối với cơ thể</a> (trị giá 999.000đ)</li>
-        <li><strong style="color: red;">BONUS</strong>: Podcast 5 ngày viết và thở sau sinh</li>
-        <li><strong style="color: red;">BONUS</strong>: Playlist nhạc tập luyện</li>
+        <li>Toàn bộ quyền lợi <strong>Gói Cơ Bản</strong></li>
+        <li>Giá ưu đãi </strong>: <a href="/khoa-hoc/yoga-21-ngay-ket-noi-voi-co-the/">Khoá 21 ngày kết nối với cơ thể</a> (trị giá 999.000đ), còn 500,000đ</li>
+        <li><strong style="color: red;">Tặng Thêm</strong>: Thực Hành Viết Journaling & Chiêm Nghiệm Sau Sinh</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
       <ul>
-        <li>Không có phản hồi cá nhân</li>
-        <li>Không kèm <strong>Giai Đoạn 3</strong></li>
+        <li>Hỗ trợ nhắn tin/hỏi đáp 1:1 và sửa video</li>
+        <li>Không kèm <strong>Khoá 21 Ngày</strong></li>
       </ul>
     </td>
     <td style="vertical-align: top;">
@@ -229,17 +211,10 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
         <li>Hỗ trợ nhắn tin/hỏi đáp 1:1 và sửa video</li>
       </ul>
     </td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>Hỗ trợ nhắn tin/hỏi đáp 1:1 và sửa video</li>
-        <li>Học live 3 buổi</li>
-      </ul>
-    </td>
   </tr>
   <tr>
-    <td>Cho mẹ rất kỉ luật, hiểu cách cơ thể hoạt động để tập an toàn, hiệu quả</td>
-    <td>Cho mẹ muốn được theo sát, gửi bài và được góp ý kỹ càng</td>
-    <td>Cho mẹ muốn quan sát trực tiếp & tương tác live cùng giáo viên</td>
+    <td>Cho mẹ muốn tập trung hồi phục cơ lõi</td>
+    <td>Cho mẹ muốn hồi phục thể chất lẫn tinh thần, tìm lại bản thân</td>
   </tr>
 </table>
 
