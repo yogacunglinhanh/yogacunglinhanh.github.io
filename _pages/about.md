@@ -154,7 +154,7 @@ Nếu đó là bạn, hãy đặt lịch chia sẻ qua 1-2 vấn đề bạn đa
     "Diastasis recti",
     "xổ bụng",
     "bụng to sau sinh",
-    "són tiểu,
+    "són tiểu",
     "Prenatal yoga",
     "Postnatal yoga"
   ]
