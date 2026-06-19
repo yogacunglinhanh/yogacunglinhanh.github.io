@@ -17,6 +17,8 @@ minimal_mistakes_skin: default
 
 # Build settings
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -44,7 +46,7 @@ footer:
       url: "https://www.facebook.com/groups/yoga.cung.linh.anh"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/@yogacunglinhanh-noibanketn8829"
+      url: "https://www.youtube.com/@yogacunglinhanh"
     # - label: "TikTok"
     #   icon: "fab fa-fw fa-tiktok"
     #   url: "https://www.tiktok.com/@yogacunglinhanh"
