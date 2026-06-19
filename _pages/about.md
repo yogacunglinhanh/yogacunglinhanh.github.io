@@ -128,3 +128,52 @@ Nếu đó là bạn, hãy đặt lịch chia sẻ qua 1-2 vấn đề bạn đa
 ## Xem thêm các bài chia sẻ chuyên sâu của mình
 
 [Xem Thêm Chia Sẻ](/blog/){: .btn .btn-primary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Linh Đặng",
+  "url": "https://www.yogacunglinhanh.com/gioi-thieu/",
+  "image": "https://yogacunglinhanh.com/assets/images/authors/linh_dang.jpg",
+  "jobTitle": "Giáo viên Yoga chuyên sâu Thai sản & Hồi phục Sau Sinh",
+  "description": "Giáo viên Yoga chuyên sâu về thai sản và hồi phục sau sinh, chứng nhận Prenatal & Postnatal tại Bliss Baby Yoga và Body Mind Life (Úc). 360+ giờ đào tạo nền tảng Yoga, 160+ giờ chuyên sâu thai sản & hồi phục sau sinh, 140+ giờ Yoga trị liệu.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Sydney",
+    "addressCountry": "AU"
+  },
+  "sameAs": [
+    "https://www.facebook.com/groups/yoga.cung.linh.anh",
+    "https://www.facebook.com/ngoclinhdnl/",
+    "https://www.youtube.com/@yogacunglinhanh"
+  ],
+  "knowsAbout": [
+    "Yoga bầu",
+    "Yoga hồi phục sau sinh",
+    "Diastasis recti",
+    "Prenatal yoga",
+    "Postnatal yoga"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Yoga cùng Linh Anh",
+  "url": "https://www.yogacunglinhanh.com",
+  "logo": "https://yogacunglinhanh.com/assets/images/authors/linh_dang.jpg",
+  "foundingDate": "2020",
+  "description": "Yoga cùng Linh Anh cung cấp các lớp yoga bầu và hồi phục sau sinh online bằng tiếng Việt, phù hợp cho mẹ bầu/sau sinh ở mọi giai đoạn thai kỳ.",
+  "founder": {
+    "@type": "Person",
+    "name": "Linh Đặng"
+  },
+  "sameAs": [
+    "https://www.facebook.com/groups/yoga.cung.linh.anh",
+    "https://www.youtube.com/@yogacunglinhanh"
+  ]
+}
+</script>
