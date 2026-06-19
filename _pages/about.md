@@ -178,3 +178,52 @@ Mỗi tháng mình dành chút thời gian để nói chuyện với 2-3 mẹ th
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Mình mới tập Yoga, mình nên bắt đầu từ đâu?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nếu bạn mới tập Yoga, và chưa có nền tảng vững chắc tập thế nào để an toàn, không bị chấn thương, nên tham khảo khoá Yoga nền tảng. Khoá sẽ cho bạn 1 nền tảng Yoga vững chắc để tránh những chấn thương không cần thiết như thoái hoá cột sống cổ, thoái hoá cột sống lưng, đau khớp đầu gối, chấn thương cổ tay. Ngoài ra, lớp cũng giúp bạn bắt đầu tập thở - 1 trong những điều nhiều lớp Yoga bỏ qua nhưng cực kỳ quan trọng."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Mình muốn tìm hiểu thêm về lớp Yoga Bầu Trước & Hồi Phục Sau Sinh?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tuỳ tình trạng cơ thể của mẹ bầu, và bạn đã sinh xong bao lâu, Yoga cùng Linh Anh có những khoá khác nhau để giúp mẹ trau dồi sức khoẻ cho bản thân, và hồi phục sau sinh an toàn và hiệu quả. Có thể tham gia nhóm cộng đồng Yoga Bầu & Hồi Phục Sau Sinh Cùng Linh Anh trên Facebook, hoặc tham khảo 2 playlist YouTube dành cho mẹ bầu và mẹ sau sinh."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Mình sẽ học online đúng không?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Đúng vậy. Phần lớn các khoá học đã được quay trước, học viên có thể học theo lịch sắp xếp của bản thân, và quay/chụp ảnh để được nhận chỉnh sửa 1:1."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Có những hỗ trợ gì khi bạn học các khoá này?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trong lúc học, học viên có thể comment hỏi bất cứ câu hỏi gì ngay trong các video, sẽ được trả lời kỹ càng. Tuỳ vào gói mua từng khoá, học viên cũng sẽ được hỗ trợ chỉnh sửa 1:1 qua chat Facebook/Zalo hàng tuần. Tất cả các khoá đều có cam kết hoàn tiền nếu không hài lòng."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Nếu mình muốn học thì bao giờ lớp bắt đầu?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Học viên có thể bắt đầu bất cứ lúc nào sẵn sàng. Nếu là mẹ bầu, sau sinh hay có bất cứ chấn thương nào, nên liên hệ trước để được tư vấn lộ trình chỉnh sửa riêng."
+      }
+    }
+  ]
+}
+</script>
