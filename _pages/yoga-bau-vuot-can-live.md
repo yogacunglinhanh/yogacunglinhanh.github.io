@@ -203,7 +203,7 @@ Tuỳ mục tiêu của từng mẹ, mỗi trụ cột phục vụ 1 nhu cầu r
     <td>Mức Đầu Tư</td>
     <td style="vertical-align: top;">
       <ul>
-        <li>Mua Riêng <strong style="color: green;">3.300.000đ</strong></li>
+        <li>Mua Riêng <strong style="color: green;">3.500.000đ</strong></li>
         <li>Giá ưu đãi sau 12 buổi tập</li>
       </ul>
     </td>
