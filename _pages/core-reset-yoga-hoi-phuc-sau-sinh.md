@@ -5,13 +5,13 @@ permalink: /khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/
 core-reset-yoga-hoi-phuc-sau-sinh:
   - image_path: /assets/images/courses/yoga-core-reset-cover.png
     alt: "🌿 Core Reset Yoga Hồi Phục Sau Sinh"
-    title: "🌿 CORE RESET - Hành Trình 3+ Tháng Hồi Phục Sau Sinh Cơ Bụng/Cơ Sàn Chậu Từ Trong Ra Ngoài"
+    title: "🌿 CORE RESET - Hành Trình 4-6 Tháng Hồi Phục Sau Sinh Cơ Bụng/Cơ Sàn Chậu Từ Trong Ra Ngoài"
     excerpt: >-
       *Dành cho mẹ sau sinh muốn thiết lập lại kết nối với cơ lõi*<br><br>
       ✨ Hiểu rõ về mặt giải phẫu các cơ lõi kết nối làm việc với nhau thế nào<br>
-      🧘‍♀️ Tập mỗi ngày 10-15 phút, không gồng ép cơ thể, tập đúng, đủ<br>
+      🧘‍♀️ Tập mỗi ngày 15-20 phút, không gồng ép cơ thể, tập đúng, đủ<br>
       💬 Phản hồi, chỉnh sửa 1:1 của giáo viên qua những bài tập<br>
-      📬 7 Level từ dễ đến khó, mỗi level từ 1-2 tuần<br>
+      📬 7 Level từ dễ đến khó, mỗi level từ 1-2 tuần ít nhất<br>
     buttons:
       - label: "Đăng Ký Ngay"
         url: https://forms.gle/DtpJifpigkyj5HUU7
@@ -34,8 +34,8 @@ core-reset-yoga-hoi-phuc-sau-sinh-giai-doan1:
       </ul>
 core-reset-yoga-hoi-phuc-sau-sinh-giai-doan2:
   - image_path: /assets/images/courses/yoga-core-reset-giai-doan2.png
-    alt: "Giai Đoạn Luyện Tập Phục Hồi  (9-11 tuần)"
-    title: "Giai Đoạn Luyện Tập Phục Hồi (9-11 tuần)"
+    alt: "Giai Đoạn Luyện Tập Phục Hồi  (12-14 tuần)"
+    title: "Giai Đoạn Luyện Tập Phục Hồi (12-14 tuần)"
     excerpt: >-
       <ul>
         <li>7 level nâng cao từ dễ đến khó: Nằm → Ngồi → Đứng</li>
@@ -149,15 +149,15 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
   </tr>
   <tr>
     <td>Thời Lượng</td>
-    <td>3 tháng (7 level)</td>
+    <td>4+ tháng (7 level)</td>
   </tr>
   <tr>
     <td>Hình Thức</td>
-    <td>Online qua video + Phản Hồi 1:1</td>
+    <td>Online qua video đã lên lịch trình + Phản Hồi 1:1</td>
   </tr>
   <tr>
     <td>Thời Gian Tập</td>
-    <td>10-15 phút/ngày, tối thiểu 4 ngày/tuần</td>
+    <td>15-20 phút/ngày, tối thiểu 4 ngày/tuần</td>
   </tr>
   <tr>
     <td>Đối Tượng</td>
@@ -177,8 +177,8 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
     <th style="text-align: center;">Gói Toàn Diện</th>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong style="color: green;">2.500.000đ</strong></td>
-    <td style="text-align: center;"><strong style="color: green;">3.000.000đ</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">2.700.000đ</strong></td>
+    <td style="text-align: center;"><strong style="color: green;">3.200.000đ</strong></td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
