@@ -5,7 +5,7 @@ permalink: /khoa-hoc/core-reset-yoga-hoi-phuc-sau-sinh/
 core-reset-yoga-hoi-phuc-sau-sinh:
   - image_path: /assets/images/courses/yoga-core-reset-cover.png
     alt: "🌿 Core Reset Yoga Hồi Phục Sau Sinh"
-    title: "🌿 CORE RESET - Hành Trình 4-6 Tháng Hồi Phục Sau Sinh Cơ Bụng/Cơ Sàn Chậu Từ Trong Ra Ngoài"
+    title: "🌿 CORE RESET - Hành Trình 4-6 Tháng Hồi Phục Sau Sinh Cơ Bụng/Cơ Sàn Chậu Từ Trong Ra Ngoài."
     excerpt: >-
       *Dành cho mẹ sau sinh muốn thiết lập lại kết nối với cơ lõi*<br><br>
       ✨ Hiểu rõ về mặt giải phẫu các cơ lõi kết nối làm việc với nhau thế nào<br>
