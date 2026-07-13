@@ -235,14 +235,14 @@ Tưởng tượng cơ thể bạn như 1 ngôi nhà:
   </a>
 </div>
 
-## Nếu Bạn Vẫn Còn Lưỡng Lự, Học Thử Giai Đoạn 1 Tại Đây
+## Nếu Bạn Vẫn Còn Lưỡng Lự, Cùng Đánh Giá Cơ Bụng Của Bạn Tại Đây
 
 <div style="text-align: center;">
-  <a href="https://yogacunglinhanh.com/blogs/mon-qua-cho-me-sau-sinh/"
+  <a href="https://yogacunglinhanh.com/blogs/4-dau-hieu-bung-yeu-me-sau-sinh-can-biet/"
      style="display: inline-block; margin: 0.5em; padding: 0.6em 1.2em;
             background-color: #5fad8e; color:white; border-radius: 0;
             text-decoration: none; font-weight: bold;">
-    Học Thử - Cảm Thấy Như Sống Lại Tức Thì
+    Đánh Giá Cơ Bụng Sau Sinh
   </a>
 </div>
 
