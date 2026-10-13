@@ -10,14 +10,11 @@ yoga-bau-vuot-can-thu-ngo:
     title: "Thư Ngỏ"
     excerpt: >-
       Chào bạn, mình là Linh.<br><br>
-      Mình vẫn nhớ như in những đêm mất ngủ, đau lưng, phù chân, chuột rút, khó thở vào những tháng bụng to... Ôi cái combo bà bầu thật là khó ai tránh khỏi. 
-      Rồi giây phút hoảng loạn khi cơn gò đến mặc dù chính bản thân đã chuẩn bị rất kỹ lưỡng. Hay cả 3-4 tháng trời vật lộn làm quen với vai trò người mẹ, đau lưng, bụng xồ, thiếu ngủ. Tuy đã thực hành rất nhiều Yoga, thở, thiền nhưng hành trình mang thai và làm mẹ vẫn tràn đầy những giây phút bất lực và vỡ oà.<br><br>
-      Trong lúc giây phút đó, mình luôn tự hỏi: <br>
-      • *Mình luyện tập và có nhiều kiến thức như thế này rồi mà còn chật vật, nếu không có kiến thức và được hỗ trợ thì mọi người khác ra sao?<br>*
-      • *Tại sao lúc mang bầu khoẻ mạnh thế, không ai nói cho mẹ bầu nên hồi phục sau sinh như thế nào để khiến ai sinh xong cũng choáng váng bỡ ngỡ?<br><br>*
+      Mình sinh bé đầu lúc tuổi đã lớn 33 tuổi nhưng chỉ sau 2.5 tiếng từ khi cơn gò đến, bé đã ra. Mình không cần 1 chút can thiệp gì từ y tế ngay cả thuốc tê. Trong suốt thai kỳ của mình, mình cũng trộm vía ít đau lưng, ít phù chân, không tiểu đường thai kỳ...
+      Có lẽ 1 phần chắc chắn là may mắn, nhưng 1 phần cũng chắc chắn là những thực hành, luyện tập mình đã làm từ ngay lúc mang bầu. 
 
-      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**: để các mẹ dù là tập đầu hay tập 2, 3 hiểu cơ thể mình trước, trong và sau sinh, tập đúng những bài dành cho mình từng giai đoạn, và có Linh bên cạnh điều chỉnh khi cần. Bạn thực sự không phải tập theo một giáo án chung cho tất cả mọi người, mà sẽ nhận được sự đồng hành riêng 1:1 của Linh.<br><br>
-      ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn.***
+      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**: để chia sẻ những thực hành trong giai đoạn mang bầu của mình cho các mẹ. Dù là mang thai tập đầu hay tập 2 hay 3, các mẹ sẽ được chuẩn bị kiến thức và bài tập kỹ lưỡng để giảm thiểu những triệu chứng mệt mỏi của bầu bí, cũng như giảm cái đau lúc sinh nở và hồi phục sau sinh. Bạn thực sự không phải tập theo một giáo án chung cho tất cả mọi người, mà sẽ nhận được sự đồng hành riêng 1:1 của Linh.<br><br>
+      ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy tiếp tục đọc để hiểu hơn cách mình sẽ đồng hành cùng bạn.***
     url: /khoa-hoc/yoga-bau-vuot-can/#v%E1%BB%81-linh
     btn_label: "Đọc Thêm Về Linh"
     btn_class: "btn--yoga"
