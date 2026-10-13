@@ -270,6 +270,11 @@ Là 1 giáo viên thai sản, Linh sẽ tập trung hết sức vào điều mì
   </a>
 </div>
 
+## TEST nhanh 3 phút kiểm tra tình trạng sức khoẻ & kiến thức chuẩn bị sinh thường của mẹ
+
+Bài TEST sẽ giúp bạn hiểu được những gì bạn có thể tìm hiểu và luyện tập để giúp bạn có hành trình sinh nở nhẹ nhất có thể, đặc biệt là sinh thường. 
+[Làm Test Ngay](https://yogacunglinhanh.com/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
+
 ## Mẹ Nên Chọn Gói Nào?
 
 - **Mẹ dự sinh trước tháng 4/2027:** hãy chọn Vượt Cạn Tại Nhà và bắt đầu ngay. Mỗi tuần bắt đầu sớm là thêm một tuần cơ thể được chuẩn bị.
@@ -381,23 +386,18 @@ Khoá học phù hợp cả với mẹ có vấn đề cơ xương khớp hoặc
   <p>Vì mình tin vào bạn, vào sức mạnh kỳ diệu bên trong mỗi người mẹ – sức mạnh đôi khi chỉ cần một ai đó nhắc nhẹ để được đánh thức.</p>
 </details>
 
-## TEST nhanh 3 phút kiểm tra mức độ sinh thường
-
-Làm TEST nhanh 3 phút kiểm tra mức độ sinh thường (cho mẹ từ tuần 20 trở đi).
-[Làm Test Ngay](https://yogacunglinhanh.com/blogs/co-the-ban-da-san-sang-cho-sinh-thuong-chua/){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
-
 ## Nhóm Facebook Bầu & Sau Sinh
 
 Mình giải đáp nhiều câu hỏi của các mẹ bầu & mẹ sau sinh trong nhóm, tham Gia Nhóm Yoga Trước & Sau Sinh bằng cách trả lời 3 câu hỏi ngắn.
 [Tham Gia Nhóm](https://www.facebook.com/groups/yogabau.linhanh){: .btn .btn-tertiary style="margin:0.5em;padding:0.6em 1.2em;background:#301D10;color:white;border-radius:0;text-decoration:none;"}
 
-## Ngoài Ra, Bạn Có Thể Học Thử Khoá Học - Mình Trích 1 Số Bài Học Ở Dưới Đây
+## Ngoài Ra, Bạn Có Thể Học Thử Khoá Học - Mình Trích 1 Số Bài Học Ở Dưới Đây Mà Mình Để Trên YouTube
 
-### 3 Động Tác Yoga Bầu Giúp Mẹ Sinh Thường Nhanh & Nhẹ Hơn
+### Cơ Chế Sinh Thường Giúp Bạn Chuẩn Bị Cơ Thể Tốt Nhất
 
 {% include youtube_embed.html id="r3JQpm1FVyQ" %}
 
-### Cách Ngồi Của Mẹ Bầu Để Tránh Rặn Đẻ Kéo Dài
+### Tư Thế Ngồi Hằng Ngày Của Mẹ Bầu Để Tránh Rặn Đẻ Kéo Dài
 
 {% include youtube_embed.html id="PdqnI9-HSHk" %}
 
