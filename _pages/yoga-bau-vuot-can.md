@@ -10,14 +10,13 @@ yoga-bau-vuot-can-thu-ngo:
     title: "Thư Ngỏ"
     excerpt: >-
       Chào bạn, mình là Linh.<br><br>
-      Mình vẫn nhớ như in những đêm mất ngủ, đi tiểu đêm nhiều nằm tập thở và cơ sàn chậu.
-      Rồi giây phút sinh bé không cần thuốc giảm đau và đẻ sau chỉ sau 3.5 tiếng. Hay cả 3-4 tháng trời vật lộn làm quen với vai trò người mẹ. Tuy đã thực hành rất nhiều Yoga, thở, thiền nhưng vẫn nhiều lúc cảm thấy kiệt sức, và bản thân oà khóc.<br><br>
-      Mình luôn tự hỏi: <br>
-      • *Nếu những mẹ ngoài kia không biết những bài tập như mình thì sẽ đi đẻ ra sao, hồi phục sau sinh sẽ khó khăn đến thế nào?<br>*
-      • *Tại sao Yoga bầu chỉ dừng lại ở những động tác, mà không giải thích cơ thể mẹ đang thay đổi ra sao và vì sao cần tập như vậy?<br>*
-      • *Tại sao Yoga bầu không bao gồm cả Yoga phục hồi sau sinh để mẹ chuẩn bị kiến thức trước khi đẻ? Sau sinh đâu có thời gian đâu mà cho bản thân<br><br>*
+      Mình vẫn nhớ như in những đêm mất ngủ, đau lưng, phù chân, chuột rút, khó thở vào những tháng bụng to... Ôi cái combo bà bầu thật là khó ai tránh khỏi. 
+      Rồi giây phút hoảng loạn khi cơn gò đến mặc dù chính bản thân đã chuẩn bị rất kỹ lưỡng. Hay cả 3-4 tháng trời vật lộn làm quen với vai trò người mẹ, đau lưng, bụng xồ, thiếu ngủ. Tuy đã thực hành rất nhiều Yoga, thở, thiền nhưng hành trình mang thai và làm mẹ vẫn tràn đầy những giây phút bất lực và vỡ oà.<br><br>
+      Trong lúc giây phút đó, mình luôn tự hỏi: <br>
+      • *Mình luyện tập và có nhiều kiến thức như thế này rồi mà còn chật vật, nếu không có kiến thức và được hỗ trợ thì mọi người khác ra sao?<br>*
+      • *Tại sao lúc mang bầu khoẻ mạnh thế, không ai nói cho mẹ bầu nên hồi phục sau sinh như thế nào để khiến ai sinh xong cũng choáng váng bỡ ngỡ?<br><br>*
 
-      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**: để mẹ hiểu cơ thể mình trước, trong và sau sinh, tập đúng những bài dành cho mình, và có Linh bên cạnh điều chỉnh khi cần. Mẹ không phải chờ lớp, không phải tập theo một giáo án chung cho tất cả mọi người.<br><br>
+      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**: để các mẹ dù là tập đầu hay tập 2, 3 hiểu cơ thể mình trước, trong và sau sinh, tập đúng những bài dành cho mình từng giai đoạn, và có Linh bên cạnh điều chỉnh khi cần. Bạn thực sự không phải tập theo một giáo án chung cho tất cả mọi người, mà sẽ nhận được sự đồng hành riêng 1:1 của Linh.<br><br>
       ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy để mình đồng hành cùng bạn.***
     url: /khoa-hoc/yoga-bau-vuot-can/#v%E1%BB%81-linh
     btn_label: "Đọc Thêm Về Linh"
@@ -28,12 +27,12 @@ yoga-bau-vuot-can-intro:
     alt: "Yoga Bầu Vượt Cạn – Tự Tập Tại Nhà"
     title: "Yoga Bầu Vượt Cạn – Tự Tập Tại Nhà, Có Linh Đồng Hành"
     excerpt: >-
-      Hiểu cơ thể mình, tập đúng bài dành cho mình, và được Linh điều chỉnh riêng – từ thai kỳ đến 3 tháng sau sinh.<br><br>
-      Nghiên cứu quốc tế cho thấy mẹ bầu cần tập ít nhất 2 lần mỗi tuần, liên tục khoảng 12 tuần để thấy thay đổi rõ ràng. Điều quan trọng không phải tập nhiều, mà là tập <strong>đúng và đủ</strong> cho chính cơ thể mình.<br><br>
+      Nghiên cứu quốc tế cho thấy mẹ bầu cần tập ít nhất 2 lần mỗi tuần, liên tục khoảng 12 tuần để thấy thay đổi rõ ràng. Điều quan trọng nhất không phải tập nhiều, mà là tập <strong>đúng và đủ</strong> cho chính cơ thể mình.<br><br>
+      Chính vì thế mình đã thiết kế ra lớp kéo dài 12 tuần với ít nhất 2 bài tập dài để mẹ có thể luyện tập chuẩn bị cho cơ thể trước và sau sinh.<br><br>
       • Gần 40 video bài giảng & bài tập, xem lại không giới hạn trong 1 năm<br>
-      • Kiến thức sinh nở bài bản mà ở Việt Nam hầu như không ai dạy<br>
-      • Mỗi tuần gửi Linh 1 video hoặc 1 câu hỏi, Linh trả lời riêng cho mẹ<br>
-      • Bắt đầu ngay hôm nay, không cần chờ lớp<br><br>
+      • Kiến thức sinh nở bài bản mà ở trên YouTube Việt Nam hầu như không ai dạy<br>
+      • Mỗi tuần mẹ gửi Linh 1 video hoặc 1 câu hỏi, Linh sẽ trả lời riêng cho mẹ<br>
+      • Bạn có thể bắt đầu ngay hôm nay mà không cần chờ lớp<br><br>
     buttons:
       - label: "Bắt Đầu Ngay"
         url: https://forms.gle/hJuC49WYqPv39qcS7
@@ -48,13 +47,13 @@ yoga-bau-vuot-can-intro:
 yoga-bau-vuot-can-3-buoc:
   - title: "1. Hiểu – Khoá Sinh Nở 101"
     excerpt: >-
-      Những điều không ai dạy mẹ bầu ở Việt Nam: cơ thể thay đổi thế nào qua từng tháng, các giai đoạn chuyển dạ, những nhóm cơ quyết định cuộc sinh, và cách phục hồi đúng sau sinh. Xem xong, mẹ biết rõ <strong>vì sao</strong> mình tập từng động tác và nó giúp gì khi sinh.
+      Đây là những điều ít ai dạy mẹ bầu ở Việt Nam như là các giai đoạn chuyển dạ, những nhóm cơ quyết định cuộc sinh, và cách phục hồi đúng sau sinh. Xem xong, mẹ sẽ biết rõ <strong>vì sao</strong> mình tập từng động tác và nó giúp gì khi sinh, chứ không phải học vẹt như trên YouTube.
   - title: "2. Tập đúng – Thư Viện Luyện Tập"
     excerpt: >-
       Các bài tập trước sinh và 3 tháng đầu sau sinh đã được Linh chọn lọc, tập bất cứ lúc nào. Vì đã hiểu nguyên lý, mẹ cũng tự đánh giá được bài nào an toàn và phù hợp khi muốn tập thêm trên YouTube.
   - title: "3. Được điều chỉnh riêng – Linh đồng hành"
     excerpt: >-
-      Không có hai thai kỳ nào giống nhau. Một bài rất tốt cho mẹ này có thể không hợp với mẹ khác, nên mẹ không nên tập đại trà theo một giáo án chung. Mỗi tuần mẹ gửi video hoặc câu hỏi, Linh xem và trả lời riêng cho mẹ.
+      Một bài rất tốt cho mẹ này có thể không hợp với mẹ khác, nên mẹ không nên tập đại trà theo một giáo án chung, hay tập YouTube thôi. Mẹ cần có người đồng hành, tư vấn. Mỗi tuần mẹ gửi video hoặc câu hỏi, Linh xem và trả lời riêng cho mẹ.
 
 yoga-bau-vuot-can-module1:
   - image_path: /assets/images/courses/yoga-bau-vuot-can-week1.jpg
@@ -116,36 +115,36 @@ testimonial_images:
 <!-- markdownlint-disable MD026 -->
 
 <div style="background:#f3f8f5; border-left:4px solid #5fad8e; padding:0.8em 1.2em; margin-bottom:1.5em;">
-  🌿 <strong>Lớp Live đang tạm nghỉ, dự kiến mở lại tháng 1/2027.</strong> Mẹ có thể bắt đầu ngay hôm nay với gói <strong>Vượt Cạn Tại Nhà</strong> và nâng cấp lên Live khi lớp mở – không mất khoản nào đã đóng.
+  🌿 <strong>Lớp Live đang tạm nghỉ, dự kiến mở lại tháng 1/2027.</strong> Mẹ có thể bắt đầu ngay hôm nay với gói <strong>Vượt Cạn Tại Nhà</strong> và nâng cấp lên Live khi lớp mở mà không mất khoản nào đã đóng.
 </div>
 
 ## Bạn có phải là....
 
 - Mẹ bầu từ tuần 20 trở đi muốn chủ động trong hành trình sinh nở.<br>
-- Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở<br>
-- Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi, cần vận động nhẹ nhàng, và luyện tập các cơ chuyên sâu giảm són tiểu<br>
-- Mẹ bầu từng nghe quá nhiều chuyện sinh đáng sợ, và muốn một khởi đầu tích cực hơn.<br>
+- Mẹ bầu đang làm việc văn phòng, ngồi nhiều, hay bị phù nề, chuột rút, khó thở.<br>
+- Mẹ bầu bị thai kỳ tiểu đường, són tiểu khi cười to, hắt hơi.<br>
+- Mẹ bầu muốn tăng khả năng sinh thường, và cũng muốn chuẩn bị cho sinh mổ nếu cần thiết.<br>
 - Mẹ bầu không biết bắt đầu từ đâu, nhưng không muốn “phó mặc” ca sinh cho bác sĩ.<br>
-- Mẹ bận rộn, lịch không cố định, muốn tập lúc con ngủ hay tối muộn mà vẫn có người hướng dẫn đúng.<br><br>
   Bạn đã tìm đến đúng chỗ :)
 
 {% include feature_row id="yoga-bau-vuot-can-thu-ngo" type="left" %}
 
 {% include feature_row_custom.html id="yoga-bau-vuot-can-intro" type="right" %}
 
-## Hiểu → Tập Đúng → Được Điều Chỉnh Riêng
+## 3 Bước Tập Hiệu Quả: Hiểu → Tập Đúng → Được Điều Chỉnh Riêng
 
 {% include feature_row id="yoga-bau-vuot-can-3-buoc" %}
 
-**Đích đến:** tăng khả năng sinh thường, phục hồi sau sinh nhanh, để mẹ dành trọn thời gian cho gia đình nhỏ.
+**Đích đến mình muốn đưa bạn đến:** giảm đau khi sinh thường, rút ngắn thời gian đau cơn gò và rách rạch cô bé, giảm căng thẳng mệt mỏi lúc bầu và sau sinh ngay cả nếu sinh mổ, và phục hồi sau sinh nhẹ nhàng hơn. 
 
-## Linh Đồng Hành – Vì Không Có Hai Thai Kỳ Nào Giống Nhau
+## Có Linh Đồng Hành
 
-Mẹ bị tiểu đường thai kỳ, mẹ đau lưng, mẹ són tiểu, mẹ có ngôi thai chưa thuận – mỗi người cần những điều chỉnh khác nhau. Trong gói Vượt Cạn Tại Nhà, Linh đồng hành 1:1 với mẹ trong **12 tuần kể từ ngày đăng ký**:
+Vì không có 2 thai kỳ nào giống nhau, có mẹ sẽ bị tiểu đường thai kỳ, mẹ bị đau lưng, mẹ bị són tiểu, mẹ có ngôi thai chưa thuận. Với mỗi tình trạng cơ thể, mỗi mẹ sẽ cần những điều chỉnh khác nhau. Ví dụ: động tác squat, con bướm có thể tốt cho 1 mẹ nhưng cực kỳ có hại cho mẹ khác. 
+Chính vì thế, trong gói Vượt Cạn Tại Nhà, Linh đồng hành 1:1 với mẹ **trong suốt thai kỳ,ngay cả khi sinh xong**:
 
-- **Tư vấn đầu khoá:** mẹ điền form về tình trạng thai kỳ, Linh gợi ý những bài trọng tâm dành riêng cho mẹ.
-- **Mỗi tuần 1 lượt hỏi Linh:** gửi 1 video để Linh sửa tư thế, hoặc 1 câu hỏi về cơ thể và bài tập.
-- **Trả lời riêng 1:1:** Linh trả lời trực tiếp cho mẹ, không phải câu trả lời chung.
+- **Tư vấn đầu khoá:** mẹ điền form về tình trạng thai kỳ, Linh sẽ khuyên những bài trọng tâm dành riêng cho mẹ.
+- **Mỗi tuần 1 lượt hỏi Linh:** mẹ có thể gửi 1 video để Linh sửa tư thế, hoặc 1 câu hỏi về cơ thể và bài tập.
+- **Trả lời riêng 1:1:** Linh trả lời trực tiếp cho mẹ, không phải câu trả lời chung trong nhóm.
 
 <table>
   <tr>
@@ -170,11 +169,11 @@ Mẹ bị tiểu đường thai kỳ, mẹ đau lưng, mẹ són tiểu, mẹ c�
   </tr>
 </table>
 
-Linh là giáo viên yoga thai sản, nên Linh tập trung hết sức vào điều mình làm tốt nhất: giúp cơ thể mẹ sẵn sàng cho ngày vượt cạn. Với các vấn đề sức khoẻ hay tâm lý, Linh sẽ khuyên mẹ trao đổi với bác sĩ hoặc chuyên gia phù hợp.
+Là 1 giáo viên thai sản, Linh sẽ tập trung hết sức vào điều mình làm tốt nhất là giúp cơ thể mẹ sẵn sàng cho ngày vượt cạn. Với các vấn đề sức khoẻ hay tâm lý, Linh sẽ khuyên mẹ trao đổi với bác sĩ hoặc chuyên gia phù hợp.
 
 ## Lộ Trình Học Tập
 
-👉 5 module bài giảng đi từ thai kỳ, phòng sinh đến sau sinh, kèm Thư Viện bài tập để mẹ thực hành song song. Mỗi tuần chỉ 2–3 bài, tập lúc nào cũng được – miễn là đúng & đều 💛.
+👉 5 module bài giảng đi từ thai kỳ, phòng sinh đến sau sinh, kèm Thư Viện bài tập để mẹ thực hành song song. Mỗi tuần chỉ 2–3 bài, tập lúc nào cũng được, miễn là đúng & đều 💛.
 
 {% include feature_row id="yoga-bau-vuot-can-module1" type="left" %}
 
@@ -186,15 +185,15 @@ Linh là giáo viên yoga thai sản, nên Linh tập trung hết sức vào đi
 
 {% include feature_row id="yoga-bau-vuot-can-module5" type="left" %}
 
-### Mẹ cầm về dùng được ngay
+### Sau khi đăng ký khoá, mẹ sẽ cầm về dùng được ngay
 
-- Birth Action Plan – bản PDF mẫu điền sẵn
-- Danh sách đồ đi sinh cho mẹ
-- Dấu hiệu nào thì nên đến bệnh viện
-- Kinh nghiệm chọn bác sĩ và bệnh viện
+- Birth Action Plan – bản PDF mẫu điền sẵn để giúp bạn có kể hoạch sinh nở phù hợp nhất với bạn
 - Kỹ thuật yoga và thở dùng trong phòng sinh
 - Bài tập cơ sàn chậu, cơ bụng an toàn ngay sau sinh, kể cả cho mẹ đẻ mổ
 - Bài tập cho các triệu chứng thai kỳ phổ biến
+- Dấu hiệu nào thì nên đến bệnh viện
+- - Danh sách đồ đi sinh cho mẹ để phục hồi sau sinh nhanh chóng
+
 
 ## Mức Đầu Tư
 
@@ -253,12 +252,12 @@ Linh là giáo viên yoga thai sản, nên Linh tập trung hết sức vào đi
   <strong>Gói Vượt Cạn Tại Nhà gồm:</strong><br>
   • Khoá Sinh Nở 101 – trị giá 2.300.000đ<br>
   • Thư Viện Luyện Tập – trị giá 1.100.000đ<br>
-  • 12 tuần Linh đồng hành 1:1 – <em>chỉ có trong gói này</em><br><br>
+  • Linh đồng hành 1:1 đến khi sinh – <em>chỉ có trong gói này</em><br><br>
   👉 <strong>Mẹ đầu tư: 3.300.000đ</strong> – bằng giá mua lẻ hai khoá, nhưng có thêm Linh đi cùng.<br>
-  Hỗ trợ chia 2 đợt thanh toán.
+  Có hỗ trợ chia 2 đợt thanh toán nếu cần.
 </div>
 
-**_Muốn học Live sau này?_** Lớp Live (12 buổi, lớp dưới 6 người) dự kiến mở lại tháng 1/2027 với gói Hành Trình Trọn Vẹn 4.700.000đ. Mẹ đã mua Vượt Cạn Tại Nhà chỉ cần đóng thêm **1.400.000đ** để nâng cấp – toàn bộ 3.300.000đ đã đóng được trừ 100%.
+**_Bạn muốn học Live sau này?_** Lớp Live (12 buổi, lớp dưới 6 người) dự kiến mở lại tháng 1/2027 với gói Hành Trình Trọn Vẹn 4.700.000đ. Nếu bạn đã mua Vượt Cạn Tại Nhà thì chỉ cần đóng thêm **1.400.000đ** để nâng cấp. Toàn bộ 3.300.000đ đã đóng được trừ 100%.
 
 **_Lưu Ý: Để đảm bảo chất lượng đồng hành 1:1, mỗi tháng Linh chỉ nhận tối đa 10 mẹ đăng ký gói Vượt Cạn Tại Nhà._**
 
@@ -273,18 +272,18 @@ Linh là giáo viên yoga thai sản, nên Linh tập trung hết sức vào đi
 
 ## Mẹ Nên Chọn Gói Nào?
 
-- **Mẹ dự sinh trước tháng 4/2027:** chọn Vượt Cạn Tại Nhà và bắt đầu ngay. Mỗi tuần bắt đầu sớm là thêm một tuần cơ thể được chuẩn bị.
+- **Mẹ dự sinh trước tháng 4/2027:** hãy chọn Vượt Cạn Tại Nhà và bắt đầu ngay. Mỗi tuần bắt đầu sớm là thêm một tuần cơ thể được chuẩn bị.
 - **Mẹ dự sinh sau tháng 4/2027 và muốn học Live:** vẫn nên bắt đầu ngay với Vượt Cạn Tại Nhà để nắm kiến thức nền, rồi nâng cấp lên Live khi lớp mở.
-- **Mẹ chỉ cần kiến thức, đã có thói quen tập:** Khoá Sinh Nở 101.
-- **Mẹ đã học 101 hoặc đã có nền tảng, cần thêm bài tập:** Thư Viện Luyện Tập.
+- **Mẹ chỉ cần kiến thức, đã có thói quen tập:** Hãy chọn Khoá Sinh Nở 101.
+- **Mẹ đã học 101 hoặc đã có nền tảng yoga bầu tốt, cần thêm bài tập:** Hãy chọn Thư Viện Luyện Tập.
 
-Chưa chắc gói nào hợp với mình? [Nhắn Linh qua Facebook](https://www.facebook.com/ngoclinhdnl/) để được gợi ý.
+Nếu bạn vẫn đang băn khoăn, chưa chắc gói nào hợp với mình? [Nhắn Linh qua Facebook](https://www.facebook.com/ngoclinhdnl/) , mình sẽ tư vấn thêm.
 
-## 🌟 ⏳ Khi mẹ biết, mình có thể sinh thường, tự tin, mạnh mẽ và kết nối trọn vẹn với con hơn, đó là khi hành trình sinh nở này không chỉ sinh ra con, mà còn sinh ra mẹ, 1 người mẹ tràn đầy sức mạnh
+## 🌟 ⏳ Khi mẹ biết mình có thể sinh thường 1 cách tự tin, mạnh mẽ và kết nối trọn vẹn với con hơn, đó là khi hành trình sinh nở này không chỉ sinh ra con, mà còn sinh ra mẹ, 1 người mẹ tràn đầy sức mạnh
 
-Mẹ không cần chờ lớp mở. Mẹ có thể xem bài học đầu tiên ngay tối nay, và gửi Linh video đầu tiên ngay tuần này.
+Bạn ơi, bạn không cần chờ lớp mở. Bạn có thể xem bài học đầu tiên ngay tối nay, và gửi Linh video đầu tiên ngay tuần này.
 
-Mỗi tuần mẹ tập là thêm một tuần cơ thể khoẻ hơn, tinh thần vững vàng hơn.
+Mỗi tuần bạn tập là thêm một tuần cơ thể khoẻ hơn, tinh thần vững vàng hơn.
 
 Hãy nhớ, khả năng sinh thường được quyết định từ những gì bạn làm bây giờ, không phải khi vào phòng sinh.
 
