@@ -10,10 +10,11 @@ yoga-bau-vuot-can-thu-ngo:
     title: "Thư Ngỏ"
     excerpt: >-
       Chào bạn, mình là Linh.<br><br>
-      Mình sinh bé đầu lúc tuổi đã lớn 33 tuổi nhưng chỉ sau 2.5 tiếng từ khi cơn gò đến, bé đã ra. Mình không cần 1 chút can thiệp gì từ y tế ngay cả thuốc tê. Trong suốt thai kỳ của mình, mình cũng trộm vía ít đau lưng, ít phù chân, không tiểu đường thai kỳ...
-      Có lẽ 1 phần chắc chắn là may mắn, nhưng 1 phần cũng chắc chắn là những thực hành, luyện tập mình đã làm từ ngay lúc mang bầu. 
+      Mình sinh bé đầu lúc tuổi đã lớn 33 tuổi nhưng chỉ sau 2.5 tiếng từ khi cơn gò đến, bé đã ra. Mình không cần 1 chút can thiệp gì từ y tế ngay cả thuốc tê. Trong suốt thai kỳ của mình, mình cũng trộm vía ít đau lưng, ít phù chân, không tiểu đường thai kỳ...<br><br>
+      Có lẽ 1 phần chắc chắn là may mắn, nhưng 1 phần cũng chắc chắn là những thực hành, luyện tập mình đã làm từ ngay lúc mang bầu.<br><br>
 
-      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**: để chia sẻ những thực hành trong giai đoạn mang bầu của mình cho các mẹ. Dù là mang thai tập đầu hay tập 2 hay 3, các mẹ sẽ được chuẩn bị kiến thức và bài tập kỹ lưỡng để giảm thiểu những triệu chứng mệt mỏi của bầu bí, cũng như giảm cái đau lúc sinh nở và hồi phục sau sinh. Bạn thực sự không phải tập theo một giáo án chung cho tất cả mọi người, mà sẽ nhận được sự đồng hành riêng 1:1 của Linh.<br><br>
+      Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn**: để chia sẻ những thực hành trong giai đoạn mang bầu của mình cho các mẹ. Dù là mang thai tập đầu hay tập 2 hay 3, các mẹ sẽ được chuẩn bị kiến thức và bài tập kỹ lưỡng để giảm thiểu những triệu chứng mệt mỏi của bầu bí, cũng như giảm cái đau lúc sinh nở và hồi phục sau sinh.<br><br>
+    Bạn thực sự không phải tập theo một giáo án chung cho tất cả mọi người, mà sẽ nhận được sự đồng hành riêng 1:1 của Linh.<br><br>
       ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy tiếp tục đọc để hiểu hơn cách mình sẽ đồng hành cùng bạn.***
     url: /khoa-hoc/yoga-bau-vuot-can/#v%E1%BB%81-linh
     btn_label: "Đọc Thêm Về Linh"
