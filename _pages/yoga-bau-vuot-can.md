@@ -15,7 +15,7 @@ yoga-bau-vuot-can-thu-ngo:
 
       Đó là lý do mình tạo ra **Yoga Bầu Vượt Cạn** để chia sẻ những thực hành trong giai đoạn mang bầu của mình cho các mẹ. Dù là mang thai tập đầu hay tập 2 hay 3, các mẹ sẽ được chuẩn bị kiến thức và bài tập kỹ lưỡng để giảm thiểu những triệu chứng mệt mỏi của bầu bí, cũng như giảm cái đau lúc sinh nở và hồi phục sau sinh.<br><br>
     Bạn thực sự không phải tập theo một giáo án chung cho tất cả mọi người, mà sẽ nhận được sự đồng hành riêng 1:1 của Linh.<br><br>
-      ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy tiếp tục đọc để hiểu hơn cách mình sẽ đồng hành cùng bạn.***
+    ***Nếu bạn vẫn đang băn khoăn không biết bắt đầu từ đâu...hãy tiếp tục đọc để hiểu hơn cách mình sẽ đồng hành cùng bạn.***
     url: /khoa-hoc/yoga-bau-vuot-can/#v%E1%BB%81-linh
     btn_label: "Đọc Thêm Về Linh"
     btn_class: "btn--yoga"
